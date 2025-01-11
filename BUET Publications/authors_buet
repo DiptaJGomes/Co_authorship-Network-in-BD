@@ -1,0 +1,46 @@
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+
+# URL of the BUET CSE publication page
+url = 'https://cse.buet.ac.bd/research/publication'
+
+# Send a GET request to the URL
+response = requests.get(url)
+
+# Check if the request was successful
+if response.status_code == 200:
+    # Parse the page content
+    soup = BeautifulSoup(response.text, 'html.parser')
+    
+    # Lists to store the extracted data
+    authors_list = []
+    titles = []
+    
+    # Find the table containing publications
+    for row in soup.select("table.publication tr"):
+        # Extract publication details
+        data = row.find_all('td')
+        if len(data) > 1:
+            # Extract authors and title text
+            details_text = data[1].get_text(separator=' ', strip=True)
+            # Extract authors and title parts by splitting at the comma
+            parts = details_text.split(',', 1)
+            authors = parts[0].strip() if len(parts) > 0 else ""
+            title = parts[1].strip() if len(parts) > 1 else ""
+            
+            # Append data to lists
+            authors_list.append(authors)
+            titles.append(title)
+    
+    # Create a DataFrame with authors and titles
+    data = pd.DataFrame({
+        'Authors': authors_list,
+        'Title': titles
+    })
+    
+    # Save to CSV
+    data.to_csv('buet_cse_publications_authors_titles.csv', index=False)
+    print("Data saved to buet_cse_publications_authors_titles.csv")
+else:
+    print("Failed to retrieve the page")
