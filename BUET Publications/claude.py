@@ -1,8 +1,45 @@
-import csv
 import re
 
-# Provided text
-text = """
+def extract_publications(text):
+    """
+    Extract author names and titles from publication entries using regex
+    
+    Args:
+        text (str): Input text containing publication entries
+    
+    Returns:
+        list: List of dictionaries containing authors and titles
+    """
+    # Split text into individual entries
+    entries = re.split(r'\d+\.\s+', text)[1:]  # Skip empty first element
+    
+    publications = []
+    
+    for entry in entries:
+        # Extract authors (everything before the first comma after the last author)
+        authors_match = re.match(r'^(.*?),\s*([^,]+)(?:,|$)', entry)
+        
+        if authors_match:
+            authors = authors_match.group(1)
+            title = authors_match.group(2)
+            
+            # Clean up authors (remove 'and' and split into list)
+            authors = authors.replace(' and ', ', ')
+            author_list = [author.strip() for author in authors.split(',')]
+            
+            # Remove asterisks from author names if present
+            author_list = [author.replace('*', '').strip() for author in author_list]
+            
+            publications.append({
+                'authors': author_list,
+                'title': title.strip()
+            })
+    
+    return publications
+
+def main():
+    # Your input text here
+    text = """
 1.	Rabina Awal, Mahmuda Naznin, Tanvir R. Faisal, Machine Learning Based Finite Element Analysis (FEA) Surrogate for Hip Fracture Risk Assessment and Visualization, Expert Systems with Applications, , (Impact Factor 7.5), (accepted) , 2025.
 2.	Zarif Ikram, Dianbo Liu, M Saifur Rahman, Gradient-guided discrete walk-jump sampling for biological sequence generation, Transactions on Machine Learning Research, 12/2024, 1-24, 2024.
 3.	Sheikh Azizul Hakim, Md Rownok Zahan Ratul, Md Shamsuzzoha Bayzid, wQFM-DISCO: DISCO-enabled wQFM improves phylogenomic analyses despite the presence of paralogs, Bioinformatics Advances, 2024.
@@ -1798,21 +1835,32 @@ text = """
 1793.	D. M. Abdullah, W. M. Abdullah, M. Sohel Rahman, An improved heuristic algorithm for sorting genomes with inverted block-interchange, 14th International Conference on Computer and Information Technology (ICCIT), 128 - 133, 2011.
 1794.	C. S. I, Finding patterns in given intervals (conference, , 0000.
 1795.	M. Murshed, Anindya Iqbal, T. Sabrina, Kh. M. Alam, A Subset Coding based k-Anonymization Technique to Trade-off Location Privacy and Data Integrity in Participatory Sensing Systems, , 0000.
-
 """
+    
+    publications = extract_publications(text)
+    
+    # Print results
+    for i, pub in enumerate(publications, 1):
+        print(f"\nPublication {i}:")
+        print("Authors:")
+        for author in pub['authors']:
+            print(f"  - {author}")
+        print(f"Title: {pub['title']}")
 
-# Regex pattern to extract authors and titles while ignoring leading numbers
-pattern = r"^\d+\.\s*([^,]+(?:,\s*[^,]+)*),\s*([^,]+?),"
+def save_to_csv(publications, filename='publications.csv'):
+    """
+    Save publications data to a CSV file
+    
+    Args:
+        publications (list): List of publication dictionaries
+        filename (str): Name of the output CSV file
+    """
+    # Create DataFrame from publications
+    df = pd.DataFrame(publications)
+    
+    # Save to CSV
+    df.to_csv(filename, index=False, encoding='utf-8')
+    print(f"Data saved to {filename}")
 
-# Extract matches
-matches = re.findall(pattern, text, re.MULTILINE)
-
-# Save to CSV
-with open('research_titles_authors.csv', 'w', newline='', encoding='utf-8') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(['Research Title', 'Author List'])  # Write header
-    for match in matches:
-        authors, title = match
-        writer.writerow([title.strip(), authors.strip()])
-
-print("Data saved to research_titles_authors.csv")
+if __name__ == "__main__":
+    main()

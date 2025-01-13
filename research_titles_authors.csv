@@ -1,9 +1,5 @@
-import csv
-import re
-
-# Provided text
-text = """
-1.	Rabina Awal, Mahmuda Naznin, Tanvir R. Faisal, Machine Learning Based Finite Element Analysis (FEA) Surrogate for Hip Fracture Risk Assessment and Visualization, Expert Systems with Applications, , (Impact Factor 7.5), (accepted) , 2025.
+Research Title,Author List
+Elsevier,"Rabina Awal, Mahmuda Naznin, Tanvir R. Faisal, Machine Learning Based Finite Element Analysis (FEA) Surrogate for Hip Fracture Risk Assessment and Visualization, Expert Systems with Applications, , (Impact Factor 7.5), (accepted) , 2025.
 2.	Zarif Ikram, Dianbo Liu, M Saifur Rahman, Gradient-guided discrete walk-jump sampling for biological sequence generation, Transactions on Machine Learning Research, 12/2024, 1-24, 2024.
 3.	Sheikh Azizul Hakim, Md Rownok Zahan Ratul, Md Shamsuzzoha Bayzid, wQFM-DISCO: DISCO-enabled wQFM improves phylogenomic analyses despite the presence of paralogs, Bioinformatics Advances, 2024.
 4.	Mursalin Habib* and Kowshic Roy* and Saem Hasan* and Atif Hasan Rahman and Md Shamsuzzoha Bayzid, Terraces in species tree inference from gene trees, BMC Ecology and Evolution, 24, 135, 2024. DOI 
@@ -26,8 +22,8 @@ text = """
 21.	Wasifur Rahman, Abdelrahman Abdelkader, Sangwu Lee, Phillip Yang, Md Saiful Islam, Tariq Adnan, Masum Hasan, Ellen Wagner, Sooyong Park, E. Ray Dorsey, Catherine Schwartz, Karen Jaffe, Ehsan Hoque, A User-Centered Framework to Empower People with Parkinson's Disease, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 7(4), 1-29, 2024. DOI 
 22.	Sheikh Hasib Ahmed, Dibyendu Brinto Bose, Rafi Khandoker, M Saifur Rahman, StackDPP: a stacking ensemble based DNA-binding protein prediction model, BMC Bioinformatics, 25, 1-21, 2024. DOI 
 23.	Israt Jahan Mouri, Muhammad Ridowan, Muhammad Abdullah Adnan, Data Poisoning Attacks and Mitigation Strategies on Federated Support Vector Machines, Springer Nature Computer Science, 5, 2024. DOI 
-24.	Benzir Md Ahmed, Mohammed Eunus Ali, Mohammad Mehedy Masud, Mahmuda Naznin, Recent Trends and Techniques of Blood Glucose Level Prediction for Diabetes Control, Smart Health, Elsevier,, 32, 1-30, 2024. DOI 
-25.	Jamalia Sultana, Mahmuda Naznin, Tanvir Md. Faisal, SSDL–An efficient automated semi-supervised deep learning approach for patient-specific 3D reconstruction of proximal femur from QCT images, Medical & Biological Engineering & Computing (MBEC), Springer, 1-17, (IF-3.2), 2024. DOI 
+24.	Benzir Md Ahmed, Mohammed Eunus Ali, Mohammad Mehedy Masud, Mahmuda Naznin, Recent Trends and Techniques of Blood Glucose Level Prediction for Diabetes Control, Smart Health"
+(Impact Factor- 4.1),"Jamalia Sultana, Mahmuda Naznin, Tanvir Md. Faisal, SSDL–An efficient automated semi-supervised deep learning approach for patient-specific 3D reconstruction of proximal femur from QCT images, Medical & Biological Engineering & Computing (MBEC), Springer, 1-17, (IF-3.2), 2024. DOI 
 26.	Md Ehtesham-Ul-Haque, Jacob D’Rozario , Rudaiba Adnin , Farhan Tanvir Utshaw, Fabiha Tasneem, Israt Jahan Shefa, A.B.M. Alim Al Islam, EmoBot: Artificial emotion generation through an emotional chatbot during general-purpose conversations, Cognitive Systems Research, 83.000000, 101168, 2024. DOI 
 27.	Farhin Faiza Neha, Yuan-Cheng Lai, Md. Shohrab Hossain and Ying-Dar Lin, Offloading in P4 switch Integrated with multiple Virtual Network Function Servers, Journal of Communications Software and Systems, 19, 278--288, 2023. DOI 
 28.	Md. Ruhul Amin and Md. Shohrab Hossain, Mohammed Atiquzzaman, Performance Analysis of Distributed Coordination Function with Early Collision Detection in In-band Full-duplex Wireless Networks, Computer Networks, 236, 110017, 2023. DOI 
@@ -60,8 +56,8 @@ text = """
 55.	Nayeem Muhammad Ali and Samudro Naser Anjum and Rahman M Saifur and Rahman M Sohel, MAMMLE: A Framework for Phylogeny Estimation Based on Multiobjective Application-aware Multiple Sequence Alignment and Maximum Likelihood Ensemble, Journal of Computational Biology, 30, 245--249, 2023. DOI 
 56.	Mim Sharmin Akter, Md Zarif-Ul-Alam, Rezwana Reaz, Md Shamsuzzoha Bayzid, and Mohammad Saifur Rahman, Quartet Fiduccia–Mattheyses revisited for larger phylogenetic studies, Bioinformatics, 39, 2023. DOI 
 57.	Abrar Mohammed Abid and Kaykobad M and Rahman M Saifur and Samee Md Abul Hassan, NoVaTeST: identifying genes with location-dependent noise variance in spatial transcriptomics data, Bioinformatics, 39, 2023. DOI 
-58.	Zakia Zaman, Fazle Rafsani, Ishrak R Rahman, Sabidur Rahman, Mahmuda Naznin, DeepVRM: Deep Learning Based Virtual Resource Management for Energy Efficiency, Journal of Network and Systems Management, Springer, (Impact Factor- 4.1),, 31, 23, 2023. DOI 
-59.	Jamalia Sultana, Benzir Md Ahmed, Mohammad Mehedy Masud, A. K. Obidul Huq, Mohammed Eunus Ali, Mahmuda Naznin, A Study on Food Value Estimation From Images: Taxonomies, Datasets, and Techniques., IEEE Access, (IF- 3.47), 11, 45910-45935 , 2023. DOI 
+58.	Zakia Zaman, Fazle Rafsani, Ishrak R Rahman, Sabidur Rahman, Mahmuda Naznin, DeepVRM: Deep Learning Based Virtual Resource Management for Energy Efficiency, Journal of Network and Systems Management, Springer"
+and M. Sohel Rahman,"Jamalia Sultana, Benzir Md Ahmed, Mohammad Mehedy Masud, A. K. Obidul Huq, Mohammed Eunus Ali, Mahmuda Naznin, A Study on Food Value Estimation From Images: Taxonomies, Datasets, and Techniques., IEEE Access, (IF- 3.47), 11, 45910-45935 , 2023. DOI 
 60.	Adnan Quaium, Najla Abdulrahman Al-Nabhan, Masfiqur Rahaman, Saiful Islam Salim, Tarik Reza Toha, Jannatun Noor, Mainul Hossain, Nafisa Islam, Aaiyeesha Mostak, Md Shihabul Islam, Md. Masum Mushfiq, Ishrat Jahan, A.B.M. Alim Al Islam, Towards associating negative experiences and recommendations reported by Hajj pilgrims in a mass-scale survey, Heliyon, 9, e15486, 2023. DOI 
 61.	A K M Mehedi Hasan, Ajmain Yasar Ahmed, Sazan Mahbub, M Saifur Rahman, Shamsuzzoha Bayzid, SAINT-Angle: self-attention augmented inception-inside-inception network and transfer learning improve protein backbone torsion angle prediction, Bioinformatics Advances, 3, 2023. DOI 
 62.	Santa Maria Shithil and Muhammad Abdullah Adnan, A Prediction Based Replica Selection Strategy for Reducing Tail Latency in Geo-Distributed Systems, IEEE Transactions on Cloud Computing, 2023.
@@ -113,8 +109,9 @@ text = """
 108.	Khairul Islam, Toufique Ahmed, Rifat Shahriyar, Anindya Iqbal, Gias Uddin, Early prediction for merged vs abandoned code changes in modern code reviews, Information and Software Technology, 142, 2022.
 109.	T. M. Tariq Adnan, Md. Saiful Islam, Tarikul Islam Papon, Shourav Nath, Muhammad Abdullah Adnan, UACD: A Local Approach for Identifying the Most Influential Spreaders in Twitter in a Distributed Environment, Social Network Analysis and Mining (SNAM), 12, 2022. DOI 
 110.	Md Saiful Islam, Mohammed Eunus Ali, Yong-Bin Kang, Timos Sellis, Farhana M Choudhury, Shamik Roy, Keyword aware influential community search in large attributed graphs, Information Systems, 104, 101914, 2022. DOI 
-111.	Muhammad Ali Nayeem, Md. Shamsuzzoha Bayzid, Naser Anjum Samudro, Mohammad Saifur Rahman, and M. Sohel Rahman,, PASTA with many application-aware optimization criteria for alignment based phylogeny inference, Computational Biology and Chemistry, To appear, 2022.
-112.	Bishal Basak Papan, Protik Bose Pranto, Md Saidur Rahman, On 2-Interval Pairwise Compatibility Properties of Two Classes of Grid Graphs, The Computer Journal, 2022. DOI 
+111.	Muhammad Ali Nayeem, Md. Shamsuzzoha Bayzid, Naser Anjum Samudro, Mohammad Saifur Rahman"
+"2011.
+438.	T.C. Biedl","Bishal Basak Papan, Protik Bose Pranto, Md Saidur Rahman, On 2-Interval Pairwise Compatibility Properties of Two Classes of Grid Graphs, The Computer Journal, 2022. DOI 
 113.	T.M. Tariq Adnan, Md. Saiful Islam, Tarikul Islam Papon, Shourav Nath, Muhammad Abdullah Adnan, , UACD: A Local Approach for Identifying the Most Influential Spreaders in Twitter in a Distributed Environment, Journal on Social Network Analysis and Mining (SNAM), Springer, 12, 21, 2022. DOI 
 114.	Md. Rafi-Ur-Rashid, Mahim Mahbub and Muhammad Abdullah Adnan, , Breaking the Curse of Class Imbalance: Bangla Text Classification, ACM Transactions on Asian and Low-Resource Language Information Processing, 2022.
 115.	Md. Saqib Hasan, Rukshar Alam, Muhammad Abdullah Adnan, Compressed Neural Architecture Utilizing Dimensionality Reduction and Quantization, Applied Intelligence (APIN), 1, 2022.
@@ -322,7 +319,7 @@ text = """
 317.	Hafsa Zannat, Taslima Akter, Mashrura Tasnim, A.K.M. Ashikur Rahman, The Coverage Problem in Visual Sensor Networks: A Target Oriented Approach, Journal of Networking and Computer Applications (JNCA), Impact Factor: 2.33, 2016. DOI 
 318.	M. A. R. Azim, Costas S. Iliopoulos, M. Sohel Rahman, M. Samiruzzaman, A Simple, Fast, Filter-Based Algorithm for Approximate Circular Pattern Matching, IEEE Transactions on Nanobioscience, 15, 93-100, 2016.
 319.	Sakib Md. Bin Malek, Muntakim Sadik, A.K.M. Ashikur Rahman, On Balanced k-Coverage in Visual Sensor Networks, Journal of Networking and Computer Applications (JNCA), Accepted, Impact factor: 2.33, 2016. DOI 
-320.	F. T. Zohora, M. Sohel Rahman, "An efficient algorithm to detect common ancestor genes for non-overlapping inversion and applications.", Theoretical Computer Science, 2016.
+320.	F. T. Zohora, M. Sohel Rahman, ""An efficient algorithm to detect common ancestor genes for non-overlapping inversion and applications."", Theoretical Computer Science, 2016.
 321.	Sultana Habiba, A. H. M. Kamal, Mohammad Mahfuzul Islam, Enhancing the Robustness of Visual Degradation Based HAM Reversible Data Hiding, Journal of Computer Science, 12, 88-97, 2016.
 322.	Ali Alatabbi, M. Sohel Rahman, W.F. Smyth, Computing Covers Using Prefix Tables, Discrete Applied Mathematics, 212, 2-9, 2016.
 323.	Ali Alatabbi, Alessio Langiu, M. Sohel Rahman, Algorithms for Longest Common Abelian Factors, International Journal of Foundations of Computer Science, 27, 529-544, 2016. DOI 
@@ -438,10 +435,9 @@ text = """
 433.	F. T. Jaigirdar, Mohammad Mahfuzul Islam, S. K. Huq, Grid Approximation Based Inductive Charger Deployment Technique in Wireless Sensor Networks, International Journal of Advanced Computer Science and Applications (IJACSA), 2, 30-37, 2011.
 434.	A. A. Rahman Rahman, Mahmuda Naznin, Energy Efficient Multiple Target Tracking Using Target Kinematics, Wireless Sensor Network, 3, 263-274, 2011.
 435.	Md. Mustafizur Rahman, S. M. Ferdous, Syed Ishtiaque Ahmed, Anika Anwar, Speech Development of Autistic Children by Interactive Computer Games, Interactive Technology and Smart Education (ITSE), Emerald, 2011.
-436.	Tanzima Hashem, Lars Kulik, "Don't Trust Anyone": Privacy Protection for Location-Based Services, Pervasive and Mobile Computing (PMC), 7, 44-59, 2011.
-437.	S.I. Ahmed, Masud Hasan, M.A. Islam, Cutting a Convex Polyhedron out of a Sphere, Graphs and Combinatorics, 27, 307-319, 2011.
-438.	T.C. Biedl,, Masud Hasan, A. Lopez-Ortiz, Reconstructing convex polygons and polyhedra from edge and face counts in orthogonal projections, International Journal of Computational Geometry and Applications, 22, 215-239, 2011.
-439.	T.C. Biedl, Masud Hasan, Alejandro Lopez-Ortiz, Efficient viewpoint selection for silhouettes of convex polyhedra, Comutational Geometry: Theory and Application, 44, 399-408, 2011.
+436.	Tanzima Hashem, Lars Kulik, ""Don't Trust Anyone"": Privacy Protection for Location-Based Services, Pervasive and Mobile Computing (PMC), 7, 44-59, 2011.
+437.	S.I. Ahmed, Masud Hasan, M.A. Islam, Cutting a Convex Polyhedron out of a Sphere, Graphs and Combinatorics, 27, 307-319"
+International Journal of Computer Mathematics,"T.C. Biedl, Masud Hasan, Alejandro Lopez-Ortiz, Efficient viewpoint selection for silhouettes of convex polyhedra, Comutational Geometry: Theory and Application, 44, 399-408, 2011.
 440.	J.S. Firoz, Masud Hasan, A. Z. Khan, M. Sohel Rahman, The 1.375 Approximation Algorithm for Sorting by Transpositions Can Run in $O(nlog n)$ Time, Journal of Computational Biology, 18, 1007-1011, 2011.
 441.	A.K.M. Ashikur Rahman, C. Williamson, Delta-Graphs: Flexible Topology Control in Wireless Ad Hoc Networks, ACM Performance Evaluation Review (PER), 39, 75, 2011.
 442.	Syed Rafiul Hussain, Subrata Saha , A.K.M. Ashikur Rahman, SAAMAN: Scalable Address Autoconfiguration in Mobile Ad Hoc Networks, Journal of Network and System Management ( JNSM ), Volume 9, Issue 3, 394, DOI: 10.1007/s1, 2011.
@@ -496,8 +492,8 @@ text = """
 491.	C. S. Iliopoulos, M. Sohel Rahman, Indexing factors with gaps, Algorithmica, 55, 60-70, 2009.
 492.	C. S. Iliopoulos, M. Sohel Rahman, A New Efficient Algorithm for Computing the Longest Common Subsequence, Theory of Computing Systems, 45, 355-371, 2009.
 493.	C. S. Iliopoulos, M. Sohel Rahman, W. Rytter, Algorithms for two versions of LCS problem for indeterminate strings, Journal of Combinatorial Mathematics and Combinatorial Computing, 71, 155-172, 2009.
-494.	Muhammad Abdullah Adnan, Md. Saidur Rahman, Generating all distributions of objects to bins, International Journal of Computer Mathematics,, 86(3), 383 - 392, 2009.
-495.	Md. Rezaul Karim, Kaiser Md. Nahiduzzaman, Md. Saidur Rahman, A Linear-Time Algorithm for k-Partitioning Doughnut Graphs, INFOCOMP Journal of Computer Science, 8(1), 8-13, 2009.
+494.	Muhammad Abdullah Adnan, Md. Saidur Rahman, Generating all distributions of objects to bins"
+INFOCOMP Journal of Computer Science,"Md. Rezaul Karim, Kaiser Md. Nahiduzzaman, Md. Saidur Rahman, A Linear-Time Algorithm for k-Partitioning Doughnut Graphs, INFOCOMP Journal of Computer Science, 8(1), 8-13, 2009.
 496.	Md. Saidur Rahman, Kazuyuki Miura, Takao Nishizeki, Octagonal drawings of plane graphs with prescribed face areas, Computational Geometry: Theory and Applications, 42, 214-230, 2009.
 497.	Muhammad Nur Yanhaona, K. S. M. Tozammel Hossain, Md. Saidur Rahman, Pairwise compatibility graphs, Journal of Applied Mathematics and Computing, 30, 479-503, 2009.
 498.	Md. Rezaul Karim, Md. Saidur Rahman, On a class of planar graphs with straight-line grid drawings on linear area, Journal of Graph Algorithms and Applications, 13(2), 153-177, 2009.
@@ -519,9 +515,9 @@ text = """
 514.	D.T. Ahmed, M. Kabir, Md. Mostofa Akbar, Admission Control Algorithm for Multimedia Server: A Hibrid Approach, International Journal Computers and Application, 29(4), 414-419, 2007.
 515.	Md. Monirul Islam, M. Murshed, Parametric mobility support dynamic resource reservation and call admission control scheme for cellular multimedia communications, Journal of Computer Communications, Elsevier Science, 20, 233-248, 2007.
 516.	F. H. Siddiqui, Abu Sayed Md. Latiful Hoque, PIR with P-Cache: A New Private Information Retrieval Protocol With Improved Performance, Malaysian Journal of Computer Science (ISSN 0127-9084), 20, 63-76, 2007.
-517.	Muhammad Abdullah Adnan, Md. Saidur Rahman, Efficient generation of evolutionary trees, INFOCOMP Journal of Computer Science,, 6(1), 30-36, 2007.
-518.	Muhammad Abdullah Adnan, Md. Saidur Rahman, Distribution of distinguishable objects to bins: generating all distributions, International Journal of Computer Mathematics,, 84(7), 953-965, 2007.
-519.	Avijit Datta, Moazzem Hossain , M. Kaykobad, A MODIFIED ALGORITHM FOR RANKING PLAYERS OF A ROUND-ROBIN TOURNAMENT, International Journal of Computer Mathematics, 85, 1-7, 2007.
+517.	Muhammad Abdullah Adnan, Md. Saidur Rahman, Efficient generation of evolutionary trees"
+International Journal of Computer Mathematics,"Muhammad Abdullah Adnan, Md. Saidur Rahman, Distribution of distinguishable objects to bins: generating all distributions"
+Grace Publications Network,"Avijit Datta, Moazzem Hossain , M. Kaykobad, A MODIFIED ALGORITHM FOR RANKING PLAYERS OF A ROUND-ROBIN TOURNAMENT, International Journal of Computer Mathematics, 85, 1-7, 2007.
 520.	M.A.H. Akhand, Md. Monirul Islam, K. Murase, A hybrid sequential and simultaneous training algorithm for constructing neural network ensembles, WSEAS Transactions on Information Science and Applications, 3, 1078-1085, 2006.
 521.	S. M. Kamruzzaman, Md. Monirul Islam, An Algorithm to Extract Rules from Artificial Neural Networks for Medical Diagnosis Problems, International Journal of Information Technology, 12, 42-60, 2006.
 522.	Md. Humayun Kabir, E. G. Manning, G. C. Shoja, A Scalable Multimedia Streaming Scheme with CBR-transmission of VBR-encoded Videos over the Internet, International Journal of Interactive Technology and Smart Education (ITSE), Special Issue: Streaming Content Distribution Networks for e-Learning and e-Entertainment, 3, 45-58, 2006.
@@ -535,19 +531,19 @@ text = """
 530.	M. S. Hosain, M. A. H. Newton, M. M. Rahman, Performance Analysis of Global Index in Distributed Environment, WSEAS Transactions on Computers, 4, 874-881, 2005.
 531.	Md. Monirul Islam, K. Murase, Chaotic Dynamics of a Behavior based Miniature Mobile Robot: Effects of Environment and Control Network, Neural Networks (American National Institute Standards Approved Journal), 18, 123-144, 2005.
 532.	S.M. Kamruzzaman, Md. Monirul Islam, Extraction of symbolic rules from artificial neural networks, Transaction on Engineering, Computing and Technology, 10, 271-277, 2005.
-533.	S.M. Masum, M. A. Mamun, Md. Mostofa Akbar, A Fault Tolerant Ring Based Algorithm for Achieving Mutual Exclusion in Distributed Systems, Asian Journal of Information Technology, Grace Publications Network,, 4(2), 185-193, 2005.
-534.	Md. Saidur Rahman, N. Egi, Takao Nishizeki, No-bend orthogonal drawings of subdivisions of planar triconnected cubic graphs, IEICE Transactions on Information and Systems,, E88-D(1), 23-30, 2005.
-535.	M. Sohel Rahman, M. Kaykobad, Complexities of some interesting problems on spanning trees, Information Processing Letters, Elsevier Science, 94, 93-97, 2005.
+533.	S.M. Masum, M. A. Mamun, Md. Mostofa Akbar, A Fault Tolerant Ring Based Algorithm for Achieving Mutual Exclusion in Distributed Systems, Asian Journal of Information Technology"
+IEICE Transactions on Information and Systems,"Md. Saidur Rahman, N. Egi, Takao Nishizeki, No-bend orthogonal drawings of subdivisions of planar triconnected cubic graphs"
+IEICE Transactions on Information and Systems,"M. Sohel Rahman, M. Kaykobad, Complexities of some interesting problems on spanning trees, Information Processing Letters, Elsevier Science, 94, 93-97, 2005.
 536.	Md. Mostofa Akbar, Eric G. Manning, M. Sohel Rahman, M. Kaykobad, Optimal Server Selection for Content Routing, Computers and Their Applications, 259-264, 2005.
 537.	M. Sohel Rahman, M. Kaykobad, On Hamiltonian cycles and Hamiltonian paths, Information Processing Letters, Elsevier Science, 94, 37-41, 2005.
 538.	B. M. Alom, Abu Sayed Md. Latiful Hoque, Performance Evaluation of Indexing of XML Data Using Bitmap, Journal of Electrical Engineering, The Institute of Engineers, Bangladesh, EE 32, 2005.
 539.	P. P. Mitra, M. A. Abedin, and M. A. Kashem, Algorithms for solving the symmetry number problem on trees, Information Processing Letters, 91, 163-169, 2004. DOI 
 540.	M. A. Kashem, andM. Z. Rahman, An optimal parallel algorithm for c-vertex-ranking of trees, Information Processing Letters, Elsevier Science, 92, 179--184, 2004. DOI 
 541.	Mohammad Mahfuzul Islam, M. Murshed, Velocity and call duration support for QoS provision in mobile wireless networks, IEEE Wireless Communications, 11, 22-30, 2004.
-542.	Takao Nishizeki, Kazuyuki Miura, Md. Saidur Rahman, Algorithms for drawing plane graphs, IEICE Transactions on Information and Systems,, E87-D(2),, 281-289,, 2004.
-543.	Mohammad Mursalin Akon, Shah Asaduzzaman, Md. Saidur Rahman, Mitsuji Matsumoto, Proposal for st-routing protocol, Telecommunication Systems,, 25(3, 4), 287- 298, 2004.
-544.	Md. Saidur Rahman, Takao Nishizeki, Shubhashis Ghosh, Rectangular drawings of planar graphs, Journal of Algorithms,, 50, 62-78, 2004.
-545.	M. Sohel Rahman, M. Kaykobad, Independence Number and Degree Bounded Spanning Tree, Appl. Math. E-Notes, 4, 122-124, 2004.
+542.	Takao Nishizeki, Kazuyuki Miura, Md. Saidur Rahman, Algorithms for drawing plane graphs"
+Telecommunication Systems,"Mohammad Mursalin Akon, Shah Asaduzzaman, Md. Saidur Rahman, Mitsuji Matsumoto, Proposal for st-routing protocol"
+Journal of Algorithms,"Md. Saidur Rahman, Takao Nishizeki, Shubhashis Ghosh, Rectangular drawings of planar graphs"
+International Journal of Translation,"M. Sohel Rahman, M. Kaykobad, Independence Number and Degree Bounded Spanning Tree, Appl. Math. E-Notes, 4, 122-124, 2004.
 546.	Adib Hassan Manob, Tarique Mesbaul Islam, M Tanvir Parvez , M. Kaykobad, Search Trees and Stirling Numbers, Computers and Mathematics with Applications, 48, 747-754, 2004.
 547.	T. Imam, M. Kaykobad, Symbolic Substitution Based Canonical Recoding Algorithms, Computers and Mathematics with Applications, 48, 1541-1548, 2004.
 548.	Md. Mostofa Akbar, M. Sohel Rahman, M. Kaykobad, G Manning, GC Shoja, Solving the Multidimensional Multiple-choice Knapsack Problem by constructing convex hulls, International Journal of Computers and Operations Research, 2004.
@@ -556,17 +552,17 @@ text = """
 551.	MZ Rahman, RA Chowdhury, M. Kaykobad, Improvements in Double-ended Priority Queues, International Journal of Computer Mathematics, Elsevier, 80, 1121-29, 2003.
 552.	M Abdul Mannan, M. Kaykobad, Block Huffman Coding, Computers and Mathematics with Applications, 46, 1581-87, 2003.
 553.	Mustaq Ahmed, Rezaul Alam Chowdhury , M. Kaykobad, A New String Matching Algorithm, International Journal of Computer Mathematics, 80, 825-834, 2003.
-554.	M. M. Asaduzzaman , Muhammad Masroor Ali, A knowledge based approach to Bangla-English machine translation for simple assertive sentences, International Journal of Translation,, 15, 77-97, 2003.
-555.	Md. Monirul Islam, K. Murase, Incremental Evolution with Learning to Develop the Control System of Autonomous Robots for Complex Task, IEICE Transactions on Information and Systems, E85-D, 2002.
+554.	M. M. Asaduzzaman , Muhammad Masroor Ali, A knowledge based approach to Bangla-English machine translation for simple assertive sentences"
+Computational Geometry: Theory and Applications,"Md. Monirul Islam, K. Murase, Incremental Evolution with Learning to Develop the Control System of Autonomous Robots for Complex Task, IEICE Transactions on Information and Systems, E85-D, 2002.
 556.	S. Khan, K. Li, E. Manning, Md. Mostofa Akbar, olving the Knapsack Problem for Adaptive Multimedia System, Studia Informatica Universalis 2002, 2, 161-182, 2002.
-557.	Md. Saidur Rahman, Shin-ichi Nakano , Takao Nishizeki, Rectangular drawings of plane graphs without designated corners, Computational Geometry: Theory and Applications,, 21(3),, 121-138, 2002.
-558.	M Manzur Murshed, M. Kaykobad, SM Rahman, A Linguistically Sortable Bengali Coding System and Its Applications in Spell Checking - A Case Study of Multilingual Applications, Interactive Multimedia Systems, 2002.
+557.	Md. Saidur Rahman, Shin-ichi Nakano , Takao Nishizeki, Rectangular drawings of plane graphs without designated corners"
+he Journal of the Computer Society of India,"M Manzur Murshed, M. Kaykobad, SM Rahman, A Linguistically Sortable Bengali Coding System and Its Applications in Spell Checking - A Case Study of Multilingual Applications, Interactive Multimedia Systems, 2002.
 559.	RA Chowdhury, MZ Rahman, M. Kaykobad, On the bounds of min-max pair heap construction, Computers and Mathematics with Applications, 43, 911-916, 2002.
 560.	Abu Sayed Md. Latiful Hoque, Storage and Querying of High Dimensional Sparsely Populated Data in Compressed Representation, Lecture Notes in Computer Science, 2510, 418-425, 2002.
 561.	J. Wilson, Abu Sayed Md. Latiful Hoque, D. R. McGregor, Database Compression using an Off-line Dictionary Method, Lecture Notes in Computer Science, 2457, 11-20, 2002.
-562.	Muhammad Masroor Ali, M. B. Hossain, Recognition of handwritten Bangla numeral by boundary line matching, he Journal of the Computer Society of India,, 32, 13-18, 2002.
-563.	Mohammad Mahfuzul Islam, M. R. M Khondoker, C. M. Rahman, Application of artificial intelligence techniques in automatic hull form generation, Journal of Ocean Engineering, 28, 1531-1544, 2001.
-564.	M. M. Masud, C. M. Rahman, "Extending the Knowledge Intensive Genetic Algorithm Based Supervised Concept Learner to Adopt Continuous Attributes, Journal of Electrical Engineering, EE29, 33-38, 2001.
+562.	Muhammad Masroor Ali, M. B. Hossain, Recognition of handwritten Bangla numeral by boundary line matching"
+Journal of Graph Algorithms and Applications,"Mohammad Mahfuzul Islam, M. R. M Khondoker, C. M. Rahman, Application of artificial intelligence techniques in automatic hull form generation, Journal of Ocean Engineering, 28, 1531-1544, 2001.
+564.	M. M. Masud, C. M. Rahman, ""Extending the Knowledge Intensive Genetic Algorithm Based Supervised Concept Learner to Adopt Continuous Attributes, Journal of Electrical Engineering, EE29, 33-38, 2001.
 565.	M. Mashnad, M. M. Masud, Simulation of the Stochastic Response of Offshore Platform to Wave Forces, Computer Methods and Advances in Geomechanics, 1319-1323, 2001.
 566.	Md. Monirul Islam, K. Murase, A New Crossover Operator and Its Application to Artificial Neural Networks Evolution, IEICE Transactions on Information and Systems, E84-D, 1144-1154, 2001.
 567.	Md. Monirul Islam, K. Murase, A New algorithm to Design Compact Two-Hidden Layer Artificial Neural Networks, Neural Networks (American National Standard Institute Approved Journal), 14, 1265-1278, 2001.
@@ -582,9 +578,9 @@ text = """
 577.	M. M. H. Rahman, M. A. S. Kamal, Md. Monirul Islam, B. C. Ghosh, Fuzzy Logic versus PI Control of a Separately Excited DC Motor Drive-A Comparison, Journal of Electrical Engineering, IEB, 27, 37-42, 1999.
 578.	M. A. S. Kamal, M. A. Rafiq, Md. Monirul Islam, B. C. Ghosh, uzzy Logic Enhanced Indirect Vector Control of Induction Motor Drives, ournal of Electrical Engineering, IEB, 27, 35-38, 1999.
 579.	Suman Kumar Nath, Rezaul Alam Chowdhury, M. Kaykobad, On average edge length of minimum spanning trees, Information Processing Letters, 70, 241-243, 1999.
-580.	Md. Saidur Rahman, Shin-ichi Nakano, Takao Nishizeki, A linear algorithm for bendoptimal orthogonal drawings of triconnected cubic plane graphs, Journal of Graph Algorithms and Applications,, 3(4), 31-62, 1999.
-581.	J. P. Shin, Muhammad Masroor Ali, H.S. e, Stroke order free on-line character recognition algorithm using inter-stroke information, IEICE Trans. Inf. & Syst.,, J82-D-II, 382-389, 1999.
-582.	X. Zhou, M. A. Kashem, and T. Nishizeki, Generalized edge-rankings of trees, IEICE transactions on fundamentals of electronics, communications and computer sciences, 81, 310--320, 1998.
+580.	Md. Saidur Rahman, Shin-ichi Nakano, Takao Nishizeki, A linear algorithm for bendoptimal orthogonal drawings of triconnected cubic plane graphs"
+IEICE Trans. Inf. & Syst.,"J. P. Shin, Muhammad Masroor Ali, H.S. e, Stroke order free on-line character recognition algorithm using inter-stroke information"
+IEICE Trans. Inf. & Syst.,"X. Zhou, M. A. Kashem, and T. Nishizeki, Generalized edge-rankings of trees, IEICE transactions on fundamentals of electronics, communications and computer sciences, 81, 310--320, 1998.
 583.	M. Kaykobad, S.M. Humayun , Md. Shahid Ullah, An Approach to Bangla Text Analysis, Journal of Electrical Engineering, The Institution of Engineers, Bangladesh, EE26, 39-42, 1998.
 584.	M. Kaykobad, S.M. Humayun , Md. Shahid Ullah, Comparative Study of Different Compression Algorithms, Journal of Electrical Engineering, The Institution of Engineers, Bangladesh, EE26, 27-32, 1998.
 585.	A.F.R. Rahman , M. Kaykobad, A Complete Bengali OCR : A Novel Hybrid Approach to Handwritten Bengali Character Recognition, Journal of Computing and Information Technolog, 6, 395-413, 1998.
@@ -600,12 +596,12 @@ text = """
 595.	M. Kaykobad, Md. Shahadatullah Khan, On the performance of simplex algorithm, IPE Research Bulletin, 6, 39-57, 1995.
 596.	M. Kaykobad, S.T. Rahman, R.A. Bakhtiar , A.A.K. Majumdar, A recursive algorithm for the multi-peg tower of Hanoi problem, International Journal of Computer Mathematics, 57, 67-73, 1995.
 597.	M. Kaykobad, Q.N.U. Ahmed, ATM Shafiqul Khalid, R.A. Bakhtiar, A new algorithm for ranking players of a round-robin tournament, International Journal of Computers and Operations Research, 22, 221-226, 1995.
-598.	H. S. e, Muhammad Masroor Ali, One dimensional-two dimensional dynamic programming character recognition algorithm with branched references, IEICE Trans. Inf. & Syst.,, E78-D, 1307-1312, 1995.
-599.	M. A. Kashem, S. M. Rahman, Printed Bangla alphabetic character recognition by syntactic method, ournal of Bangladesh Computer Society, 6, 3-Sep, 1993.
+598.	H. S. e, Muhammad Masroor Ali, One dimensional-two dimensional dynamic programming character recognition algorithm with branched references"
+Bangladesh,"M. A. Kashem, S. M. Rahman, Printed Bangla alphabetic character recognition by syntactic method, ournal of Bangladesh Computer Society, 6, 3-Sep, 1993.
 600.	M. Kaykobad, H.M. Hassan, An algorithm for designing Boolean functions with exclusive-or(EX-OR) & AND logic elements, Journal of Bangladesh Computer Society, 6, 49-51, 1993.
 601.	M. Kaykobad, H.M. Hassan, Minimization procedure for determination of polarized polynomial form, Journal of Bangladesh Computer Society, 6, 27-29, 1993.
-602.	Md. Saidur Rahman, M. S. Alam, Study of explicit and implicit token passing protocols in multiple bus LAN, Journal of the Institution of Engineers, Bangladesh,, 21(4), 87-95, 1993.
-603.	Md. Saidur Rahman, M. S. Alam, Token access protocols in multiple bus local computer networks, Journal of Bangladesh Computer Society, 6(1), 36-44, 1993.
+602.	Md. Saidur Rahman, M. S. Alam, Study of explicit and implicit token passing protocols in multiple bus LAN, Journal of the Institution of Engineers"
+Volume 2015 (2015),"Md. Saidur Rahman, M. S. Alam, Token access protocols in multiple bus local computer networks, Journal of Bangladesh Computer Society, 6(1), 36-44, 1993.
 604.	M. Kaykobad, Q.N.U. Ahmed , R.A. Bakhtiar, An algorithm for ranking players in a round-robin tournament, J. of Bangladesh Computer Society, 5, 20-21, 1991.
 605.	M.H. Ahsan, M. Kaykobad, M. Shamsher Ali, Variational Monte Carlo calculations for the binding energy of 31 Si, Physical Review C, 43, 156-161, 1991.
 606.	M. Kaykobad, Towers of Hanoi with 4 pegs, Journal of Bangladesh Academy of Sciences, 13, 85-90, 1989.
@@ -617,12 +613,12 @@ text = """
 612.	I.P. Tarasova , M. Kaykobad, On the method of solving the tasks of optimum planning in conditions of incomplete information, Economics and Management of Marine Transport, 14, 25-30, 1978.
 613.	Md. Mustafizur Rahman, Mucahid Kutlu, Tamer Elsayed, Matthew Lease, Efficient Test Collection Construction via Active Learning, the Journal of the Association for Information Science and Technology (JASIS&T), (under revision), 0000.
 614.	Mohammed Eunus Ali, ISA 2016 workshop report: the Eighth ACM SIGSPATIAL International Workshop on Indoor Spatial Awareness (ISA, ACM SIGSPATIAL Special, 9, 0000.
-615.	M. A. R. Azim, Costas S. Iliopoulos, M. Sohel Rahman, M. Samiruzzaman, SimpLiFiCPM: A Simple and Lightweight Filter-Based Algorithm for Circular Pattern Matching, International Journal of Genomics, Volume 2015 (2015),, 10 pages, 0000.
-616.	A. S. Islam, M. Sohel Rahman, On the protein folding problem in 2D-triangular lattices, Algorithms for Molecular Biology, 8, 0000.
-617.	A.K.M. Ashikur Rahman, Xue Liu, Fanxin Kong, A Survey on Geographic Load Balancing based Data Center Power Management in the Smart Grid Environment ", IEEE Communication Surveys & Tutorials, Accepted for publication, 2013, Journal Impact Factor:, IEEE Communications Surveys & Tutorials, 0000.
+615.	M. A. R. Azim, Costas S. Iliopoulos, M. Sohel Rahman, M. Samiruzzaman, SimpLiFiCPM: A Simple and Lightweight Filter-Based Algorithm for Circular Pattern Matching, International Journal of Genomics"
+and Communications (JCSNC),"A. S. Islam, M. Sohel Rahman, On the protein folding problem in 2D-triangular lattices, Algorithms for Molecular Biology, 8, 0000.
+617.	A.K.M. Ashikur Rahman, Xue Liu, Fanxin Kong, A Survey on Geographic Load Balancing based Data Center Power Management in the Smart Grid Environment "", IEEE Communication Surveys & Tutorials, Accepted for publication, 2013, Journal Impact Factor:, IEEE Communications Surveys & Tutorials, 0000.
 618.	A.K.M. Ashikur Rahman, Pawel Gburzynski, MAC-Assisted Topology Control for Ad-hoc Wireless Network, ACM/Wiley International Journal of Communication Systems (IJCS), 19, 955-976., 0000.
-619.	P. Gburzynski, B. Kaminska, A.K.M. Ashikur Rahman, On Reliable One-way Transmission of Data over Simple Wireless Channels, Journal of Computer Systems, Networks, and Communications (JCSNC),, 2009, 0000.
-620.	Md. Monirul Islam, X. Yao, K. Murase, A Constructive Algorithm for Training Cooperative Neural Network Ensembles, IEEE Transactions on Neural Networks, 14, 820-834, 0000.
+619.	P. Gburzynski, B. Kaminska, A.K.M. Ashikur Rahman, On Reliable One-way Transmission of Data over Simple Wireless Channels, Journal of Computer Systems, Networks"
+Networking and Communication,"Md. Monirul Islam, X. Yao, K. Murase, A Constructive Algorithm for Training Cooperative Neural Network Ensembles, IEEE Transactions on Neural Networks, 14, 820-834, 0000.
 621.	S.M. Masum, A.A. Ali, Md. Mostofa Akbar, A.K.M. Ashikur Rahman, A Consensus based Exclusion Algorithm for Mobile Ad hoc Networks, Elsevier Science, 0000.
 622.	M. Y. S. Uddin, Md. Mostofa Akbar, S.M. Masum, Hierarchical Numbering based Addressing and Stateless Routing Scheme for Wireless Sensor Networks, International Journal of Distributed Sensor Network, Taylor and Francis, 0000.
 623.	Masud Hasan, T. M. Moosa, M. Sohel Rahman, Cache Oblivious Algorithms for the RMQ and the RMSQ Problems, Mathematics in Computer Science (MCS), 3, 433-442, 0000.
@@ -677,8 +673,8 @@ text = """
 672.	Md. Abubakar Siddik, Tawsif Shahriar, SM Zuhair Zawhar Zaki, Ashikur Rahman, Monirul Haque Imon, Raqeebir Rab, and Abderrahmane Leshob, A novel FRTS/FCTS-based MAC Protocol for In-band Full-duplex Wireless Ad-hoc Networks, Proceedings of The 19th International Conference on Wireless and Mobile Computing, Networking and Communications.( WiMob'23 ), 36--42, 2023. DOI 
 673.	G. M. Shahariar, Tahmid Hasan, Anindya Iqbal, and Gias Uddin, Contrastive Learning for API Aspect Analysis, 38th IEEE/ACM International Conference on Automated Software Engineering (ASE2023), 2023.
 674.	Mehedi Hasan and Moloud Abdar and Abbas Khosravi and Uwe Aickelin and Pietro Lio' and Ibrahim Hossain and Ashikur Rahman and Saeid Nahav, Survey on Leveraging Uncertainty Estimation Towards Trustworthy Deep Neural Networks: The Case of Reject Option and Post-training Processing, CoRR, abs/2304.04906, 2023. DOI 
-675.	Md. Abubakar Siddik and Tawsif Shahriar and SM Zuhair Zawhar Zaki and Monirul Haque Imon and Ashikur Rahman and Raqeebir Rab and Abderrahmane Leshob, A novel FRTS/FCTS-based MAC Protocol for In-band Full-duplex Wireless Ad-hoc Networks, 19th International Conference on Wireless and Mobile Computing, Networking and Communication,, WiMob 2023, Montreal, QC, Canada, June 21-23, 2023, 36--42, 2023. DOI 
-676.	Syed Md. Mukit Rashid, Md. Toufikuzzaman , and Md. Shohrab Hossain, A Deep Learning Based Semi-Supervised Network Intrusion Detection System Robust to Adversarial Attacks, 10th International Conference on Networking Systems and Security (NSysS), 25-34, 2023. DOI 
+675.	Md. Abubakar Siddik and Tawsif Shahriar and SM Zuhair Zawhar Zaki and Monirul Haque Imon and Ashikur Rahman and Raqeebir Rab and Abderrahmane Leshob, A novel FRTS/FCTS-based MAC Protocol for In-band Full-duplex Wireless Ad-hoc Networks, 19th International Conference on Wireless and Mobile Computing"
+Algorithms for Intelligent Systems,"Syed Md. Mukit Rashid, Md. Toufikuzzaman , and Md. Shohrab Hossain, A Deep Learning Based Semi-Supervised Network Intrusion Detection System Robust to Adversarial Attacks, 10th International Conference on Networking Systems and Security (NSysS), 25-34, 2023. DOI 
 677.	Saiful Islam Salim, Uday Kamal, Adnan Quaium, Mainul Hossain, Masfiqur Rahaman, Nazmul Hasan Sakib, Md Toki Tahmid, and A.B.M. Alim Al Islam, Long-Range Low-Cost Networking for Real-Time Monitoring of Rail Tracks in Developing Countries, Proceedings of the 2022 International Conference on Information and Communication Technologies and Development, 1--9, 2023. DOI 
 678.	Yeasir Rayhan, Tanzima Hashem, Muhammad Aamir Cheema, Hua Lu, Mohammed Eunus Ali, An Efficient Approach for Indoor Facility Location Selection, Proceedings 26th International Conference on Extending Database Technology, 632--644, 2023. DOI 
 679.	Md. Tareq Mahmood, Mohammed Eunus Ali, Muhammad Aamir Cheema, Syed Md Mukit Rashid, Timos Sellis, PathOracle: A Deep Learning Based Trip Planner for Daily Commuters, Joint European Conference on Machine Learning and Knowledge Discovery in Databases, 571--586, 2023. DOI 
@@ -728,8 +724,8 @@ text = """
 723.	Jamalia Sultana, Mahmuda Naznin, Breaking the Barrier with a Multi-Domain SER, IEEE 46th COMPSAC, California, USA , 2022. DOI 
 724.	Dipannoy Das Gupta, Pranta Biswas, Mahmuda Naznin, CacheQueue: Efficient Cache Queue Usage in a NDN, IEEE 46th COMPSAC , 2022.
 725.	Khaleda Akther Papry and Ashikur Rahman, Fault Tolerant Multiple Dominating Set Constructions for Wireless Ad-hoc Networks, Advanced Information Networking and Applications. (AINA), April 13 - 15, 2022, University of Technology Sydney (UTS), Sydney, Australia. Lecture Notes in Networks and Systems, Springer. , 2022.
-726.	Sadman Sadeed Omee, Md. Saidur Rahman, A Divisive Hierarchical Clustering Algorithm to Find Clusters with Smaller Diameter to Cardinality Ratio, Proc. of 2nd International Conference on Artificial Intelligence: Advances and Applications, Algorithms for Intelligent Systems,, 2022. DOI 
-727.	Israt Jahan Mouri, Muhammad Ridowan and Muhammad Abdullah Adnan, Israt Jahan Mouri, Muhammad Ridowan and Muhammad Abdullah Adnan, “RS-PKE: Ranked Searchable Public-Key Encryption for Cloud-Assisted Lightweight Platforms", The 12th ACM Conference on Data and Application Security and Privacy (CODASPY 2022), 2022.
+726.	Sadman Sadeed Omee, Md. Saidur Rahman, A Divisive Hierarchical Clustering Algorithm to Find Clusters with Smaller Diameter to Cardinality Ratio, Proc. of 2nd International Conference on Artificial Intelligence: Advances and Applications"
+Canada,"Israt Jahan Mouri, Muhammad Ridowan and Muhammad Abdullah Adnan, Israt Jahan Mouri, Muhammad Ridowan and Muhammad Abdullah Adnan, “RS-PKE: Ranked Searchable Public-Key Encryption for Cloud-Assisted Lightweight Platforms"", The 12th ACM Conference on Data and Application Security and Privacy (CODASPY 2022), 2022.
 728.	Md. Shamsuzzoha Bayzid, Inferring Optimal Species Trees in the Presence of Gene Duplication and Loss: Beyond Rooted Gene Trees., Mathematical Foundations in Bioinformatics (MatBio), 2021.
 729.	Tamanna Shaown, Md. Shohrab Hossain, Tasnim Morium Mukur, Low Cost Health Monitoring System: A Smart Technological Device for Elderly People, 6th International Congress on Information and Communication Technology (ICICT, 851--860, 2021. DOI 
 730.	Arunavo Dey, Md. Nazmul Hoq, Md Shohrab Hossain and Suryadipta Majumdar, Towards an Attention-Based Accurate Intrusion Detection Approach, International Conference on Heterogeneous Networking for Quality, Reliability, Security and Robustness, 261--279, 2021.
@@ -753,8 +749,8 @@ text = """
 748.	Raihan Mia, Anwar Hossin Zahid, Bipul Chandra Dev Nath, Abu Sayed Md. Latiful Hoque, A Conceptual Design of Virtual Internship System to Benchmark Software Development Skills in a Blended Learning Environment, 2020 23rd International Conference on Computer , Information Technology (ICCIT), 1--6, 2021. DOI 
 749.	Nabil Ibtehaz, Mahmuda Naznin, Determining Confused Brain Activity from EEG Sensor Signals, the 8th NSysS, ACM, 2021.
 750.	Md. Shahedul Haque Shawon and Sagor Biswas and Nirob Arefin and Tanmoy Sarkar Pias and Ashikur Rahman, On age prediction from facial images in presence of facial expressions, Int. J. Appl. Pattern Recognit., 6, 345--369, 2021. DOI 
-751.	Md. Shanjinur Islam and Ashikur Rahman, iNote: A Low Cost Banknote Recognition System for Visually Impaired Persons, Advanced Information Networking and Applications - Proceedings of the 35th International Conference on Advanced Information Networking and Applications (AINA-2021), Toronto, ON, Canada,, 227, 165--176, 2021. DOI 
-752.	Syeda Farzia Afroze and Ashikur Rahman, A Target-Oriented Conflict Graph-based Approach for the Coverage Problem in Directional Sensor Networks, 8th International Conference on Networking, Systems and Security, Cox's Bazar, Bangladesh, 1--12, 2021. DOI 
+751.	Md. Shanjinur Islam and Ashikur Rahman, iNote: A Low Cost Banknote Recognition System for Visually Impaired Persons, Advanced Information Networking and Applications - Proceedings of the 35th International Conference on Advanced Information Networking and Applications (AINA-2021), Toronto, ON"
+WALCOM 2018,"Syeda Farzia Afroze and Ashikur Rahman, A Target-Oriented Conflict Graph-based Approach for the Coverage Problem in Directional Sensor Networks, 8th International Conference on Networking, Systems and Security, Cox's Bazar, Bangladesh, 1--12, 2021. DOI 
 753.	Khalid Hasan, Partho Chakraborty, Rifat Shahriyar, Anindya Iqbal, Gias Uddin , A Survey-Based Qualitative Study to Characterize Expectations of Software Developers from Five Stakeholders, 15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, ESEM 2021, 1-11, 2021.
 754.	Tahmid Hasan, Abhik Bhattacharjee, Md Saiful Islam, Kazi Samin, Yuan-Fang Li, Yong-Bin Kang, M. Sohel Rahman, Rifat Shahriyar, XL-Sum: Large Scale Multilingual Abstractive Summarization for 44 Languages , Findings of the Association for Computational Linguistics, ACL-IJCNLP 2021, 4693-4703, 2021.
 755.	Masum Hasan, Tanveer Muttaqueen, Abdullah Al Ishtiaq, Kazi Sajeed Mehrab, Md. Mahim Anjum Haque, Tahmid Hasan, Wasi Uddin Ahmad, Anindya Iqbal, Rifat Shahriyar, CoDesc: A Large Code–Description Parallel Dataset, Findings of the Association for Computational Linguistics, ACL-IJCNLP 2021, 210-218, 2021.
@@ -883,8 +879,8 @@ text = """
 878.	Jannatun Noor, Md Golam Hossain, Muhammad Ahad Alam, Ashraf Uddin, Sriram Chellappan, and ABM Alim Al Islam, SvLoad: An automated test-driven architecture for load testing in cloud systems, 2018 IEEE Global Communications Conference (GLOBECOM), 1--7, 2018. DOI 
 879.	Shamir Ahmed, Uday Kamal, Tarik Reza Toha, Nafisa Islam, and ABM Alim Al Islam, Predicting human count through environmental sensing in closed indoor settings, Proceedings of the 15th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services, 49-58, 2018. DOI 
 880.	Tusher Chakraborty, Md Taksir Hasan Majumder, Md Nasim, and ABM Alim Al Islam, Duity: A Low-cost and Pervasive Finger-count Based Hand Gesture Recognition System for Low-literate and Novice Users, Conference, 352-361, 2018. DOI 
-881.	Suri Dipannita Sayeed, M Sohel Rahman, Atif Rahman, On multiple longest common subsequence and common motifs with gaps, WALCOM: Algorithms and Computation: 12th International Conference, WALCOM 2018,, 207--215, 2018. DOI 
-882.	Maitraye Das, Nusrat Jahan Mozumder, Sharmin Afrose, Khandakar Ashrafi Akbar, Tanzima Hashem, A novel secret sharing approach for privacy-preserving authenticated disease risk queries in genomic databases, 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC), 1, 645-654, 2018. DOI 
+881.	Suri Dipannita Sayeed, M Sohel Rahman, Atif Rahman, On multiple longest common subsequence and common motifs with gaps, WALCOM: Algorithms and Computation: 12th International Conference"
+In Proceedings of Workshop on Mobile Computing and Human Computer Interaction (MoHCI),"Maitraye Das, Nusrat Jahan Mozumder, Sharmin Afrose, Khandakar Ashrafi Akbar, Tanzima Hashem, A novel secret sharing approach for privacy-preserving authenticated disease risk queries in genomic databases, 2018 IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC), 1, 645-654, 2018. DOI 
 883.	Sifat E Jahan, Mehjabin Rahman, Anindya Iqbal, Tishna Sabrina, An exploratory analysis of security on data transmission on relevant software engineering discussion sites, 2017 4th International Conference on Networking, Systems and Security (NSysS), 1--9, 2018. DOI 
 884.	Tamjid Al Rahat, Arif Arman, Mohammed Eunus Ali, Maximizing reverse k-nearest neighbors for trajectories, Databases Theory and Applications: 29th Australasian Database Conference, ADC 2018, Gold Coast, QLD, Australia, May 24-27, 2018, Proceedings 29, 262--274, 2018. DOI 
 885.	Sk Kamruzzaman, Mahmuda Naznin, Md Nawajish Islam, HEM: A hybrid evolutionary model for event detection in untrustworthy sensing, 2017 20th International Symposium on Wireless Personal Multimedia Communications (WPMC), 392--397, 2018. DOI 
@@ -945,7 +941,7 @@ text = """
 940.	Yuan-Cheng Lai, Performance Modeling and Analysis of TCP Connections over Software Defined Networks, IEEE GLOBECOM, 2017.
 941.	Sukarna Barua, Roksana Jahan, T. Ahmed, Weighted Optimal Sequenced Group Trip Planning Queries, 18th IEEE International Conference on Mobile Data Management (MDM), 222-227, 2017.
 942.	M. M. Rahman, Muhammad Abdullah Adnan, Two step verification system of highly secure social media: Possible to breach the security, 3rd International Conference on Networking, Systems and Security (NSysS), 6, 2017.
-943.	A. S. M Rizvi, Tarik Reza Toha, Mohammad Mosiur Rahman Lunar, Muhammad Abdullah Adnan, A. B. M. Alim Al Islam, Muhammad Abdullah Adnan, and A. B. M. Alim Al Islam, "Cooling energy integration in SimGrid, 3rd International Conference on Networking, Systems and Security (NSysS), Dhaka, Bangladesh, 6, 2017.
+943.	A. S. M Rizvi, Tarik Reza Toha, Mohammad Mosiur Rahman Lunar, Muhammad Abdullah Adnan, A. B. M. Alim Al Islam, Muhammad Abdullah Adnan, and A. B. M. Alim Al Islam, ""Cooling energy integration in SimGrid, 3rd International Conference on Networking, Systems and Security (NSysS), Dhaka, Bangladesh, 6, 2017.
 944.	Naw Safrin Sattar, Muhammad Abdullah Adnan, Maimuna Begum Kali, Secured Aerial Photography using Homomorphic Encryption, 3rd International Conference on Networking, Systems and Security (NSysS), 12, 2017.
 945.	Tasnim Kabir, Muhammad Abdullah Adnan, A Dynamic Searchable Encryption Scheme for Secure Cloud Server Operation Reserving Multi-keyword Ranked Search, Proc. of the 4th International Conference on Networking, Systems and Security (NSysS), 2017.
 946.	A. A. Nahian, A. B. M. Alim Al Islam, Efficient UAV Deployment Strategy for Reconnaissance, 4th International Conference on Networking, Systems and Security(NsysS), 2017.
@@ -974,7 +970,7 @@ text = """
 969.	Sk. Kamruzzaman, Mahmuda Naznin, Md. Nawajish Islam, Even Detection in Untrustworthy Network, the 20th International Conference of Wireless and Personal Multimedia Communications (WPMC), 1-6, 2017.
 970.	Abu Sayed Md. Latiful Hoque, Golam Md. Muradul Bashir, Interactive eLearning System (IeLS) for Learning and Teaching of ICT Course in Higher Secondary Level in Bangladesh, International Conference on e-Learning, 2017.
 971.	Marjan Ferdousi, Suraiya Tairin, Sttayajit Podder, A. B. M. Alim Al Islam, Mahmuda Naznin, Finding Hierarchical Network Model in Insulin Production Process, 8th IEEE Workshop of Multicore and Multithreaded Algorithms and Applications (M2A2), co-located with IEEE HPCC, Bangkok, Thailand, 8, 2017. DOI 
-972.	S. Rahman, Maryam Aliakbarpour, Ha Kyung Kong, Eric Blais, Karrie Karahalios, Aditya Parameswaran, I've Seen "Enough": Incrementally Improving Visualizations to Support Rapid Decision Making, International Conference on Very Large Data Bases (VLDB), 10, 2017.
+972.	S. Rahman, Maryam Aliakbarpour, Ha Kyung Kong, Eric Blais, Karrie Karahalios, Aditya Parameswaran, I've Seen ""Enough"": Incrementally Improving Visualizations to Support Rapid Decision Making, International Conference on Very Large Data Bases (VLDB), 10, 2017.
 973.	Ahmed Fahmin, Yuan-Cheng Lai, Md. Shohrab Hossain, Ying-Dar Lin, Dipon Saha, Performance Modeling of SDN with NFV Under or Aside the Controller, International Symposium on Performance Modeling and Evaluation of Computer and Telecommunication Networks in Cloud and IoT, 2017.
 974.	Tusher Chakraborty, Md. Shohrab Hossain, Mohammed Atiquzzaman, A Testbed Implementation of Hybrid Decision Model Based Seamless Lightweight Vertical Handover, IEEE ICC, 2017.
 975.	Md. Khaledur Rahman, M. A. Nayeem, Finding suitable places for live campaigns using location-based services, 4th International ACM Workshop on Managing and Mining Enriched Geo-Spatial Data, 7:1--7:6, 2017.
@@ -1055,7 +1051,7 @@ text = """
 1050.	N. Nurain, T. Akter, H. Zannat, M. Akter, A. B. M. Alim Al Islam, and Md. H. Kabir, General-purpose multi-objective vertical hand-off mechanism exploiting network dynamics, 2015 IEEE 11th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob), 825--832, 2015.
 1051.	T. Ahmed, M. Basak, T. Sen, Md. Yusuf Sarwar Uddin, Simplified Processing of Video Data for Street Sensing Applications, 4th International Conference on Informatics, Electronics & Vision(ICIEV), June, 2015.
 1052.	Md. Hasan Tareque, Md. Shohrab Hossain, Mohammed Atiquzzaman, On the Routing in Flying Ad hoc Networks, Federated Conference on Computer Science and Information Systems (FedCSIS), 2015.
-1053.	R. M. Reza, Mohammed Eunus Ali, Tanzima Hashem, "Group Processing of Simultaneous Shortest Path Queries in Road Networks", 16th IEEE International Conference on Mobile Data Management (MDM), 128-133, 2015.
+1053.	R. M. Reza, Mohammed Eunus Ali, Tanzima Hashem, ""Group Processing of Simultaneous Shortest Path Queries in Road Networks"", 16th IEEE International Conference on Mobile Data Management (MDM), 128-133, 2015.
 1054.	H. Dev, Mohammed Eunus Ali, Jalal Mahmud, T. Sen, M. Basak, Rajshakhar Paul, A Real-Time Crowd-Powered Testbed for Content Assessment of Potential Social Media Posts, The 7th International Conference on Social Informatics (SocInfo), 2015.
 1055.	Ayon Sen, S. M. Sohidull Islam, Md. Yusuf Sarwar Uddin, MARQUES: Distributed Multi-Attribute Range Query Solution using Space Filling Curve on DHTs, International Conference on Networking Systems and Security 2015 (NSysS 2015), 2015.
 1056.	Md. Nazmus Sadat, Muhammad Tasnim Mohiuddin, Md. Yusuf Sarwar Uddin, On Bounded Message Replication in Delay Tolerant Networks, International Conference on Networking Systems and Security 2015 (NSysS 2015), 2015.
@@ -1089,8 +1085,8 @@ text = """
 1084.	Siavash Mirarab, Rezwana Reaz, Md. Shamsuzzoha Bayzid, Theo Zimmermann, Shel Swenson and Tandy Warnow, ASTRAL: Genome- Scale Coalescent-Based Species Tree, European Conference on Computational Biology (ECCB), 2014.
 1085.	S Azam, FT Zohra, MM Islam, Image spatial resolution enhancement: A novel wavelet approach, IEEE 17th International conference on computer and information technology (ICCIT), 362--367, 2014. DOI 
 1086.	S Azam, MM Islam, FT Zohra, Performance assessment criteria and issues for wavelet-based image resolution enhancement technique: A short review, 2014 International Conference on Informatics, Electronics \& Vision (ICIEV), 1--6, 2014. DOI 
-1087.	T. Chakraborty, M. T. H. Majumder, M. Nasim, S. M. B. Malek, M. S. Saeef, F. U. Ahmed, A. J. Rahman, M. R. Islam, M. F. U. A. Real, and A. B. M. A. A. Islam, LiSee: Motion Detection Using Visible Light Communication, In Proceedings of Workshop on Mobile Computing and Human Computer Interaction (MoHCI),, 2014.
-1088.	T. Choudhury, B. Islam, and A. B. M. A. A. Islam, Super-savior: A System to Aid Combating Harassment and Violence Against Women, In Proceedings of Workshop on Women Empowerment through ICT: Higher Studies, Research and Career (WE-ICT), 2014.
+1087.	T. Chakraborty, M. T. H. Majumder, M. Nasim, S. M. B. Malek, M. S. Saeef, F. U. Ahmed, A. J. Rahman, M. R. Islam, M. F. U. A. Real, and A. B. M. A. A. Islam, LiSee: Motion Detection Using Visible Light Communication"
+17th International Conference on Computer and Information Technology (ICCIT),"T. Choudhury, B. Islam, and A. B. M. A. A. Islam, Super-savior: A System to Aid Combating Harassment and Violence Against Women, In Proceedings of Workshop on Women Empowerment through ICT: Higher Studies, Research and Career (WE-ICT), 2014.
 1089.	N. Nurain, M. Mostakim, and A. B. M. A. A. Islam, Towards empirical study based mathematical modeling for energy consumption and end-to-end delay of MANETs, 2014 17th International Conference on Computer and Information Technology (ICCIT), 424-429, 2014. DOI 
 1090.	H. Dev, Md. R. Parvez, M. M. Bhuiyan, T. Mosharraf, T. A. Khan, F. Haque, A. A. Mamun, F. A. Chowdhury, M. S. S. Hossain, M. B. Morshed, and A. B. M. A. A. Islam, DhakaSim: A Tool for Simulating Traffic Mobility in Dhaka City, Workshop on Mobile Computing and Human Computer Interaction (MoHCI), 2014.
 1091.	Chowdhury Nawrin Ferdous, Md. Ahsan Ullah, Md. Asif Ur Rahaman, Md. Shohrab Hossain, Transport Layer Mobility Protocols: Issues, Challenges and a Comparitive Study, International Conference on Electrical Engineering and Information Communication Technology, 2014.
@@ -1104,8 +1100,8 @@ text = """
 1099.	Muhammad Abdullah Adnan, Online Reservation and Deferral of EV Charging Tasks to Reduce Energy Use Variability, IEEE International Conference on Smart Grid Communications (SmartGridComm), 2014.
 1100.	Muhammad Abdullah Adnan, Rajesh Gupta , Workload Shaping to Mitigate Variability in Renewable Power Use by Data Centers, IEEE International Conference on Cloud Computing (CLOUD), 2014.
 1101.	Dr. Muhammad Abdullah Adnan , Online Reservation and Deferral of EV Charging Tasks to Reduce Energy Use Variability in Smart Grids, IEEE International Conference on Smart Grid Communications (SmartGridComm), 2014.
-1102.	Sumaiya Iqbal, Md Nasrul Islam, Md Tamjidul Hoque, Improved protein disorder predictor by smoothing output, 17th International Conference on Computer and Information Technology (ICCIT),, 110 - 115, 2014.
-1103.	M. A. R. Azim, Costas S. Iliopoulos, M. Sohel Rahman, M. Samiruzzaman, A fast and lightweight filter-based algorithm for circular pattern matching, ACM BCB, 621-622, 2014.
+1102.	Sumaiya Iqbal, Md Nasrul Islam, Md Tamjidul Hoque, Improved protein disorder predictor by smoothing output"
+SEA 2013,"M. A. R. Azim, Costas S. Iliopoulos, M. Sohel Rahman, M. Samiruzzaman, A fast and lightweight filter-based algorithm for circular pattern matching, ACM BCB, 621-622, 2014.
 1104.	Md. Mahbubul Hasan, A. S. Islam, Mohammad Saifur Rahman, M. Sohel Rahman, Order Preserving Prefix Tables, International Symposium on String Processing and Information Retrieval (SPIRE), 111-116, 2014. DOI 
 1105.	Md. Sazzadur Rahaman, Tousif Ahmed, Sad Al Abdullah, Md. Saidur Rahman, Antibandwidth problem for itchy caterpillars, International Conference on Informatics, Electronics & Vision (ICIEV), 2014, 1-6, 2014.
 1106.	N. Khan, N. Karima, Md. Saidur Rahman, Md. Iqbal Hossain, Orthogonal grid pointset embeddings of maximal outerplanar graphs, International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), 2014, 1-6, 2014.
@@ -1135,8 +1131,8 @@ text = """
 1130.	Md. Shamsuzzoha Bayzid, Siavash Mirarab and Tandy Warnow, Inferring optimal species trees under gene duplication and loss, Biocomputing 2013, 250--261, 2013. DOI 
 1131.	A. B. M. A. A. Islam and V. Raghunathan, Evaluating Q-learning based stateful round trip time estimation over high-data-rate wireless sensor networks, In Proceedings of 16th International Conference on Computer and Information Technology (ICCIT), 136-141, 2013. DOI 
 1132.	M. J. Islam, M. M. Islam, and A. B. M. A. A. Islam, Evolutionary Spectrum Management in Cognitive Radio Networks, Proceedings of Workshop on Wireless Network and Communication, 27--28, 2013.
-1133.	S. Sharmin, F. Manne, Efficient Counting of Maximal Independentsets in Sparse Graphs, Proceedings of the 12th International Symposium on Experimental Algorithms, SEA 2013,, 7933, 103-114, 2013. DOI 
-1134.	Husnu Narman, Md. Shohrab Hossain, M. Atiquzzaman, Multi Class Traffic Analysis of Single and Multi-band Queuing System, IEEE GLOBECOM, 2013.
+1133.	S. Sharmin, F. Manne, Efficient Counting of Maximal Independentsets in Sparse Graphs, Proceedings of the 12th International Symposium on Experimental Algorithms"
+20th Annual Fall Workshop on Computational Geometry (FWCG 2010),"Husnu Narman, Md. Shohrab Hossain, M. Atiquzzaman, Multi Class Traffic Analysis of Single and Multi-band Queuing System, IEEE GLOBECOM, 2013.
 1135.	Md. Shohrab Hossain, Husnu Narman, M. Atiquzzaman, A Novel Scheduling and Queue Management Scheme for Multi-band Mobile Routers, IEEE ICC, 2013.
 1136.	Muhammad Abdullah Adnan, Rajesh Gupta , Utility-Aware Deferred Load Balancing in the Cloud Driven by Dynamic Pricing of Electricity, Proc. of ACM/IEEE Design Automation and Test in Europe (DATE), 2013.
 1137.	Muhammad Abdullah Adnan, Rajesh Gupta , Path Consolidation for Dynamic Right-sizing of Data Center Networks, IEEE International Conference on Cloud Computing (CLOUD), 2013.
@@ -1233,7 +1229,7 @@ text = """
 1228.	A. B. M. Alim Al Islam, V. Raghunathan, Assessing the Viability of Cross-Layer Modeling for Asynchronous, Multi-hop, Ad-hoc Wireless Mesh Networks, 9th International Symposium on Mobility Management and Wireless Access (MOBIWAC), 147-152, 2011.
 1229.	A. B. M. Alim Al Islam, S. M. Iftekharul Alam, V. Raghunathan, S. Bagchi, MABCC: Multi-Armed Bandit Congestion Control in Multi-hop Infrastructure Wireless Mesh Networks, International Conference on Dependable Systems and Networks (DSN) [Fast Abstract], 2011.
 1230.	A. B. M. Alim Al Islam, V. Raghunathan, End-to-End Congestion Control in Wireless Mesh Networks using a Neural Network, Wireless Communications and Networking Conference (WCNC), 677-682, 2011.
-1231.	M. S. Hossain, A. B. M. Alim Al Islam, M. Kulkarni, V. Raghunathan, "μ"SETL: A Set Based Programming Abstraction for Wireless Sensor Networks, 10th International Conference on Information Processing in Sensor Networks (IPSN), 354-365, 2011.
+1231.	M. S. Hossain, A. B. M. Alim Al Islam, M. Kulkarni, V. Raghunathan, ""μ""SETL: A Set Based Programming Abstraction for Wireless Sensor Networks, 10th International Conference on Information Processing in Sensor Networks (IPSN), 354-365, 2011.
 1232.	A. B. M. Alim Al Islam, M. S. Hossain, V. Raghunathan, Y. C. Hu, Backpacking: Energy-Efficient Deployment of Heterogeneous Radios in High Data Rate Sensor Networks, 20th International Conference on Computer Communications and Networks (ICCCN), 1-8, 2011.
 1233.	Masum Ahmed, A. K. M. Fahad Aziz, Raj Narayan Saha, Susmita Das, Laila Sharmin, Hasan Shahid Ferdous, Towards a Mobile Phone Based Solution for Microcredit in Rural Bangladesh, SCOReD 2011, 2011.
 1234.	Md. Ridwanur Rahman, Md. Rashidujjaman Rifat, Shubrami Moutushy, Hasan Shahid Ferdous, Towards a Customizable Effective Patient Management System for Ensuring Quality Medical Service, SCOReD 2011, 2011.
@@ -1307,8 +1303,8 @@ text = """
 1302.	M.R Islam, M. Sohel Rahman, Masud Hasan, M.M. Hasan, IMIPS: An improved pipelined processor architecture with reduced branch penalty and single memory for instruction and data, International International Conference on Computer Engineering and Applications (, 2010.
 1303.	Chowdhury Sayeed Hyder, A. Rahman, Masud Hasan, On the Longest Vulnerable Path inside a Sensor Network from Boundary Regions, IEEE GCC Conference & Exhibition, 2010.
 1304.	S.I. Ahmed, Masud Hasan, A. Sopan, Vindictive Voronoi games and stabbing Delaunay circles, International Symposium on Voronoi Diagram in Science and Engineering, 124-131, 2010.
-1305.	Masud Hasan, Non-)Equiprojectivity and (Non-)Biprojectivity of Simplicial Polyhedra, 20th Annual Fall Workshop on Computational Geometry (FWCG 2010),, 2010.
-1306.	S. Nutanong, E. Tanin, Mohammed Eunus Ali, L. Kulik, Local Network Voronoi Diagram, ACM SIGSPATIAL GIS 2010,(Acceptance rate 20%)., 2010.
+1305.	Masud Hasan, Non-)Equiprojectivity and (Non-)Biprojectivity of Simplicial Polyhedra"
+IEEE International Conference on Communications (ICC 2009),"S. Nutanong, E. Tanin, Mohammed Eunus Ali, L. Kulik, Local Network Voronoi Diagram, ACM SIGSPATIAL GIS 2010,(Acceptance rate 20%)., 2010.
 1307.	Masud Hasan, S. Hossain, M.M.M. Rahman, Solving the minimum hitting set problem with a light-based device, International Conference on Electrical and Computer (ICECE), 423-426, 2010.
 1308.	M. A. Wahid, M. Kaykobad, Masud Hasan, Kinetisation of view of 3D point set, International Conference on Computer and Information Technology (ICCIT), 325-330, 2010.
 1309.	A. Das, I. Jahangir, Masud Hasan, S. Hossain, On the design and analysis of quaternary serial and parallel adders, IEEE TENCON, 1691-1695, 2010.
@@ -1363,9 +1359,9 @@ text = """
 1358.	M.M.M. Khan, A.K. Biswas, S. Chowdhury, Masud Hasan, A.I. Khan, Synthesis of GF(3) based ternary reversible/quantum logic circuits without ancillary qutrits, International Symposium on Multi-Valued Logic 2009, 2009.
 1359.	Atif Rahman, Mahmuda Naznin, Masud Hasan, Integer Linear Programming in Designing Universal Arrays with Multiplexed Applications, International Conference on Electronics and Computer Technology, 215-218, 2009.
 1360.	T. Afroze, S. Sarkar, A. Islam, A.K.M. Ashikur Rahman, More Stable Ad-hoc On-Demand Distance Vector Routing Protocol, The Fourth IEEE International Conference on Industrial electronics and Applications (ICIEA), 150-155, 2009.
-1361.	Md.T.A. Amin, S. Barua, S. Vhaduri, A.K.M. Ashikur Rahman, Load Aware Broadcast in Mobile Ad Hoc Networks, IEEE International Conference on Communications (ICC 2009),, 2009.
-1362.	S.R. Hussain,, S. Saha , A.K.M. Ashikur Rahman, An Efficient and Scalable Address Autoconfiguration in Mobile Ad Hoc Networks, 8th International Conference on Ad hoc Networks and Wireless ( Adhoc-NOW), 2009.
-1363.	M. Sultana, Md. Mostofa Akbar, M. Rouf, Network Flow Heuristic Algorithm for a Distributed Web Service Selection Platform, IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, 2009.
+1361.	Md.T.A. Amin, S. Barua, S. Vhaduri, A.K.M. Ashikur Rahman, Load Aware Broadcast in Mobile Ad Hoc Networks"
+"2008.
+1403.	M. Ahmed","M. Sultana, Md. Mostofa Akbar, M. Rouf, Network Flow Heuristic Algorithm for a Distributed Web Service Selection Platform, IEEE Pacific Rim Conference on Communications, Computers and Signal Processing, 2009.
 1364.	Anupam Das, S. M. Abdullah, Evolving Multilayer Neural Networks using Permutation free Encoding Technique, International Conference on Artificial Intelligence, 32-38, 2009.
 1365.	M. M. Hossain, Md. Mostofa Akbar, Md. Humayun Kabir, Dynamic Adaptive Content Delivery using Genetic Algorithm, IEEE PACRIM, 2009.
 1366.	Md. Humayun Kabir, M. A. Haque, A Novel Block Matching Algorithm for Motion Vector Estimation, IEEE PACRIM, 2009.
@@ -1404,10 +1400,8 @@ text = """
 1399.	Md. Muhibur Rasheed, Masud Hasan, M. Sohel Rahman, Maximum neighbor Voronoi games, Annual Workshop on Algorithms and Computation (WALCOM 2009), 2008.
 1400.	Mohammed Eunus Ali, E. Tanin, R. Zhang, L. Kulik, Load Balancing for Moving Object Management in a P2P Network, Lecture Notes in Computer Science (LNCS), Database Systems for Advanced Applications, DASFAA 2008, (Acceptance rate 16.6%)., 251-266, 2008.
 1401.	Mohammed Eunus Ali, R. Zhang, E. Tanin, L. Kulik, A Motion-Aware Approach to Continuous Retrieval of 3D Objects, International Conference of Data Engineering. ICDE 2008, (Acceptance rate 12.1%)., 843-852, 2008.
-1402.	M.E. Hoque, F. Rahman, S. K. Kundu, A.K.M. Ashikur Rahman, P. Gburzynski, Enhanced Partial Dominant Pruning (EPDP) Based Broadcasting in Ad hoc Wireless Networks (Conference, SPECTS 2008, 2008.
-1403.	M. Ahmed,, M. Shariar, S. Zerin, A.K.M. Ashikur Rahman, Analysis of Minimum-Energy Path-Preserving Graphs for Ad-hoc Wireless Networks (Conference, SPECTS 2008, 2008.
-1404.	P. Gburzynski,, B. Kaminska, A.K.M. Ashikur Rahman, Reliable Data Transmission over Simple Wireless Channels: a Case Study, 11th EuroMicro Conference on Digital System Design Architectures, Methods and Tools (DSD 2008), 817-824, 2008.
-1405.	M. A. H. Akhand, Md. Monirul Islam, K. Murase, electing Neural Network Ensemble Methods based on Problems Characteristics: An Empirical Study, Proceedings of Joint 4th International Conference on Soft Computing and Intelligent Systems and 9th International Symposium on Advanced Intelligent Systems, 2091-2096, 2008.
+1402.	M.E. Hoque, F. Rahman, S. K. Kundu, A.K.M. Ashikur Rahman, P. Gburzynski, Enhanced Partial Dominant Pruning (EPDP) Based Broadcasting in Ad hoc Wireless Networks (Conference, SPECTS 2008"
+22-26,"M. A. H. Akhand, Md. Monirul Islam, K. Murase, electing Neural Network Ensemble Methods based on Problems Characteristics: An Empirical Study, Proceedings of Joint 4th International Conference on Soft Computing and Intelligent Systems and 9th International Symposium on Advanced Intelligent Systems, 2091-2096, 2008.
 1406.	M. F. Amin, Md. Monirul Islam, K. Murase, Single-layered Complex-valued Neural Networks and Their Ensembles for Real-valued Classification Problems, Proceedings of the International Joint Conference on Neural Networks (IJCNN2008), 2501-2507, 2008.
 1407.	M. A. H. Akhand, Md. Monirul Islam, K. Murase, Training of Neural Network Ensemble Through Progressive Interaction, Proceedings of the International Joint Conference on Neural Networks (IJCNN2008), 2121-2127, 2008.
 1408.	Md. Monirul Islam, M. F. Amin, S. Ahmed, K. Murase, An Adaptive Merging and Growing Algorithm for Designing Artificial Neural Networks, Proceedings of the International Joint Conference on Neural Networks (IJCNN2008), 2004-2009, 2008.
@@ -1472,8 +1466,8 @@ text = """
 1467.	H. Hossain, M. Ahmed, A. A. Nayeem, T. Z. Islam, Md. Mostofa Akbar, GPNOCSIM A general purpose Simulator for Network-On-Chip, International Conference on Information and Communication Technology, ICCIT 2007, 323-326, 2007.
 1468.	Mohammad Tanvir Irfan, Md. Saidur Rahman, Computing $beta$-drawings of 2- outerplane graphs, WALCOM, 46-61, 2007.
 1469.	Md. Abul Hassan Samee, Md. Saidur Rahman, Upward Planar drawings of series-parallel digraphs with maximum degree three, WALCOM, 28-45, 2007.
-1470.	Md. Abul Hassan Samee, Md. Saidur Rahman, Visualization of complete graphs, trees and series-parallel graphs for practical applications, International Conference on Information and Communication Technology (ICICT 2007), 22-26,, 2007.
-1471.	Md. Saidur Rahman, Current research on planar graphs, International Conference on Information and Communication Technology (ICICT 2007), 148-149, 2007.
+1470.	Md. Abul Hassan Samee, Md. Saidur Rahman, Visualization of complete graphs, trees and series-parallel graphs for practical applications, International Conference on Information and Communication Technology (ICICT 2007)"
+23rd Biennial Symposium on Communications- QBSC 2006,"Md. Saidur Rahman, Current research on planar graphs, International Conference on Information and Communication Technology (ICICT 2007), 148-149, 2007.
 1472.	Md. Rezaul Karim, Md. Saidur Rahman, Straight-line grid drawings of planar graphs with linear area, Asia-Pacific Symposium on vusualisation (APVIS 2007), 109- 112, 2007.
 1473.	A. B. M. Alim Al Islam, Md. A. Azad, Md. K. Alam, Md. S. Alam, Security Attack Detection using Genetic Algorithm (GA) in Policy Based Network, International Conference on Information and Communication Technology (ICICT), 341-347, 2007.
 1474.	Md. A. Azad, A. B. M. Alim Al Islam, Md. K. Alam, Md. S. Alam, Router Oriented Traffic Flow Analysis For Ip Backbone Network, International Conference on Information and Communication Technology (ICICT), 348-351, 2007.
@@ -1497,9 +1491,9 @@ text = """
 1492.	Abu Sayed Md. Latiful Hoque, M.T parvez, Masud Hasan, e-Government Procurement of Developing Countries, International Conference on Information and Communication Technology, 2006.
 1493.	A Khan, N. Shahriar, S.M. Khan, Masud Hasan, Novel realization of quantum ternary mux and demux, . International Conference on Electrical and Compute Engineering, 2006.
 1494.	A. Khan, N. Nusrat, S.M. Khan, Masud Hasan, Novel realization of some ternary circuits for quantum computing, IEEE TENCON, 2006.
-1495.	A.K.M. Ashikur Rahman, P. Gburzynski, Hidden problems with the hidden node problem, 23rd Biennial Symposium on Communications- QBSC 2006,, 2006.
-1496.	A.K.M. Ashikur Rahman, P. Gburzynski, MAC-Assisted Broadcast Speedup in Ad-Hoc Wireless Networks, In Proceedings of ACM International Wireless Communications and Mobile Computing Conferences- IWCMC 2006 Wireless Ad Hoc and Sensor Networks,, 2006.
-1497.	M. M. Hyder, Md. Monirul Islam, M. A. H. Akhand, K. Murase, A novel two-stage approach for translation, rotation and scale invariant character recognition, oint 3rd International Conference on Soft Computing and Intelligent Systems and 7th International Symposium on advanced Intelligent Systems (SCIS & ISIS 2006), 1352-1357, 2006.
+1495.	A.K.M. Ashikur Rahman, P. Gburzynski, Hidden problems with the hidden node problem"
+In Proceedings of ACM International Wireless Communications and Mobile Computing Conferences- IWCMC 2006 Wireless Ad Hoc and Sensor Networks,"A.K.M. Ashikur Rahman, P. Gburzynski, MAC-Assisted Broadcast Speedup in Ad-Hoc Wireless Networks"
+International Conference on Communications in Computing,"M. M. Hyder, Md. Monirul Islam, M. A. H. Akhand, K. Murase, A novel two-stage approach for translation, rotation and scale invariant character recognition, oint 3rd International Conference on Soft Computing and Intelligent Systems and 7th International Symposium on advanced Intelligent Systems (SCIS & ISIS 2006), 1352-1357, 2006.
 1498.	M. S. Alam, Md. Monirul Islam, M. A. H. Akhand, K. Murase, A recurring multi-stage evolutionary system for balancing exploitation and exploration, Joint 3rd International Conference on Soft Computing and Intelligent Systems and 7th International Symposium on advanced Intelligent Systems (SCIS & ISIS 2006), 1111-1116, 2006.
 1499.	M. I. B. Shahid, Md. Monirul Islam, M. A. H. Akhand, K. Murase, A new algorithm to design multiple hidden layered artificial neural networks, oint 3rd International Conference on Soft Computing and Intelligent Systems and 7th International Symposium on advanced Intelligent Systems (SCIS & ISIS 2006), 463-468, 2006.
 1500.	Md. Shaifur Rahman, Md. Monirul Islam, A New Approach for Designing Artificial Neural Networks, Proceedings of 9th International Conference on Computer and Information Technology, 408-413, 2006.
@@ -1530,9 +1524,9 @@ text = """
 1525.	Reaz Ahmed, R. Boutaba, F. Cuervo, Y. Iraqi, T. Li, N. Limam, Service Naming in Large-Scale and Multi-Domain Networks, IEEE Communications Surveys & Tutorials, 2005.
 1526.	Tanvir Al Amin, Imranul Hoque, Md. Yusuf Sarwar Uddin, Service Oriented Architecture for a Multichannel Network TV System, International Conference on Computer and Information Technology, 2005.
 1527.	M.A.H. Newton, J. Levine, M. Fox, Genetically Evolved Macro-Actions in AI Planning Problems, 24th Workshop of the UK Planning and Scheduling Special Interest Group (PLANSIG), 2005.
-1528.	Mohammed Eunus Ali, K. Mahbub, A. Iqbal, A Framework for Dynamic Composition of Web Services Using Static Look-Up Table, International Conference on Communications in Computing,, 167-176, 2005.
-1529.	A.K.M. Ashikur Rahman, P. Gburzynski,, On Constructing Minimum-Energy Path-Preserving Graph for Ad-hoc Wireless Networks, IEEE International Conference on Communications, ICC 2005,, 2005.
-1530.	M. A. H. Akhand, Md. Monirul Islam, K. Murase, A Hybrid Training Approach to Create Neural Network Ensemble, In Proc. of 8th International Conference on Computer and Information Technology (ICCIT2005), 832-837, 2005.
+1528.	Mohammed Eunus Ali, K. Mahbub, A. Iqbal, A Framework for Dynamic Composition of Web Services Using Static Look-Up Table"
+P. Gburzynski,A.K.M. Ashikur Rahman
+7th International Conference on Computer and Information Technology (ICCIT),"M. A. H. Akhand, Md. Monirul Islam, K. Murase, A Hybrid Training Approach to Create Neural Network Ensemble, In Proc. of 8th International Conference on Computer and Information Technology (ICCIT2005), 832-837, 2005.
 1531.	M. A. H. Akhand, Md. Monirul Islam, K. Murase, A hybrid algorithm for compact neural network ensemble, International Conference on Intelligent Agents, Web Technologies & Internet Commerce (IAWTIC 2005), 471-478, 2005.
 1532.	I. Hoque, S. Jahid, Mail2Phone: Connecting Email to Telephone, Eighth International Conference on Computer and Information Technology (ICCIT), 1112-1116, 2005.
 1533.	A. Bhattacharjee, B. K. Debnath, A New Web Cache Replacement Algorithm, PacRim 2005, IEEE Conference on Communications, Computers and Signal Processing, 2005.
@@ -1565,17 +1559,17 @@ text = """
 1560.	Sajib Dasgupta, Abu Wasif, Sharmin Azam, An Optimal Way of Machine Translation from English to Bengali, International Conference on Computer and Information Technology, 2004.
 1561.	M.M. Masud, Combined Evolution Model: Integrating Machine Learning, Simulated Annealing and Evolutionary Computing, 5th International Conference on Recent Advances in Soft Computing (RASC), 428-435, 2004.
 1562.	M.A. Ali, M. M. Masud, C.M. Rahman, Implementation of ID3 Algorithm by Coverage Vector, Seventh International Conference on Computers and Information Technology (ICCIT), 93-97, 2004.
-1563.	M.M. Haque, I.A. Sadi, Mohammed Eunus Ali, An Agent-based Architecture of a Distributed System for Performance Monitoring, 7th International Conference on Computer and Information Technology (ICCIT),, 2004.
-1564.	A.K.M. Ashikur Rahman, P. Gburzynski,, MAC Support for Broadcast Based Adhoc Forwarding Schemes, 22nd Biennial Symposium on Communications- QBSC 2004, 2004.
-1565.	A.K.M. Ashikur Rahman, W. Olesinski, P. Gburzynski, Controlled Flooding in Wireless Ad-hoc Networks, IEEE International Workshop on Wireless Adhoc Networks- IWWAN, 2004.
+1563.	M.M. Haque, I.A. Sadi, Mohammed Eunus Ali, An Agent-based Architecture of a Distributed System for Performance Monitoring"
+P. Gburzynski,A.K.M. Ashikur Rahman
+MIT,"A.K.M. Ashikur Rahman, W. Olesinski, P. Gburzynski, Controlled Flooding in Wireless Ad-hoc Networks, IEEE International Workshop on Wireless Adhoc Networks- IWWAN, 2004.
 1566.	M. A. H. Akhand, Md. Monirul Islam, K. Murase, A Constructive Algorithm for Neural Network Ensemble: Dynamical Change in Input Space (DCIS, nd International Conference on Soft Computing and Intelligent Systems and 5th International Symposium on Advanced Intelligent Systems (SCIS&ISIS2004), CD-ROM WP-6-3 (6 pag, 2004.
 1567.	M. S. Sadi, Md. Monirul Islam, K. Murase, A new algorithm for extracting interesting rules, Fourth International Symposium on Human and Artificial Intelligence Systems: From Control to Autonomy (HART04), 333-338, 2004.
 1568.	M. A. H. Akhand, Md. Monirul Islam, K. Murase, Component neural network addition based on misclassified patterns leads to create compact neural network ensemble, Fourth International Symposium on Human and Artificial Intelligence Systems: From Control to Autonomy (HART04), 271-276, 2004.
 1569.	M. M. Masud, Md. Monirul Islam, K. Murase, Empirical Study On Learnable Evolution Model For P-Median and Capacitated P-Median Problems, Fourth International Symposium on Human and Artificial Intelligence Systems: From Control to Autonomy (HART04), 265-270, 2004.
 1570.	S. Asaduzzaman, M. Maheswaran, Leveraging Public Resource Pools to Improve the Service Compliances of Computing Utilities, International conference on high-performance computing (HiPC), 242-251, 2004.
 1571.	M. Maheswaran, B. Maniymaran, S. Asaduzzaman, A. Mitra, Towards a Quality of Service Aware Public Computing Utility, Adaptive Grid Computing Workshop, 2004.
-1572.	Md. Humayun Kabir, E. G. Manning, G. C. Shoja, Scalable Multimedia Streaming Model and Transmission Scheme for VBR-Encoded Videos, 16th IASTED Int. Conf. on Parallel and Distributed Computing and Systems (PDCS), MIT,, 867-872, 2004.
-1573.	S. M. A. Masum, Md. Mostofa Akbar, An Optimal and Fault Tolerant Solution for Distributed Mutual Exclusion, Proceedings of the 7th International Conference on Computer and Information Technology 2004, 698 -704, 2004.
+1572.	Md. Humayun Kabir, E. G. Manning, G. C. Shoja, Scalable Multimedia Streaming Model and Transmission Scheme for VBR-Encoded Videos, 16th IASTED Int. Conf. on Parallel and Distributed Computing and Systems (PDCS)"
+6th International Conference on Computer and Information Technology (ICCIT),"S. M. A. Masum, Md. Mostofa Akbar, An Optimal and Fault Tolerant Solution for Distributed Mutual Exclusion, Proceedings of the 7th International Conference on Computer and Information Technology 2004, 698 -704, 2004.
 1574.	N. Basher, Md. Mostofa Akbar, M. S. Alam, Semi Distributed Admission Controller Architecture of Video on Demand Service for a Set of Media Server Firms, Proceedings of ICECE 2004, 307-310, 2004.
 1575.	M. Sohel Rahman, M. Kaykobad, Set Version: A New Notion and Results (Conference, Proceedings of the Information Society, 2004, 7th Multi-Conference, Sub-conference: Theoretical Computer Science, 2004.
 1576.	Mohammad Tanvir Irfan, A. M. H. M. Bhuiyan, M. A. Kashem, An Approximation Algorithm for Finding Minimum Elimination Tree Height of a Graph, Proceedings of International Conference on Computer and Information Technology (ICCIT), 2004.
@@ -1593,17 +1587,17 @@ text = """
 1588.	J. U. Mahmud, M. F. Raihan, C. M. Rahman, A Complete OCR for Continuous Bengali Characters, Conference on Convergent Technologies for the Asia-Pacific, 1372 - 1376 Vol.4, 2003.
 1589.	M. M. Masud, C. M. Rahman, Application of Minimum Description Length Principle to Genetic Algorithm based Concept Learner, Sixth International Conference on Computers and Information Technology (ICCIT), 47-52, 2003.
 1590.	Md. F. Rahman, Mohammed Eunus Ali, M. Z. Rahman, A Pragmatic Framework for Automated Unit Testing, 6th International Conference on Computer and Information Technology (ICCIT), VOL. II, pp 850-855, 2003.
-1591.	Mohammed Eunus Ali, A. Iqbal, MEAlloy : Multiple Inheritance and Encapsulation with Alloy, 6th International Conference on Computer and Information Technology (ICCIT),, VOL. II, pp 844-849., 2003.
-1592.	A.K.M. Ashikur Rahman, An Object Reconstruction Based Approach to Thin Client Computing, 6th International Conference on Computer and Information Technology - ICCIT,2003,, 2003.
-1593.	W. Olesinski, A.K.M. Ashikur Rahman, P. Gburzynski, TARP: A Tiny Ad-hoc Routing Protocol for Wireless Networks, Australian Telecommunications Networks and Applications Conference - ATNAC2003,, 2003.
-1594.	A.K.M. Ashikur Rahman, C.M. Rahman, A New Approach for Compressing Color Images using Neural Network, International Conference on Computational Intelligence for Modelling, Control and Automation, 2003.
+1591.	Mohammed Eunus Ali, A. Iqbal, MEAlloy : Multiple Inheritance and Encapsulation with Alloy"
+2003,"A.K.M. Ashikur Rahman, An Object Reconstruction Based Approach to Thin Client Computing, 6th International Conference on Computer and Information Technology - ICCIT"
+Australian Telecommunications Networks and Applications Conference - ATNAC2003,"W. Olesinski, A.K.M. Ashikur Rahman, P. Gburzynski, TARP: A Tiny Ad-hoc Routing Protocol for Wireless Networks"
+roceedings of the International Conference on Computer and Information Technology 2003,"A.K.M. Ashikur Rahman, C.M. Rahman, A New Approach for Compressing Color Images using Neural Network, International Conference on Computational Intelligence for Modelling, Control and Automation, 2003.
 1595.	M. Shahjahan, M. M. Kabir, Md. Monirul Islam, K. Murase, Single neural net training through correlation of hidden nodes for time series prediction, International Conference on Computer and Information Technology (ICCIT), 765-770, 2003.
 1596.	M. Shahjahan, M. M. Kabir, Md. Monirul Islam, K. Murase, Recognizing appearance of objects by non-linear auto-associative network with negative correlation learning of weights, International Conference on Computer and Information Technology (ICCIT), 759-764, 2003.
 1597.	M. R. Alam, M. A. H. Newton, Performance Analysis and Implementation of Some Commonly Used Concurrency Control Protocols Through Simulation, International Conference on Computer and Information Technology, 2003.
 1598.	J. Pu, Md. Mostofa Akbar, E. Gowland, E. Manning, G. Shoja, SLA Admission Controller for reliable MPLS Networks, Proceedings of the IASTED Conference on Applied Informatics, 35., 630-635, 2003.
 1599.	S. Shelford, Md. Mostofa Akbar, E. Manning, G. Shoja, Distributed Optimal Admission Controllers for Service Level Agreements in Interconnected Networks, Proceedings of the IASTED Conference on Applied Informatics, 565-570., 2003.
-1600.	M. Mahboob, F. Habib, S. S. Nejhum, Md. Mostofa Akbar, Developing a Framework for Video-Telephony in MANET, roceedings of the International Conference on Computer and Information Technology 2003,, 680-685., 2003.
-1601.	M. Ali, Md. Mostofa Akbar, QoS Support for Multimedia Sessions in the Diffserv-Aware ATM Based MPLS Network, Proceedings of the International Conference on Computer and Information Technology 2003, 575-579, 2003.
+1600.	M. Mahboob, F. Habib, S. S. Nejhum, Md. Mostofa Akbar, Developing a Framework for Video-Telephony in MANET"
+7(4),"M. Ali, Md. Mostofa Akbar, QoS Support for Multimedia Sessions in the Diffserv-Aware ATM Based MPLS Network, Proceedings of the International Conference on Computer and Information Technology 2003, 575-579, 2003.
 1602.	M. A. H. Newton, M. W. H. Sadid, Md. Mostofa Akbar, A parallel Heuristic Algorithm for Multiple Choice Multi Dimensional Knapsack Problem, Proceedings of International Conference on Computer and Information Technology, 181-184., 2003.
 1603.	M. Sohel Rahman, M. Kaykobad, Md. Mostofa Akbar, Independence Number and Hamiltonicity of Graphs (Conference, 6th International Conference on Computer and Information Technology (ICCIT), 150-152, 2003.
 1604.	M. Sohel Rahman, M. Kaykobad, On Hamiltonian Cycles and Hamiltonian Paths (Conference, 6th International Conference on Computer and Information Technology (ICCIT), 185-187, 2003.
@@ -1616,8 +1610,8 @@ text = """
 1611.	Muhammad Masroor Ali, Bangladesh country-code top-level domain (.bd) for internet and related issues, in Proc. Int. Workshop on Distributed Internet Infrastructure for Education and Research.-2003, 12-16, 2003.
 1612.	M. M. Hoque, Muhammad Masroor Ali, A parsing methodology for Bangla natural language sentences, in Proc. Int. Conf. on Comp. and Inf. Tech.-2003, 277-282, 2003.
 1613.	M. M. Asaduzzaman, Muhammad Masroor Ali, Transfer machine translation an experience with Bangla English machine translation system, in Proc. Int. Conf. on Comp. and Inf. Tech.-2003, 265-270, 2003.
-1614.	Md. Saidur Rahman, Mahmuda Naznin, Takao Nishizeki, Orthogonal drawings of plane graphs without bends, International Conference on Graph Drawing, LNCS 2265, 7(4),, 392-406, 2003.
-1615.	SM Niaz Arifin , Lenin Mehedy , M. Kaykobad, Segmented Display for Bangla Numerals: Simplicity vs. Accuracy, 6th International Conference on Computer and Information Technology (ICCIT), 2003.
+1614.	Md. Saidur Rahman, Mahmuda Naznin, Takao Nishizeki, Orthogonal drawings of plane graphs without bends, International Conference on Graph Drawing, LNCS 2265"
+6th SCI Conference,"SM Niaz Arifin , Lenin Mehedy , M. Kaykobad, Segmented Display for Bangla Numerals: Simplicity vs. Accuracy, 6th International Conference on Computer and Information Technology (ICCIT), 2003.
 1616.	M. Sohel Rahman, M. Kaykobad, Md. Mostofa Akbar, Independence Number and Hamiltonicity of Graphs, Computer and Information Technology (ICCIT), 150-152, 2003.
 1617.	T. Imam , M. Kaykobad, A New Symbolic Substitution Based Approach for the conversion of binary numbers to CMSD numbers, 6th International Conference on Computer and Information Technology (ICCIT), 170-173, 2003.
 1618.	Abu Sayed Md. Latiful Hoque, Compression-based Models for Processing of Structured and Semi-structured Data, Proceedings of the DATESO 2003 Annual Workshop, 1-20, 2003.
@@ -1635,9 +1629,9 @@ text = """
 1630.	Md. Monirul Islam, A. K. H Akhand, K. Murase, A new algorithm for training cooperative neural network ensemble, International Conference on Electrical & Computer Engineering (ICECE), 386-389, 2002.
 1631.	M. A. Kashem, M.A.H. Newton, Parallel Algorithm for Optimal c-Vertex-Ranking of Permutation Graphs, nternational Conference on Computer and Information Technology, 55-60, 2002.
 1632.	M. N. Shakeeb, M. I. Hasan, S. Asaduzzaman, A Knowledge Based Approach for Multicast Routing with Centralized Control, International Conference on Computer and Information Technology -- ICCIT, 2002.
-1633.	Md. Mostofa Akbar, E. Manning, R. Watson, G. Shoja, S. Khan, K. Li., Optimal Admission Controllers for Service Level Agreements in Enterprise Networks, 6th SCI Conference,, 2002.
-1634.	Md. Mostofa Akbar, E. Manning, G. Shoja, Application of UM-D to Optimal Server Selection for Content Routing, Proceedings of ICECE 2002,, 60-63., 2002.
-1635.	Md. Humayun Kabir, E. G. Manning, G. C. Shoja, Request-routing Trends and Techniques in Content Distribution Networks, International Conference on Computer and Information Technology (ICCIT), 315-320, 2002.
+1633.	Md. Mostofa Akbar, E. Manning, R. Watson, G. Shoja, S. Khan, K. Li., Optimal Admission Controllers for Service Level Agreements in Enterprise Networks"
+Proceedings of ICECE 2002,"Md. Mostofa Akbar, E. Manning, G. Shoja, Application of UM-D to Optimal Server Selection for Content Routing"
+n Proc. Int. Conf. on Electrical and Computer Engg.-2002,"Md. Humayun Kabir, E. G. Manning, G. C. Shoja, Request-routing Trends and Techniques in Content Distribution Networks, International Conference on Computer and Information Technology (ICCIT), 315-320, 2002.
 1636.	A. H. Tamal, M. S. Rahman, M. Sohel Rahman, M. Kaykobad, On Average Length of Cycles in Complete Graphs, 5th International Conference on Computer and Information Technology (ICCIT), 47-49, 2002.
 1637.	Md. Saidur Rahman, Takao Nishizeki, S. Ghosh, A linear algorithm for rectangular drawings of planar graphs, FIT 2002, Information Technology Letters, 19-20, 2002.
 1638.	Masud Hasan, Md. Saidur Rahman, Takao Nishizeki, A linear algorithm for compact boxdrawings of trees, 14th Canadian Conference on Computational Geometry (CCCG 2002), 154-157, 2002.
@@ -1647,8 +1641,8 @@ text = """
 1642.	A. A. Chowdhury, E. Ahmed, S. Ahmed, Md. Shohrab Hossain, C.M. Rahman, Optical Character Recognition of Bangla Characters using Neural Network: A Better Approach, 2nd International Conference on Electrical Engineering (ICEE 2002), 145-152, 2002.
 1643.	M. Ali , Muhammad Masroor Ali, Development of machine translation dictionaries for Bangla language, n Proc. Int. Conf. on Comp. and Inf. Tech.-2002, 267-271, 2002.
 1644.	M. M. H. Khan, Y.S. Ahmed, Muhammad Masroor Ali, Automated reference pattern generation of one dimensional - two dimensional character recognition algorithm, n Proc. Int. Conf. on Comp. and Inf. Tech.-2002, 152-157, 2002.
-1645.	M. W. Rashid, R. Noor, Muhammad Masroor Ali, Multiple sequence alignment through iterative insertion of sequences to the final alignment, n Proc. Int. Conf. on Electrical and Computer Engg.-2002,, 398-401, 2002.
-1646.	M. Kaykobad, P Prometheus Mitra , I. King , An Improvement to MST Algorithm for Round-Robin Tournament Ranking, International Conference on Electrical and Computer Engineering, 281-283, 2002.
+1645.	M. W. Rashid, R. Noor, Muhammad Masroor Ali, Multiple sequence alignment through iterative insertion of sequences to the final alignment"
+M. Z. Rahman,"M. Kaykobad, P Prometheus Mitra , I. King , An Improvement to MST Algorithm for Round-Robin Tournament Ranking, International Conference on Electrical and Computer Engineering, 281-283, 2002.
 1647.	M. Kaykobad, M. Sohel Rahman, On Spanning Trees with restricted Number of Leaves, International Conference on Computer and Information Technology, 53-54, 2002.
 1648.	M. Kaykobad, Asif-ul Haque , Mohammad Saifur Rahman, M. Sohel Rahman, On Average Length of Cycle in a Complete Graph, International Conference on Computer and Information Technology, 47-49, 2002.
 1649.	Abu Sayed Md. Latiful Hoque, Off-Line Dictionary-based Database Compression Architecture, PhD Summer School of the British National Conference on Databases, 2002.
@@ -1657,8 +1651,8 @@ text = """
 1652.	Abu Sayed Md. Latiful Hoque, D. R. McGregor, Off-Line Prefix Dictionary Compression Method, 3rd Annual Postgraduate Symposium on The Convergence of Telecommunications, Networking and Broadcasting (PG Net), 310-315, 2002.
 1653.	M. Kaykobad, Md Tamjidul Hoque , Use of Phonetic Similarity Property for Bangla Spell Checker, International Conference on Computer and Information Technology, 182-185, 2002.
 1654.	M. Kaykobad, Md Mahbubul Amin Majumder , ASM Obaidul Haque , Graceful Labelling of Complete Binary Trees, International Conference on Computer and Information Technology, 32-35, 2002.
-1655.	M. A. Kashem, M. Z. Rahman,, An efficient algorithm for optimal c-vertex-ranking of series-parallel graphs, roceedings of International Conference on Computer and Information Technology (ICCIT’99),, 309 – 314, 2001.
-1656.	M. A. Kashem, M. M. Hasan and S. M. N. Alam, Optimal c-vertex-ranking of weighted trees, Proceedings of International Conference on Computer and Information Technology (ICCIT2000), 2001.
+1655.	M. A. Kashem"
+International Conference on Computational Science,"M. A. Kashem, M. M. Hasan and S. M. N. Alam, Optimal c-vertex-ranking of weighted trees, Proceedings of International Conference on Computer and Information Technology (ICCIT2000), 2001.
 1657.	M. A. Kashem, A. Yasmeen, Optimal l-vertex-coloring of trees, Proceedings of Interna-tional Conference on Computer and Information Technology (ICCIT2000), 151 – –153, 2001.
 1658.	M. A. Kashem, M. E. Haque, Edge-ranking problem is NP-Complete even for series-parallel graphs, Proceedings of the 4th International Conference on Computer and Information Technology (ICCIT2001), 108 – –112, 2001.
 1659.	S. M. N. Alam, M. A. Kashem, eighted vertex-ranking problem is NP-Complete even for paths, Proceedings of the 4th International Conference on Computer and Information Technology (ICCIT2001), 99 – –102, 2001.
@@ -1670,17 +1664,17 @@ text = """
 1665.	Md. Monirul Islam, M. Shajahan, K. Murase, A new weight freezing method for reducing training time in artificial neural networks, International Conference on IEEE Systems, Man and Cybernetics Conference, 182-191, 2001.
 1666.	Md. Monirul Islam, M. Shajahan, K. Murase, Exploring constructive algorithm with stopping criteria to produce individual neural networks in ensemble, International Conference on IEEE Systems, Man and Cybernetics Conference, 341-346, 2001.
 1667.	Md. Monirul Islam, S. Terao, K. Murase, Using population information in crossover operation for the evolution of autonomous robots in open-environment, International Conference on Knowledge-Based Intelligent Information Engineering System and Allied Technologies (KES), 864-868, 2001.
-1668.	Md. Mostofa Akbar, E. Manning, G. Shoja, S. Khan, Heuristic Solutions for the Multidimensional Multiple-Choice Knapsack Problem, Lecture Notes on Computer Science 2074, International Conference on Computational Science,, pp 659 -668., 2001.
-1669.	Md. Mostofa Akbar, E. Manning, G. Shoja, Admission Control and QoS adaptation in Distributed Multimedia Server System, ITCom 2001, Proceedings of SPIE, Internet and Multimedia Management Systems II,, 246-257., 2001.
-1670.	Md. Saidur Rahman, S. Ghosh, Takao Nishizeki, Rectangular drawings of subdivisions of 3-connected planar graphs, 3rd International Conference on Computer and Information Technology (ICCIT 2000), 158-162, 2001.
-1671.	Masud Hasan, Md. Saidur Rahman, A linear algorithm for finding visibility graph of trees, International Conference on Electrical and Computer Engineering (ICECE 2001),, 287-289, 2001.
-1672.	Md. Saidur Rahman, Rectangular drawings of plane 4-graphs, International Conference on Electrical and Computer Engineering (ICECE 2001), 284-286, 2001.
-1673.	S. Saha, A. K. M. Azad, Md. Saidur Rahman, A linear algorithm for automated VLSI floorplanning and routing, 4th International Conference on Computer and Information Technology (ICCIT 2001),, 165-170, 2001.
-1674.	I. Ahmed, Mohammad Mahfuzul Islam, Open loop quality control of product manufacturing using genetic algorithms, International Conference on Computers and Information Technology (ICCIT), 286-290, 2001.
+1668.	Md. Mostofa Akbar, E. Manning, G. Shoja, S. Khan, Heuristic Solutions for the Multidimensional Multiple-Choice Knapsack Problem, Lecture Notes on Computer Science 2074"
+Internet and Multimedia Management Systems II,"Md. Mostofa Akbar, E. Manning, G. Shoja, Admission Control and QoS adaptation in Distributed Multimedia Server System, ITCom 2001, Proceedings of SPIE"
+International Conference on Electrical and Computer Engineering (ICECE 2001),"Md. Saidur Rahman, S. Ghosh, Takao Nishizeki, Rectangular drawings of subdivisions of 3-connected planar graphs, 3rd International Conference on Computer and Information Technology (ICCIT 2000), 158-162, 2001.
+1671.	Masud Hasan, Md. Saidur Rahman, A linear algorithm for finding visibility graph of trees"
+4th International Conference on Computer and Information Technology (ICCIT 2001),"Md. Saidur Rahman, Rectangular drawings of plane 4-graphs, International Conference on Electrical and Computer Engineering (ICECE 2001), 284-286, 2001.
+1673.	S. Saha, A. K. M. Azad, Md. Saidur Rahman, A linear algorithm for automated VLSI floorplanning and routing"
+International Conference on Computers and Information Technology (ICCIT),"I. Ahmed, Mohammad Mahfuzul Islam, Open loop quality control of product manufacturing using genetic algorithms, International Conference on Computers and Information Technology (ICCIT), 286-290, 2001.
 1675.	M. Awrangjeb, Mohammad Mahfuzul Islam, An efficient and effective method for data mining, International Conference on Computers and Information Technology (ICCIT), 72-76, 2001.
 1676.	M. R. H. Khondoker, C. M. Rahman, Mohammad Mahfuzul Islam, Effectiveness of neural networks and genetic algorithm in hull form design, ASME 2001 Design Engineering Technical Conference (DETC-01), 2001.
-1677.	Mohammad Mahfuzul Islam, C. M. Rahman, M. R. H. Khondoker, Generation of vessels’ faired hull form using neural networks and genetic algorithms, International Conference on Computers and Information Technology (ICCIT),, 130-134, 2001.
-1678.	M. Kaykobad, RA Chowdhury, Sorting using heap structure, Proceedings of International Conference on Computer and Information Technology, 2000, 26-30, 2001.
+1677.	Mohammad Mahfuzul Islam, C. M. Rahman, M. R. H. Khondoker, Generation of vessels’ faired hull form using neural networks and genetic algorithms"
+speech and Document Processing,"M. Kaykobad, RA Chowdhury, Sorting using heap structure, Proceedings of International Conference on Computer and Information Technology, 2000, 26-30, 2001.
 1679.	M. Kaykobad, SK Nath, A simple linear time algorithm for triangulation of a simple polygon, Proceedings of International Conference on Computer and Information Technology, 2000, 17-20, 2001.
 1680.	M. Kaykobad, PP Mitra, R. Hasan, A linear time algorithm for single source shortest path problem, Proceedings of International Conference on Computer and Information Technology, 2000, 41-43, 2001.
 1681.	M. Kaykobad, Md. Mostofa Akbar, S. Hadian, Fault tolerance of distributed multimedia system using quality adaptation, Proceedings of International Conference on Computer and Information Technology, 2000, 55-59, 2001.
@@ -1745,8 +1739,8 @@ text = """
 1740.	M. Kaykobad, Suman Kumar Nath, Rezaul Alam Chowdhury, On Some Classes of Spanning Trees, An International Conference on Computer and Information Technology, 42-44, 1998.
 1741.	M. Kaykobad, Suman Kumar Nath, M. Mamunul Islam, F.J.M. Salzborn, M.M. Murshed, Majority Spanning Trees and Their Applications, An International Conference on Computer and Information Technology, 33-36, 1998.
 1742.	M. Kaykobad, Md. Mostofa Akbar, A.K.M. Azad , F.J.M. Salzborn, Complexity of Max-Cut on Special Graphs, An International Conference on Computer and Information Technology, 28-32, 1998.
-1743.	M. Kaykobad, A.F.R. Rahman, Md. Abdus Sattar, A novel hybrid approach to handwritten Bangla character recognition, Proc. International Conference on Computational Linguistics, speech and Document Processing,, A5-A10, 1998.
-1744.	M. Meftauddin, M. Hasan, Muhammad Masroor Ali, Dynamic programming based 2-dimensional warping algorithm for Bangla character recognition, n Proc. Nat. Conf. Comp. & Inf. Syst.-1998, 153-156, 1998.
+1743.	M. Kaykobad, A.F.R. Rahman, Md. Abdus Sattar, A novel hybrid approach to handwritten Bangla character recognition, Proc. International Conference on Computational Linguistics"
+First National Conference on Computer and Information Systems,"M. Meftauddin, M. Hasan, Muhammad Masroor Ali, Dynamic programming based 2-dimensional warping algorithm for Bangla character recognition, n Proc. Nat. Conf. Comp. & Inf. Syst.-1998, 153-156, 1998.
 1745.	A.A. Kavi, Muhammad Masroor Ali, The performance evaluation of the max-min distance algorithm, n Proc. Nat. Conf. Comp. & Inf. Syst.-1998, 137-141, 1998.
 1746.	D. Akhter, Muhammad Masroor Ali, A fast thinning algorithm for Bangla characters, n Proc. Nat. Conf. Comp. & Inf. Syst.-1998, 137-141, 1998.
 1747.	A. M. Rashid, Muhammad Masroor Ali, On line recognition of handwritten characters using 1-dim 1-dim DP approach, n Proc. Nat. Conf. Comp. & Inf. Syst.-1998, 86-90, 1998.
@@ -1755,10 +1749,10 @@ text = """
 1750.	Md. Saidur Rahman, Shin-ichi Nakano, Takao Nishizeki, A Linear Algorithm for Optimal Orthogonal Drawings of Triconnected Cubic Plane Graphs, Graph Drawing 1997, 99-110, 1997.
 1751.	A.K.M. Ashikur Rahman, M. Kaykobad, Seek time in replicated two-headed disk systems, National Conference on Computer and Information Systems, 15-20, 1997.
 1752.	Md. Humayun Kabir, Chowdhury Mofizur Rahman, Database Normalization using Machine Learning Techniques, National Conference on Computer and Information Systems, 1997.
-1753.	M. Z. Rahman, S. Ghosh, Md. Mostofa Akbar, M. Kaykobad, M. M. Murshed, Divide and Conquer Approach to Solving System of Linear Equations, First National Conference on Computer and Information Systems,, 7-12, 1997.
-1754.	A. Z. E. Hossain, M. Z. Rahman, Md. Monirul Islam, On the performance of a multi-channel R-ALOHA protocol for voice and data integration in short-haul wireless communication environments, IEEE International Conference on Personal Wireless Communications, 465-469, 1997.
-1755.	Md. Saidur Rahman, Shin-ichi Nakano, Takao Nishizeki, A linear-time algorithm for orthogonal drawings of triconnected cubic plane graphs with the minimum number of bends, Japan-Korea joint workshop on Algorithms and Computation,, 24-31, 1997.
-1756.	Mohammad Mahfuzul Islam, C. M. Rahman, A hybrid learning technique for concept acquisition, National Conference on Computers and Information Systems (NCCIS), 84-89, 1997.
+1753.	M. Z. Rahman, S. Ghosh, Md. Mostofa Akbar, M. Kaykobad, M. M. Murshed, Divide and Conquer Approach to Solving System of Linear Equations"
+Japan-Korea joint workshop on Algorithms and Computation,"A. Z. E. Hossain, M. Z. Rahman, Md. Monirul Islam, On the performance of a multi-channel R-ALOHA protocol for voice and data integration in short-haul wireless communication environments, IEEE International Conference on Personal Wireless Communications, 465-469, 1997.
+1755.	Md. Saidur Rahman, Shin-ichi Nakano, Takao Nishizeki, A linear-time algorithm for orthogonal drawings of triconnected cubic plane graphs with the minimum number of bends"
+,"Mohammad Mahfuzul Islam, C. M. Rahman, A hybrid learning technique for concept acquisition, National Conference on Computers and Information Systems (NCCIS), 84-89, 1997.
 1757.	A. Z. E. Hossain, M. Z. Rahman, Mohammad Mahfuzul Islam, On the performance of a multichannel R-ALOHA protocol for voice and data integration in short-haul wireless communication environments, IEEE International Conference on Personal Wireless Communications (ICPWC), 465-469, 1997.
 1758.	M. Kaykobad, Nazmul Haque, Syed M. Rahman, Retrieval Effectiveness of Thumbnail Transformation, National Conference on Computer and Information Systems, 167-172, 1997.
 1759.	M. Kaykobad, A.K.M. Azad, A Variation of MergeSort Algorithm Requiring Fewer Comparisons, National Conference on Computer and Information Systems, 52-57, 1997.
@@ -1797,22 +1791,4 @@ text = """
 1792.	S.B. Ahsan, S.P. Aziz, M. Sohel Rahman, Longest Common Subsequence Problem for Run-Length-Encoded Strings, Journal of Computers, 9, 1769-1775, 2014.
 1793.	D. M. Abdullah, W. M. Abdullah, M. Sohel Rahman, An improved heuristic algorithm for sorting genomes with inverted block-interchange, 14th International Conference on Computer and Information Technology (ICCIT), 128 - 133, 2011.
 1794.	C. S. I, Finding patterns in given intervals (conference, , 0000.
-1795.	M. Murshed, Anindya Iqbal, T. Sabrina, Kh. M. Alam, A Subset Coding based k-Anonymization Technique to Trade-off Location Privacy and Data Integrity in Participatory Sensing Systems, , 0000.
-
-"""
-
-# Regex pattern to extract authors and titles while ignoring leading numbers
-pattern = r"^\d+\.\s*([^,]+(?:,\s*[^,]+)*),\s*([^,]+?),"
-
-# Extract matches
-matches = re.findall(pattern, text, re.MULTILINE)
-
-# Save to CSV
-with open('research_titles_authors.csv', 'w', newline='', encoding='utf-8') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(['Research Title', 'Author List'])  # Write header
-    for match in matches:
-        authors, title = match
-        writer.writerow([title.strip(), authors.strip()])
-
-print("Data saved to research_titles_authors.csv")
+1795.	M. Murshed, Anindya Iqbal, T. Sabrina, Kh. M. Alam, A Subset Coding based k-Anonymization Technique to Trade-off Location Privacy and Data Integrity in Participatory Sensing Systems"
