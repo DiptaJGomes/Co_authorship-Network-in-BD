@@ -3,102 +3,63 @@ import re
 
 # Provided text
 text = """
-[1] Logic scheme Optimizsation of Mealy Automata on  PLA. “Automatics  and Computer Science”- . Riga, 1991,  p.90-94 (Russ).
+[1]     Tania Khatun, Md. Asraful Sharker Nirob, Prayma Bishshash, Morium Akter, Mohammad Shorif Uddin, "A comprehensive dragon fruit image dataset for detecting the maturity and quality grading of dragon fruit," Data in Brief (Elsevier), Vol. 51, December 2023, https://doi.org/10.1016/j.dib.2023.109936  (WoS, Scopus, Q2)
 
-[2] Logic scheme Optimization of Mealy Automata on PLA.” Cybernetics and System analysis”.  – Kiev, 1991, No. 5, P. 180-184 (Russ.)
+[2]     Morium Akter, Mohammad Abu Baker and Mohammad Shorif Uddin, “Smart Home Security System”, Transactions on Engineering and Computing Sciences - Vol. 11, No. 4 Publication Date: August 25, 2023  htps://doi.org/10.14738/tecs.114.14975
 
-[3] Optimization of logic condition forming scheme in matrix realization of automata. ”Microprocessor Systems and their uses”- Kiev, 1990, P. 29-34 (Russ.).
+[3]     Nusrat Sultana, Sumaita Binte Shorif, Morium Akter, Mohammad Shorif Uddin, "A dataset for successful recognition of cucumber diseases," Data in Brief (Elsevier), vol. 49, August 2023, https://doi.org/10.1016/j.dib.2023.109320 (WoS, Scopus, Q2)
 
-[4] PR-Automata: Functions, Optimization, Selection of Synthesizing Method. "A Methodical mini guide.” – Kiev. IC, 1991, 26P (Russ).
+[4]        Md. Al Mamun, Md. Solaiman Kabir, Morium Akter, Mohammad Shorif Uddin, "Recognition of human skin diseases using inception-V3 with transfer learning," International Journal of Information Technology, (Springer), August 2022, https://doi.org/10.1007/s41870-022-01050-4  (Scopus, Q2)
 
-[5] Systematic Instructions for Solving Problems on the course: “Applied Theory of Digital Automata”. – Donetsk. DPI, 1999, 25P (Russ).
+[5]      Sk. Fahmida Islam, Md. Iqramul Hasan, Morium Akter, Mohammad Shorif Uddin, "Implementation and Analysis of an IoT-Based Home Automation Framework," Journal of Computer and Communications, vol. 9, no. 3, pp. 143-157, March 2021. https://doi.org/10.4236/jcc.2021.93011
 
-[6] Computer Aided Design for Control unit based on matrix LSI “CI-90.” All-Union Scientific Technical Seminar on “CAD in Radio Electronics.”-Tver , 1991. P. 7-8(Russ.).
+[6]     Sk. Fahmida Islam, Morium Akter, Mohammad Shorif Uddin, "Design and implementation of an internet of things based low-cost smart weather prediction system," International Journal of Information Technology, (Springer)  July 2021 https://doi.org/10.1007/s41870-021-00732-9 (Scopus, Q2)
 
-[7] Development and investigation of the multilevel realization of microprogarmmed automata on programmable large scale integration scheme with matrix structure, Ph.D. thesis resume, Kiev, 1993.141P (Russ.).
+[7]     Md. Tarek Habib, Anup Majumder, A.Z.M. Jakaria, Morium Akter, Mohammad Shorif Uddin, Farruk Ahmed, “Machine vision-based papaya disease recognition,” Journal of King Saud University – Computer and Information Sciences 32 (2020) 300–309 (Elsevier), https://doi.org/10.1016/j.jksuci.2018.06.006  (WoS, Scopus, Q1)
 
-[8] Minimization of Microprogram automaton ( Sequential Machine) using programmable logic arrays (PLA). “Jahangirnagar University Journal of Science”. – Dhaka, Vol. 19, 1995, P. 65-70.
+[8]     Md. Al Mamun, Morium Akter, Mohammad Shorif Uddin, "A Survey on Matching of Shoeprint with Reference Footwear in Forensic Study," Journal of Computer and Communications, Vol. 7, pp. 1-5, September 2019, https://doi.org/10.4236/jcc.2019.79002
 
-[9] Software Panorama: A case study for Bangladesh. “National Conference on Computer and  Information Systems. –Dhaka, 1997, P.16-21.
+[9]     Umme Sara, Morium Akter, Mohammad Shorif Uddin, “Image quality assessment through FSIM, SSIM, MSE and PSNR- A comparative study,” Journal of Computer and Communications, Vol. 7, pp. 8-18, March 2019, https://doi.org/10.4236/jcc.2019.73002
 
-[10] Minimization of Hardware cost for the synthesis of Mealy Automata using programmable logic arrays. “Bangladesh Journal of Computer and Information Technology”. – Dhaka, Vol. 7, No.1, 2000, P.34-38.
+[10]  Aditi Sarker, Morium Akter and Mohammad Shorif Uddin, “Simulation of Hazy Image and Validation of Haze Removal Technique,” Journal of Computer and Communications (JCC), vol. no.7, pp. 62-72, February, 2019
 
-[11] Design and Software Implementation of Traffic Signaling. “Jahangirnagar University Journal of Science”. – Dhaka, Vol. 24, 2001, P.77-84.
+[11]   Morium Akter, Liton Jude Rozario, Mohammad Shorif Uddin, “Gait Recognition for Security and Surveillance System- A Review,” International Journal of Computer Science and Information Security (Thomson Reuters Indexed), Vol. 16, no. 6, pp. 143-149, June 2018
 
-[12] Optimization of Microprogrammed Automata Scheme for the input Variables Replacement Method.-ICCIT, Dhaka, Vol. 1,2003,P.104-108.
+[12] Md. Tarek Habib, Anup Majumder, A.Z.M. Jakaria, Morium Akter, Mohammad Shorif Uddin, Farruk Ahmed, “Machine Vision Based Papaya Disease Recognition,” Journal of King Saud University - Computer and Information Sciences (Elsevier), 2018
 
-[13] Structures of Multilevel Scheme of Mealy Automata on PLA.-ICCIT,Dhaka,Vol.1,2003,P.192-196.
+[13]  Morium Akter, “Detection of Microaneurysm in Diabetic Retinopathy,” International Journal of Computer Science and Information Security (Thomson Reuters Indexed), Vol. 15, No. 8, pp. 200-203, August 2017
 
-[14] Implementation of Virtual Ethernet LAN -ICCIT, Dhaka, Vol.1, 2003 P.431-435,
+[14] Morium Akter and Mohammad Shorif Uddin, “Android-Based Diabetes Management System”,  International Journal of Computer Applications, vol. 110,  No. 10, January 2015, pp. 5-9
 
-[15] Anthropocentric and tecnocentric systems for intellectual  controlling –Bulletin Donetsk  University, Ukraine, Series A, No.1, page 434-438, 2005.
+[15]  Morium Akter, Mohammad Shorif  Uddin and Md. Atiqul Islam, “A Mobile-Based System for Management of Hypertension with Diabetes”, Journal of Computer Science and Software Application, Volume 1, Number 2, December 2014, pp. 98-107
 
-[16] Proposed framework for information security management with its significant for an organization, Journal of electronics and computer science, J.U., vol. 6, 2005.
+[16] Morium  Akter and Mohammad Shorif Uddin,  “Morphology-Based Exudates Detection in Diabetic Retinopathy”, International Journal of Advances in Biomedical Science and Engineering, Volume 1, Number 1, September 2014, pp. 43-53
 
-[17] A Newly Designed Markovian Chain for    Packet Data Traffic,’ Jahangirnagar University Journal of Science, vol.29, pp.63-68,  Dec’2006
+[17]  Morium Akter and Mohammad Shorif Uddin, “A Review on Automated diagnosis of Diabetic Retinopathy”, An International Journal of Advanced Computer Technology, Volume 3, Issue 10, pp. 1161-1166
 
-[18] A Mathematical Model of Traffic Performance  of Mobile Cellular Network,' Journal of  Electronics and Computer Science, vol.8,   pp.1-9, June 2007.
+[18] Mohammad Shorif Uddin and Morium Akter, “Development of a knowledge-based diagnosis and management system for diabetes mellitus through web-based technique”, ULAB Journal of Science and Engineering, vol.1, 2010, pp.37-41
 
-[19] Modeling of Mixed  Traffic for Mobile Cellular Network,’ Journal of Telecommunications and Information Technology, vol. 1/2007, pp. 83-89, Szachowa st, 04-894, Warsaw, Poland.
+[1]      Mohammad Reduanul Haque, Rubaiya Hafiz, Mohammad Zahidul Islam, Amina Khatun, Morium Akter, Mohammad Shorif Uddin, "Handwritten Indic Digit Recognition using Deep Hybrid Capsule Network," Proc. of International Joint Conference on Advances in Computational Intelligence (IJCACI 2020), 20-21 November 2020, Dhaka, Bangladesh, (Algorithms for Intelligent Systems, Springer), pp. 539-547. https://doi.org/10.1007/978-981-16-0586-4_43
 
-[20] Modeling of Voice Data  Integrated Traffic in 3G Mobile Cellular Network,’ Journal of  Telecommunications   and Information Technology, vol. 2/2007, pp. 103-108, Szachowa st, 04-894, Warsaw, Poland.
+[2]      Rabeya Basri, M. Reduanul Haque, Morium Akter, Mohammad Shorif Uddin, "Bangla Handwritten Digit Recognition Using Deep Convolutional Neural Network," International Conference Computing Advancements (ICCA 2020), ACM, January 10-12, 2020, Dhaka, Bangladesh (ACM Digital Library). https://doi.org/10.1145/3377049.3377077
 
-[21] Performance Evaluation of Wireless ATM Network Based on Two States Absorbing Markovian Chain,’ Jahangirnagar University Journal of Science, vol.30, No.2, 215-228, Dec’2007.
+[3]      Morium Akter,  Jannatul Ferdous, Mahmuda Najnin Eva, Sumaita Binte Shorif, Sk. Fahmida Islam and M. Shorif Uddin, "Vehicle Detection and Its Speed Measurement," Proc. of International Conference on Advances in Energy Management (ICAEM 2019), 20-21 December 2019, Jodhpur, India, (Algorithms for Intelligent Systems, Springer), https://doi.org/10.1007/978-981-15-8820-4_9
 
-[22] Performance Evaluation of    Underlay Overlay Cellular System Based on Equivalent Random Theory Traffic  Model,’ , Journal of Science, University of Dhaka.
+[4]      Md. Sabab Zulfiker, Nasrin Kabir, Hafsa Moontari Ali,  M. Reduanul Haque, Morium Akter and M. Shorif Uddin, “Sentiment Analysis Based on Users' Emotional Reactions about Ride-sharing Services on Facebook and Twitter,” Proc. of International Joint Conference on Computational Intelligence (IJCCI 2019), 25-26 October 2019, Dhaka, Bangladesh, (Algorithms for Intelligent Systems, Springer), pp. 397-408, https://doi.org/10.1007/978-981-15-3607-6_32
 
-[23] M.N.Y. Ali, J.K. Das,  S.M. Abdullah  Al  Mamun, M.E.H. Choudhury, “Specific  Features of a Converter of Web Documents from Bengali to Universal Networking   Language”, International Conference on Computer and Communication Engineering 2008 (ICCCE’08), Kuala Lumpur, Malaysia.pp. 726-731 
+[5]      Nusrat Jahan Farin, Morium Akter and Mohammad Shorif Uddin, "Data Mining Techniques for Predicting User Interest in Facebook Pages: A Comparison," International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT 2019), May 3-5, 2019, Dhaka, Bangladesh (IEEE Xplore), https://doi.org/10.1109/ICASERT.2019.8934618
 
-[24] M.N.Y. Ali, J.K. Das, S.M. Abdullah Al Mamun, A. M. Nurannabi,”Morpholoical     Analysis of Bangla worfs for Universal Networking Language”, International Conference on Digital Information Management, icdim, 2008, London, England, pp. 532-537
+[6]      Mohammad Shorif Uddin, Bishal Gautam, Aditi Sarker, Morium Akter and Mohammad Reduanul Haque, “Image-Based Automated Haze Removal Using Dark Channel Prior”, 2017 IEEE Region 10 Humanitarian Technology Conference (R10-HTC), 21 Dec - 23 Dec 2017, Dhaka, Bangladesh
 
-[25] M.N.Y. Ali, M. Ameer Ali,  A. M. Nurannabi, J.K. Das, “Algorithm for Conversion of Bangla Sentence to Universal Networking Language, ”International Conference on Asian Language Processing 2010  (IALP’10), Haribin, China,  December 28-30,2010 
+[7]      Morium Akter, Mohammad Shorif Uddin and Mahmudul Hasan Khan, “Morphology-based exudates detection from color fundus images in diabetic retinopathy”, International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT) 2014, ©2014 IEEE, Dhaka, Bangladesh
 
-[26] M.N.Y. Ali, M. Z. H. Sarker, G.A. Farook, J.K. Das, “Rules for Morphological Analysis of Bangla Verbs for Universal Networking Language, ”International Conference on Asian Language Processing 2010  (IALP’10), Haribin, China,  December 28-30,2010 
+[8]      Morium Akter, Mohammad Shorif Uddin and Aminul Haque, “A Knowledge-Based System for Diagnosis and Management of Diabetes Mellitus”, 13th International Conference on Biomedical Engineering (ICBME2008), Singapore, pp.1000-1003 (Published  as springer lecture notes)
 
-[27] M.N.Y. Ali, S. Al Noor, M. Z. Hossain, J.K. Das, “Development of Analysis Rules for Bangla Root and Primary Suffix for Universal Networking Language, ”International Conference on Asian Language Processing 2010  (IALP’10), Haribin, China,  December 28-30, 2010 
+[9]      Morium Akter, Mohammad Shorif Uddin, Aminul Haque " Design of an Expert System for the Management of Hypertension in Patients with Diabetes Mellitus "  International Conference on Electronics, Computer and Communication (ICECC 2008) University of Rajshahi, Bangladesh, pp.523-527
 
-[28] M. Z. Hossain, M.N.Y. Ali, S. M. Allayear, J.K. Das, “Development of Templates for Dictionary Entries of Bangla Roots and Primary Suffixes for Universal Networking Language, ”International Conference on Asian Language Processing 2010  (IALP’10), Haribin, China,  December 28-30, 2010 
+[10]  Mushfeq-Us-Saleheen Shameem, Syed Foysol Islam, M. M. Rajib Billah, Morium Akter  "An efficient technique for Speech Enhancement using an Analog Electronic Circuit for Voice over Internet"  International Conference on Electronics, Computer and Communication (ICECC 2008) University of Rajshahi, Bangladesh, 188-192
 
-[29] M.N.Y. Ali, A. M. Nurannabi, M. Ameer Ali, J.K. Das, “Conversion of Bangal Sentence for Universal Networking Language, ”International Conference on Computer and Information Technology,  December 23-35, 2010 
-
-[30] M. N. Y. Ali, Md. Z. H. Sarker, J. K. Das, “Analysis and Generation of Bengali Case Structure Constrcts for Universal Networking Language’’, IJCA International Journal of Computer Applications, March, 2011.
-
-[31] M. N. Y. Ali, Md. Z. H. Sarker G. F. Ahmed, J. K. Das, “Conversion of Bangla Sentence into Universal Networking Language Expression’’, IJCSI International Journal of Computer Science Issues, Vol. 8, Issue 2, March 2011.
-
-[32] Aloke Kumar Saha, Jugal Krishna Das, “Identification of Extreme Guilt and Grave Fault in Bengali Language using Machine Learning”, International Journal of Recent Technology and Engineering (IJRTE), (SCOPUS Indexed International Journal), Vol. 8, No. 6, ISSN: 2277-3878, pp. 1359-1365, March 2020. 
-
-[33] Aloke Kumar Saha, M.F. Mridha, Jahir Ibna Rafiq, Jugal K Das, “Information Extraction from Natural Language Using Universal Networking Language”, International Conference on Computer, Communications and Computational Studies (IC4S), Thailand, October 2018. 
-
-[34] Aloke Kumar Saha, M. F. Mridha, Jahir Ibna Rafiq and Jugal Krishna Das, “Data Extraction from Natural Language Using Universal Networking Language”, International Conference on Current Trends in Computer, Electrical, Electronics and Communication (ICCTCEEC), Karnataka, India, September 2017. (IEEE Xplore )
-
-[35] Aloke Kumar Saha, M. F. Mridha, Jugal Krishna Das,“ Creating a  Bangla Enconversion  Module for Generating UNL Expression from Bangla  Bagdhara (Phrase and Idoms)”, 1292-JEAS, Journal Teknologi, April 2017.
-
-[36] M. F. Mridha, Aloke Kumar Saha, Md. Akhtaruzzaman Adnan, Molla Rashied Hussein and Jugal Krishna Das,”Design And Implementation Of An Efficient Enconverter For Bangla Language” ARPN Journal of Engineering and Applied Sciences, Vol. 10, No. 15, ISSN 1819-6608, pp. 6543-6548, August 2015.
-
-[37] Aloke Kumar Saha, Md. Firoz Mridha, Molla Rashied Hussein and Jugal Krishna Das, “Design and Implementation of an efficient DeConverter for generating Bangla sentences from UNL Expression”, 4th International Conference on Informatics, Electronics & Vision (ICIEV), June 2015.
-
-[38] Muhammad F. Mridha, Aloke Kumar Saha and Jugal Krishna Das, “New Approach of Solving Semantic Ambiguity Problem of Bangla Root Words Using Universal Networking Language (UNL)”, 3rd International Conference on Informatics, Electronics & Vision (ICIEV), May 2014.
-
-[39] Aloke Kumar Saha, Muhammad F. Mridha and Jugal Krishna Das, “Analysis of Bangla Root words for Universal Networking Language (UNL)”, International Journal of Computer Applications (0975 – 8887) Vol. 89, March 2014.
-
-[40] Muhammad F. Mridha, Aloke Kumar Saha and Jugal Krishna Das, “Solving Semantic Problem of Phrases in NLP Using Universal Networking Language (UNL)”, International Journal of Advanced Computer Science and Applications (IJACSA), Special Issue on Natural Language Processing (NLP), 2014. 
-
-[41] Aloke Kumar Saha, Muhammad F. Mridha, Shammi Akhtar and Jugal Krishna Das, “Attribute Analysis for Bangla Words for Universal Networking Language (UNL)”, International Journal of Advanced Computer Science and Applications (IJACSA), Vol. 4, No.1, 2013.
-
-[42] Aloke Kumar Saha, Muhammad F. Mridha and Jugal Krishna Das, “Semantic Analysis of Bangla Language for Developing A UNL Deconverter”, International Journal of Advanced Research in Computer Science and Software Engineering (IJARCSSE), ISSN: 2277 128X, Vol. 2, No. 12, December 2012.
-
-[43] Aloke Kumar Saha, Muhammad F. Mridha, Kamal Kanti Biswas, and Jugal Krishna Das, “A New Approach of Developing a Deconverting rules for Bangla Language”, International Journal of Computer Engineering Science (IJCES), ISSN: 2250:3439, Vol. 2, No. 12, December 2012.
-
-[44] Aloke Kumar Saha, Muhammad F. Mridha, Manoj Banik, and Jugal Krishna Das, “Specification of UNL Deconverter for Bangla Language”, International Journal of Scientific & Engineering Research (IJSER), ISSN: 2229-5518, Vol. 3, No. 9, September 2012.
-
-[45] M. F. Mridha, Molla Rashied Hussein, Md. Musfiqur Rahaman, Jugal Krishna Das “A Proficient Autonomous Bangla Semantic Parser for Natural Language Processing”, ARPN Journal of Engineering and Applied Sciences, VOL. 10, NO. 15, AUGUST 2015,ISSN 1819-6608, pp 6398-6403. (SCOPUS)
-
-[46] Muhammad Firoz Mridha, Manoj Banik, Md. Nawab Yousuf Ali, Mohammad Nurul Huda, Chowdhury Mofizur Rahman, Jugal Krishna Das, “Formation of Bangla Word Dictionary Compatible with UNL Structure,” SKIMA’10, Paro, Bhutan, August, 2010.
-
-[47] Muhammad Firoz Mridha, Md. Zakir Hossain, Manoj Banik, Mohammad Nurul Huda, Chowdhury Mofizur Rahman, Jugal Krishna Das, “ Development of Grammatical Attributes for Bangla Root and Primary Suffix for Universal Networking Language,” SKIMA’10, Paro, Bhutan, August, 2010.
-
-[48] Muhammad Firoz Mridha, Mohammad Nurul Huda, Chowdhury Mofizur Rahman, Jugal Krishna Das, “Development of Morphological Rules for Bangla Root and Verbal Suffix for Universal Networking Language”. 6th International Conference on Electrical and Computer Engineering,ICECE 2010, 18-20 December 2010, Dhaka, Bangladesh. (IEEE Xplore )
-
+[11]  Mushfeq-Us-Saleheen Shameem, Syed Foysol Islam, M. M. Rajib Billah, Morium Akter  "Performance Analysis Design of Gold Codes and Walsh Codes  for Application Layer Correlation Techniques in CDMA technology"  International Conference on Electronics, Computer and Communication (ICECC 2008) University of Rajshahi, Bangladesh, 193-197
 """
 
 # Regex pattern to extract authors and titles
@@ -108,7 +69,7 @@ pattern = r"\[\d+\]\s*(.*?),\s*“(.*?)”"
 matches = re.findall(pattern, text)
 
 # Save to CSV
-with open('authors_titles_ju.csv', 'w', newline='', encoding='utf-8') as csvfile:
+with open('authors_titles_ju_9.csv', 'w', newline='', encoding='utf-8') as csvfile:
     writer = csv.writer(csvfile)
     writer.writerow(['Title', 'Authors'])  # Write header
     for title, authors in matches:

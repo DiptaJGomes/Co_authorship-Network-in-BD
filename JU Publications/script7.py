@@ -1,8 +1,8 @@
-import csv
-import re
+import csv  
+import re  
 
-# Input text
-text = """
+# Provided text  
+text = """ 
 Tanjim Taharat AURPA; Samiha Maisha Jeba; Md Shoaib Ahmed; Mohammad Aman Ullah; Maria Mehzabin; Md Musfique Anwar. Bangla_MER: A Unique Dataset for Bangla Mathematical Entity Recognition. Data in Brief, 2024 (Accepted). (Journal Rank: Q2, SCI). 
 
 Tabia Tanzin Prama, Md. Saiful Islam, Md Musfique Anwar, Ifrat Jahan. AI-Enabled Deep Depression Detection and Evaluation Informed by DSM-5-TR. IEEE Transactions on Computational Social Systems. 2024 (Accepted) (Journal Rank: Q1, SCI, IF: 5.0).  
@@ -229,19 +229,33 @@ Md. Musfique Anwar, Mohammad Zabed Anwar and Md. Al-Amin Bhuiyan. Structural Ana
  
 Tahmina Khatoon and Md. Musfique Anwar. Web-based Parcel Managemen.System using Mobile Station. Proceedings of NCCIS 2009, 3rd National Conference on Communication and Information Security, Dhaka, Bangladesh, 4th February 2009, pp. 43–47.
 
-"""
 
-# Regular expression to match author list and title
-pattern = r"^(.+?), (.+?), .+?\. doi:"  # Captures authors and title
+"""  
 
-# Extract matches
-matches = re.findall(pattern, text, re.MULTILINE)
+# Split the text into individual entries based on double newlines  
+entries = text.strip().split("\n\n")  
 
-# Save data to a CSV file
-with open('author_title_list.csv', 'w', newline='', encoding='utf-8') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerow(['Authors', 'Title'])  # Write the header
-    for authors, title in matches:
-        writer.writerow([authors.strip(), title.strip()])
+# Prepare data for CSV  
+data = [["Authors", "Title"]]  
 
-print("Data saved to author_title_list.csv")
+# Extract authors and titles  
+for entry in entries:  
+    # Split by period, and take the first part for authors, then strip  
+    parts = entry.split(".")  
+    authors = parts[0].strip()  
+    
+    # The title is the second part, also strip  
+    title = parts[1].strip() if len(parts) > 1 else ""  
+    
+    # Append the authors and title to the data list  
+    data.append([authors, title])  
+
+# Define the CSV file path  
+csv_file_path = 'authors_titles_ju_10.csv'  
+
+# Write to CSV  
+with open(csv_file_path, mode='w', newline='', encoding='utf-8') as file:  
+    writer = csv.writer(file)  
+    writer.writerows(data)  
+
+print(f"Data has been successfully written to {csv_file_path}.") 
