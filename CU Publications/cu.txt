@@ -1,0 +1,1130 @@
+
+2025
+Sentiment Analysis of Danish Health Care Industries' Financial Text
+Rudra Pratap Deb Nath, Emil Bækdahl, Magnus Brogaard Larsen, Jakob Skallebæk, Jesper Juul Severinsen
+Inderscience, International Journal of Data Mining, Modelling and Management, Volume 17, Issue 4, December - 2025
+2024
+Publishing Bangladesh Socio-economic Data as Linked and Multidimensional Data
+Rudra Pratap Deb Nath, Amrit Bhattacharjee
+IEEE, Proceedings of 2024 27th International Conference on Computer and Information Technology (ICCIT), December - 2024
+Inspired by the vision of achieving a ‘Smart Bangladesh,’ the Bangladesh Bureau of Statistics (BBS) consistently endeavors to manage and disseminate socio-economic data on the web. However, the existing datasets face several challenges: 1) they are presented in an unsustainable, readonly, static, and aggregated format, 2) they lack adherence to the Findability, Accessibility, Interoperability, and Reusability (FAIR) principles, and 3) they are not conducive to the interactive analysis and integration with other data sources. In this paper, we propose a comprehensive solution by outlining a step-by-step process for constructing a knowledge graph specifically tailored to the Bangladesh census data. The resulting knowledge graph is presented using the Resource Description Framework (RDF) model, enriched with multidimensional semantics, facilitating Online Analytical Processing (OLAP)-like analysis and aligning with the FAIR and linked data principles. It has a size of 6.31 GB, is linked to 772 external resources, and contains approximately 39 million RDF triples. Our evaluation focuses on assessing both the integration process and the quality of the generated knowledge graph in terms of FAIR principles and OLAP operability.
+A Cross-Language Analysis on Sarcasm Detection
+Nuzat Tasnim, Rudra Pratap Deb Nath
+IEEE, Proceedings of 2024 27th International Conference on Computer and Information Technology (ICCIT), December - 2024
+Cross-language sarcasm detection is valuable for assessing if a model effective in one language works equally well in another, potentially saving significant time and effort in developing language-specific models. This study proposes the following null hypothesis: Performance variations in Sarcasm Detection models due to single model component changes (e.g., embeddings or classifiers) are independent of the target language. We evaluated 27 models on English and Bangla datasets, two languages with distinct sentence structures and analyzed performance differences using the Wilcoxon test. Based on the F1- score, the test revealed p value of 0.21, implying that there are no significant difference between the two datasets, failing to reject the hypothesis. Nonetheless, further research on cross-language sarcasm detection is needed to ensure a comprehensive grasp of this field and its potential applications.
+LiberationKG: A Knowledge Graph of Bangladesh Liberation War from Newspaper Articles
+Fahim Faisal, Rudra Pratap Deb Nath, Nasrin Sultana
+IEEE, Proceedings of 2024 27th International Conference on Computer and Information Technology (ICCIT), December - 2024
+The Bangladesh Liberation War of 1971 remains one of the most significant and emotional events in the country's history. In today's digital world, historical narratives are at risk of being distorted by disinformation and the spread of false news. Newspaper articles from unbiased sources provide a reliable overview of the situation. However, while unstructured texts are easily understandable for humans, they are not readily interpretable by machines. To address this, we present LiberationKG, a Knowledge Graph (KG) of the Bangladesh Liberation War, generated from reputable sources such as Time Magazine and The New York Times. LiberationKG is created by producing a total of 12,291 Resource Description Framework (RDF) triples from the mentioned sources using a Large Language Model and constructs from RDFS, OWL, and Schema.org vocabularies. Its development involves advanced natural language processing techniques, RDF triple validation and optimization, and linking to external resources. LiberationKG provides an organized representation of knowledge and an efficient system for information extraction. With 80% accuracy, LiberationKG is linked to 521 external resources and adheres to FAIR principles, ensuring interoperability and data accessibility, making it a valuable digital resource for preserving this pivotal historical event.
+Presenting Bangladesh Education Data in Analytical and Semantic Format
+Tonmoy Chandro Das, Rudra Pratap Deb Nath
+IEEE, Proceedings of 2024 27th International Conference on Computer and Information Technology (ICCIT), December - 2024
+In an era where data plays a pivotal role in shaping policy and driving progress, especially in education, the need for well-informed decision-making is more important than ever. Like other governments, Bangladesh regularly publishes education data as part of open data policies to promote transparency and accessibility. However, while Bangladesh's educational data is rich in key metrics, it faces limitations such as 1) a lack of a unified analytical format and insufficient aggregation, which restricts its usability for Business Intelligence (BI), Online Analytical Processing (OLAP), and gaining a complete view of the data to extract meaningful insights; 2) limited interoperability and accessibility. In this study, we model Bangladesh's education data across multiple dimensions, integrating diverse sources into a MD framework using Data Warehousing technology. This enables OLAP-like analysis for comprehensive insights. To improve interoperability and accessibility, the data is integrated into a Knowledge Graph called BEdKG. BEdKG is modeled with the Resource Description Framework (RDF) model and composed of 337,308 RDF triples, adheres to Findability, Accessibility, Interoperability, and Reusability (FAIR) principles, and is linked to 72 external resources. Finally, evaluations through a query interface show that BEdKG, with a size of 45.3 MB, effectively addresses the issue of insufficient aggregation by providing interactive query responses and performing operations over 99% faster than manual methods.
+Detection and Classification of Mahogany Tree Species via Satellite Imagery, Google Earth Engine, and Deep Learning
+Joy Roy, Muhammad Anwarul Azim, Abu Nowshed Chy, Mohammad Khairul Islam
+Foundation of Computer Science (FCS), NY, USA, International Journal of Computer Applications (IJCA) 0975-8887; 186(31), 18-26, July - 2024
+Quantitative Radiomics Analysis of Lung CT Images Using Radial Harmonic Fourier Moments
+A. H. M. Sajedul Hoque, Gerg ˝o Bognár, Sándor Fridli
+Institute of Informatics, the University of Szeged, THE 14TH CONFERENCE OF PHD STUDENTS IN COMPUTER SCIENCE, 39-42, July - 2024
+We analyzed 326 Radial Harmonic Fourier Moments (RHFMs) radiomics features of CT image of Lung cancer in terms of reliability, stability and prognosis power which contributes in clinical oncology.
+Knowledge Graph Generation and Enabling Multidimensional Analytics on Bangladesh Agricultural Data
+Rudra Pratap Deb Nath, Tithi Rani Das, Tonmoy Chandro Das, SM Shafkat Raihan
+IEEE, IEEE Access, Volume 12, 87512 - 87531, June - 2024
+Profiling Fake News Spreader on Twitter Using Stochastic Gradient Descent
+Niladree Datta, Muhammad Anwarul Azim, Abu Nowshed Chy, Mohammad Khairul Islam, Sajib Kumar Das
+Accepted for publication on 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), Military Institute of Science & Technology (MIST), Dhaka-1216, Bangladesh, May - 2024
+A Comparative Analysis of Statistical Machine Learning and Deep Learning for Identifying Cyber Trolls on Twitter Data
+Sajib Kumar Das, Muhammad Anwarul Azim, Abu Nowshed Chy, Mohammad Khairul Islam
+Accepted for publication on 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), Military Institute of Science & Technology (MIST), Dhaka-1216, Bangladesh, May - 2024
+SETLonDEMAND: Towards an On-Demand ETL Approach for Semantic Data Warehouses (Best Student Paper Award)
+Amrit Bhattacharjee, Rudra Pratap Deb Nath
+IEEE, 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), May - 2024
+As the application of Semantic Web technology continues to grow, conducting Online Analytical Processing (OLAP) over Semantic Data Warehouses (SDW) has become an essential task. The Extract-Transform-Load (ETL) process loads data from external sources into an SDW. Generally, OLAP operations function efficiently on static data with minimal changes over time. However, challenges arise when dealing with frequent data changes, such as prices, populations, or social media data, requiring constant updates to the SDW for query processing. Additionally, not all dimensions of the cube may be crucial for answering a query. In this paper, we propose an approach named SETL_onDEMAND, which extracts an OLAP query to determine the required data, fetches the necessary data from respective sources using the ETL pipeline, and then executes the query. This approach additionally enables data retrieval from external data endpoints and seamlessly integrates the outcomes from these external endpoints with local data sources, particularly in cases where the query is federated. We assess the performance, productivity, and quality of SETL_onDEMAND compared to a traditional ETLQ approach.
+A Comparative Analysis of Statistical Machine Learning and Deep Learning for Identifying Cyber Trolls on Twitter Data
+Sajib Kumar Das, Muhammad Anwarul Azim, Abu Nowshed Chy, Mohammad Khairul Islam, and Niladree Dutta
+Military Institute of Science and Technology (MIST), Mirpur, Dhaka., 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), 1066 - 1071, May - 2024
+Cybertrolling is the act of inciting and attacking someone's emotions on a social networking platform, which occurs all over the world, including Bangladesh. Many big data applications are interested in identifying trolls from tweets, which is a challenging task. It is equally crucial to ensure the safety of social networking sites against cybertrolling. Only automated identification c an prevent trolling since human moderation is slow, costly, and even impractical for rapidly expanding data. Most of the previous state-of-the-art work done to overcome this problem was based on machine learning, deep learning and transformer-based models, where the authors' work did not focus much on appropriate text preprocessing techniques, which led to subpar method performance. In this paper, we investigated the performance of statistical machine learning and deep learning algorithms with extensive preprocessing techniques and statistical features to bridge the gap of earlier research work on the publicly available dataset titled 'Tweets dataset for Detection of Cyber- Trolls' to distinguish between troll tweets and non-troll tweets. For machine learning, we used random forest, decision tree, stochastic gradient descent, multinomial naive Bayes, linear SVC, and logistic regression algorithms, as well as LSTM and CNN for deep learning. Then, an ensemble classification was also implemented by combining the best three classifiers based on majority voting. The comparative analysis demonstrated that multinomial naive Bayes reached an Fl-score of 95 %, which gives better results compared to other models because of an ensemble of preprocessing techniques with statistical features.
+Profiling Fake News Spreader on Twitter Using Stochastic Gradient Descent
+Niladree Datta, Muhammad Anwarul Azim, Abu Nowshed Chy, Mohammad Khairul Islam, and Sajib Kumar Das
+Military Institute of Science and Technology (MIST), Mirpur, Dhaka., 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT), 113 - 118, May - 2024
+Abstract: A fake news spreader is a person who deliberately shares misleading information to misguide people. Fake news spreaders can be considered a potential threat to our society. Any misleading information floating in social media can create a serious misconception in society. It can damage the reputation of a person and create cybersecurity threats. To ensure a safe and sound social networking environment for everyone, it is inevitable to detect fake news spreaders. Numerous state-of-the-art approaches have been done to address this issue. They employed several classification algorithms to detect the fake news spreaders. Usually, social media data often lack proper grammar due to noise and informal language. In most of the prior work, the authors did not use the proper text preprocessing techniques which leads to poor performances. To solve this problem, we describe our proposed framework which includes extensive text preprocessing techniques and statistical features along with the stochastic gradient descent (SGD) classifier on top to detect the fake news spreader efficiently. We choose SGD because of its capability to handle large datasets as well as the stochastic phenomenon helps to escape local minima and performs better generalization in complicated optimization scenarios. Experimental results on the benchmark PAN 20 fake news spreader dataset show that our proposed approach outperformed most of the prior works with a 76.50% accuracy thus validating its effectiveness.
+Machine Learning Based Prediction of Anti-dengue Drugs Using Structure-activity Relationship Study
+Nishat Soultana Chy, Sourav Biswas, Abu Nowshed Chy, Mohammad A. Halim, Md. Hanif Seddiqui
+IEEE, 6th International Conference on Electrical, Electronic, and Information Technology (ICEEICT), April - 2024
+Dengue fever has emerged as a critical health threat in Bangladesh and recorded the highest mortality rate in 2023. It is also a global concern, impacting 390 million people annually. No FDA-approved drug is available yet to treat dengue. The Structure-activity relationship (SAR) can be a significant approach for predicting novel inhibitors and repurposing existing drugs against dengue. In this research, our goal is to build a machine-learning model, which can predict the pIC50 (M) value of novel inhibitors against dengue NS2B-NS3 protein. In this connection, we have used a structure-activity dataset of 1141 compounds. Each compound contains 1544 molecular descriptors (1D and 2D) considered as structural features and their effective percentage inhibition concentration at 50% (pIC50), against ‘DENV-2 NS2B-NS3’. We have implemented 9 tree-based, and 9 other distinct machine learning algorithms considering all features to identify the best-performing algorithm. We have found the tree-based algorithms outperform the other conventional algorithms. The Extra Trees algorithm has performed the best among the tree-based algorithms in this baseline test. Furthermore, we have utilized the Random Forest algorithm to extract individual features’ importance against pIC50. We have fed the features into 6 different tree-based algorithms in the chronology of feature importance. Our experiments depict an impressive result that some of the features have a negative impact on prediction. Eventually, we eliminate 1502 molecular descriptors to differentiate only 42 important features that can produce the lowest RMSE of 0.3035, MSE of 0.0924 MAPE of 0.0515, and MAE of 0.2309. This optimized model has outperformed the baseline model evidently. (Accepted)
+Skin Lesion Prediction From Dermoscopic Images Using Deep Learning
+Nazma Hossen Nishat, Pranta Paul, Farzina Akther, Tahmina Akter, Muhammad Anwarul Azim
+Foundation of Computer Science (FCS), NY, USA, International Journal of Computer Applications, 17-29, April - 2024
+A Comparative Analysis of Various Machine Learning and Transformer Models for Harmful Tweet Detection
+Tithi Rani Das. Shima Chakraborty and Abu Nowshed Chy
+6th International Conference on Electrical Engineering and Information & Communication Technology 2024 (ICEEICT2024), March - 2024
+Object segmentation for image indexing in large database
+Juel Sikder and Mohammad Khairul Islam and Farah Jahan
+Elsevier, Journal of King Saud University - Computer and Information Sciences, vol.36, No.2, pp. 101937, February - 2024
+Object segmentation for image indexing in large database
+Juel Sikder, Mohammad Khairul Islam, Farah Jahan
+Journal of King Saud University - Computer and Information Sciences, February - 2024
+Detecting cyberbullying text using the approaches with machine learning models for the low-resource Bengali language
+Md. Nesarul Hoque, Md. Hanif Seddiqui
+IAES, IAES International Journal of Artificial Intelligence (IJ-AI), 358∼367, 2024
+Accepted to be published at Vol. 13, No. 1 on March (2024) DOI: 10.11591/ijai.v13.i1.pp358-367
+2023
+News Classification Using Local Text Pattern and TF-IDF Features
+Nadia Afroz, Muhammad Anwarul Azim, Mohammad Khairul Islam
+IEEE, 26th International Conference on Computer and Information Technology, December - 2023
+Leveraging Contextual Representations with BiLSTM-based Regressor for Lexical Complexity Prediction
+Abdul Aziz, Md. Akram Hossain, Abu Nowshed Chy, Md. Zia Ullah, and Masaki Aono
+Elsevier, Natural Language Processing Journal, Page: 1-16, Volume 5, 100039, December - 2023
+Leveraging Transformer Models in the Cyberbullying Text Classification System for the Low-resource Bengali Language
+Md. Nesarul Hoque, Md. Hanif Seddiqui
+IEEE, International Conference on Computer and Information Technology (ICCIT); IEEE Proceedings; 2023, December - 2023
+A Benchmark Dataset with Developing a Strong Baseline Accident Text Classification System for the Low-resource Bengali Language
+Kazi Farhan Hasan Tanjim, Md. Nesarul Hoque, Md. Hanif Seddiqui
+IEEE, International Conference on Computer and Information Technology (ICCIT); IEEE Proceedings; 2023, December - 2023
+Predictive Modeling for Heart Rate: A Comparative Analysis of LSTM, XGBoost, and LightGBM
+Jørgen Robin Våge, Saptanil Ghose, Rudra Pratap Deb Nath, Debasish Ghose, Yuan Lin, Soumya Prakash Dash
+IEEE, Proceedings of 2023 26th International Conference on Computer and Information Technology (ICCIT), 1-6, December - 2023
+This study evaluates the effectiveness of Long Short-Term Memory (LSTM) networks, XGBoost, and LightGBM in predicting heart rates across diverse time windows. Leveraging a dataset from 22 users across multiple observation windows, this research significantly broadens the current understanding of heart rate prediction in the field of personalized health monitoring and sports science. Performance metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and Scatter Index (SI) were employed for assessment. Over intervals of 30, 60, and 180 seconds, both XGBoost and LightGBM significantly outperformed LSTM in terms of MAE, MSE, RMSE, and SI. These results suggest that XGBoost and LightGBM are superior options for high-accuracy heart rate prediction, underscoring their potential utility in healthcare and athletic performance monitoring applications.
+A fast and efficient algorithm for DNA sequence similarity identification
+Machbah Uddin, Mohammad Khairul Islam, Md Rakib Hassan, Farah Jahan and Joong Hwan Baek
+Springer, Complex and Intelligent Systems, vol.9, No.2, pp. 1265–1280, December - 2023
+News Classification Using Local Text Pattern and TF-IDF Features
+Nadia Afroz, Muhammad Anwarul Azim, and Mohammad Khairul Islam
+26th International Conference on Computer and Information Technology (ICCIT 2023), Long Beach Hotel, Cox’s Bazar, Bangladesh, December - 2023
+DOI: 10.1109/ICCIT60459.2023.10441491
+Covid-19 Knowledge Graph Generation and Enabling Analysis across Healthcare, Socioeconomic, and Environmental Dimensions
+S.M. Shafkat Raihan, Rudra Pratap Deb Nath, Tonmoy Chandro Das
+Proceedings of 2023 26th International Conference on Computer and Information Technology (ICCIT), December - 2023
+There are various significant factors that influence Covid-19 pandemic, such as health, socioeconomic, and environmental aspects. Researchers and administrators require better data on measures such as confirmed cases and deaths due to Covid-19 to efficiently withhold its spread. While existing Covid-19 data resources often focus on spatio-temporal aspects, most research neglects the combined impact of multiple factors. This study addresses this gap by modeling and analyzing Covid-19 epidemiological data across dimensions like location, comorbidity, and occupation. We use data warehousing (DW) technology to model and integrate data from diverse sources in the multidimensional (MD) format. Then, we enable Online Analytical Processing (OLAP)-like analysis on DWs to derive Covid-19 related insights. Besides, to make the data interoperable, and accessible, data need to be annotated, integrated, and published semantically in accordance to FAIR principles. To accomplish this, the data is modeled as a knowledge graph (KG), where the semantic relationships among data are captured in the integration process. The KG is implemented using the Resource Description Framework (RDF) model, and semantically linked with external datasets. The generated knowledge graph is analyzed through an interactive analytical interface to observe the Covid-19 confirmed cases and deaths from thirteen aspects. The performance and quality of the knowledge graph is assessed against prominent data stores modeling Covid-19 data.
+Assessing the Impact of COVID-19 Regulations on Air Quality in Asian Cities: A Time Series Analysis
+Iqbal Ahmed, Tamanna Akther Mukta
+Foundation of Computer Science (FCS), USA, Vol. 185, Issue. 41, 22-30, November - 2023
+SQL Injection Attack Vulnerabilities of Web Application and Detection
+S M Sarwar Mahmud, Taofica Amrine, Muhammad Anwarul Azim
+Foundation of Computer Science (FCS), NY, USA, International Journal of Computer Applications (IJCA) 0975-8887; 185(38), 41-48, November - 2023
+Enhancing Customer Churn Prediction using Machine Learning and Deep Learning Approaches with Principal Component Analysis
+Md Saidul Islam, Taofica Amrine, Tahmina Akter, Muhammad Anwarul Azim
+Foundation of Computer Science (FCS), NY, USA, International Journal of Computer Applications (IJCA) 0975-8887; 185(44), 21-27, November - 2023
+Gesture Recognition for Interpretation of Bengali Sign Language using Hyper Parameter Tuning Convolution Neural Network
+Tahmina Akter, Muhammad Anwarul Azim, Mohammad Khairul Islam
+International Journal of Computer Applications, November - 2023
+Volume 185, Number 13, Foundation of Computer Science (FCS), NY, USA,
+BiGCAT: An Integrated Graph Neural Network Model for Financial Named Entity Recognition
+Md. Akram Hossain, Muhammad Anwarul Azim, Abu Nowshed Chy, and Mohammad Khairul Islam
+13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2023). Bali, Indonesia, November - 2023
+Fish Disease Detection using Deep Learning and Machine Learning
+Md. Rashedul Islam Mamun, Umma Saima Rahman, Tahmina Akter, Muhammad Anwarul Azim
+Foundation of Computer Science (FCS), NY, USA, International Journal of Computer Applications (IJCA); 0975 – 8887; 185(36), 1-9, October - 2023
+A Fast and Reliable Approach for COVID-19 Detection from CT-Scan Images
+Md. Jawwad Bin Zahir, Muhammad Anwarul Azim, Abu Nowshed Chy, Mohammad Khairul Islam
+Universitas Airlangga, Java, Indonesia, Journal of Information Systems Engineering and Business Intelligence (2443-2555) 9(2), 288-304, October - 2023
+Human Activity Recognition Using Ensemble of CNN-Based Transfer Learning Models
+Miskatul Jannat, Rezwana Karim, Navia Zafrin Islam, Abu Nowshed Chy, and Abdul Kadar Muhammad Masum
+IEEE, 2023 IEEE International Conference on Computing (ICOCO), 1-6, October - 2023
+BN-HTRd: A Benchmark Dataset for Document Level Offline Bangla Handwritten Text Recognition and Line Segmentation
+Md. Ataur Rahman, Nazifa Tabassum, Mitu Paul, Riya Pal, Mohammad Khairul Islam
+CRC Press, Tailor & Fransis Group, September - 2023
+An rPark-branded Proposed Smart Occupancy Detection System for Parking
+Atiqur Rahman* & Emmanuel Ufiteyezu
+Jurnal Kejuruteraan(Journal of Engineering) by UKM, Jurnal Kejuruteraan 35(5) 2023: 1017-1024, 1017~1024, September - 2023
+Due to the growing city population, progressively more vehicles are moving through the urban area in demand for parking lots, often causal to the worldwide difficulty of traffic jams. The existing parking system does not have a decent method to know whether the slots are empty or not. So, the user or driver has to rummage around to find an empty slot. As a result, there are a lot of traffic jams on the road, which destroys the normal lives of the people. This paper focuses on how to improve the existing parking lot’s occupancy detection system in a scientific way and proposed a smart parking occupancy detection system named rPark. rPark is offered as an innovative technique for detecting parking occupancy. For the initial stage, ultra-high-frequency static RFID chips are installed on the asphalt and cross-examined by RFID interrogator antennas over the parking spots to notice the usage status. A The majority of the difficulties of the existing state-of-the-art parking usage recognition methods are not exist in this scheme. rPark was examined and employed to illustrate an experimental analysis in a physical domain out-of-doors parking spot, and it has been verified that the system’s parking detection accuracy is about 100%.
+Emotion Detection using Deep Learning Approach
+Nagifa Ilma Progga, Mohammad Khairul Islam, Machbah Uddin, Shafkat Ahmed, Farah Jahan, Muhammad Anwarul Azim
+Bangladesh University of Professionals (BUP), International Conference on Information and Communication Technology for Sustainable Development (ICICT4SD), 41-45, September - 2023
+Comparative Analysis of Fine-tuning Multiple Pre- Trained Convolutional Neural Network (CNN) Models for Oryza Sativa Disease Detection
+R Das and I Ahmed
+International Journal of Computer Applications (IJCA),Foundation of Computer Science (FCS), USA, Vol. 185, Issue. 34, 9-16, September - 2023
+Emotion Detection using Deep Learning Approach
+Nagifa Ilma Progga, Khairul Islam, Machbah Uddin, Ahmed Shafkat, Farah Jahan and Muhammad Anwarul Azim
+International Conference on Information and Communication Technology for Sustainable Development (ICICT4SD), Bangladesh University of Professionals. Dhaka, Bangladesh, September - 2023
+Phylogeny reconstruction using k−mer derived transition feature
+Machbah Uddin, Mohammad Khairul Islam, Md. Rakib Hassan, Aysha Siddika Ratna and Farah Jahan
+International Conference on Big Data, IoT and Machine Learning 2023 (BIM 2023), Cox's Bazar, Bangladesh, September - 2023
+Comparison of Regression, K-Nearest Neighbors (KNN) and Multi-Layer Perceptron (MLP) Models for the Prediction of Weight, Gender and Body Mass Index Status
+Md J Hosen and I Ahmed
+International Journal of Computer Applications (IJCA),Foundation of Computer Science (FCS), USA, Vol. 185, Issue. 29, 23-30, August - 2023
+BN-DRISHTI: Bangla Document Recognition through Instance-level Segmentation of Handwritten Text Images
+Sheikh Mohammad Jubaer, Nazifa Tabassum, Md Ataur Rahman, and Mohammad Khairul Islam
+ICDAR 2023 Workshop on Machine Learning (ICDAR-WML 2023), San Jose, California, USA. Lecture Notes in Computer Science, August - 2023
+Smart Parking System for Green Computing
+Atiqur Rahman* & Emmanuel Ufiteyezu
+UKM Press, JURNAL KEJURUTERAAN (Journal of Engineering), ISSN 0128-0198, Jilid/Volume 35(4), 923~928, July - 2023
+A “smart city” is one that makes use of info and comm technologies (ICTs) to increase the awareness, interaction, and effectiveness of city services and monitoring. It might be smart technology, smart design, smart mobility, smart utilities, smart housing, smart healthcare, smart transportation, smart lighting, smart phone detection, smart road, smart traffic management, and smart parking etc. The solicitation of smart cities will increase unexpectedly with the rapid increase in IoT infrastructure. Smart city idea notably going up to city lifecycle. The focal point of this paper is to present an intelligent parking system consuming a novel iOS app-based implementation for smart cities’ demands, which permits a driver to determine a parking lot and a vacant slot in that lot indoor a municipality. This paper additionally focuses on reducing the searching time for determining the parking lot using our proposed method, namely, the booking method. This, in short, lessens the gasoline deployment which in turn cuts carbon trails in the weather, as a way of life, additionally averting useless traveling via packed parking lots in a parking lot that can be useful in decreasing illegal parking and in a way help with the traffic jams we see in our city.
+Smart Parking Tying Dynamic Costing Method
+Atiqur Rahman* & Emmanuel Ufiteyezu
+UKM Press, JURNAL KEJURUTERAAN (Journal of Engineering), ISSN 0128-0198, Jilid/Volume 35(4), Jurnal Kejuruteraan 35(4) 2023: 929-936, July - 2023
+The solicitation of smart cities will increase unexpectedly with the rapid increase in IoT infrastructure. Smart City idea notably going up to city lifecycle. Parking is an important part of smart cities yet parking is a difficult process because there isn’t a good way to pay for it or find a spot in the existing system. The number of vehicles in our city is increasing day by day due to which there is an immediate need for a good parking system. The focal point of this paper is to manage parking lots by including dynamic costing methods incorporated in a novel iOS apps-based implementation for smart cities’ demands, which permits a user or driver to make an option for pricing the desired slot and booking the desired slot based on costing in that lot. That means, that developed iPark proposes innovative costing strategies that permit the making of additional parking profits and the rational ordering of parking transportation through parking lots. This paper additionally focuses on reducing the searching time for determining the parking lot using our proposed method, namely, the booking method. From the results, we can see that our proposed method increases profits as well as utilized resources properly compared to the existing methods.
+Smart Parking based on iOS Apps for Smart Cities
+Atiqur Rahman* & Emmanuel Ufiteyezu
+UKM Press, JURNAL KEJURUTERAAN (Journal of Engineering), ISSN 0128-0198, Jilid/Volume 35(4), Jurnal Kejuruteraan 35(4) 2023: 983-98, July - 2023
+Parking problem has become a big problem for us in daily life. Mainly in urban and city corporation area like mall, market etc. we face this problem more and finding space for parking here is very difficult. As a result, we spend a lot of time and energy. Finding a parking space has become a much more frustrating event for the driver or user. If the users or drivers do not get any parking space and park their vehicles randomly anywhere then the road will be jammed and the safety of the vehicles will be threatened. It is also the cause of many accidental incidents. It is the manual system that we usually see. We need a smart parking system that will play a role in creating the smart city of the future. We propose an iOS apps-based parking system to solve this problem of manual system. It allows users or drivers to find parking spaces and park their cars through mobile apps i.e., our developed iOS apps for smart parking. Then we do a comparative analysis of our system with the manual system with direct participation of users and see if our system is used then the existing problems will no longer exist.
+Monkeypox Skin Lesion Detection with Deep Learning and Machine Learning
+Saznila Islam, Fhamida Akter Nishi, Tahmina Akter, Muhammad Anwarul Azim
+Foundation of Computer Science (FCS), NY, USA, International Journal of Computer Applications (IJCA) 185 (23), 39-45, July - 2023
+A Deep Learning Approach for Urban Sound Classification
+Sanjoy Barua, Tahmina Akter, Mahmud Abu Saleh Musa, Muhammad Anwarul Azim
+Foundation of Computer Science (FCS), NY, USA, International Journal of Computer Applications (IJCA) 185 (24), 8-14, July - 2023
+CSECU-DSG at SemEval-2023 Task 6: Segmenting Legal Documents into Rhetorical Roles via Fine-tuned Transformer Architecture
+Fareen Tasneem, Tashin Hossain, Jannatun Naim, and Abu Nowshed Chy
+ACL, Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), 2112–2117, July - 2023
+CSECU-DSG at SemEval-2023 Task 10: Exploiting Transformers with Stacked LSTM for the Explainable Detection of Online Sexism
+Afrin Sultana, Radiathun Tasnia, Nabila Ayman, and Abu Nowshed Chy
+ACL, Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), 2091–2099, July - 2023
+CSECU-DSG at SemEval-2023 Task 4: Fine-tuning DeBERTa Transformer Model with Cross-fold Training and Multi-sample Dropout for Human Values Identification
+Abdul Aziz, Md. Akram Hossain, and Abu Nowshed Chy
+ACL, Proceedings of the 17th International Workshop on Semantic Evaluation (SemEval-2023), July - 2023
+Gesture Recognition for Interpretation of Bengali Sign Language using Hyper Parameter Tuning Convolution Neural Network
+Tahmina Akter, Muhammad Anwarul Azim, Mohammad Khairul Islam
+Foundation of Computer Science (FCS), NY, USA, International Journal of Computer Applications (IJCA) 185(13), 1-7, June - 2023
+DNA matching using k-mer derived spatial features
+Md. Sayeed Iftekhar Yousuf, Machbah Uddin, Mohammad Khairul Islam, Md. Rakib Hassan, Aysha Siddika Ratna, Farah Jahan
+International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM-2023), Dhaka University of Engineering & Technology, Gazipur, Bangladesh, June - 2023
+DOI: 10.1109/NCIM59001.2023.10212654
+Ontology-based Spatio-temporal Data Mining Approach for Health Care in Bangladesh
+Shima Chakraborty
+2nd International Conference on Technology, Business and Justice towards Smart Bangladesh, June - 2023
+An Early Synthesis of Deep Neural Networks to Identify Multimodal Informative Disaster Tweets
+Fareen Tasneem, Shima Chakraborty, and Abu Nowshed Chy
+ISCRAM Digital Library, 20th Information Systems for Crisis Response and Management (ISCRAM2023), 1-11, May - 2023
+An Early Synthesis of Deep Neural Networks to Identify Multimodal Informative Disaster Tweet
+Fareen Tasneem, Shima Chakraborty, and Abu Nowshed Chy
+ISCRAM Digital Library, 20th Information Systems for Crisis Response and Management (ISCRAM2023), 1-11, May - 2023
+Smart parking for smart cities: a novel approach to reducing frivolous parking zone determination
+Atiqur Rahman, Ali Md Liton
+Institute of Advanced Engineering and Science (IAES), International Journal of Informatics and Communication Technology (IJ-ICT), 72~78, April - 2023
+Internet of things (IoT) infrastructures are rapidly expanding, which will lead to an unanticipated rise in demand for smart cities. The concept of a "smart city" has recently gained traction in urban planning circles. An IoT-based smart parking system is the focus of this article, and it allows a motorist to locate a car park and an available parking space in an indoor metropolis, all from the comfort of their own vehicle. Additional efforts are made to reduce the time spent defining parking zones. Reduced fuel use helps to cut down on pollution, as well as avoid needless travel through congested parking lots, which can help to reduce unlawful parking and alleviate traffic congestion in the city we all live in. These innovations include automobile particular identification via radio frequency identification (RFID) tags, unoccupied slot detection through the use of ultrasonic sensors, and cost calculating based largely on parking duration. The technology we've used is unique in that it runs on separate parts of the system for the hardware and the software.
+The Challenges and Approaches during the Detection of Cyberbullying Text for Low-resource Language: A Literature Review
+Md Nesarul Hoque, Puja Chakraborty, Md Hanif Seddiqui
+ECTI, ECTI Transactions on Computer and Information Technology (ECTI-CIT), 192-214, April - 2023
+DOI: 10.37936/ecti-cit.2023172.248039
+Exploiting Stacked Embeddings with LSTM for Multilingual Humor and Irony Detection
+Radiathun Tasnia, Nabila Ayman, Afrin Sultana, Abu Nowshed Chy, and Masaki Aono
+Springer, Social Network Analysis and Mining (SNAM), Vol-13, 1-24, March - 2023
+An Analysis of Islamic Inheritance System Under Object-Oriented Paradigm
+A.H.M. Sajedul Hoque, Sadia Tabassum, Rashed Mustafa, Mohammad Sanaullah Chowdhury and Mohammad Osiur Rahman
+LNICST,volume 491, 216–225,, 2023
+We provide an analysis of an Architecture under Object-Oriented Software Engineering for Islamic Inheritance System.
+A Fast and Reliable Approach for COVID-19 Detection from CT-Scan Images
+Md. Jawwad Bin Zahir, Muhammad Anwarul Azim, Abu Nowshed Chy, Mohammad Khairul Islam
+Journal of Information Systems Engineering and Business Intelligence, 2023
+Fakultas Sains dan Teknologi, Kampus C Universitas Airlangga, Surabaya, Indonesia 60115
+2022
+Fusion of Shallow and Deep Features for Classifying Skin Lesions
+Ishmamur Rahman, Mohammad Khairul Islam, Abu Nowshed Chy, Muhammad Anwarul Azim
+IEEE, 25th International Conference on Computer and Information Technology (ICCIT), 418-423, December - 2022
+Breast Cancer Detection On Histopathological Imaging Using EfficientNet-V2
+Manzur Kabir Ayon, Mohammad Khairul Islam, Abu Nowshed Chy, Muhammad Anwarul Azim
+International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET), University of Rajshahi, Rajshahi-6205, Bangladesh, December - 2022
+Omniscient Situational Aware Traffic Management System (TMS) for Smart Cities
+I Ahmed and R Biswas
+International Journal of Computer Applications (IJCA),Foundation of Computer Science (FCS), USA, Vol. 184, Issue 35, 14-21, November - 2022
+An Effective Software Architecture of Islamic Inheritance System Employing Structured Paradigm
+A.H.M. Sajedul Hoque, Sadia Tabassum, Abdullah Nazib, Rashed Mustafa and Mohammad Osiur Rahman
+Journal of Engineering, UKM Press, Volume: 34, Issue: 6, 1111-1124, November - 2022
+We propose an architecture under Structured Software Engineering Paradigm for Islamic Inheritance System
+CSECU-DSG@SMM4H’22: Transformer based Unified Approach for Classification of Changes in Medication Treatments in Tweets and WebMD Reviews
+Afrin Sultana, Nihad Karim Chowdhury, and Abu Nowshed Chy
+Association for Computational Linguistics (ACL), Proceedings of The 7th Workshop on Social Media Mining for Health Applications, Workshop & Shared Task, 29th COLING Conference, 118-122, October - 2022
+Our proposed neural approach ranked first in task 3b.
+A fast and efficient algorithm for DNA sequence similarity identification
+Machbah Uddin, Mohammad Khairul Islam, Md. Rakib Hassan, Farah Jahan and Joong Hwan Baek
+Complex & Intelligent Systems, August - 2022
+CSECU-DSG at SemEval-2022 Task 3: Investigating the Taxonomic Relationship Between Two Arguments using Fusion of Multilingual Transformer Models
+Abdul Aziz, Md. Akram Hossain, and Abu Nowshed Chy
+Association for Computational Linguistics (ACL), Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022), 255 - 259, July - 2022
+CSECU-DSG at SemEval-2022 Task 11: Identifying the Multilingual Complex Named Entity in Text Using Stacked Embeddings and Transformer based Approach
+Abdul Aziz, Md. Akram Hossain, and Abu Nowshed Chy
+Association for Computational Linguistics (ACL), Proceedings of the 16th International Workshop on Semantic Evaluation (SemEval-2022), 1549 - 1555, July - 2022
+IoT and Machine Learning Approach for early Heart Disease Prediction & Diagnosis
+I Ahmed and S D Thakur
+International Journal of Advanced Trends in Computer Science and Engineering, Vol.11, No. 3, 135-140, June - 2022
+Leveraging Fusion of Sequence Tagging Models for Toxic Spans Detection
+Jannatun Naim, Tashin Hossain, Fareen Tasneem, Abu Nowshed Chy, and Masaki Aono
+Elsevier, Neurocomputing, Vol. 500, 688-702, May - 2022
+A Hierarchical Approach toward Prediction of Human Biological Age from Masked Facial Image Leveraging Deep Learning Techniques
+Md. Mahbubul Islam and Joong-Hwan Baek
+Applied Sciences, 5306, May - 2022
+Comparative Study on Sentiment Analysis on Amazon Product Reviews using Recurrent Neural Network
+I Ahmed
+International Journal of Advanced Trends in Computer Science and Engineering, Vol. 11, No. 3, 141-146, May - 2022
+High-Level ETL for Semantic Data Warehouses
+Rudra Pratap Deb Nath, Oscar Romero, Torben Bach Pedersen, and Katja Hose
+IOS, Semantic Web Journal, 85-132, January - 2022
+Csecu-dsg@ smm4h’22: Transformer based unified approach for classification of changes in medication treatments in tweets and webmd reviews.
+Afrin Sultana, Chowdhury, N.K., Abu Nowshed Chy
+Association for Computational Linguistics, Proceedings of The Seventh Workshop on Social Media Mining for Health Applications, Workshop Shared Task., 118-122, 2022
+Machine learning for detecting COVID-19 from cough sounds: An ensemble-based MCDM method.
+Chowdhury, N. K., Kabir, M. A., Rahman, Md. M., Islam, S.M.S.
+Elsevier, Computers in Biology and Medicine, 2022
+https://doi.org/10.1016/j.compbiomed.2022.105405 Scopus, Q1, H-index: 102, SCIE
+Fusion of Shallow and Deep Features for Classifying Skin Lesions
+Ishmamur Rahman, Mohammad Khairul Islam, Abu Nowshed Chy, and Muhammad Anwarul Azim
+25th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 418-423, 2022
+DOI: 10.1109/ICCIT57492.2022.10055219
+A novel part-wise template matching technique for DNA sequence similarity identification
+M. Uddin, M. Khairul Islam, M. Rakib Hassan, A. Siddika Ratna and F. Jahan
+25th International Conference on Computer and Information Technology (ICCIT), Cox's Bazar, Bangladesh, 882-887, 2022
+DOI: 10.1109/ICCIT57492.2022.10055778.
+2021
+Exploiting Web Snippets for Multi-label Anime Genre Prediction
+Joyeta Sharma and Abu Nowshed Chy
+IEEE, IEEE 18th India Council International Conference (INDICON), 1-6, December - 2021
+A novel DNA-based key scrambling technique for image encryption”
+Machbah Uddin, Farah Jahan, Mohammad Khairul Islam and Md Rakib Hassan
+Springer, Complex and Intelligent Systems, vol.7, No.6, pp. 3241-3258, December - 2021
+A novel DNA-based key scrambling technique for image encryption
+Machbah Uddin, Farah Jahan, Mohammad Khairul Islam & Md. Rakib Hassan
+Springer Complex & Intelligent Systems, September - 2021
+Predicting Buying Intention of Online Shoppers Using Ensemble Machine Learning
+Gobinda Chakraborty, Muhammad Anwarul Azim
+International Conference on Big Data IoT and Machine Learning, 82-89, September - 2021
+CSECU-DSG at SemEval-2021 Task 1: Fusion of Transformer Models for Lexical Complexity Prediction
+Abdul Aziz, MD. Akram Hossain, and Abu Nowshed Chy
+Association for Computational Linguistics (ACL), Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021), 627–631, July - 2021
+CSECU-DSG at SemEval-2021 Task 5: Leveraging Ensemble of Sequence Tagging Models for Toxic Spans Detection
+Tashin Hossain, Jannatun Naim, Fareen Tasneem, Radiathun Tasnia, and Abu Nowshed Chy
+Association for Computational Linguistics (ACL), Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021), 990–994, July - 2021
+CSECU-DSG at SemEval-2021 Task 6: Orchestrating Multimodal Neural Architectures for Identifying Persuasion Techniques in Texts and Images
+Tashin Hossain, Jannatun Naim, Fareen Tasneem, Radiathun Tasnia, and Abu Nowshed Chy
+Association for Computational Linguistics (ACL), Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021), 1088–1095, July - 2021
+CSECU-DSG at SemEval-2021 Task 7: Detecting and Rating Humor and Offense Employing Transformers
+Afrin Sultana, Nabila Ayman, and Abu Nowshed Chy
+Association for Computational Linguistics (ACL), Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021), 1204–1208, July - 2021
+Smart car parking system model for urban areas
+Atiqur Rahman
+Institute of Advanced Engineering and Science (IAES), Computer Science and Information Technologies (CSIT), 95~102, July - 2021
+High-Performance Intrusion Detection System using Deep Learning in Packet and Flow-Based Networks
+Kaniz Farhana, Maqsudur Rahman, Muhammad Anwarul Azim, Md. Tofael Ahmed
+Society of Digital Information and Wireless Communications (SDIWC), Hong Kong, International Journal of Cyber-Security and Digital Forensics (IJCSDF) 10 (2), 55-66, June - 2021
+Deep Learning Based Real Age and Gender Estimation from Unconstrained Face Image towards Smart Store Customer Relationship Management
+Md. Mahbubul Islam and Joong-Hwan Baek
+Applied Sciences, 4549, May - 2021
+Segmentation-free Bangladeshi License Plate Recognition Using YOLO with Heuristic Bounding Box Refinement
+Mahmudul Hasan Bhuiyan, Muhammad Anwarul Azim, Mohammad Khairul Islam, Farah Jahan
+International Journal of New Computer Architectures and their Applications, April - 2021
+An effective feature extraction method for rice leaf disease classification
+Muhammad Anwarul Azim, Mohammad Khairul Islam, Md. Marufur Rahman, Farah Jahan
+University Ahmad Dahlan, Indonesia, Journal of TELKOMNIKA Telecommunication, Computing, Electronics and Control 19(2), 463-470, April - 2021
+Automated smart car parking system for smart cities demand employs internet of things technology
+Atiqur Rahman
+Institute of Advanced Engineering and Science (IAES), International Journal of Informatics and Communication Technology (IJ-ICT), 46~53, April - 2021
+An effective feature extraction method for rice leaf disease classification
+Muhammad Anwarul Azim, Mohammad Khairul Islam, Md. Marufur Rahman and Farah Jahan
+TELKOMNIKA Telecommunication, Computing, Electronics and Control, vol. 19, No. 2, pp. 463-470, April - 2021
+Deep Learning based Human Activity Recognition Using Spatio-Temporal Image Formation of Skeleton Joints
+Nusrat Tasnim, Mohammad Khairul Islam, Joong-Hwan Baek
+MDPI, Applied Sciences, March - 2021
+Content Based Dynamic Spam Email Filtering Using Naïve Bayes Classifier
+Md. Miraj Ahamad, Muhammad Anwarul Azim, Mohammad Khairul Islam
+International Conference on Sustainable Development in Technology for 4th Industrial Revolution, March - 2021
+Splitting Based Texture Classification Using Local Binary Pattern
+Aditi Sen, Muhammad Anwarul Azim, Mohammad Khairul Islam, Tahmina Akter
+International Conference on Sustainable Development in Technology for 4th Industrial Revolution, March - 2021
+Recognition of Human Iris Using Histogram of Oriented Gradients and Support Vector Machine
+Nasrin Aktar, Muhammad Anwarul Azim, Mohammad Khairul Islam and Tahmina Akter
+International Conference on Sustainable Development in Technology for 4th Industrial Revolution, March - 2021
+Hand Gesture Recognition for Interpretation of Sign Language
+Tahmina Akter, Muhammad Anwarul Azim and Mohammad Khairul Islam
+International Conference on Sustainable Development in Technology for 4th Industrial Revolution, March - 2021
+Segmentation-free Bangladeshi License Plate Recognition Using YOLO with Heuristic Bounding Box Refinement
+Mahmudul Hasan Bhuiyan, Muhammad Anwarul Azim, Mohammad Khairul Islam, Farah Jahan
+The Society of Digital Information and Wireless Communications (SDIWC), Hong Kong, International Journal of New Computer Architectures and their Applications 11(1), 1-9, March - 2021
+Content Based Dynamic Spam Email Filtering Using Naïve Bayes Classifier
+Md. Miraj Ahamad, Muhammad Anwarul Azim and Mohammad Khairul Islam
+International Conference on Sustainable Development in Technology for 4th Industrial Revolution, Port City International University, Page: 83-87, March - 2021
+Exploiting Transfer Learning and Hand-Crafted Features in a Unified Neural Model for Identifying Actionable Informative Tweets
+Abu Nowshed Chy, Umme Aymun Siddiqua, and Masaki Aono
+Journal of Information Processing (Vol. 29), 1-14, January - 2021
+A Hybrid Probabilistic Ensemble based Extreme Gradient Boosting Approach For Breast Cancer Diagnosis
+Muhammad Sakib Khan Inan, Rizwan Hasan, Fahim Irfan Alam.
+IEEE, Proceedings of the 11th Annual Computing and Communication Workshop and Conference, 1-6, January - 2021
+This work is primarily done by my research student who is the principle author of this paper under my supervision. Our research team focused on the prominent cause of death by cancer among women across the globe and identified some interesting findings regarding breast cancer. In our study, we proposed a hybrid unique machine learning framework that integrates individual prediction probabilities from 3 machine learning (Logistic Regression, Support Vector Machine, and K Nearest Neighbors) classifiers, then enhances the performance of these 3 classifiers through hybridization, stacking a gradient boosting algorithm over the combination of these classifiers.
+Improved Sampling and Feature Selection to Support Extreme Gradient Boosting For PCOS Diagnosis
+Muhammad Sakib Khan Inan, Rubaiath E Ulfath, Fahim Irfan Alam, Fateha Khanam Bappee and Rizwan Hasan
+IEEE, Proceedings of the 11th Annual Computing and Communication Workshop and Conference (CCWC), 1-5, January - 2021
+Another work done by our research group in biomedical project, Muhammad Sakib Khan Inan being the principle author. In continuation with the other parallel work done on Breast Cancer Diagnosis, we took PolyCystic Ovary Syndrome (PCOS) diagnosis into consideration. In this work, we resampled our data using a combination of SMOTE (Synthetic Minority Oversampling Techniques) & ENN (Edited Nearest Neighbour), to solve class imbalance and data outliers issues. Furthermore, we identified 23 most significant metabolic and clinical parameters that best classify PCOS conditions and accordingly trained our probabilistic ensemble-based gradient boosting classifier.
+A Survey of Machine Learning Techniques for Detecting and Diagnosing COVID-19 from Imaging
+Panday, A., Kabir, M. A., Chowdhury, N. K.
+WILEY , 111 RIVER ST, HOBOKEN, USA, NJ, 07030-5774, Quantitative Biology, 2021
+https://doi.org/10.15302/J-QB-021-0274 Scopus, Q1, H-index: 17, ESCI
+ECOVNet: a highly effective ensemble based deep learning model for detecting COVID-19
+Chowdhury, N. K., Kabir, M. A., Rahman, M. M., and Rezoana, N.
+PeerJ, PeerJ Computer Science, 2021
+https://doi.org/10.7717/peerj-cs.551 Scopus, Q1, H-index: 28, SCIE
+2020
+CSECU_KDE_MA at SemEval-2020 Task 8: A Neural Attention Model for Memotion Analysis
+Abu Nowshed Chy, Umme Aymun Siddiqua, and Masaki Aono
+Association for Computational Linguistics, Proceedings of the Fourteenth Workshop on Semantic Evaluation (SemEval), 1106–1111, December - 2020
+Harnessing Ensemble of Data Preprocessing and Hand-crafted Features for Irony Detection in Tweets
+Fareen Tasneem, Jannatun Naim, and Abu Nowshed Chy
+IEEE Proceedings, The 23rd International Conference on Computer and Information Technology, ICCIT 2020, 1-6, December - 2020
+Personality Traits Detection in Bangla: A Benchmark Dataset with Comparative Performance Analysis of State-of-the-Art Methods
+Utpal Rudra, Abu Nowshed Chy, and Md. Hanif Seddiqui
+IEEE Proceedings, The 23rd International Conference on Computer and Information Technology, ICCIT 2020, 1-6, December - 2020
+Network Traffic Classification Using Ensemble Learning with Time Related Features
+Muhammad Anwarul Azim, Tanvir and Mohammad Khairul Islam
+International Journal of New Computer Architecture & their Applications, December - 2020
+Feature Fusion with Hand-crafted and Transfer Learning Embeddings for Cause-Effect Relation Extraction
+Abdul Aziz, Afrin Sultana, MD. Akram Hossain, Nabila Ayman, and Abu Nowshed Chy
+CEUR Workshop Proceedings (CEUR-WS), Forum for Information Retrieval Evaluation 2020 (FIRE 2020), 1-9, December - 2020
+Exploiting Various Word Embedding Models for Query Expansion in Microblog
+Shafayet Ahmed, Abu Nowshed Chy, and Md Zia Ullah
+IEEE, 2020 IEEE 8th R10 Humanitarian Technology Conference (R10-HTC), 1-6, December - 2020
+Fusion of Hand-crafted Features and Deep Semantic Features in a Unified Neural Model for Irony Detection in Microblogs
+Sakifa Shah and Abu Nowshed Chy
+IEEE, 2020 IEEE 8th R10 Humanitarian Technology Conference (R10-HTC), 1-6, December - 2020
+Improved Certificate Creation and Verification Architecture Using Hybrid Blockchain
+Muhammad Anwarul Azim, Md. Jawwad Bin Zahir
+The Society of Digital Information and Wireless Communications (SDIWC), Hong Kong, International Journal of New Computer Architectures and their Applications 10(4), 39-48, December - 2020
+CSECU-DSG at WNUT-2020 Task 2: Exploiting Ensemble of Transfer Learning and Hand-crafted Features for Identification of Informative COVID-19 English Tweets
+Fareen Tasneem, Jannatun Naim, Radiathun Tasnia, Tashin Hossain, and Abu Nowshed Chy
+Association for Computational Linguistics (ACL), Proceedings of the Sixth Workshop on Noisy User-generated Text (W-NUT 2020) at EMNLP 2020, 394–398, November - 2020
+Incorporating Hand-crafted Features in a Neural Network Model for Stance Detection on Microblog
+Mumtahina Ahmed, Abu Nowshed Chy, and Nihad Karim Chowdhury
+ACM, 2020 the 6th International Conference on Communication and Information Processing, 1-8, November - 2020
+Network Traffic Classification Using Ensemble Learning with Time Related Features
+Muhammad Anwarul Azim, Tanvir, Mohammad Khairul Islam
+Society of Digital Information and Wireless Communications (SDIWC), Hong Kong, International Journal of New Computer Architectures and their Applications 10(2), 23-31, November - 2020
+Automated smart car parking system using raspberry Pi 4 and iOS application
+Atiqur Rahman, Li Yun
+Institute of Advanced Engineering and Science (IAES), International Journal of Reconfigurable and Embedded Systems (IJRES), 229-234, November - 2020
+Aspects of Semantic ETL
+Rudra Pratap Deb Nath
+Aalborg University Press, 221, October - 2020
+My PhD thesis
+Exploiting Transfer Learning Ensemble for Visual Sentiment Analysis
+Etu Chowdhury, Abu Nowshed Chy, and N. M. Istiak Chowdhury
+Springer (Lecture Notes in Data Engineering and Communication Technologies), Proceedings of International Conference on Computational Intelligence, Data Science and Cloud Computing (IEM-ICDC 2020), 1-12, September - 2020
+শতবর্ষে বঙ্গবন্ধু
+সম্পাদকঃ রুদ্র সাইফুল
+একাত্তর, June - 2020
+অধ্যাপক ড. হানিফ সিদ্দিকী, সম্পাদনা পর্ষদ সদস্য
+Effective Feature Extraction for Rice Leaf Disease Classification using Extreme Gradient Boosting Decision Trees
+Muhammad Anwarul Azim, Mohammad Khairul Islam, Md. Marufur Rahman, Farah Jahan
+Journal of TELKOMNIKA Telecommunication Computing Electronics and Control, June - 2020
+A Neural Network Model to Identify the Crisis-related Actionable Informative Tweets for Disaster Management
+Abu Nowshed Chy, Umme Aymun Siddiqua, and Masaki Aono
+IEEE, IEEE Region 10 Symposium (TENSYMP), June - 2020
+(TenSymp2020 Best Paper Awarded)
+Mobile edge computing for internet of things (IoT): security and privacy issues
+Atiqur Rahman, Guangfu Wu, Ali Md Liton
+Institute of Advanced Engineering and Science (IAES), Indonesian Journal of Electrical Engineering and Computer Science, 1486~1493, June - 2020
+Sustainable Green Service Level Agreement (GSLA) Framework
+Iqbal Ahmed
+LAP Lambert Academic Publishing, 1-123, May - 2020
+Automated sorting of recycled paper using smart image processing
+Mohammad Osiur Rahman, Aini Hussain, and Hassan Basri
+DE GRUYTER OLDENBOURG, at – Automatisierungstechnik, 68(4): 277–293, April - 2020
+IOT based Smart Irrigation System at University of Chittagong, Bangladesh
+I Ahmed, M S Akash
+International Journal of Computer Applications (IJCA), Foundation of Computer Science (FCS), USA, Vol.176, No.15, 39-45, April - 2020
+IoT based Energy Saving Strategies for Student Hall at University of Chittagong, Bangladesh
+I Ahmed, M Y Arafat
+International Journal of Computer Applications (IJCA), Foundation of Computer Science (FCS), USA, Vol.177 No.46, 35-40, March - 2020
+Review on E-Waste Management Strategies for Implementing Green Computing
+T A Mukta, I Ahmed
+International Journal of Computer Applications (IJCA), Foundation of Computer Science (FCS), USA, Vol.177 No.44, 44-52, March - 2020
+Inverse Coefficient of Variation Feature and Multilevel Fusion Technique for Hyperspectral and LiDAR Data Classification
+Farah Jahan, Jun Zhou, Mohammad Awrangjeb and Yongsheng Gao
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 13, pp. 367-381, January - 2020
+Abundance-Guided Superpixels and Recurrent Neural Network for Hyperspectral Image Classification
+Fahim Irfan Alam, Jun Zhou, Alan Wee-Chung Liew
+IEEE, Proceedings of the Digital Image Computing: Techniques and Applications (DICTA), 1-6, January - 2020
+This is another contribution from my PhD research. Throughout our research in hyperspectral remote sensing image analysis, we encountered that mixed spectral responses from different ground materials often create confusions in complex remote sensing scenes and restrict classification performance. In such scenario, unmixing methods can be applied to decompose mixed pixels into a collection of spectral signatures. In this paper, we propose to generate superpixels from the abundance estimations of the underlying materials of the image obtained from an unsupervised endmember extraction algorithm called vertex component analysis (VCA). The mean abundances of the superpixels are then used as features for a deep classifier. Our proposed deep model, formulated as a joint convolutional neural network and recurrent neural network, receives significant spectral-spatial information in the data to produce better and powerful features and achieve improved classification performance than several alternative methods.
+Personalized disease treatment plan suggestion system based on big data and knowledge base
+J Huang, Y Zhuo, X Tian, D Zhu, R Mustafa
+Journal of Intelligent & Fuzzy Systems 38 (1), 513-521, 2020, 2020
+Personality Traits Detection in Bangla: A Benchmark Dataset with Comparative Performance Analysis of State-of-the-Art Methods
+Utpal Rudra, Abu Nowshed Chy and Md. Hanif Seddiqui
+IEEE Proceedings, International Conference on Computer and Information Technology (ICCIT), 2020
+SETLBI: An Integrated Platform for Semantic Business Intelligence
+RP Deb Nath, K Hose, TB Pedersen, O Romero, A Bhattacharjee
+Companion Proceedings of the Web Conference 2020, 167-171, 2020, 2020
+Technology organization environment framework in cloud computing
+I Ahmed
+Telkomnika 18 (2), 716-725, 2020, 2020
+Systematic review on evaluating planning process in agile development methods.
+I Ahmed
+Telkomnika 18 (6), 2020, 2020
+Model for Monitoring Sustainable Green SLA Parameters in Modern Computing Industries
+I Ahmed
+International Journal of Computer Applications 177 (38(4)), 27-32, 2020, 2020
+Visual Object Tracking Fusing CNN and Color Histogram based Tracker and Depth Estimation for Automatic Immersive Audio Mixing
+Sung-Jun Park, Md. Mahbubul Islam, Joong-Hwan Baek
+KSII Transactions on Internet and Information Systems (TIIS), 1121-1141, 2020
+Human Gender Classification Using Transfer Learning Via Pareto Frontier CNN Networks
+Md. Mahbubul Islam, Nusrat Tasnim, Joong-Hwan. Baek
+Inventions, 2020
+PDCOVIDNet: A Parallel-Dilated Convolutional Neural Network Architecture for Detecting COVID-19 from Chest X-Ray Images
+Chowdhury, N. K., Rahman, M. M., and Kabir, M. A.
+Springer, Health Information Science and System, 2020
+https://doi.org/10.1007/s13755-020-00119-3 Scopus, Q1, H-index: 29, SCIE
+Incorporating Hand-crafted Features in a Neural Network Model for Stance Detection on Micro blog
+Mumtahina Ahmed, Abu Nowshed Chy, and Chowdhury, N.K.
+ACM Digital Library, 6th International Conference on Communication and Information Processing (ICCIP), 57–64, 2020
+2019
+Tweet Stance Detection Using Multi-Kernel Convolution and Attentive LSTM Variants
+UA SIDDIQUA, AN CHY, M AONO
+The Institute of Electronics, Information and Communication Engineers (IEICE), IEICE Transactions on Information and Systems 102 (12), 2493-2503, 2019, 2493-2503, December - 2019
+Neural Machine Translation for Low-resource English-Bangla
+Mohammad Abdullah Al Mumin, Md Hanif Seddiqui, Muhammed Zafar Iqbal and Mohammed Jahirul Islam
+Science Publications, Journal of Computer Science, Volume 15, Issue 11, 1627-1637, December - 2019
+DOI : 10.3844/jcssp.2019.1627.1637
+An Implementation of Machine Learning and Natural Language Processing to Detect Cyber Bullying in Bengali Language
+P. Chakraborty, M. H. Seddiqui
+BCS, BCS Journal of Computer and Information Technology, July - 2019
+KDEHatEval at SemEval-2019 Task 5: A Neural Network Model for Detecting Hate Speech in Twitter
+UA Siddiqua, AN Chy, M Aono
+Association for Computational Linguistics (ACL), Proceedings of the 13th International Workshop on Semantic Evaluation, 365-370, 2019, 365-370, June - 2019
+Shu-torjoma: An English-Bangla Statistical Machine Translation
+Mohammad Abdullah Al Mumin, Md Hanif Seddiqui, Muhammed Zafar Iqbal, Jahirul Islam
+Science Publications, Journal of Computer Science, Volume 15, Issue 7, 1022-1039, June - 2019
+DOI : 10.3844/jcssp.2019.1022.1039
+Tweet Stance Detection Using an Attention based Neural Ensemble Model
+UA Siddiqua, AN Chy, M Aono
+Association for Computational Linguistics (ACL), Proceedings of the 2019 Conference of the North American Chapter of the …, 2019, 1868-1873, June - 2019
+Triplet Constrained Deep Feature Extraction for Hyperspectral Image Classification
+Fahim Alam, Jun Zhou, Alan Wee-Chung Liew, Jun Jo and Yongsheng Gao
+IEEE, Proceedings of the 9th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS), 1-5, June - 2019
+In this yet another contribution of my PhD research, we demonstrated the usefulness of triplet constraint property on hyperspectral remote sensing images through 3D Convolutional Neural Network. This method directly learns a mapping from images to a Euclidean space in which distances directly correspond to a measure of spectral-spatial similarity. Once this embedding has been established, classification can be implemented with such embeddings as feature vectors. Moreover, we also augmented the size of the training samples in different band groups. This produces different yet useful estimation of spectral-spatial characteristics of HSI data and contributes considerably in accurate classification.
+Threat and Abusive Language Detection on Social Media in Bengali Language
+P. Chakraborty, M. H. Seddiqui
+International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT), May - 2019
+Survey on text-based sentiment analysis of bengali language
+Nayan Banik, Md Hasan Hafizur Rahman, Shima Chakraborty, Hanif Seddiqui, Muhammad Anwarul Azim
+IEEE, 1st International Conference on Advances in Science, Engineering and Robotics Technology (ICASERT), 1-6, May - 2019
+Developing an Islamic Farayez System Applying Software Engineering
+Sadia Tabassum, A. H. M. Sajedul Hoque, Sharaban Twahura and Mohammad Osiur Rahman
+UKM press, Journal of Engineering, April - 2019
+This paper proposes computational models for computing shares of deceased according to Islamic Farayez and justifies the proposed models applying 10 complex real cases.
+A Systematic Review of Electronic Health Record - Based Disease Prediction Approaches
+S. Muntaha, T. Rahman, M. H. Seddiqui
+Computer Science and Engineering Research Journal, Vol. 11, 36 - 4 8, January - 2019
+Keyword Extraction in Bangla Scientific documents: A Hybrid Approach
+Khaled Hasan Sazzad, Md Abdullah Al Mumin, Muhammad Anwarul Azim
+Computer Science and Engineering Research Journal 11(1), 28-35, January - 2019
+Neural Networks and Support Vector Machine based Approach for Classifying Tweets by Information Types at TREC 2018 Incident Streams Task
+AN Chy, UA Siddiqua, M Aono
+TREC, 27th Text REtrieval Conference (TREC), 1-7, 2019, 1-7, 2019
+Query Expansion for Microblog Retrieval Focusing on an Ensemble of Features
+AN Chy, MZ Ullah, M Aono
+Journal of Information Processing, 27, 61-76, 2019
+Rise of Bangladesh: Sheikh Hasina Factor
+Editor: Rudro Saiful
+Ekattor, 2019
+Prof. Dr. Hanif Seddiqui is one of the Editorial Board Members.
+Languages’ Impact on Emotional Classification Methods
+AC Eilertsen, DH Rose, PL Erichsen, RE Christensen, RPD Nath
+2019 Federated Conference on Computer Science and Information Systems …, 2019, 2019
+A brief review: security issues in cloud computing and their solutions.
+I Ahmed
+Telkomnika 17 (6), 2019, 2019
+Evaluating Programmed Artifical Insemination for Cattle Production
+I Ahmed, T Yoshihara, Y He, O Fukuda, H Okumura, K Arai, K Endo, ...
+International Journal of Advanced Computer Sciecne and Applications (IJACSA …, 2019, 2019
+2018
+Comparison of Classical Machine Learning Approaches on Bangla Textual Emotion Analysis
+M. A. Rahman and M. H. Seddiqui
+IEEE, 21st International Conference on Computer and Information Technology (ICCIT), December - 2018
+Bangladeshi License Plate Detection and Recognition with Morphological Operation and Convolution Neural Network
+Golam Rabbani, Mohammad Aminul Islam, Muhammad Anwarul Azim, Mohammad Khairul Islam, Md. Mostafizur Rahman
+21st International Conference of Computer and Information Technology (ICCIT), December - 2018
+Bangladeshi license plate detection and recognition with morphological operation and convolution neural network
+Golam Rabbani, Mohammad Aminul Islam, Muhammad Anwarul Azim, Mohammad Khairul Islam, Md Mostafizur Rahman
+IEEE, 21st International Conference of Computer and Information Technology, 1-5, December - 2018
+Fusion of Hyperspectral and LiDAR Data Using Discriminant Correlation Analysis for Land Cover Classification
+Farah Jahan, Jun Zhou, Mohammad Awrangjeb and Yongsheng Gao
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 11, no. 10, pp. 3905 - 3917, September - 2018
+Conditional Random Field and Deep Feature Learning for Hyperspectral Image Classification
+Fahim Irfan Alam, Jun Zhou, Alan Wee-Chung Liew, Xiuping Jia, Jocelyn Chanussot, Yongsheng Gao
+IEEE Transactions on Geoscience and Remote Sensing, Volume: 57, Issue: 3, 1612 - 1628, September - 2018
+This paper is a major contribution of my PhD thesis. In this work, we proposed a method to classify hyperspectral images by considering both spectral and spatial information via a combined framework consisting of 3D Convolutional Neural Network (CNN) and Conditional Random Field (CRF). We used multiple spectral band groups to learn deep features using CNN, and then formulate deep CRF with CNN-based unary and pairwise potential functions to effectively extract the semantic correlations between patches consisting of 3-D data cubes. Furthermore, we introduced a deep deconvolution network that improves the final classification performance. We also introduced a new data set and experimented our proposed method on it along with several widely adopted benchmark data sets to evaluate the effectiveness of our method.
+Fairness comparison of TCP variants over proactive and reactive routing protocol in MANET
+Nahida Nigar, Muhammad Anwarul Azim
+Institute of Advanced Engineering and Science (IAES), Indonesia, International Journal of Electrical and Computer Engineering 8 (4), August - 2018
+Integration of Heterogeneous Features from Co-registered Hyperspectral and LiDAR Data for Land Cover Classification
+Farah Jahan, Jun Zhou, Mohammad Awrangjeb and Yongsheng Gao
+2018 10th IAPR Workshop on Pattern Recognition in Remote Sensing (PRRS), August - 2018
+Aspect-based query expansion for search results diversification
+Md Shajalal, Masaki Aono, Muhammad Anwarul Azim
+IEEE, Joint 7th International Conference on Informatics, Electronics & Vision, June - 2018
+Text to Emotion Extraction Using Supervised Machine Learning Techniques
+Muhammad Anwarul Azim, Mahmudul Hasan Bhuiyan
+University Ahmad Dahlan, Indonesia, TELKOMNIKA Telecommunication, Computing, Electronics and Control 16 (3), June - 2018
+Diversifying Search Result Leveraging Aspect-based Query Expansion
+Md Shajalal, Masaki Aono, Muhammad Anwarul Azim
+Society of Digital Information and Wireless Communications (SDIWC), Hong Kong, International Journal of New Computer Architectures and Their Applications 8(2), April - 2018
+Stance Detection on Microblog Focusing on Syntactic Tree Representation
+UA Siddiqua, AN Chy, M Aono
+Springer, The Third International Conference on Data Mining and Big Data (DMBD), 478-490, 2018
+A belief rule-based expert system to assess suspicion of acute coronary syndrome (acs) under uncertainty
+MS Hossain, S Rahaman, R Mustafa, K Andersson
+Soft Computing 22 (22), 7571-7586, 2018, 2018
+A Method to Recognize Food using Gist and SURF Features
+R Mustafa, P Dhar
+2018 Joint 7th International Conference on Informatics, Electronics & Vision …, 2018, 2018
+Sustainable Green Service Level Agreement (GSLA) Framework Development for IT and ICT Based Industries.
+I Ahmed
+2018
+2017
+Combining Unmixing and Deep Feature Learning for Hyperspectral Image Classification
+Fahim Alam, Jun Zhou, Lei Tong, Alan Wee-Chung Liew, Yongsheng Gao
+IEEE, Proceedings of the International Conference on Digital Image Computing: Techniques and Applications (DICTA), 1-6, December - 2017
+This work is a part of my PhD contributions. Considering the usefulness of Unmixing techniques, we proposed to utilize the unmixing results as an input to classifiers for better classification accuracy. We proposed a novel band group based structure preserving nonnegative matrix factorization (NMF) method to estimate the individual spectral responses from different materials within different ranges of wavelengths. Then we train a convolutional neural network (CNN) with the unmixing results to generate powerful features and eventually classify the data.
+Classifier-Free Detection of Power Line Pylons from Point Cloud Data
+Mohammad Awrangjeb, Mohammad Khairul Islam
+ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume IV-4/W4, 2017, 4th International GeoAdvances Workshop, Safranbolu, Karabuk, Turkey, October - 2017
+A Comparative Study on Big Data Handling Using Relational and Non -Relational Data Model
+Jannatul Maowa, A.H.M. Sajedul Hoque, Rashed Mustafa and Mohammad Osiur Rahman
+International Journal of Data Mining & Knowledge Management Process (IJDKP), Volume:7, Issue :3, 25-32, May - 2017
+This paper illustrates the comparison between Relational and Non-Relational Database.
+Building a Classifier Employing Prism Algorithm with Fuzzy Logic
+Ishrat Nahar Farhana, A.H.M. Sajedul Hoque, Rashed Mustafa and Mohammad Sanaullah Chowdhury
+International Journal of Data Mining & Knowledge Management Process (IJDKP), Volume : 7, Issue: 2, 51-62, March - 2017
+We review a random forest classifier using Prism Algorithm using Fuzzy Logic.
+Performance Evaluation of Different Backoff Algorithms in IEEE 802.15.4 Using Double Sensing
+Md. Mohibur Rahaman, Mohammad Khairul Islam, Kazi Ashrafuzzaman, Mohammad Sanaullah Chowdhury
+Indonesian Journal of Electrical Engineering and Computer Science, vol. 5, no. 2, February - 2017
+Accuracy Analysis of Recommendation System Using Singular Value Decomposition
+Naznin Akter, A. H. M. Sajedul Hoque, Rashed Mustafa and Mohammad Sanaullah Chowdhury
+19th International Conference on Computer and Information Technology (ICCIT), IEEE, 405-408, February - 2017
+This Paper shows the way to generate recommendation system using Singular Value Decomposition.
+Microblog retrieval using ensemble of feature sets through supervised feature selection
+AN Chy, MZ Ullah, M Aono
+IEICE TRANSACTIONS on Information and Systems, 100 (4), 793-806, 2017
+A COMPARATIVE STUDY ON BIG DATA HANDLING USING RELATIONAL AND NONRELATIONAL DATA MODEL
+J Maowa, A Hoque, R Mustafa, MO Rahman
+IJDKP 7 (3), 2017, 2017
+SETL: A programmable semantic extract-transform-load framework for semantic data warehouses
+RPD Nath, K Hose, TB Pedersen, O Romero
+Information Systems 68, 17-43, 2017, 2017
+Special issue on DOLAP 2015: Evolving data warehousing and OLAP cubes to big data analytics.
+C Ordonez, C Garcia-Alvarado, IY Song
+Inf. Syst. 68, 1-2, 2017, 2017
+Pixel-based Land Cover Classification by Fusing Hyperspectral and LiDAR data
+Farah Jahan and Mohammad Awrangjeb
+ISPRS Geospatial Week, 18–22 September, Wuhan, China (Best paper award), 2017
+Method for productive cattle finding with estrus cycle estimated with BCS and parity number and hormone treatments based on a regressive analysis
+K Arai, N Suzaki, I Ahmed, O Fukuda, H Okumura, K Endo, K Yamashita
+IJACSA 8 (9), 191-196, 2017, 2017
+2016
+CRF learning with CNN features for hyperspectral image segmentation
+Fahim Irfan Alam, Jun Zhou, Alan Wee-Chung Liew, Xiuping Jia
+IEEE, Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 1-4, November - 2016
+This is the first contribution of my PhD thesis. In order to utilize both spectral and spatial information to segment remote sensing hyperspectral images, we proposed to combine the properties of Convolutional Neural Network (CNN) and Conditional Random Field (CRF). A mean-field approximation algorithm for CRF inference is used and formulated with Gaussian pairwise potentials as Recurrent Neural Network. This combined network is then plugged into the CNN which leads to a deep network that has robust characteristics of both CNN and CRF.
+Fire Detection in Still Image Using Color Model
+Hira Lal Gope, Machbah Uddin, Shohag Barman, Dilshad Islam, Dr. Mohammad Khairul Islam
+Indonesian Journal of Electrical Engineering and Computer Science, vol. 3, no. 3, 618-625, October - 2016
+Crowd Detection in Still Images Using Combined HOG and SIFT Feature
+Machbah Uddin, Hira Lal Gope, Md. Sayeed Iftekhar Yousuf, Dilshad Islam, Mohammad Khairul Islam
+Indonesian Journal of Electrical Engineering and Computer Science, vol. 4, no. 2, October - 2016
+Review on Telemonitoring of Maternal Health care Targeting Medical Cyber-Physical Systems
+M.A. Kashem, M.H. Seddiqui, N. Moalla, A. Sekhari, Y. Ouzrout.
+ICAICT, International Conference on Advanced Information and Communication Technology (ICAICT), May - 2016
+EduBD: A Machine Understandable Approach to Integrate Information of Educational In- stitutions of Bangladesh
+S. Chakraborty, M. H. H. Rahman, M. H. Seddiqui1, S. C. Debnath
+AIRCC, International Journal of Web and Semantic Technology (IJWesT), Vol.7, No.1, January - 2016
+Recursive Suffix Stripping to Augment Bangla Stemmer
+M.H. Seddiqui, A.M. Maruf, A.N. Chy.
+ICAICT, International Conference on Advanced Information and Com- munication Technology (ICAICT), 2016
+Query Subtopic Mining Exploiting Word Embedding for Search Result Diversification
+MZ Ullah, M Shajalal, AN Chy, M Aono
+Springer, Asia Information Retrieval Societies Conference (AIRS), 308 - 314, 2016
+Query subtopic diversification based on cluster ranking and semantic features
+M Shajalal, MZ Ullah, AN Chy, M Aono
+IEEE, International Conference On Advanced Informatics: Concepts, Theory And Application (ICAICTA), 2016
+Recursive Suffix Stripping to Augment Bangla Stemmer
+MH Seddiqui, AAM Maruf, AN Chy
+International Conference on Advanced Information and Communication Technology (ICAICT), 2016
+KDETM at NTCIR-12 Temporalia Task: Combining a Rule-based Classifier with Weakly Supervised Learning for Temporal Intent Disambiguation
+AN Chy, MZ Ullah, M Shajalal, M Aono
+12th NTCIR Conference on Evaluation of Information Access Technologies, 2016
+An expert system to assist the diagnosis of ischemic heart disease
+MS Hossain, MA Haque, R Mustafa, R Karim, HR Dey, M Yousuf
+Int J Integr Care, 2016, 2016
+A belief rule-based expert system to assess bronchiolitis suspicion from signs and symptoms under uncertainty
+R Karim, MS Hossain, MS Khalid, R Mustafa, TA Bhuiyan
+Proceedings of SAI Intelligent Systems Conference, 331-343, 2016, 2016
+Accuracy analysis of recommendation system using singular value decomposition
+N Akter, AHMS Hoque, R Mustafa, MS Chowdhury
+2016 19th International Conference on Computer and Information Technology …, 2016, 2016
+Japanese Dairy Cattle Productivity Analysis using Bayesian Network Model (BNM)
+I Ahmed, K Endo, O Fukuda, K Arai, H Okumura, K Yamashita
+International Journal of Advanced Computer Science and Applications 7 (11 …, 2016, 2016
+Bioelectrical impedance analysis for estimating marbling score of live beef cattle in Japan
+O Fukuda, D Hashimoto, I Ahmed
+2016 IEEE International Conference on Industrial Engineering and Engineering …, 2016, 2016
+Identifying green services using gsla model for achieving sustainability in industries
+I Ahmed, H Okumura, K Arai
+International Journal of Advanced Computer Science and Applications 7 (9 …, 2016, 2016
+An Informational Model as a Guideline to Design Sustainable Green SLA (GSLA)
+I Ahmed, H Okumura, K Arai
+indicators 7 (4), 2016, 2016
+Belief-rule-based intelligent decision system to select hospital location
+Md. Mahbubul Islam, Tanjim Mahmud, Mohammad Shahadat Hossain
+Indonesian Journal of Electrical Engineering and Computer Science, 607-618, 2016
+Automated Weather Event Analysis with Machine Learning.
+Nasimul, H., Taufeeq, U., Chowdhury, N.K.
+International Conference on Innovations in Science, Engineering and Technology (ICISET), 2016
+Phishing websites detection using machine learning based classification techniques.
+Mazharul Islam, Chowdhury, N.K.
+International Conference on Advanced Information and Communication Technology (ICAICT), 2016
+Performance Analysis between Probabilistic and Decision Tree based Classification on User Knowledge Model Dataset.
+Md. Faisal Alam, Rashik Hafiz, Mohammad Sanaullah Chowdhury, Chowdhury, N.K.
+International Conference on Advanced Information and Communication Technology (ICAICT), 2016
+2015
+An intelligent framework for text-to-emotion analyzer
+Nadia Afroz, Mahim-Ul Asad, Lily Dey, Rudra Pratap Deb Nath, Muhammad Anwarul Azim
+IEEE, 18th International Conference on Computer and Information Technology , December - 2015
+Object Cataloging Using Heterogeneous Local Features for Image Retrieval
+Mohammad Khairul Islam , Farah Jahan, Joong Hwan Baek
+KSII Transactions on Internet and Information Systems, vol. 9, no. 11, 4534-4555, November - 2015
+Semantic Annotation of Bangla News Stream to Record History
+M.H. Seddiqui, M.N. Hoque, M.H.H. Rahman
+18th International Conference on Computer and Information Technology (ICCIT), October - 2015
+[Best Paper Award]
+A Fuzzy Frequent Pattern-Growth Algorithm for Association Rule Mining
+A.H.M. Sajedul Hoque, Rashed Mustafa, Sujit Kumar Mondal and Md. Al-Amin Bhuiyan
+International Journal of Data Mining & Knowledge Management Process (IJDKP), Volume: 5, Issue : 5, 21-33, September - 2015
+This article provides an analysis to generate Association Rules using Fuzzy Logic and Frequent Pattern Growth Algorithm.
+Estimating a Ranked List of Human Genetic Diseases by Associating Phenotype-Gene with Gene-Disease Bipartite Graphs
+Z. Ullah, M. Aono, M.H. Seddiqui
+ACM, Transactions on Intelligent Systems and Technology (TIST), Volume 6 Issue 4, August - 2015
+An Efficient Metric of Automatic Weight Generation for Properties in Instance Matching Technique
+M.H. Seddiqui, R.P.D. Nath, M. Aono
+International Journal of Web & Semantic Technology (IJWesT), Vol.6 No.1, January - 2015
+Combining temporal and content aware features for microblog retrieval
+AN Chy, MZ Ullah, M Aono
+IEEE, International Conference On Advanced Informatics: Concepts, Theory And Application (ICAICTA), 2015
+A time and context aware re-ranker for Microblog retrieval
+AN Chy, MZ Ullah, M Aono
+The 29th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI), 2015
+A belief rule based expert system to assess lung cancer under uncertainty
+MS Hossain, MA Hasan, M Uddin, MM Islam, R Mustafa
+2015 18Th international conference on computer and information technology …, 2015, 2015
+An Efficient Lip-reading Method Using K-nearest Neighbor Algorithm
+R Mustafa, D Zhu
+TELKOMNIKA Indonesian Journal of Electrical Engineering 13 (2014), 2015, 2015
+A novel method for sensing obscene videos using scene change detection
+R Mustafa, D Zhu
+International Journal of Advancements in Computing Technology (IJACT) 7 (1), 50, 2015, 2015
+A Belief Rule based expert system to control traffic signals under uncertainty
+MS Hossain, H Sinha, R Mustafa
+2015 International Conference on Computer and Information Engineering (ICCIE …, 2015, 2015
+Modeling Water Supply in Urban Slum by GIS Mapping
+MS Islam, R Mustafa, MS Mahmud
+Elixir Social Studies 85, 2015, 2015
+DNA Computer Based Algorithm for Recyclable Waste Paper Segregation
+Mohammad Osiur Rahman, Aini Hussain, Edgar Scavino, M A Hannan, Hassan Basri
+Applied Soft Computing, 31 (2015) 223–240, 2015
+ISSN 1568-4946 (Index: ISI).
+Towards a programmable semantic extract-transform-load framework for semantic data warehouses (Best Paper Award))
+RP Deb Nath, K Hose, TB Pedersen
+Proceedings of the ACM Eighteenth International Workshop on Data Warehousing …, 2015, 2015
+AN EFFICIENT METRIC OF AUTOMATIC WEIGHT GENERATION FOR PROPERTIES IN INSTANCE MATCHING TECHNIQUE
+MH Seddiqui, RPD Nath, M Aono
+International Journal of Web & Semantic Technology (IJWesT) 6 (1), 2015, 2015
+An intelligent framework for text-to-emotion analyzer
+N Afroz, MU Asad, L Dey, RPD Nath, MA Azim
+2015 18th International Conference on Computer and Information Technology …, 2015, 2015
+Analysis on existing Basic SLAs and green SLAs to define new sustainable Green SLA
+I Ahmed, H Okumura, K Arai
+International Journal of Advanced Computer Science and Applications 6 (12 …, 2015, 2015
+Green Service Level Agreement
+I Ahmed, A Klimova, E Rondeau, A Rybin
+International SEEDS Conference 2015, Leeds Beckett University, UK. 1 (1), 30, 2015, 2015
+2014
+Introducing active learning on text to emotion analyzer
+Mahim-Ul Asad, Nadia Afroz, Lily Dey, Rudra Pratap Deb Nath, Muhammad Anwarul Azim
+IEEE, 17th International Conference on Computer and Information Technology, 35-40, December - 2014
+An Efficient and Scalable Approach for Ontology Instance Matching
+R.P.D. Nath, M.H. Seddiqui, M. Aono
+JCP, Journal of Computers, VOL. 9, NO. 8:1755-1768, August - 2014
+Ontology Instance Matching for Semantic Data Integration
+R.P.D Nath, M.H. Seddiqui
+LAP LAMBERT Academic Publishing, 150, February - 2014
+SHREC’14 Track: Large Scale Comprehensive 3D Shape Retrieval.
+Bo, L., Yijuan, L., Chunyuan, L., Afzal, G., Tobias, S., Masaki, A., Qiang, C., Chowdhury, N.K., Bin, F., Takahiko, F., Henry, J., Ryuichi, K., Hitoshi, K., Ryutarou, O., Atsushi,T.
+The Eurographics Association, Eurographics Workshop on 3D Object Retrieval (3DOR), 2014
+Bangla news classification using naive Bayes classifier
+AN Chy, MH Seddiqui, S Das
+16th Int'l Conf. Computer and Information Technology, 366-371, 2014, 2014
+An efficient and scalable approach for ontology instance matching
+RPD Nath, H Seddiqui, M Aono
+Journal of Computers 9 (8), 1755-1769, 2014, 2014
+Linked open data representation of historical heritage of Bangladesh
+S Chakraborty, MHH Rahman, MH Seddiqui
+16th Int'l Conf. Computer and Information Technology, 242-248, 2014, 2014
+Bangla news classification using naive Bayes classifier
+AN Chy, MH Seddiqui, S Das
+IEEE, 16th International Conference on Computer and Information Technology (ICCIT), 366-371, 2014
+Learning domain-specific sentiment lexicon with supervised sentiment-aware lda
+M Yang, D Zhu, M Rashed, KP Chow
+Frontiers in Artificial Intelligence and Applications, 2014, 2014
+Obscenity Detection Using Haar-Like Features and Gentle Adaboost Classifier
+R Mustafa, M Yang, D Zhu
+Scientific World Journal 2014, 6, 2014, 2014
+Emotion extraction from real time chat messenger
+L Dey, MU Asad, N Afroz, RPD Nath
+2014 International Conference on Informatics, Electronics & Vision (ICIEV), 1-5, 2014, 2014
+A Conceptual Model for Effective Email Marketing
+ZL Bawm, RPD Nath
+17th International Conference on Computer and Information Technology, 2014, 2014
+An Efficient and Scalable Approach for Ontology Instance Matching.
+RPD Nath, MH Seddiqui, M Aono
+JCP 9 (8), 1755-1768, 2014, 2014
+Introducing Active Learning on Text to Emotion Analyzer
+Mahim ul Asad, Nadia Sabrin, Lily Chowdhury, Rudra Pratap Deb Nath, Anwarul Azim
+17th International Conference on Computer and Information Technology, 2014, 2014
+A novel automatic property weight generator for semantic data integration
+RPD Nath, H Seddiqui, M Aono
+16th Int'l Conf. Computer and Information Technology, 408-413, 2014, 2014
+Learning spatial relations for object-specific segmentation using Bayesian network model
+Iker Gondra, Fahim Irfan Alam
+Signal, Image and Video Processing, Volume 8, 1441–1450, 2014
+This paper features the major contributions of my Masters thesis. The main contribution of this paper is the inclusion of spatial relationships among the Object of Interest (OOI) fragments into the model in order to narrow this gap between low-level visual features and high-level semantics. For this purpose, we employ Bayesian networks as a probabilistic approach for learning the spatial relationships which, in turn, becomes evidence that is used for the process of segmenting future instances of the OOI. The algorithm presented in this paper also uses multiple instance learning to obtain prototypical descriptions of each fragment of the OOI based on low-level visual features. The experimental results on both artificial and real image datasets indicate that the addition of spatial relationships improves segmentation performance.
+A comparison of 3D shape retrieval methods based on a large-scale benchmark supporting multimodal queries
+Bo, L., Yijuan, L., Chunyuan, L., Afzal, G., Tobias, S., Masaki, A., Martin, B., Qiang, C., Chowdhury, N. K., Bin, F., Hongbo, F., Takahiko, F., Haisheng, L., Jianzhuang, L., Henry, J., Ryuichi, K., Hitoshi, K., Ryutarou, O., Atsushi T., Yajuan, W., Chaoli, Z., Changqing, Z.
+Elsevier, Computer Vision and Image Understanding, 2014
+https://doi.org/10.1016/j.cviu.2014.10.006 Scopus, Q1, H-index: 139, SCIE
+Does Operating Efficiency Matter for the Returns of Banking Sector Stocks in Dhaka Stock Exchange?
+Mohammad Akter Hossan, Mohammad Ziaul Hoque, Bishajit Dey
+Universal Journal of Accounting and Finance USA, 121- 128, 2014
+2013
+An Optimized Image Segmentation Algorithm
+Fahim Irfan Alam, Mumahammad Iqbal Hossain Chowdhury, Mohammad Reza Rabbani, Fateha Khanam Bappee
+IEEE, Proceedings of the International Conference on Informatics, Electronics and Vision (ICIEV), 1-8, August - 2013
+This article was awarded as the best paper in the said conference. The different looking fragments of the same object impose the main challenge of producing a good segmentation. This leads to consider the high-level semantics of an image as well as the low-level visual features which require computationally intensive operations. This demands to optimize the computations as much as possible in order to reduce both computational and communication complexity. This paper proposes a framework which can be used to perform segmentation for a particular object by incorporating optimization in subsequent steps. The algorithm proposes an optimized K-means algorithm for image segmentation followed by balance calculations in multiple instance learning and topological relations with relative positions to identify OOI regions. Finally, a bayesian network is incorporated to contain the learned information about the model of the OOI. The preliminary experimental results suggest a significant drop in the complexity.
+A Critical Review on Waste Paper Sorting Techniques
+Mohammad Osiur Rahman, Aini Hussain, and Hassan Basri
+International Journal of Environmental Science and Technology (IJEST), April - 2013
+ISSN 1735-1472, DOI 10.1007/s13762-013-0222-3, (Index: ISI Q1)
+Estimating a ranked list of human hereditary diseases for clinical phenotypes by using weighted bipartite network
+MZ Ullah, M Aono, MH Seddiqui
+2013 35th Annual International Conference of the IEEE Engineering in …, 2013, 2013
+SEM12 at the NTCIR-10 INTENT-2 English Subtopic Mining Subtask.
+MZ Ullah, M Aono, MH Seddiqui
+NTCIR, 2013, 2013
+Machine Understandable Information Representation of Geographic Related Data to the Administrative Structure of Bangladesh
+M.H.H. Rahman, S. Chakraborty, M.H. Seddiqui
+16th International Conference on Computer and Information Technology (ICCIT), 2013
+[Best Paper Award]
+Electronic health record system for human disease prediction and healthcare improvement in Bangladesh
+MKA Sikder, AN Chy, MH Seddiqui
+International Conference on Informatics, Electronics and Vision (ICIEV), 2013
+Objectionable image detection in cloud computing paradigm-a review
+R Mustafa, D Zhu
+2013
+“Judgments on Video Applications for Required Contents” - using Evidential Reasoning (ER) Algorithm
+R Mustafa, D Zhu
+IPCV 2013, 2013, 2013
+An Investigation into Content Based Video processing in Cloud Computing Paradigm
+R Mustafa, D Zhu
+IPCV 2013, 2013, 2013
+A Prediction Model to Support a Multilayer Network-based Universal Electronic Cash Transaction Framework
+Fahim Irfan Alam, Muhammad Iqbal Hasan Chowdhury
+The Smart Computing Review, Volume 3, Issue 4, 246-260, 2013
+In this paper, we proposed a multilayer network-supported framework that completely eliminates the need for paper money for all kinds of economic transactions. This paper proposes an extension of the framework by introducing embedded intelligence through the use of machine learning in order to facilitate the concept of data mining in our application. Because data mining is an important step in knowledge discovery, we can extract hidden and non-trivial information from raw data and predict a pattern that adds additional intelligence in our framework to make it more transparent and free of corruption. In this paper, we have utilized the significant functionalities of decision-tree classifiers in order to predict a transaction pattern for every concerned entity followed by handling all kinds of transactions by electronic means, and continuously monitoring them over the entire network.
+A New Shape Descriptor based on Local and Global Feature for 3D Shape Retrieval.
+Chowdhury, N.K., Tatsuma, A. and Masaki, A.
+Japan ITE Technical Report, Vol. 37, No. 56, Institute of Image Information and Television Engineers (ITE), 19-22, 2013
+2012
+Chromaticity Based Waste Paper Grade Identification
+Mohammad Osiur Rahman, Aini Hussain, Noor Ezlin Ahmad Basri, Edgar Scavino, Hassan Basri, and M A Hannan
+International Arab Journal of Information Technology (IAJIT), September - 2012
+Vol.9, No.5, pp. 411-417, September 2012. (Index: ISI).
+Learning-Based Object Segmentation Using Regional Spatial Templates and Visual Features
+Fahim Irfan Alam, Iker Gondra
+Springer, Proceedings of the International Conference on Computer Vision and Graphic, 397-406, September - 2012
+This is the last contributory work from my Masters thesis. In this work, we revised the concept of directional spatial templates and introduce regional directional spatial templates as a means of including spatial relationships among Object of Interest (OOI) regions into the model. We presented an object segmentation algorithm that learns a model which includes both visual and spatial information. Given a training set of images containing the OOI, each image is oversegmented into visually homogeneous regions. Next, Multiple Instance Learning identifies regions that are likely to be part of the OOI. For each pair of such regions and for each relationship, a regional template is formed. The computational cost of template generation is reduced by sampling the reference region with a pixel set that is descriptive of its shape. Experiments indicate that regional templates are an effective way of including spatial information into the model which in turn results in a very significant improvement in segmentation performance.
+Incorporating shape into spatially-aware adaptive object segmentation algorithm
+Fahim Irfan Alam, Iker Gondra
+ACM, Proceedings of the Fifth International C* Conference on Computer Science and Software Engineering, 86-94, June - 2012
+This is the second contribution of my Masters thesis. Our proposed object-specific segmentation algorithm (the first contribution of my Masters) learns a model of the objects which includes information on both the visual appearance of and the spatial relationships among the objects components. However, its performance heavily depends on the assumption that the visual appearance variability among object instances is low. We present an extension to our algorithm that relaxes this assumption by incorporating shape information into the object model.
+Continuous functioning of soft system bus based centralized persistent computing system
+Quazi Mahera Jabeen, Muhammad Anwarul Azim, Yuichi Goto, Jingde Cheng
+Society of Digital Information and Wireless Communications (SDIWC), Hong Kong, International Journal of New Computer Architectures and Their Applications 2 (2), 361-381, April - 2012
+Circle Based Model-A new approach for Image Processing
+Iqbal Ahmed
+LAP Lambert Academic Publishing, 1-76, March - 2012
+Implication of Association Rules Employing FP·Growth Algorithm for Knowledge Discovery
+A.H.M. Sajedul Hoque; Sujit Kumar Mondal; Tassnim Manami Zaman; Paresh Chandra Barman; Md. Al-Amin Bhuiyan
+14th International Conference on Computer and Information Technology (ICCIT 2011), IEEE, March - 2012
+This paper shows the analysis for building Association Rules using FP·Growth Algorithm under Classical Logic
+Person Detection, Re-identification and Tracking Using Spatio-Color-based Model for Non-Overlapping Multi-Camera Surveillance Systems
+Farah Jahan, Mohammad Khairul Islam, Joong-Hwan Baek
+Smart Computing Review, vol. 2, no. 1, 42-59, February - 2012
+Person Detection, Re-identification and Tracking Using Spatio-Color-based Model for Non-Overlapping Multi-Camera Surveillance Systems
+Farah Jahan, Mohammad Khairul Islam and Joong-Hwan Baek
+The Smart Computing Review, vol. 2, no. 1, February - 2012
+A Bayesian network-based tunable image segmentation algorithm for object recognition
+Fahim Irfan Alam, Iker Gondra
+IEEE, Proceedings of the International Symposium on Signal Processing and Information Technology (ISSPIT), 1-6, February - 2012
+This is the first contributory work from my Masters thesis. During the initial phases of my research, I noticed that due to the objects consisting of different-looking fragments, traditional image segmentation algorithms that are based on the identification of homogeneous regions tend to oversegment. In this work, we used Multiple Instance Learning to learn prototypical representations of each fragment of the OOI and a Bayesian network to learn the spatial relationships that exist among those fragments. The Bayesian network, as a probabilistic graphical model, in turn becomes evidence that is used for the process of semantically accurate segmentation of future instances of the objects. The key contribution of this paper is the inclusion of domain-specific information in terms of spatial relationships as an input to a conventional Bayesian network structure learning algorithm.
+Real-time Waste Paper Grading Using CBR Approach
+Mohammad Osiur Rahman, Aini Hussain, Edgar Scavino, M A Hannan, and Hassan Basri
+International Journal of Innovative Computing, Information and Control (IJICIC), 471-488, January - 2012
+ISSN 1349-4198, Vol.8, No.1 (A), January 2012 (ISI Q1, Impact Factor 2.932 on 2009)
+Resolving scalability issue to ontology instance matching in semantic web
+RPD Nath, H Seddiqui, M Aono
+International Conference on Computer and Information Technology (ICCIT), 2012
+Mediator based architecture to address data heterogeneity
+R Mustafa, HH Rahman, MS Hossain
+Daffodil International University, 2012, 2012
+Resolving scalability issue to ontology instance matching in semantic web
+RPD Nath, H Seddiqui, M Aono
+2012 15th International Conference on Computer and Information Technology …, 2012, 2012
+An efficient method for ontology instance matching
+RPD Nath, H Seddiqui, M Aono
+人工知能学会全国大会論文集 第 26 回全国大会 (2012), 1I2R41-1I2R41, 2012, 2012
+Human Detection and Tracking Based on Shape and Spatio-Temporal Information
+Farah Jahan, Mohammad Khairul Islam, In-Gyu Kim, Seung-Jun Hwang and Joong-Hwan Baek
+International Conference of the Korea Institute of Information and Communication Engineering (ICKIICE 2012), 28-30 June, Istanbul, Turkey., 2012
+2011
+A Design of Centralized Persistent Computing System
+Quazi Mahera Jabeen, Muhammad Anwarul Azim, Yuichi Goto, Jingde Cheng
+Springer Berlin Heidelberg, International Conference on Informatics Engineering and Information Science, 604-617, November - 2011
+Object detection and classification using extended descriptors for video surveillance applications
+Mohammad Khairul Islam, Farah Jahan, Jae-Hong Min and Joong-Hwan Baek
+The Journal of The Institute of Electronics Engineers of Korea (IEEK), South Korea, vol. 48, no. 4, pp. 456-464, July - 2011
+Object Classification Using Spatial and Color Covariance Descriptors
+Mohammad Khairul Islam, Farah Jahan, Jae Hong Min, In Kyu Kim, Joong-Hwan Baek
+KISPS Summer Conference, Yong Nam University, South Korea, June - 2011
+Road and Shoreline Detection for Automatic Flight Path Decision of Vision-Based UAV
+In-kyu Kim, Jae-Hong Min, Sung-Jun Hwang, Khairul Islam, Farah Jahan, Joong-Hwan Baek
+KISPS Summer Conference, Yeungnam University, Daegu, Korea, 70-72, June - 2011
+Object classification based on visual and extended features for video surveillance application
+Mohammad Khairul Islam, Farah Jahan, Jae-Hong Min, Joong-Hwan Baek
+8th Asian Control Conference (ASCC), Kaohsiung, Taiwan, 1398-1401, May - 2011
+Fast Object Classification Using Texture and Color Information for Video Surveillance Applications
+Mohammad Khairul Islam, Farah Jahan, Jae-Hong Min, Joong-Hwan Baek
+The Journal of Korea Navigation Institute, South Korea, vol. 15, no. 1, 140-146, February - 2011
+Fast Object Classification Using Texture and Color Information for Video Surveillance Applications
+Mohammad Khairul Islam, Farah Jahan, Jae-Hong Min and Joong-Hwan Baek
+The Journal of Korea Navigation Institute, South Korea,, vol. 15, no. 1, pp. 140-146, February - 2011
+Security Analysis of Peer-to-Peer based Soft System Bus based Systems
+Muhammad Anwarul Azim, Yuichi Goto, Jingde Cheng
+International Journal of Computer Science and Network Security 11 (2), 164-172, February - 2011
+Knowledge Discovery and Intelligent Query Employing Fuzzy Logic
+Tassnim Manami Zaman, A.H.M. Sajedul Hoque, Md. Al-Amin Bhuiyan
+International Conference on Mathematics and Computer Science, ICMCS, January - 2011
+This paper provides the demonstration of building fuzzy association rules.
+Augmentation of ontology instance matching by automatic weight generation
+MH Seddiqui, S Das, I Ahmed, RPD Nath, M Aono
+2011 World Congress on Information and Communication Technologies, 1390-1395, 2011, 2011
+Intelligent Computer Vision System for Segregating Recyclable Waste Papers
+Mohammad Osiur Rahman, Aini Hussain, M A Hannan, Edgar Scavino, Hassan Basri
+Expert Systems with Applications, 2011
+doi:10.1016/j.eswa.2011.02.112, pp.10398-10407, 2011 (ISI Q1, Impact Factor 2.908 on 2009, 5-years impact factor 3.162).
+Object detection and classification using extended descriptors for video surveillance applications
+Mohammad Khairul Islam, Farah Jahan, Jae-Hong Min, Joong-Hwan Baek
+The Journal of The Institute of Electronics Engineers of Korea (IEEK), vol. 48, no. 4, 456-464, 2011
+Augmentation of ontology instance matching by automatic weight generation
+MH Seddiqui, S Das, I Ahmed, RPD Nath, M Aono
+2011 World Congress on Information and Communication Technologies, 1390-1395, 2011, 2011
+Object Classification Using Spatial and Color Covariance Descriptors
+Mohammad Khairul Islam, Farah Jahan, Jae-Hong Min, In-kyu Kim and Joong-Hwan Baek
+KISPS Summer Conference, 24-25 June 2011, pp. 70-72, Yeungnam University, Daegu, Korea., 2011
+Road and Shoreline Detection for Automatic Flight Path Decision of Vision-Based UAV
+In-kyu Kim, Jae-Hong Min, Sung-Jun Hwang, Khairul Islam, Farah Jahan, and Joong-Hwan Baek
+KISPS Summer Conference, 24-25 June 2011, pp. 70-72, Yeungnam University, Daegu, Korea., 2011
+Object classification based on visual and extended features for video surveillance application
+Mohammad Khairul Islam, Farah Jahan, Jae-Hong Min, and Joong-Hwan Baek
+8th Asian Control Conference (ASCC), Kaohsiung, Taiwan, pp. 1398-1401, May 15-18, 2011., 2011
+Augmentation of ontology instance matching by automatic weight generation
+MH Seddiqui, S Das, I Ahmed, RPD Nath, M Aono
+2011 World Congress on Information and Communication Technologies, 1390-1395, 2011, 2011
+Knowledge Discovery in Banking System Employing Classical Logic versus Fuzzy Logic
+A.H.M. Sajedul Hoque, Tassnim Manami Zaman, Sujit Kumer Mondol, Md. Al-Amin Bhuiyan
+Second International Conference on Computational Intelligence Applications 2011, ICCIA, 9-13, 2011
+This article provides an analysis of classifiers using classical and fuzzy logic in the domain of banking system.
+A Naive Clustering Approach in Travel Time Prediction
+Nath, R.P.D., Chowdhury, N.K., and Aono, M.
+Computer Science Journals, International Journal of Data Engineering (IJDE), Vol. 2 Issue 2 pp:62-74, 2011
+Improved Travel Time Prediction Algorithms for Intelligent Transportation Systems.
+Chowdhury, N.K., and Leung, C.K.-S.
+Lecture Notes in Computer Science(), vol 6882, Springer, Berlin, Heidelberg, 15th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems., 355-365, 2011
+2010
+Object classification using visual-words and low-level features
+Mohammad Khairul Islam, Farah Jahan, Jae-Hong Min, Joong-Hwan Baek
+KICS International Workshop on Information and Communications, Vietnam, 25-26, December - 2010
+Object Classification for Video Surveillance System
+Anjan Kumar Paul, Jae-Hong Min, Mohammad Khairul Islam, Young -Bum Kim, Joong Hwan Baek
+International Conference on Electronics, Information, and Communication (ICEIC), Philippines, 54-57, June - 2010
+SVM-based Bag of Words Model for Object Classification
+Farah Jahan, Mohammad Khairul Islam, Jae-Hong Min, Young-Bum Kim, Joong-Hwan Baek
+KISPS Summer Conference, Chungbuk National University, Cheongju, South Korea, 122-126, June - 2010
+Realtime Markerless 3D Object Tracking for Augmented Reality
+Jae-Hong Min, Mohammad Khairul Islam, Anjan Kumar Paul, Joong-Hwan Baek
+The Journal of the Institute of Signal Processing and Systems, vol. 14, no. 2, 272-277, April - 2010
+Natural Object Recognition for Augmented Reality Applications
+Anjan Kumar Paul, Mohammad Khairul Islam, Jae-Hong Min, Young-Bum Kim, Joong-Hwan Baek
+The Journal of the Institute of Signal Processing and Systems, vol. 11, no. 2, 143-150, April - 2010
+Ontology Instance Matching based MPEG-7 Resource Integration
+M.H. Seddiqui, M. Aono
+IGI-Global, International Journal of Multimedia Data Engineering & Management, Volume: 1 Issue: 2, January - 2010
+A Fast Object Detection and Classification using Covariance Descriptor
+Mohammad Khairul Islam, Farah Jahan, Hyung-Jin Lee, Joong-Hwan Baek
+Workshop on Image Processing and Image Understanding (IPIU), Jeju, South Korea, January - 2010
+Metric of intrinsic information content for measuring semantic similarity in an ontology
+MH Seddiqui, M Aono
+Proceedings of the Seventh Asia-Pacific Conference on Conceptual Modelling-Volume 110, 89-96, 2010
+Ontology instance matching by considering semantic link cloud
+M Seddiqui, M Aono
+Proceedings of the 9th WSEAS International Conference on Artificial Intelligence, Knowledge Engineering and Data Bases(AIKED) 2010, 2010
+Scalability in ontology instance matching of large semantic knowledge base
+M Aono, MH Seddiqui
+Proceedings of the 9th WSEAS International Conference on Artificial Intelligence, Knowledge Engineering and Data Bases (AIKED), 378-383, 2010
+Parallel Data Transmission: A Proposed Multilayered Reference Model
+T Chowdhury, R Mustafa
+Novel Algorithms and Techniques in Telecommunications and Networking, 139-142, 2010, 2010
+Modified K-means clustering for travel time prediction based on historical traffic data
+R Deb Nath, HJ Lee, N Chowdhury, JW Chang
+Knowledge-Based and Intelligent Information and Engineering Systems, 511-521, 2010, 2010
+Object classification using visual-words and low-level features
+Mohammad Khairul Islam, Farah Jahan, Jae-Hong Min, and Joong-Hwan Baek
+KICS International Workshop on Information and Communications, Vietnam, pp. 25-26, December 14-15, 2010., 2010
+SVM-based Bag of Words Model for Object Classification
+Farah Jahan, Mohammad Khairul Islam, Jae-Hong Min, Young-Bum Kim, and Joong-Hwan Baek
+KISPS Summer Conference, 11-12 June 2010, pp. 122-126, Chungbuk National University, Cheongju, South Korea., 2010
+A Fast Object Detection and Classification using Covariance Descriptor
+Mohammad Khairul Islam, Farah Jahan, Hyung-Jin Lee, and Joong-Hwan Baek
+Workshop on Image Processing and Image Understanding (IPIU), 27-29 January 2010, Jeju, Korea., 2010
+New travel time prediction algorithms for intelligent transportation systems
+Chang, J., Chowdhury, N.K., and Lee, H.
+IOS PRESS , NIEUWE HEMWEG 6B, AMSTERDAM, NETHERLANDS, 1013 BG, Journal of Intelligent and Fuzzy Systems, vol. 21, no. 1, 2, pp. 5-17, 2010
+https://doi.org/10.3233/IFS-2010-0431 Scopus, Q1, H-index: 64, SCIE
+A Study on the Performances of Return Based Trading Strategies: The Case of Dhaka Stock Exchange (DSE) of Bangladesh
+Mohammad Akter Hossan Sang Bum Park
+Journal of Industrial Economics and Business South Korea, 1571- 1592, 2010
+Vol. 23, No. 3
+Modified K-Means Clustering for Travel Time Prediction Based on Historical Travel Data.
+Nath, R.P.D., Lee, H., Chowdhury, N.K., and Chang, J.
+Lecture Notes in Computer Science(), vol 6276. Springer, Berlin, Heidelberg., 14th International Conference on Knowledge- Based and Intelligent Information and Engineering Systems., 511-521, 2010
+2009
+An Efficient and Scalable Algorithm for Segmented Alignment of Ontologies of Arbitrary Size
+M.H. Seddiqui, M. Aono
+Elsevier, Web Semantics: Science, Services and Agents on the World Wide Web (2009), Volume 7, Issue 4, Pages 344-356, December - 2009
+[Most Cited Article Award]
+Object Recognition without markers for Augmented Reality Applications using Scale Invariant Feature Transform
+Anjan Kumar Paul, Mohammad Khairul Islam, Young-Bum Kim, Bai-Tao Zhou, Joong-Hwan Baek
+International Conference on Information and Communication Technologies (ICICT), Ulaanbaatar, Mongolia, 126-133, August - 2009
+Ontology Driven IPC Based Classification of a Research Abstract
+M.H. Seddiqui, M. Aono
+Proceedings of IAENG International Conference on Data Mining and Applications (ICDMA09) of IMECS, Kowloon, Hong Kong, 692–697, March - 2009
+[“Certificate of Merit” Award]
+Object Recognition for Markerless Augmented Reality Embodiment
+Anjan Kumar Paul, Hyung-Jin Lee, Young-Bum Kim, Mohammad Khairul Islam, Joong-Hwan Baek
+The Journal of Korea Institute of Navigation, vol. 13, no. 1, 126-133, January - 2009
+Anchor-flood: results for OAEI 2009
+MH Seddiqui, M Aono
+Proceedings of the ISWC 2009 Workshop on ontology matching, 127-134, 2009, 2009
+Development of an effective travel time prediction method using modified moving average approach
+NK Chowdhury, RPD Nath, H Lee, J Chang
+International Conference on Knowledge-Based and Intelligent Information and …, 2009, 2009
+Knowledge-Based and Intelligent Information and Engineering Systems: 13th International Conference, KES 2009, Santiago, Chile, September 28-30, 2009, Proceedings
+JD Velásquez, SA Ríos
+Springer, 2009, 2009
+Development of an Effective Travel Time Prediction Method using Modified Moving Average Approach.
+Chowdhury, N.K., Nath, R.P.D., Lee, H., and Chang, J.
+Lecture Notes in Computer Science(), vol 5711. Springer, Berlin, Heidelberg., 13th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems., 130-138, 2009
+2008
+Face Detection and Recognition for Video Retrieval
+Mohammad Khairul Islam, Hyung-Jin Lee, Anjan Kumar Paul, Joong-Hwan Baek
+The Journal of Korea Institute of Navigation, vol. 12, no 6, 691-698, December - 2008
+Person Detection and Segmentation Based on Face Localization and Region Growing for Video Indexing
+Mohammad Khairul Islam, Hyung-Jin Lee, Anjan Kumar Paul, Joong-Hwan Baek
+International Conference on Internet Information Retrieval, Korea Aerospace University, South Korea, 98-103, December - 2008
+Privacy preserving support vector machines in wireless sensor networks
+Dong Seong Kim, Muhammad Anwarul Azim, Jong Sou Park
+IEEE, Third International Conference on Availability, Reliability and Security, 1260-1265, March - 2008
+Alignment results of anchor-flood algorithm for oaei-2008
+MH Seddiqui, M Aono
+Proceedings of the 3rd International Conference on Ontology Matching-Volume 431, 120-127, 2008
+Performance Comparison of Fuzzy Queries on Fuzzy Database and Classical Database
+A.H.M. Sajedul Hoque, Md. Sadek Ali, Md. Aktaruzzaman Sujit Kumer Mondol, and Babul Islam
+International Conference on Electrical and Computer Engineering, IEEE, 654-658, 2008
+This Paper shows the comparison of Fuzzy queries on Fuzzy Database and Classical Database
+Travel Time Prediction Algorithm Based on Time-varying Average Segment Velocity using Naive Bayesian Classification
+Um, J., Chowdhury, N.K., Lee, H., Chang, J., and Kim, Y.
+Journal of Korea Spatial System Society (KSISS), Volume 10 Issue 3 Pages.31-43, 2008
+Travel Time Prediction Algorithm using Rule-based Classification on Road Networks
+Lee, H., Chowdhury, N.K., Chang, J.
+Journal of the Korean Contents Association, Vol. 8 No. 10 pp-76-87, 2008
+A New Travel Time Pre-diction Method for Intelligent Transportation System.
+Lee, H., Chowdhury, N.K., and Chang, J.
+Lecture Notes in Computer Science(), vol 5177. Springer, Berlin, Heidelberg., 12th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems., 2008
+Short-Term Travel Time Prediction Algorithm Based on Naive Bayesian Classification.
+Chowdhury, N.K., and Chang, J.
+Korean Database Conference (KDBC), 53-60, 2008
+2007
+SVM-based Person Identification Using Illumination-compensated Features For Video Indexing
+Mohammad Khairul Islam, Anjan Kumar Paul, Joong-Hwan Baek
+International Conference on Internet Information Retrieval, Korea Aerospace University, South Korea, 53-59, December - 2007
+Content-based Music Retrieval Using Beat Information
+Mohammad Khairul Islam, Hyung-Jin Lee, Anjan Kumar Paul, Joong-Hwan Baek
+International Conference on Fuzzy Systems and knowledge Discovery (FSKD), Haikou, China, 317-321, August - 2007
+Music Identification Using Its Pattern
+Mohammad Khairul Islam, Jae-Ung Yun, Anjan Kumar Paul, Joong-Hwan Baek
+The Institute of Electronics Engineers of Korea (IEEK) Summer Conference, Pusan, South Korea, 419-420, July - 2007
+Content-based Digital Video Retrieval using Facial Information
+Mohammad Khairul Islam, Hyung-Jin Lee, Anjan Kumar Paul, Joong-Hwan Baek
+The Korea Institute of Signal Processing and Systems (KISPS) Summer Conference, Ulsan University, South Korea, 18-21, June - 2007
+New Range and k-NN Query Processing Algorithms using Materialization Technique in Spatial Network.
+Um, J., Chowdhury, N.K., and Chang, J.
+IEEE, International Symposium on Information Technology Convergence (ISITC), 76-80, 2007
+Resolving geo‐spatial semantic conflicts–an interoperability issue
+MS Hossain, R Mustafa
+Humanomics, 2007, 2007
+Range and k-Nearest Neighbour Query Processing Algorithms using Materialization Techniques in Spatial Network Databases
+Kim, Y., Chowdhury, N.K., Lee, H., and Chang, J.
+Journal of Korea Spatial Information System Society (KSISS), Volume 9 Issue 2 Pages.67-79, 2007
+2006
+An Effective Video BGM Retrieval System Based On Beat Analysis
+Mohammad Khairul Islam, Jae-Ung Yun, Hyung-Jin Lee, Anjan Kumar Paul, Joong-Hwan Baek
+International Conference on Information Retrieval, Hankuk Aviation University, South Korea, 77-82, December - 2006
+Actor Based Video Indexing and Retrieval Using Visual Information
+Mohammad Khairul Islam, Soon-Tak Lee, Joong-Hwan Baek
+International Conference on Natural Computation, LNCS, Xi’an, China, 492-501, September - 2006
+Face Detection and Matching for Video Indexing
+Mohammad Khairul Islam, Soon-Tak Lee, Jae-Ung Yun, Joong-Hwan Baek
+The Korea Institute of Signal Processing and Systems (KISPS) Summer Conference, Suncheon National University, South Korea, 45-48, June - 2006
+ApproximatTravel Time Measure From Moving Object Trajectory In Road Network
+Chowdhury, N.K., Faruqui, R.U., and Hossen, M.K.
+Computer Science and Engineering Research Journal, Vol. 04, ISSN: 1990- 4010, 2006
+2004
+Bangla Compound Character Issue in TTS
+Md. Hanif Seddiqui, Mohammad Shahjahan Feroz Farazi, Mohammad Khairul Islam, Muhammad Anwarul Azim
+Asian Journal of Information technology 3 (2), 102-106, February - 2004
+A New Numbering System and its Relations with Decimal, Binary, Hexadecimal and Octal Numbering System
+Mohammad Shahjahan Feroz Farazi, Mohammad Hanif Siddiqui, Muhammad Anwarul Azim, Mohammad Khairul Islam, Mohammad Jalal Ahammad
+Asian Journal of Information technology 3 (2), 96-100, 2004
+K-Index-Sort: Sorting Unique Integer in Linear Time
+A.H.M. Kamal, Zia Uddin Ahmed Khan, Mohammad Khairul Islam, Muhammad Anwarul Azim
+Asian Journal of Information technology, 23-26, 2004
+2003
+Insertion Sort: That apply Binary Search and Keep Track
+A. H. M. Kamal, Enamul Azim, Mohammad Khairul Islam
+International Conference on Computer and Information Technology (ICCIT), Jahangirnagar University, Dhaka, Bangladesh, 68-70, December - 2003
+Construction of Deterministic Finite Automata (DFA) from Regular Expression
+A. H. M. Kamal, Mohammad Khairul Islam
+International Conference on Computer, Communication and Control Technologies (CCCT 2003), USA, 85-87, July - 2003
+Parts of speech tagging using morphological analysis in bangla
+MH Seddiqui, A Rana, A Al Mahmud, T Sayeed
+Proceeding of the 6th International Conference on Computer and Information Technology (ICCIT), 2003, 2003
+A new approach of Bangla machine translation considering Allomorph
+MH Siddique, AKMS Rana, A Al Mamun
+6th International Conference on Computer and Information Technology (ICCIT), 308-312, 2003, 2003
+Morphological Analysis of Bangla Words
+MH Seddiqui, AKMS Rana, A Al Mahmud, T Sayeed
+6th International Conference on Computer and Information Technology (ICCIT), 2003, 2003
+2002
+Algorithmic approach to synthesize voice from Bengali text
+Md Hanif Seddiqui, Muhammad Anwarul Azim, Md Shahidur Rahman, M Zafar Iqbal
+International Conference on Computer Sciences and Information Technology, 233-236, December - 2002
+An Optimal Bangla Keyboard Layout
+MH Seddiqui, MM Hassan, MS Hossain, MN Islam
+Proceedings of International Conference on Computer and Information Technology (ICCIT), 2002, 2002
+Algorithmic approach to synthesize voice from bangla text
+MH Seddiqui, MA Azim, MS Rahman, MZ Iqbal
+Proceedings of the 5th International Conference on Computer and Information Technology (ICCIT), 233-236, 2002, 2002
