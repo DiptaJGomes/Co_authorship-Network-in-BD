@@ -1,8 +1,8 @@
 import csv
 
 # Input and output file paths
-input_csv = "ku_title_authors.csv"  # Replace with your CSV file name
-output_csv = "ku_unique_authors_with_ids.csv"
+input_csv = "brac_title_authors.csv"  # Replace with your CSV file name
+output_csv = "brac_unique_authors_with_ids.csv"
 
 # Set to track unique authors
 unique_authors = set()

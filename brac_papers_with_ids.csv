@@ -1,0 +1,431 @@
+Author ID,Paper ID,Title
+brac_author_0,brac_paper_0,DPP-PseAAC: a DNA-binding protein prediction model using Chou's general PseAAC
+brac_author_1,brac_paper_0,DPP-PseAAC: a DNA-binding protein prediction model using Chou's general PseAAC
+brac_author_2,brac_paper_0,DPP-PseAAC: a DNA-binding protein prediction model using Chou's general PseAAC
+brac_author_3,brac_paper_0,DPP-PseAAC: a DNA-binding protein prediction model using Chou's general PseAAC
+brac_author_0,brac_paper_1,isGPT: An optimized model to identify sub-Golgi protein types using SVM and Random Forest based feature selection
+brac_author_4,brac_paper_1,isGPT: An optimized model to identify sub-Golgi protein types using SVM and Random Forest based feature selection
+brac_author_3,brac_paper_1,isGPT: An optimized model to identify sub-Golgi protein types using SVM and Random Forest based feature selection
+brac_author_5,brac_paper_2,Solving the multidimensional multiple-choice knapsack problem by constructing convex hulls
+brac_author_0,brac_paper_2,Solving the multidimensional multiple-choice knapsack problem by constructing convex hulls
+brac_author_3,brac_paper_2,Solving the multidimensional multiple-choice knapsack problem by constructing convex hulls
+brac_author_6,brac_paper_3,Solving the multi-objective vehicle routing problem with soft time windows with the help of bees
+brac_author_3,brac_paper_3,Solving the multi-objective vehicle routing problem with soft time windows with the help of bees
+brac_author_0,brac_paper_3,Solving the multi-objective vehicle routing problem with soft time windows with the help of bees
+brac_author_0,brac_paper_4,On Hamiltonian cycles and Hamiltonian paths
+brac_author_3,brac_paper_4,On Hamiltonian cycles and Hamiltonian paths
+brac_author_7,brac_paper_5,A comprehensive analysis of degree based condition for Hamiltonian cycles
+brac_author_3,brac_paper_5,A comprehensive analysis of degree based condition for Hamiltonian cycles
+brac_author_8,brac_paper_5,A comprehensive analysis of degree based condition for Hamiltonian cycles
+brac_author_0,brac_paper_6,Antigenic: an improved prediction model of protective antigens
+brac_author_4,brac_paper_6,Antigenic: an improved prediction model of protective antigens
+brac_author_2,brac_paper_6,Antigenic: an improved prediction model of protective antigens
+brac_author_3,brac_paper_6,Antigenic: an improved prediction model of protective antigens
+brac_author_3,brac_paper_7,On nonnegative factorization of matrices
+brac_author_3,brac_paper_8,Positive solutions of positive linear systems
+brac_author_9,brac_paper_9,Gene selection for cancer classification with the help of bees
+brac_author_10,brac_paper_9,Gene selection for cancer classification with the help of bees
+brac_author_3,brac_paper_9,Gene selection for cancer classification with the help of bees
+brac_author_0,brac_paper_9,Gene selection for cancer classification with the help of bees
+brac_author_11,brac_paper_10,Bangla syntax analysis: A comprehensive approach
+brac_author_12,brac_paper_10,Bangla syntax analysis: A comprehensive approach
+brac_author_3,brac_paper_10,Bangla syntax analysis: A comprehensive approach
+brac_author_13,brac_paper_11,Identifying Genes with Location Dependent Noise Variance in Spatial Transcriptomics Data
+brac_author_3,brac_paper_11,Identifying Genes with Location Dependent Noise Variance in Spatial Transcriptomics Data
+brac_author_0,brac_paper_11,Identifying Genes with Location Dependent Noise Variance in Spatial Transcriptomics Data
+brac_author_14,brac_paper_11,Identifying Genes with Location Dependent Noise Variance in Spatial Transcriptomics Data
+brac_author_15,brac_paper_12,An efficient decoding technique for Huffman codes
+brac_author_3,brac_paper_12,An efficient decoding technique for Huffman codes
+brac_author_16,brac_paper_12,An efficient decoding technique for Huffman codes
+brac_author_17,brac_paper_13,HEliOS: huffman coding based lightweight encryption scheme for data transmission
+brac_author_18,brac_paper_13,HEliOS: huffman coding based lightweight encryption scheme for data transmission
+brac_author_3,brac_paper_13,HEliOS: huffman coding based lightweight encryption scheme for data transmission
+brac_author_19,brac_paper_13,HEliOS: huffman coding based lightweight encryption scheme for data transmission
+brac_author_3,brac_paper_14,A recursive algorithm for the multi-peg tower of hanoi problem
+brac_author_20,brac_paper_14,A recursive algorithm for the multi-peg tower of hanoi problem
+brac_author_21,brac_paper_14,A recursive algorithm for the multi-peg tower of hanoi problem
+brac_author_0,brac_paper_15,Complexities of some interesting problems on spanning trees
+brac_author_3,brac_paper_15,Complexities of some interesting problems on spanning trees
+brac_author_22,brac_paper_16,A linear time algorithm for single source shortest path problem
+brac_author_23,brac_paper_16,A linear time algorithm for single source shortest path problem
+brac_author_3,brac_paper_16,A linear time algorithm for single source shortest path problem
+brac_author_3,brac_paper_17,Positive solutions of a class of linear systems
+brac_author_24,brac_paper_18,Using adaptive heartbeat rate on long-lived TCP connections
+brac_author_0,brac_paper_18,Using adaptive heartbeat rate on long-lived TCP connections
+brac_author_3,brac_paper_18,Using adaptive heartbeat rate on long-lived TCP connections
+brac_author_25,brac_paper_19,New classes of graceful trees
+brac_author_3,brac_paper_19,New classes of graceful trees
+brac_author_26,brac_paper_20,Coding system for bangla spell checker
+brac_author_3,brac_paper_20,Coding system for bangla spell checker
+brac_author_3,brac_paper_21,A new algorithm for ranking players of a round-robin tournament
+brac_author_27,brac_paper_21,A new algorithm for ranking players of a round-robin tournament
+brac_author_28,brac_paper_21,A new algorithm for ranking players of a round-robin tournament
+brac_author_3,brac_paper_22,3 is a more promising algorithmic parameter than 2
+brac_author_29,brac_paper_22,3 is a more promising algorithmic parameter than 2
+brac_author_30,brac_paper_22,3 is a more promising algorithmic parameter than 2
+brac_author_31,brac_paper_23,Multidimensional segment trees can do range updates in poly-logarithmic time
+brac_author_3,brac_paper_23,Multidimensional segment trees can do range updates in poly-logarithmic time
+brac_author_0,brac_paper_23,Multidimensional segment trees can do range updates in poly-logarithmic time
+brac_author_32,brac_paper_24,DiskTrie: An Efficient Data Structure using Flash Memory for Mobile Devices
+brac_author_5,brac_paper_24,DiskTrie: An Efficient Data Structure using Flash Memory for Mobile Devices
+brac_author_3,brac_paper_24,DiskTrie: An Efficient Data Structure using Flash Memory for Mobile Devices
+brac_author_33,brac_paper_25,Graceful labeling of trees: Methods and applications
+brac_author_34,brac_paper_25,Graceful labeling of trees: Methods and applications
+brac_author_3,brac_paper_25,Graceful labeling of trees: Methods and applications
+brac_author_35,brac_paper_26,Transforming plane triangulations by simultaneous diagonal flips
+brac_author_15,brac_paper_27,The heap-mergesort
+brac_author_36,brac_paper_27,The heap-mergesort
+brac_author_3,brac_paper_27,The heap-mergesort
+brac_author_28,brac_paper_28,An efficient line algorithm
+brac_author_3,brac_paper_28,An efficient line algorithm
+brac_author_37,brac_paper_29,An improved MST algorithm for ranking players of a round-robin tournament
+brac_author_38,brac_paper_29,An improved MST algorithm for ranking players of a round-robin tournament
+brac_author_3,brac_paper_29,An improved MST algorithm for ranking players of a round-robin tournament
+brac_author_39,brac_paper_30,Identifying Hurricane Damage using Explainable Compact Transformer with Convolutional Embedding
+brac_author_40,brac_paper_30,Identifying Hurricane Damage using Explainable Compact Transformer with Convolutional Embedding
+brac_author_3,brac_paper_30,Identifying Hurricane Damage using Explainable Compact Transformer with Convolutional Embedding
+brac_author_0,brac_paper_31,"Bipartite graphs, hamiltonicity and Z graphs"
+brac_author_3,brac_paper_31,"Bipartite graphs, hamiltonicity and Z graphs"
+brac_author_35,brac_paper_31,"Bipartite graphs, hamiltonicity and Z graphs"
+brac_author_3,brac_paper_32,A comprehensive Analysis of Degree Based Condition for Hamiltonian Cycles
+brac_author_41,brac_paper_32,A comprehensive Analysis of Degree Based Condition for Hamiltonian Cycles
+brac_author_42,brac_paper_32,A comprehensive Analysis of Degree Based Condition for Hamiltonian Cycles
+brac_author_0,brac_paper_33,Research Article New Sufficient Conditions for Hamiltonian Paths
+brac_author_3,brac_paper_33,Research Article New Sufficient Conditions for Hamiltonian Paths
+brac_author_43,brac_paper_33,Research Article New Sufficient Conditions for Hamiltonian Paths
+brac_author_44,brac_paper_34,A New Polynomial Algorithm for Linear Programming Problem
+brac_author_45,brac_paper_34,A New Polynomial Algorithm for Linear Programming Problem
+brac_author_3,brac_paper_34,A New Polynomial Algorithm for Linear Programming Problem
+brac_author_46,brac_paper_35,A finite automaton to represent structure of conjugate and single Bangla letters
+brac_author_3,brac_paper_35,A finite automaton to represent structure of conjugate and single Bangla letters
+brac_author_47,brac_paper_36,A Study on Paper and Author Ranking
+brac_author_3,brac_paper_36,A Study on Paper and Author Ranking
+brac_author_48,brac_paper_36,A Study on Paper and Author Ranking
+brac_author_49,brac_paper_37,"Sarwar, H., Hossain, S., Rahman, M., Ahmed, S., Akter, N., & Rahman, C. M."
+brac_author_50,brac_paper_38,"Rahman, C. M., & Numao, M."
+brac_author_51,brac_paper_39,"Nasreen, Hossain, S., Sarwar, H., & Rahman, C. M"
+brac_author_52,brac_paper_40,"Farid, D. M., Rahman, M. Z., & Rahman, C. M."
+brac_author_53,brac_paper_41,"Hassan, M. A., Khan, R. R., Kabir, M. F., & Rahman, C. M."
+brac_author_54,brac_paper_42,"Huda, M. N., Hasan, M. M., Hassan, F., Kotwal, M. R. A., Muhammad, G., & Rahman, C. M."
+brac_author_55,brac_paper_43,"Siddiqi, F. A., & Rahman, C. M."
+brac_author_56,brac_paper_44,"Farid, D. M., Maruf, G. M., & Rahman, C. M."
+brac_author_57,brac_paper_45,"Mridha, M. F., Hossain, M. Z., Banik, M., Huda, M. N., Rahman, C. M., & Das, J. K."
+brac_author_58,brac_paper_46,"Mridha, M. F., Banik, M., Nawab Yousuf Ali, M., Huda, M. N., Rahman, C. M., & Das, J. K."
+brac_author_59,brac_paper_47,"Kotwal, M. R. A., Hossain, M. S., Hassan, F., Muhammad, G., Huda, M. N., & Rahman, C. M."
+brac_author_60,brac_paper_48,"Mridha, M. F., Huda, M. N., Rahman, C. M., & Das, J. K."
+brac_author_61,brac_paper_48,"Mridha, M. F., Huda, M. N., Rahman, C. M., & Das, J. K."
+brac_author_62,brac_paper_49,"Faisal Kabir, M., Chowdury, H. A. M., Dahal, K., Hossain, A., & Rahman, C. M."
+brac_author_63,brac_paper_50,"Md. Farid, D., Darmont, J., Harbi, N., & Rahman, C. M."
+brac_author_64,brac_paper_51,"Banik, M., Saha, A. K., Kotwal, M. R. A., Huda, M. N., & Rahman, C. M."
+brac_author_65,brac_paper_52,"Shahadat Hossain, M., Kotwal, M. R. A., Banik, M., Hassan, F., Hasan, M. M., Huda, M. N., & Rahman, C. M."
+brac_author_66,brac_paper_53,"Hossain, S., Akter, N., Faqruddin Ali Azam, S. M., Sarwar, H., & Rahman, C. M."
+brac_author_67,brac_paper_54,"Zia, M. Z. K., Rahman, D. M. F., & Rahman, C. M."
+brac_author_68,brac_paper_55,"Gani, M. O., Mehedi, I. J., Seraj, M., Sarwar, H., & Rahman, C. M."
+brac_author_69,brac_paper_56,"Mahmud, J., & Rahman, C. M."
+brac_author_70,brac_paper_57,"Rahman, a K. M. A., & Rahman, C. M."
+brac_author_71,brac_paper_58,"Rahman, C. M., & Numao, M."
+brac_author_72,brac_paper_59,"Rahman, C. M., & Numao, M."
+brac_author_73,brac_paper_60,"Khan S. H., Roy A., Chakrabarty A."
+brac_author_74,brac_paper_61,"Tasfe M., Chakrabarty A."
+brac_author_75,brac_paper_62,"Tasnia A., Sayed A. E., Das K. D. J, Hossain A., Chakrabarty A."
+brac_author_76,brac_paper_63,"Chakrabarty A., Collier M."
+brac_author_77,brac_paper_64,"Chakrabarty A., Collier M., Mukhopadhyay S."
+brac_author_78,brac_paper_65,"Zannah R., Bashar M., Mushfiq R. B., Chakrabarty A., Hossain S., Jung Y. J."
+brac_author_79,brac_paper_66,"Hossain S., Reza Md T., Chakrabarty A., Jung Y. J."
+brac_author_80,brac_paper_67,"Hossain S., Chakrabarty A., Gadekallu T. R., Alazab M., Piran J"
+brac_author_81,brac_paper_67,"Hossain S., Chakrabarty A., Gadekallu T. R., Alazab M., Piran J"
+brac_author_82,brac_paper_67,"Hossain S., Chakrabarty A., Gadekallu T. R., Alazab M., Piran J"
+brac_author_83,brac_paper_68,"Hossain Md. S. A., Rahman Md. A., Chakrabarty A., Rashid M., Kuwana A., Kobayashi H."
+brac_author_84,brac_paper_69,"Ghosh D. K., Chakrabarty A., Moon H., Piran J"
+brac_author_85,brac_paper_70,"Hossain P. S., Chakrabarty A., Kim Kyuheon, Piran J"
+brac_author_86,brac_paper_71,"Akash N. S., Rouf S., Jahan S., Chowdhury A., Chakrabarty A., Uddin J."
+brac_author_87,brac_paper_72,"Das J. K., Chakrabarty A., Piran J"
+brac_author_88,brac_paper_73,"Chakrabarty A., Mansoor N., Uddin M. I., Al-adaileh M. H., Alsharif N., Alsaade F. W."
+brac_author_89,brac_paper_74,"Ferdoush Z., Mahmud B. N., Chakrabarty A., Uddin J."
+brac_author_90,brac_paper_75,"Taki S.U., Chakrabarty A., Piran J, Pham Q., Suh D. Y."
+brac_author_91,brac_paper_76,"Mostafi S., Khan F., Chakrabarty A., Piran J., Suh D. Y."
+brac_author_92,brac_paper_77,"Ananto R. A., Shahab A., Shohan J. A., Chakrabarty A."
+brac_author_93,brac_paper_78,"Akther N., Chakrabarty A."
+brac_author_94,brac_paper_79,"Sarkar R.R., Rasul K., Chakrabarty A."
+brac_author_95,brac_paper_80,"Sarkar R.R., Rasul K., Chakrabarty A."
+brac_author_96,brac_paper_81,"Chakrabarty A., Collier M."
+brac_author_76,brac_paper_82,"Chakrabarty A., Collier M."
+brac_author_97,brac_paper_83,"Chakrabarty A., Collier M., Mukhopadhyay S."
+brac_author_98,brac_paper_84,"Hasan M., Md. Rahman T., Zillanee A. H., Alam Md. G. R., Islam Md.F., Chakrabarty A."
+brac_author_99,brac_paper_85,"Ahmed S. T., Barua S., Md. Islam F. Ul, Chakrabarty A."
+brac_author_100,brac_paper_86,"Islam Md. F, Hasan M., Rahman Md. T., Chakrabarty A."
+brac_author_101,brac_paper_87,"Hossain S., Islam Md. F., Rahman R., Chakrabarty A."
+brac_author_102,brac_paper_88,"Aziz A., Youkee N. K., Ahmed F. S., Tasnim S., Islam Md.F., Chakrabarty A."
+brac_author_103,brac_paper_89,"Wahiduzzaman Md., Islam Md. F., Chakrabarty A."
+brac_author_104,brac_paper_90,"Ahmed S. T., Baru S., Islam Md. F., Chakrabarty A."
+brac_author_105,brac_paper_91,"Ahmed S. T., Mahdin M.F., Barua S., Abir F.S., Md. Islam F. Ul, Chakrabarty A."
+brac_author_106,brac_paper_92,"Haque M. F., Choudhury T.Al.M., Sarkar D.,Rafi S.H., Md.Rahim S., Chakrabarty A., Md. Islam F. Ul"
+brac_author_107,brac_paper_93,"Nazmee N.,Ali M.S., Mahmud S.,Alam K., Md. Islam F. Ul, Chakrabarty A."
+brac_author_108,brac_paper_94,"Ghosh K. K., Md. Islam F. Ul, Efaz A. A., Chakrabarty A., Hossain S."
+brac_author_109,brac_paper_95,"Chowdhury A.H., Niloy M., Khan F. J., Juboraj Md. F.A., Moni Md. M. A., Mostakim M., Chakrabarty A."
+brac_author_110,brac_paper_96,"Bhuiya M. S. R., Islam N., Drishty A. S., Akash U. D., Saha S. S., Hossain S., Chakrabarty A."
+brac_author_111,brac_paper_97,"Arko S. R., Gazi S. M., Shahid A. B., Gomes E. L., Hossain S., Chakrabarty A."
+brac_author_112,brac_paper_98,"Dipro S. H., Islam M., Al Nahian M. A., Azad M. S., Chakrabarty A., Reza M. T."
+brac_author_113,brac_paper_99,"Ghosh R.K, Chakrabarty A."
+brac_author_114,brac_paper_100,"Dipto S. R., Nowshin P., Ahmed I., Chowdhury D., Abdunnoor G., Chakrabarty A., Abdullah M. T., Rahman Moshiur"
+brac_author_115,brac_paper_101,"Robbani M. E., Hossain A., Sazid M. R. U. H., Sk. Siam S., Abtahee W., Chakrabarty A."
+brac_author_116,brac_paper_102,"Abedin A. F., Mamun A. I. A., Nowrin R. J., Chakrabarty A, Mostakim M., Naskar S. K."
+brac_author_117,brac_paper_103,"Md. Iqbal Hossain, Raghib Barkat Muhib, Chakrabarty A."
+brac_author_118,brac_paper_104,"Ghosh D. K., Chakrabarty A., Mansoor N., Suh D. Y., Piran J"
+brac_author_119,brac_paper_105,"Sarkar R. R., Chakrabarty A., Rahman M. Z."
+brac_author_120,brac_paper_106,"Hossain S. A., Md. Rahman A., Chakrabarty A."
+brac_author_121,brac_paper_107,"Alvee B. I., Tisha S. N., Chakrabarty A."
+brac_author_122,brac_paper_108,"Tabassum H., Ghosh G., Atika A., Chakrabarty A."
+brac_author_123,brac_paper_109,"Mohammad Z., Chowdhury R., Rozario S. D., Sakin S. B. A., Chakrabarty A."
+brac_author_124,brac_paper_110,"Chakrabarty A., Ritu A., Tanha P. M., Islam W. N., Islam S."
+brac_author_125,brac_paper_111,"Saleque S., Spriha G. Z., Kamal M. R. I., Khan R. T., Chakrabarty A., Parvez M. Z."
+brac_author_126,brac_paper_112,"Das J. K., Ghosh A., Pal A. K., Dutta S., Chakrabarty A."
+brac_author_127,brac_paper_113,"Shahriar A., Faisal F., Mahmud S. U., Alam M. G. R., Chakrabarty A."
+brac_author_128,brac_paper_114,"Sohan A. A., Ali M., Fairooz F., Rahman A. I., Chakrabarty A."
+brac_author_129,brac_paper_115,"Sayed A. E., Tasnia A., Chakrabarty A."
+brac_author_130,brac_paper_116,"Ahmed A., Islam S. and Chakrabarty A."
+brac_author_131,brac_paper_117,"Choudhury A. A., Khan R. H., Nahim N. Z., Tulon S. R., Islam S., Chakrabarty A."
+brac_author_132,brac_paper_118,"Roy S. T., Aktar A., Aleem F. and Chakrabarty A."
+brac_author_133,brac_paper_119,"Mahbub P., Abedin S. M., Rahman S. S, Chakrabarty A."
+brac_author_134,brac_paper_120,"Roy S., Nanjiba S, Chakrabarty A."
+brac_author_135,brac_paper_121,"Islam T., Chist T. A., Chakrabarty A."
+brac_author_136,brac_paper_122,"Islam T., Hussain N., Islam S., Chakrabarty A."
+brac_author_137,brac_paper_123,"Kabir M., Sadik F., Makamay O., Tasnia A., Chakrabarty A."
+brac_author_138,brac_paper_124,"Anik A.I., Yeaser S., Hossain A.G.M. I., Chakrabarty A."
+brac_author_139,brac_paper_125,"Salama U., Sarker P. L., Chakrabarty A."
+brac_author_140,brac_paper_126,"Hasan F., Haque M.M., Khan M. R., Ruhi R. I., Chakrabarty A."
+brac_author_141,brac_paper_127,"Hasan K., Islam S., Samio M. R. K., Chakrabarty A."
+brac_author_142,brac_paper_128,"Nipu N. A., Talukder S., Chakrabarty A., Islam S."
+brac_author_143,brac_paper_129,"Dey A., Rafi R. Z., Parash S. H., Kundu S. and Chakrabarty A."
+brac_author_144,brac_paper_130,"Noshin A., Mariam A., Khan J. A., Majed M. K., Chakrabarty A."
+brac_author_145,brac_paper_131,"Hossain Y., Hossain I., Banik M., Hossain I. A., Chakrabarty A."
+brac_author_146,brac_paper_132,"Mostafi S., Khan F., Antar K. I., Chaki D., Chakrabarty A."
+brac_author_147,brac_paper_133,"Rasel A. A., Abdullah M. S., Chakrabarty A."
+brac_author_148,brac_paper_134,"Khan S., Sultana S., Tasbih M., Islam S., Chakrabarty A."
+brac_author_92,brac_paper_135,"Ananto R. A., Shahab A., Shohan J. A., Chakrabarty A."
+brac_author_149,brac_paper_136,"Tasnia A., Sayed A. E., Alam M., Chakrabarty A."
+brac_author_150,brac_paper_137,"Tasfe M., Chakrabarty A."
+brac_author_151,brac_paper_138,"Tasfe M., Saha B. and Chakrabarty A."
+brac_author_152,brac_paper_139,"Sakib N., Jerin I., Khan N., Quader S., Chakrabarty A."
+brac_author_153,brac_paper_140,"Hassan M., Mahmud S., Jasmin H., Azad T. B., Chakrabarty A."
+brac_author_154,brac_paper_141,"A.A. Rasel, M.S. Abdullah, A. Chakrabarty."
+brac_author_155,brac_paper_142,"Hassan M., Mahmud S., Jasmin H., Azad T. B., Chakrabarty A."
+brac_author_156,brac_paper_143,"Abir B M, Mahal S. N., Islam S., Chakrabarty A."
+brac_author_157,brac_paper_144,"Tasnia A., Sayed A. E., Das K. D. J, Hossain A., Chakrabarty A."
+brac_author_158,brac_paper_145,"Barua R., Shadman S., Chakrabarty A."
+brac_author_159,brac_paper_146,"Akther N., Chakrabarty A."
+brac_author_160,brac_paper_147,"Barua R., Shadman S., Chakrabarty A."
+brac_author_161,brac_paper_148,"Sunnat S.M, Chakrabarty A."
+brac_author_162,brac_paper_149,"Alam Z., Mostakim M, Biswas R., Chakrabarty A."
+brac_author_163,brac_paper_150,"Chakrabarty A., Martin Collier."
+brac_author_164,brac_paper_151,"Chakrabarty A., Martin Collier."
+brac_author_165,brac_paper_152,"Chakrabarty A., Collier M."
+brac_author_166,brac_paper_153,"Chakrabarty A., Collier M, Mukhopadhyay S."
+brac_author_167,brac_paper_154,"Chakrabarty A., Collier M, Mukhopadhyay S."
+brac_author_168,brac_paper_155,"Chakrabarty A., Collier M, Mukhopadhyay S."
+brac_author_169,brac_paper_156,"Chakrabarty A., Mansoor N, Razzak MA, Sobhan MA."
+brac_author_170,brac_paper_157,"Mansoor N, Chakrabarty A., Razzak MA, Sobhan MA."
+brac_author_171,brac_paper_158,"Chowdhury SA, Mansoor N, Chakrabarty A., Ahmed F."
+brac_author_172,brac_paper_159,"M. Saifuzzaman, T. N. Ananna, M. J. M. Chowdhury, M. S. Ferdous & F. Chowdhury"
+brac_author_173,brac_paper_160,"Shammee, T. I., Akter, T., Mou, M., Chowdhury, F., Ferdous, M. S."
+brac_author_174,brac_paper_161,"Ferdous, M. S., Chowdhury, F., Alassafi, M. O., Alshdadi, A. A., & Chang, V."
+brac_author_175,brac_paper_162,"Ferdous, M. S., Chowdhury, F., & Alassafi, M. O."
+brac_author_176,brac_paper_163,"Chowdhury, F., Ferdous, M. S."
+brac_author_177,brac_paper_163,"Chowdhury, F., Ferdous, M. S."
+brac_author_178,brac_paper_164,"Chowdhury, F., Furness, J., & Kolberg, M."
+brac_author_179,brac_paper_165,"Ferdous, M. S., Chowdhury, F., & Poet, R."
+brac_author_180,brac_paper_166,"Saifullah, S. I., Islam, S., Ferdous, M. S. & Chowdhury, F."
+brac_author_181,brac_paper_167,"T. Hossain, M. F. Islam, W. Delamare, F. Chowdhury and K. Hasan"
+brac_author_182,brac_paper_168,"Moniruzzaman, M., Chowdhury, F., & Ferdous, M. S."
+brac_author_183,brac_paper_169,"Islam, M. R., Rahman, J., Talha, M. R., & Chowdhury, F."
+brac_author_184,brac_paper_170,"Chowdhury, A. A., Chowdhury, F., & Ferdous, M. S."
+brac_author_185,brac_paper_171,"Moniruzzaman, M., Chowdhury, F., & Ferdous, M. S."
+brac_author_186,brac_paper_172,"Saurav, J. R., Haque, S., & Chowdhury, F."
+brac_author_187,brac_paper_173,"Ahmad, A., Amin, M. R., & Chowdhury, F."
+brac_author_188,brac_paper_174,"Ahmad, A., Talha, M. R., Amin, M. R., & Chowdhury, F."
+brac_author_189,brac_paper_175,"Siddiki, M. R., Talha, M. A., Chowdhury, F., & Ferdous, M. S."
+brac_author_190,brac_paper_176,"Furness, J., Chowdhury, F., & Kolberg, M."
+brac_author_191,brac_paper_177,"Chowdhury, F., & Kolberg, M."
+brac_author_192,brac_paper_178,"Chowdhury, F., & Kolberg, M."
+brac_author_193,brac_paper_179,"Ferdous, M. S., Jabed, M., Chowdhury, M., Moniruzzaman, M., & Chowdhury, F."
+brac_author_194,brac_paper_180,"Chowdhury, F., & Kolberg, M."
+brac_author_195,brac_paper_181,"Ferdous, M. S., Chowdhury, F., & Acharjee, J. C."
+brac_author_196,brac_paper_182,"Ferdous, M. S., Chowdhury, F., & Moniruzzaman, M."
+brac_author_197,brac_paper_183,"Ferdous, M. S., & Chowdhury, F."
+brac_author_198,brac_paper_184,"Ferdous, M. S. and Chowdhury, F."
+brac_author_199,brac_paper_185,"M Jakariya, MS Alam, MA Rahman, S Ahmed, MML Elahi, AMS Khan"
+brac_author_200,brac_paper_186,"K Roy, AMS Khan, MZA Ali, SR Simanto, N Mohammed, MA Atick, S Islam"
+brac_author_201,brac_paper_187,"MS Rahman, S Shatabda, S Saha, M Kaykobad, MS Rahman"
+brac_author_202,brac_paper_188,"MR Ahmed, S Islam, AKMM Islam, S Shatabda"
+brac_author_203,brac_paper_189,"F Rayhan, S Ahmed, A Mahbub, R Jani, S Shatabda, DM Farid"
+brac_author_204,brac_paper_190,"F Rayhan, S Ahmed, S Shatabda, DM Farid, Z Mousavian, A Dehzangi"
+brac_author_205,brac_paper_191,"R Muhammod, S Ahmed, D Md Farid, S Shatabda, A Sharma, A Dehzangi"
+brac_author_206,brac_paper_191,"R Muhammod, S Ahmed, D Md Farid, S Shatabda, A Sharma, A Dehzangi"
+brac_author_207,brac_paper_192,"SY Chowdhury, S Shatabda, A Dehzangi"
+brac_author_208,brac_paper_193,"A Al Muksit, F Hasan, MFHB Emon, MR Haque, AR Anwary, S Shatabda"
+brac_author_209,brac_paper_194,"NS Sworna, AKMM Islam, S Shatabda, S Islam"
+brac_author_210,brac_paper_195,"A Rahman, S Shatabda, M Hasan"
+brac_author_211,brac_paper_196,"S Ahmed, R Muhammod, ZH Khan, S Adilina, A Sharma, S Shatabda"
+brac_author_212,brac_paper_197,"F Rayhan, S Ahmed, Z Mousavian, DM Farid, S Shatabda"
+brac_author_213,brac_paper_198,"MR Ahmed, AKMM Islam, S Shatabda, S Islam"
+brac_author_214,brac_paper_199,"S Ahmed, A Mahbub, F Rayhan, R Jani, S Shatabda, DM Farid"
+brac_author_215,brac_paper_200,"MA Al Maruf, S Shatabda"
+brac_author_216,brac_paper_201,"MO Miah, SS Khan, S Shatabda, DM Farid"
+brac_author_217,brac_paper_202,"S Adilina, DM Farid, S Shatabda"
+brac_author_218,brac_paper_203,"R Amin, CR Rahman, S Ahmed, MHR Sifat, MNK Liton, MM Rahman, S Shatabda"
+brac_author_219,brac_paper_204,"A Ahmad, H Lin, S Shatabda"
+brac_author_220,brac_paper_205,"R Zaman, SY Chowdhury, MA Rashid, A Sharma, A Dehzangi, S Shatabda"
+brac_author_221,brac_paper_206,"MS Rahman, U Aktar, MR Jani, S Shatabda"
+brac_author_222,brac_paper_207,"MS Rahman, U Aktar, MR Jani, S Shatabda"
+brac_author_223,brac_paper_208,"S Shadab, MTA Khan, NA Neezi, S Adilina, S Shatabda"
+brac_author_224,brac_paper_209,"I Alam, MF Ahmed, M Alam, J Ulisses, DM Farid, S Shatabda"
+brac_author_225,brac_paper_210,"MR Uddin, A Sharma, DM Farid, MM Rahman, A Dehzangi, S Shatabda"
+brac_author_226,brac_paper_211,"MM Islam, S Saha, MM Rahman, S Shatabda, DM Farid, A Dehzangi"
+brac_author_227,brac_paper_212,"S Shatabda, S Saha, A Sharma, A Dehzangi"
+brac_author_228,brac_paper_213,"F Rayhan, S Ahmed, A Mahbub, MR Jani, S Shatabda, DM Farid"
+brac_author_229,brac_paper_214,"MR Ahmed, S Shatabda, AKMM Islam, MTI Robin"
+brac_author_230,brac_paper_215,"MAK Raiaan, S Sakib, NM Fahad, A Al Mamun, MA Rahman, S Shatabda"
+brac_author_231,brac_paper_216,"M Ali, S Shatabda"
+brac_author_232,brac_paper_217,"F Rayhan, S Ahmed, DM Farid, A Dehzangi, S Shatabda"
+brac_author_233,brac_paper_218,"I Abedeen, MA Rahman, FZ Prottyasha, T Ahmed, TM Chowdhury, S Shatabda"
+brac_author_234,brac_paper_218,"I Abedeen, MA Rahman, FZ Prottyasha, T Ahmed, TM Chowdhury, S Shatabda"
+brac_author_235,brac_paper_219,"S Saha, PS Sarker, A Al Saud, S Shatabda, MAH Newton"
+brac_author_236,brac_paper_220,"M Jahan, I Ahamed, MR Bishwas, S Shatabda"
+brac_author_237,brac_paper_221,"S Ahmed, F Rayhan, A Mahbub, MR Jani, S Shatabda, DM Farid"
+brac_author_238,brac_paper_222,"S Islam, MF Sarkar, T Hussain, MM Hasan, DM Farid, S Shatabda"
+brac_author_239,brac_paper_223,"S Shatabda, MAH Newton, A Sattar"
+brac_author_240,brac_paper_224,"A Ahmad, H Lin, S Shatabda"
+brac_author_241,brac_paper_225,"S Ahmed, A Sharma, R Sharma, T Tsunoda, S Shatabda, I Dehzangi"
+brac_author_242,brac_paper_226,"MA Hossain, AKMM Islam, S Islam, S Shatabda"
+brac_author_243,brac_paper_227,"MAK Raiaan, NM Fahad, MSH Mukta, S Shatabda"
+brac_author_244,brac_paper_228,"SM Azim, A Sharma, I Noshadi, S Shatabda"
+brac_author_245,brac_paper_229,"A Ahmad, S Shatabda"
+brac_author_246,brac_paper_230,"S Sabah, SZB Anwar, S Afroze, MA Azad, S Shatabda, DM Farid"
+brac_author_247,brac_paper_231,"R Karim, MMA Aziz, S Shatabda, MS Rahman"
+brac_author_248,brac_paper_232,"A Zaman, S Kumar, S Shatabda, I Dehzangi, A Sharma"
+brac_author_249,brac_paper_233,"IA Khandokar, AKMM Islam, S Islam, S Shatabda"
+brac_author_250,brac_paper_234,"SR Dipta, G Taherzadeh, MW Ahmad, ME Arafat, S Shatabda"
+brac_author_239,brac_paper_235,"MA Hossain, MI Sabik, MM Rahman, SN Sakiba, AKM Muzahidul Islam, S Shatabda"
+brac_author_251,brac_paper_236,"F Ahmed, A Sharma, S Shatabda, I Dehzangi"
+brac_author_252,brac_paper_237,"MA Rahman, S Shatabda"
+brac_author_253,brac_paper_238,"MA Rashid, S Shatabda, MAH Newton, MT Hoque, A Sattar"
+brac_author_254,brac_paper_239,"FA Himu, KB Jahangir, MZ Ridoy, S Dhar, S Shatabda"
+brac_author_255,brac_paper_240,"IA Khandokar, I Mamun, TIA Chadni, ZA Anas, S Shatabda"
+brac_author_256,brac_paper_241,"M Ali, S Shatabda, M Ahmed"
+brac_author_257,brac_paper_242,"T Siraj, E Jannat, W Rasul, MA Chowdhury, S Shatabda"
+brac_author_258,brac_paper_243,"IA Khandokar, T Khondokar, NT Jhilik, S Shatabda"
+brac_author_259,brac_paper_244,"S Jahan, S Shatabda, DM Farid"
+brac_author_260,brac_paper_245,"A Khatun, S Shatabda"
+brac_author_253,brac_paper_246,"S Shatabda, A Rahman, M Hasan"
+brac_author_261,brac_paper_247,"SMT Haque, M Wright, S Scielzo"
+brac_author_262,brac_paper_248,"SMT Haque, M Wright, S Scielzo"
+brac_author_263,brac_paper_248,"SMT Haque, M Wright, S Scielzo"
+brac_author_264,brac_paper_249,"SMT Haque, P Saha, MS Rahman, SI Ahmed , Of Ulti, hajano, and Matachetar otanetak datam"
+brac_author_265,brac_paper_250,"SMT Haque, MR Haque, S Nandy, P Chandra, MN Al-Ameen, S Guha"
+brac_author_266,brac_paper_250,"SMT Haque, MR Haque, S Nandy, P Chandra, MN Al-Ameen, S Guha"
+brac_author_267,brac_paper_251,"SMT Haque, M Wright, S Scielzo"
+brac_author_268,brac_paper_252,"MR Rifat, M Jannat, MN Al-Ameen, SMT Haque, MA Kabir, SI Ahmed"
+brac_author_269,brac_paper_252,"MR Rifat, M Jannat, MN Al-Ameen, SMT Haque, MA Kabir, SI Ahmed"
+brac_author_270,brac_paper_252,"MR Rifat, M Jannat, MN Al-Ameen, SMT Haque, MA Kabir, SI Ahmed"
+brac_author_271,brac_paper_253,"SMT Haque, S Scielzo, M Wright"
+brac_author_272,brac_paper_254,"T Sharma, MM Islam, A Das, SMT Haque, SI Ahmed"
+brac_author_273,brac_paper_255,"F Haque, S Haque"
+brac_author_274,brac_paper_256,"SMT Haque, MN Al-Ameen, M Wright, S Scielzo"
+brac_author_275,brac_paper_257,"SF Ahmed, P Saha, SMT Haque"
+brac_author_276,brac_paper_258,"D Das, AKMN Islam, SMT Haque, J Vuorinen, SI Ahmed"
+brac_author_277,brac_paper_259,"MN Al-Ameen, SMT Haque, M Wright"
+brac_author_278,brac_paper_260,"SMT Haque, R Rashed, MB Morshed, MMU Rony, N Hassan, SI Ahmed"
+brac_author_279,brac_paper_261,"J Doolani, M Wright, R Setty, SMT Haque"
+brac_author_280,brac_paper_262,"A Bhattacharjee, SMT Haque, MA Hady, SMR Alam, M Rabbi, MA Kabir, ..."
+brac_author_281,brac_paper_263,"I Azeez, S Haque"
+brac_author_282,brac_paper_264,"J Joque, SMT Haque"
+brac_author_283,brac_paper_265,"MN Al-Ameen, SMT Haque, M Wright"
+brac_author_284,brac_paper_266,"SMT Haque, T Alam, M Al-Rasheed, M Wright"
+brac_author_278,brac_paper_267,"SMT Haque, R Rashed, M Bin Morshed, MMU Rony, N Hassan, SI Ahmed"
+brac_author_285,brac_paper_268,"AH Safir, NJ Mim, SMT Haque, SI Ahmed"
+brac_author_286,brac_paper_269,SMT Haque
+brac_author_287,brac_paper_270,SMT Haque
+brac_author_288,brac_paper_271,SMT Haque
+brac_author_289,brac_paper_272,"S Haque, F Haque"
+brac_author_290,brac_paper_273,S Haque
+brac_author_291,brac_paper_274,"S HAQUE, B SOULEY"
+brac_author_292,brac_paper_275,"T Sharma, AM Rahman, S Sandhi, Y Wang, R Shahriyar, SMT Haque"
+brac_author_293,brac_paper_275,"T Sharma, AM Rahman, S Sandhi, Y Wang, R Shahriyar, SMT Haque"
+brac_author_294,brac_paper_276,"P Saha, N Nowsher, AU Baidya, NJ Mim, SI Ahmed, SMT Haque"
+brac_author_295,brac_paper_276,"P Saha, N Nowsher, AU Baidya, NJ Mim, SI Ahmed, SMT Haque"
+brac_author_296,brac_paper_276,"P Saha, N Nowsher, AU Baidya, NJ Mim, SI Ahmed, SMT Haque"
+brac_author_297,brac_paper_277,"A Bhattacharjee, MR Rifat, D Das, SMT Haque, SI Ahmed"
+brac_author_298,brac_paper_278,"MM Eshita, IB Rofi, SMT Haque, J Noor"
+brac_author_299,brac_paper_279,"MM Eshita, IB Rofi, SA Shiba, SMT Haque"
+brac_author_300,brac_paper_280,"A Mathews, SMT Haque"
+brac_author_301,brac_paper_281,"SM Haque, F Haque, MA Haque"
+brac_author_302,brac_paper_282,"MR Rifat, SMT Haque, MZ Nabia, MN Al-Ameen, A Kabir, SI Ahmed"
+brac_author_303,brac_paper_283,"Muhammad N. Yanhaona, Md. Shamsuzzoha Bayzid, M. S. Rahman"
+brac_author_304,brac_paper_284,"Muhammad N. Yanhaona, K. S. M. T. Hossain, M. S. Rahman"
+brac_author_304,brac_paper_285,"Muhammad N. Yanhaona, K. S. M. T. Hossain, M. Saidur Rahman"
+brac_author_305,brac_paper_286,"Muhammad N. Yanhaona, Asswad Sarker Nomaan, M. S. Rahman"
+brac_author_306,brac_paper_287,"Muhammad N. Yanhaona, A. Grimshaw"
+brac_author_307,brac_paper_288,"Muhammad N. Yanhaona, A. Grimshaw"
+brac_author_308,brac_paper_289,"Muhammad N. Yanhaona, A. Grimshaw"
+brac_author_309,brac_paper_290,"Shahriar Hasan Mickey, Muhammad N. Yanhaona"
+brac_author_310,brac_paper_291,"Muhammad N. Yanhaona, Andrew Grimshaw, Shahriar Hasan Mickey"
+brac_author_311,brac_paper_292,"Rizwanul Haque, SM Tareq Aziz, Tahrim Hossain, Faisal Haque Bappy, Muhammad N. Yanhaona, Tariqul Islam"
+brac_author_312,brac_paper_293,"Muhammad N. Yanhaona, A. Grimshaw"
+brac_author_313,brac_paper_294,"Muhammad N. Yanhaona, A. Grimshaw"
+brac_author_314,brac_paper_295,"Muhammad N. Yanhaona, Md. Shamsuzzoha Bayzid, M. S. Rahman"
+brac_author_315,brac_paper_296,"Tasnim Sakib Apon, Md. Golam Rabiul, Md Tanzim Reza, Baidya Sangita, Tahmid Mohammad Fahim, Alam Md. Ashraful, Almoyad Muhammad, Hasan Khondokar Fida, Moni Mohammad Ali"
+brac_author_316,brac_paper_297,"Md. Shahinur Alam, Ki-Chul Kwon, Munkh-Uchral Erdenebat, Mohammed Y. Abbass, Md. Asharful Alam, and Kim, Nam"
+brac_author_317,brac_paper_298,"Md. Shahinur Alam, Ki-Chul Kwon, Md. Ashraful Alam, Mohammed Y. Abbass, Shariar Md Imtiaz, and Nam Kim"
+brac_author_318,brac_paper_299,"Ki-Chul Kwon, Munkh-Uchral Erdenebat, Md. Ashraful Alam, Young-Tae Lim, Kwang-Gi Kim, and Nam Kim"
+brac_author_319,brac_paper_300,"Md. Asharful Alam, Ki-Chul Kwon, Yan-Ling Piao, Young-Seok Kim, and Nam Kim"
+brac_author_320,brac_paper_301,"Md. Ashraful Alam, Mei-Lan Piao, Le Thanh Bang, and Nam Kim"
+brac_author_321,brac_paper_302,"Nam Kim, Md. Ashraful Alam, Le Thanh Bang, Phan Anh Hoang, Mei-Lan Piao, and Munkh-Uchral Erdenebat"
+brac_author_322,brac_paper_303,"Md. Ashraful Alam, Ganbat Baasantseren, Munkh-Uchral Erdenebat, Nam Kim, and Jae Hyeung Park"
+brac_author_323,brac_paper_304,"Le Thanh Bang, Weina Li, Mei-Lan Piao, Md. Ashraful Alam, and Nam Kim"
+brac_author_324,brac_paper_305,"Nam Kim, Anh-Hoang Phan, Munkh-Uchral Erdenebat, Ashraful Alam, Ki-Chul Kwon, Mei-Lan Piao and Jeong-Hyeon Lee"
+brac_author_325,brac_paper_306,"Md. Zahangir Alom, Mei-Lan Piao, Md. Ashraful Alam, Nam Kim, Jae-Hyeung Park"
+brac_author_326,brac_paper_307,"Silma Subah, Arpita Nath, Mitheela Das Armisha, Sumaiya Binte Sakhawat, Md Nuhas Alam Parbo, Subir Mazumder Dhurbo, Md Shahinur Alam and Md. Ashraful Alam"
+brac_author_327,brac_paper_308,"Shakib Mahmud Dipto, Mehafuza Islam, S.M Abdulla Al Mamun, A M Esfar-E-Alam and Md Ashraful Alam"
+brac_author_328,brac_paper_309,"Tahmid Ashrafee Promit, Md Akibur Rahman Khan, Nahian Arnob, Rabbi Nur Rashid"
+brac_author_329,brac_paper_310,Syed Muaz Ali and Md. Ashraful Alam
+brac_author_330,brac_paper_311,"Annur Tuba Islam, Sakib Mashrafi Apu, Sudipta Sarker, Sayeed Alam Shuvo, Inzamam M. Hasan, Shakib Mahmud Dipto and Md. Ashraful Alam"
+brac_author_331,brac_paper_312,"Hasibul Hasan Sabuj, Nigar Sultana Nuha, Paul Richie Gomes, Aiman Lameesa, Md Ashraful Alam"
+brac_author_332,brac_paper_313,"Afsana Khan, Fariha Haque Nabila, Masud Mohiuddin, Mahadi Mollah, Md Ashraful Alam, and Md Tanzim Reza"
+brac_author_333,brac_paper_314,"Noshin Tabassum Arthi, Kazi Ehsanul Mubin, Junayed Rahman, G.M.Rafi, Tahsina Tanzim Sheja, Md. Ashraful Alam"
+brac_author_334,brac_paper_315,"Md. Ashraful Alam*, Fairoz Khan, A. K. M. Amanat Ullah, Md. Muzahidul Islam Rahi, and Md. Ashrfaul Alam"
+brac_author_335,brac_paper_316,"Shakib Mahmud Dipto, Mst. Nasrin Akter, Md Tanzim Reza and Md Ashraful Alam*"
+brac_author_336,brac_paper_317,"Md. Ashraful Alam*, Salehin Rahman Khan, Bilash Deb, Ashikul Haque Khan and Khandker, Tanvir Hasan"
+brac_author_337,brac_paper_318,"F. I. Hasib, N. F. Swarna, M. A. Alam"
+brac_author_338,brac_paper_319,"Dipto S.M., Afifa I., Sagor M.K., Reza M., Alam M.A."
+brac_author_339,brac_paper_320,"S. H. Arko, M. T. Hossain, S. M. Dipto, S. I. Shad, and M. A. Alam"
+brac_author_340,brac_paper_321,"M. M. Raj, S. H. Tasdid, M. A. Nidra, J. Noor, S. A. Ria and M. A. Alam"
+brac_author_341,brac_paper_322,"S. M. Zaman, M. M. Hasan, R. I. Sakline, D. Das and M. A. Alam"
+brac_author_342,brac_paper_323,"M. K. Sagor, S. M. Dipto, I. Jahan, S. Chowdhury, M. T. Reza, and M. A. Alam"
+brac_author_343,brac_paper_324,"M. S. Rahman, M. J. Hossain, K. H. Sujon, M. N. Kabir, S. Islam, M. T. Reza and M. A. Alam"
+brac_author_334,brac_paper_325,"Mohammed Julfikar Ali Mahbub, Sayed Md Rahmat Ulla, G M Sohanur Rahman, Abu Hasnayen Zillanee, Aknur Kamal Akib and Md Ashraful Alam*"
+brac_author_335,brac_paper_326,"Shakib Mahmud Dipto, Mst. Nasrin Akhter, Md Tanzim Reza and Md Ashraful Alam*"
+brac_author_344,brac_paper_327,"Nasrin Akter, M. T. Reza and Md. Ashrafu. Alam*"
+brac_author_345,brac_paper_328,"A. Ahmed, R. Sultana, M. T. R. Ullas, M. Begom, M. M. I. Rahi and M. A. Alam*"
+brac_author_346,brac_paper_329,"F Sadeque, D Xu, S Bethard"
+brac_author_347,brac_paper_330,"F Sadeque, D Xu, S Bethard"
+brac_author_348,brac_paper_331,"C Lin, S Bethard, D Dligach, F Sadeque, G Savova, TA Miller"
+brac_author_349,brac_paper_332,"F Sadeque, S Rains, Y Shmargad, K Kenski, K Coe, S Bethard"
+brac_author_350,brac_paper_333,"F Sadeque, T Pedersen, T Solorio, P Shrestha, N Rey-Villamizar"
+brac_author_351,brac_paper_334,"C Lin, T Miller, D Dligach, F Sadeque, S Bethard, G Savova"
+brac_author_352,brac_paper_335,"F Sadeque, T Solorio, T Pedersen, P Shrestha, S Bethard"
+brac_author_353,brac_paper_336,"P Shrestha, N Rey-Villamizar, F Sadeque, T Pedersen, S Bethard"
+brac_author_354,brac_paper_337,"FY Sadeque, S Yasar, MM Islam"
+brac_author_355,brac_paper_338,"MIH Shihab, MR Hasan, MR Emon, SM Hossen, MN Ansary, I Ahmed"
+brac_author_356,brac_paper_339,"N Farhan, SS Joy, TB Mannan, F Sadeque"
+brac_author_357,brac_paper_340,"MM Mahtab, M Haque, M Hasan, F Sadeque"
+brac_author_358,brac_paper_341,"RH Rifat, A Shruti, M Kamal, F Sadeque"
+brac_author_288,brac_paper_342,"A Nowshin, SA Shiba, P Saha, F Sadeque, SMT Haque"
+brac_author_359,brac_paper_343,"N Tasnim, SS Gupta, MIH Shihab, FI Juee, A Tahsin, P Ghum, K Fatema"
+brac_author_360,brac_paper_344,"K Fatema, FD Haider, NF Turpa, T Azmal, S Ahmed"
+brac_author_361,brac_paper_345,"MF Islam, MA Manab, JJ Mondal, S Zabeen, FB Rahman, MZ Hasan"
+brac_author_362,brac_paper_346,"IM Zulkarnain, SB Islam, MZAZ Farabe, MMH Shawon, JM Abedin"
+brac_author_363,brac_paper_347,"N Tasnim, MIH Shihab, AS Sushmit, S Bethard, F Sadeque"
+brac_author_364,brac_paper_348,"V Yadav, F Sadeque, B Heidorn, H Cui"
+brac_author_365,brac_paper_349,"N Rey-Villamizar, P Shrestha, T Solorio, F Sadeque, S Bethard"
+brac_author_366,brac_paper_350,"S Shatabda, A Rahman, M Hasan"
+brac_author_346,brac_paper_351,"F Sadeque, D Xu, S Bethard"
