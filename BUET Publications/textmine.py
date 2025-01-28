@@ -2,7 +2,7 @@ import re
 import csv
 
 # Input text
-text = """
+data = """
 1.	Zarif Ikram, Dianbo Liu, M Saifur Rahman, Antibody sequence optimization with gradient-guided discrete walk-jump sampling, Generative and Experimental Perspectives for Biomolecular Design (GEM) workshop at at the 12th International Conference on Learning Representations (ICLR), 2024.
 2.	Abrar Rahman Abir, Md Toki Tahmid, M Saifur Rahman, Multi-Label Contrastive Learning Augmented mRNA Subcellular Localization Prediction Leveraging RNA Language Model, Intelligent Systems For Molecular Biology (ISMB) 2024, iRNA COSI Track, 2024.
 3.	Abrar Rahman Abir, Rafiqul Islam Rayan, Md Toki Tahmid, M Saifur Rahman, Deciphering the Twists of RNA: RNA Torsion Angle Prediction with Attention-Inception Leveraging RNA Language Model, Intelligent Systems For Molecular Biology (ISMB) 2024, iRNA COSI Track, 2024.
@@ -1805,24 +1805,33 @@ text = """
 1800.	M. Murshed, Anindya Iqbal, T. Sabrina, Kh. M. Alam, A Subset Coding based k-Anonymization Technique to Trade-off Location Privacy and Data Integrity in Participatory Sensing Systems, , 0000.
 """
 
-# Regular expression to match the entries
-pattern = r'\d+\.\s*([^,]+(?:,[^,]+)*)\s*,\s*(.*?)(?=,\s*\d{4})'  # Match authors and title
+# Split the data into lines
+lines = data.strip().split('\n')
 
-# Find all matches in the text
-matches = re.findall(pattern, text)
+# Prepare the CSV data
+csv_data = []
 
-# Prepare data for CSV
-data = []
-for match in matches:
-    authors = match[0].strip()  # Authors
-    title = match[1].strip()  # Title
-    data.append([authors, title])
+# Regular expression to match the authors and title
+pattern = re.compile(r'^\d+\.\s*(.*?),\s*(.*)$')
 
-# Save to CSV
-csv_file = 'buet_title_authors.csv'
-with open(csv_file, mode='w', newline='', encoding='utf-8') as file:
+for line in lines:
+    # Remove the leading digit and space
+    line = line.lstrip('0123456789. ')
+    
+    # Split by commas
+    parts = line.split(',')
+    
+    # The authors are everything except the last part
+    authors = ', '.join(parts[:-1]).strip()
+    
+    # The title is the last part
+    title = parts[-1].strip()
+    
+    # Append to CSV data
+    csv_data.append([authors, title])
+
+# Write to CSV
+with open('publications.csv', mode='w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerow(['Authors', 'Title'])  # Write header
-    writer.writerows(data)  # Write data
-
-print(f'Data has been written to {csv_file}')
+    writer.writerows(csv_data)  # Write data rows
