@@ -2,7 +2,7 @@ import re
 import csv
 
 # Input text
-data = """
+text = """
 1.	Zarif Ikram, Dianbo Liu, M Saifur Rahman, Antibody sequence optimization with gradient-guided discrete walk-jump sampling, Generative and Experimental Perspectives for Biomolecular Design (GEM) workshop at at the 12th International Conference on Learning Representations (ICLR), 2024.
 2.	Abrar Rahman Abir, Md Toki Tahmid, M Saifur Rahman, Multi-Label Contrastive Learning Augmented mRNA Subcellular Localization Prediction Leveraging RNA Language Model, Intelligent Systems For Molecular Biology (ISMB) 2024, iRNA COSI Track, 2024.
 3.	Abrar Rahman Abir, Rafiqul Islam Rayan, Md Toki Tahmid, M Saifur Rahman, Deciphering the Twists of RNA: RNA Torsion Angle Prediction with Attention-Inception Leveraging RNA Language Model, Intelligent Systems For Molecular Biology (ISMB) 2024, iRNA COSI Track, 2024.
@@ -21,7 +21,7 @@ data = """
 16.	Md Shohel Khan, Rubaiyat Sha Fardin Siam, Muhammad Abdullah Adnan, A Framework for Checking and Mitigating the Security Vulnerabilities of Cloud Service RESTful API, Service Oriented Computing and Applications, 2024. DOI 
 17.	Islam Rubyeat and Rahman Atif, An Alignment-Free Method for Detection of Missing Regions for Phylogenetic Analysis, Heliyon, 10, E32227, 2024.
 18.	Roy Nilanjan, Kabir Acramul Haque, Zahan Nourin, Mouna Shahba Tasmiya, Chakravarty Sakshar, Rahman Atif Hasan, Md Shamsuzzoha Bayzid, Genome wide association studies on seven yield-related traits of 183 rice varieties in Bangladesh, Plant Direct, 8, e593, 2024.
-19.	Saha Shoumik and Afroz Sadia and Rahman Atif Hasan, MAlign: Explainable static raw-byte based malware family classification using sequence alignment, Computers \& Security, 139, 103714, 2024.
+19.	Saha Shoumik and Afroz Sadia and Rahman Atif Hasan, MAlign: Explainable static raw-byte based malware family classification using sequence alignment, Computers Security, 139, 103714, 2024.
 20.	Yafi Mashrur Ahmed and Hisham Md Hasibul Husain and Grisanti Francisco and Martin James F and Rahman Atif and Samee Md Abul Hassan, scGIST: gene panel design for spatial transcriptomics with prioritized gene sets, Genome Biology, 25, 57, 2024.
 21.	Meher Afroz and Muntaka Ibnath and Ashikur Rahman and Jakia Sultana and Raqeebir Rab, On Feature Selection Algorithms for Effective Botnet Detection (Journal), Journal of Network and Systems Management., 32, 43, 2024. DOI 
 22.	Sheikh Azizul Hakim, Rahnuma Islam Nishat, Md Saidur Rahman, Approximation algorithms for maximum weighted internal spanning trees in regular graphs and subdivisions of graphs, The Computer Journal, 2024. DOI 
@@ -149,7 +149,7 @@ data = """
 144.	Ahmed Shahriar Sakib, Md Saddam Hossain Mukta, Fariha Rowshan Huda, AKM Najmul Islam, Tohedul Islam, Mohammed Eunus Ali, Identifying insomnia from social media posts: psycholinguistic analyses of user tweets, Journal of medical Internet research, 23, e27613, 2021.
 145.	Nabil Ibtehaz, M Kaykobad, M Sohel Rahman, Multidimensional segment trees can do range updates in poly-logarithmic time, Theoretical Computer Science, 854, 30--43, 2021. DOI 
 146.	Md Shariful Islam Bhuyan, Itsik Peâ€™er, M Sohel Rahman, SICaRiO: short indel call filtering with boosting, Briefings in Bioinformatics, 22, bbaa238, 2021. DOI 
-147.	Aimon Rahman, M Sohel Rahman, MRC Mahdy, 3C-GAN: class-consistent CycleGAN for malaria domain adaptation model, Biomedical Physics \& Engineering Express, 7, 55002, 2021. DOI 
+147.	Aimon Rahman, M Sohel Rahman, MRC Mahdy, 3C-GAN: class-consistent CycleGAN for malaria domain adaptation model, Biomedical Physics & Engineering Express, 7, 55002, 2021. DOI 
 148.	Deponker Sarker Depto, Shazidur Rahman, Md Mekayel Hosen, Mst Shapna Akter, Tamanna Rahman Reme, Aimon Rahman, Hasib Zunair, M Sohel Rahman, Automatic segmentation of blood cells from microscopic slides: A comparative analysis, Tissue and Cell, 73, 101653, 2021. DOI 
 149.	Anas M Tahir, Muhammad EH Chowdhury, Amith Khandakar, Tawsifur Rahman, Yazan Qiblawey, Uzair Khurshid, Serkan Kiranyaz, Nabil Ibtehaz, M Sohel Rahman, Somaya Al-Maadeed, Sakib Mahmud, Maymouna Ezeddin, Khaled Hameed, Tahir Hamid, COVID-19 infection localization and severity grading from chest X-ray images, Computers in biology and medicine, 139, 105002, 2021. DOI 
 150.	Mohammad Tawhidul Hasan Bhuiyan, Irtesam Mahmud Khan, Sheikh Saifur Rahman Jony, Renee Robinson, Uyen-Sa DT Nguyen, David Keellings, M Sohel Rahman, Ubydul Haque, The Disproportionate Impact of COVID-19 among Undocumented Immigrants and Racial Minorities in the US, International Journal of Environmental Research and Public Health, 18, 12708, 2021. DOI 
@@ -1093,7 +1093,7 @@ data = """
 1088.	Suri Dipannita Sayeed, Md. Sajid Hasan, Md. Saidur Rahman, Measuring Topological Robustness of Scale-free Networks Using Biconnected Components, 1st International Conference on Networking Systems ans Security (NSysS 2015), 2015.
 1089.	Siavash Mirarab, Rezwana Reaz, Md. Shamsuzzoha Bayzid, Theo Zimmermann, Shel Swenson and Tandy Warnow, ASTRAL: Genome- Scale Coalescent-Based Species Tree, European Conference on Computational Biology (ECCB), 2014.
 1090.	S Azam, FT Zohra, MM Islam, Image spatial resolution enhancement: A novel wavelet approach, IEEE 17th International conference on computer and information technology (ICCIT), 362--367, 2014. DOI 
-1091.	S Azam, MM Islam, FT Zohra, Performance assessment criteria and issues for wavelet-based image resolution enhancement technique: A short review, 2014 International Conference on Informatics, Electronics \& Vision (ICIEV), 1--6, 2014. DOI 
+1091.	S Azam, MM Islam, FT Zohra, Performance assessment criteria and issues for wavelet-based image resolution enhancement technique: A short review, 2014 International Conference on Informatics, Electronics & Vision (ICIEV), 1--6, 2014. DOI 
 1092.	T. Chakraborty, M. T. H. Majumder, M. Nasim, S. M. B. Malek, M. S. Saeef, F. U. Ahmed, A. J. Rahman, M. R. Islam, M. F. U. A. Real, and A. B. M. A. A. Islam, LiSee: Motion Detection Using Visible Light Communication, In Proceedings of Workshop on Mobile Computing and Human Computer Interaction (MoHCI),, 2014.
 1093.	T. Choudhury, B. Islam, and A. B. M. A. A. Islam, Super-savior: A System to Aid Combating Harassment and Violence Against Women, In Proceedings of Workshop on Women Empowerment through ICT: Higher Studies, Research and Career (WE-ICT), 2014.
 1094.	N. Nurain, M. Mostakim, and A. B. M. A. A. Islam, Towards empirical study based mathematical modeling for energy consumption and end-to-end delay of MANETs, 2014 17th International Conference on Computer and Information Technology (ICCIT), 424-429, 2014. DOI 
@@ -1805,33 +1805,57 @@ data = """
 1800.	M. Murshed, Anindya Iqbal, T. Sabrina, Kh. M. Alam, A Subset Coding based k-Anonymization Technique to Trade-off Location Privacy and Data Integrity in Participatory Sensing Systems, , 0000.
 """
 
-# Split the data into lines
-lines = data.strip().split('\n')
+entries = text.strip().split('\n')
 
-# Prepare the CSV data
-csv_data = []
+author_title_list = []
 
-# Regular expression to match the authors and title
-pattern = re.compile(r'^\d+\.\s*(.*?),\s*(.*)$')
-
-for line in lines:
-    # Remove the leading digit and space
-    line = line.lstrip('0123456789. ')
+for entry in entries:
+    # Remove the entry number and leading/trailing whitespace
+    cleaned_entry = re.sub(r'^\d+\.\s*', '', entry)
+    parts = [p.strip() for p in cleaned_entry.split(', ')]
     
-    # Split by commas
-    parts = line.split(',')
+    authors = []
+    title = ''
     
-    # The authors are everything except the last part
-    authors = ', '.join(parts[:-1]).strip()
+    # Check if any part contains ' and '
+    found_and = False
+    for i, part in enumerate(parts):
+        if ' and ' in part:
+            # Split this part into authors
+            authors = part.split(' and ')
+            # The title is the next part
+            if i+1 < len(parts):
+                title = parts[i+1]
+            else:
+                title = ''
+            found_and = True
+            break
     
-    # The title is the last part
-    title = parts[-1].strip()
+    if not found_and:
+        # Find the first part with a colon, assume it's the title
+        title_index = -1
+        for i, part in enumerate(parts):
+            if ':' in part:
+                title_index = i
+                break
+        if title_index != -1:
+            authors = parts[:title_index]
+            title = parts[title_index]
+        else:
+            # Fallback to first three authors, fourth part as title
+            if len(parts) >= 4:
+                authors = parts[:3]
+                title = parts[3]
+            else:
+                # Handle edge cases
+                authors = parts[:-1]
+                title = parts[-1] if len(parts) >= 1 else ''
     
-    # Append to CSV data
-    csv_data.append([authors, title])
+    author_str = ', '.join(authors)
+    author_title_list.append([author_str, title])
 
 # Write to CSV
-with open('publications.csv', mode='w', newline='', encoding='utf-8') as file:
-    writer = csv.writer(file)
-    writer.writerow(['Authors', 'Title'])  # Write header
-    writer.writerows(csv_data)  # Write data rows
+with open('output.csv', 'w', newline='', encoding='utf-8') as f:
+    writer = csv.writer(f)
+    writer.writerow(['Authors', 'Title'])
+    writer.writerows(author_title_list)
