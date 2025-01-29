@@ -1,9 +1,9 @@
 import csv
 
 # Input and output file paths
-input_csv = "_titles_authors_KUET.csv"  # Replace with your input CSV file name
-output_authors_csv = "_authors_with_ids_KUET.csv"
-output_papers_csv = "_papers_with_ids_KUET.csv"
+input_csv = "./Authors/_authors_with_ids_BUET.csv"  # Replace with your input CSV file name
+output_authors_csv = "_authors_with_ids_BUET.csv"
+output_papers_csv = "_papers_with_ids_BUET.csv"
 
 # Initialize counters and storage
 author_counter = 0
@@ -19,7 +19,7 @@ with open(input_csv, "r", encoding="utf-8") as file:
 
     for row in reader:
         # Assign a unique paper ID
-        paper_id = f"kuet_paper_{paper_counter}"
+        paper_id = f"buet_paper_{paper_counter}"
         paper_counter += 1
 
         # Split authors and process each
@@ -27,7 +27,7 @@ with open(input_csv, "r", encoding="utf-8") as file:
         for author in authors:
             if author not in author_ids:
                 # Assign a unique author ID
-                author_id = f"kuet_author_{author_counter}"
+                author_id = f"buet_author_{author_counter}"
                 author_counter += 1
                 author_ids[author] = author_id
                 # Add author to the authors_output list
