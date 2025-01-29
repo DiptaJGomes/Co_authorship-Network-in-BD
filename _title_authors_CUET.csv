@@ -1,337 +1,337 @@
-Title,Authors
-ADBNet: An Attention-Guided Deep Broad Convolutional Neural Network for the Classification of Breast Cancer Histopathology Images,"Musfequa Rahman, Kaushik Deb, Pranab Kumar Dhar, Tetsuya Shimamura"
-XAI-Driven Lightweight Multiscale ConvLSTM Architecture for Video Violence Detection,"Md Al-Mamun Provath, Kaushik Deb, Kang Hyun Jo"
-An Enhanced Feature-Based Hybrid Approach for Adversarial PDF Malware Detection,"GM Sakhawat Hossain, Kaushik Deb, Iqbal H Sarker"
-Removing Rain from Single Image Using Atrous U-Net and GAN,"Ayesha Banu, Sabiha Anan, Kaushik Deb"
-A hybrid deep learning framework for daily living human activity recognition with cluster-based video summarization,"S Hossain, K Deb, S Sakib, IH Sarker"
-PDF Malware Detection: Towards Machine Learning Modeling with Explainability Analysis,"GM Sakhawat Hossain, Kaushik Deb, Helge Janicke, Iqbal H Sarker"
-Estimation from Human Facial Expression Using Deep Neural Network,"Md Ashiqur Rahman, Shuhena Salam Aonty, Kaushik Deb"
-Classification of Lung and Colon Cancer Histopathological Images Using Global Context Attention Based Convolutional Neural Network,"Md Al-Mamun Provath, Kaushik Deb, Pranab Kumar Dhar, Tetsuya Shimamura"
-Improved YOLOv5-Based Real-Time Road Pavement Damage Detection in Road Infrastructure Management,"Abdullah As Sami, Saadman Sakib, Kaushik Deb, Iqbal H Sarker"
-Attention-Based Human Age Estimation from Face Images to Enhance Public Security,"Md Ashiqur Rahman, Shuhena Salam Aonty, Kaushik Deb, Iqbal H Sarker"
-Outdoor Trash Detection in Natural Environment Using a Deep Learning Model,"Dhrubajyoti Das, Kaushik Deb, Taufique Sayeed, Pranab Kumar Dhar, Tetsuya Shimamura"
-Human Pose Estimation Using Parallel Architecture,"huhena Salam Aonty, Kaushik Deb, Dhrubajyoti Das, Kang-Hyun Jo"
-Daily Living Human Activity Recognition Using Deep Neural Networks,"Md Shihab Hossain, Kaushik Deb, Syed Md Minhaz Hossain, Kang-Hyun Jo"
-Classification of Lung and Colon Cancer Using Deep Learning Method,"Md Al-Mamun Provath, Kaushik Deb, Kang-Hyun Jo"
-Classifying Breast Cancer Using Deep Convolutional Neural Network Method,"Musfequa Rahman, Kaushik Deb, Kang-Hyun Jo"
-A comprehensive study on atlas-based classification of autism spectrum disorder using functional connectivity features from resting-state functional magnetic resonance imaging,"Faria Zarin Subah, Kaushik Deb"
-Person Recognition Based on Deep Gait: A Survey,"Md Khaliluzzaman, Ashraf Uddin, Kaushik Deb, Md Junayed Hasan"
-A Transfer Learning Approach to Recognize Pedestrian Attributes,"Saadman Sakib, Anik Sen, Kaushik Deb"
-Flood Region Detection Based on K-Means Algorithm and Color Probability,"Promiti Chakraborty, Sabiha Anan, Kaushik Deb"
-Multi-Person Pose Estimation using Group-Based Convolutional Neural Network Model,"Shuhena Salam Aonty, Kaushik Deb, Moumita Sen Sarma, Pranab Kumar Dhar, Tetsuya Shimamura"
-Shadow processing with color model adjustment and texture analysis,"Md. Azhar Uddin, Tahmina Khanam, Muhammad Ibrahim Khan, Kaushik Deb and Kang-Hyun Jo"
-Road Damage Detection and Classification using Deep Neural Network,"Md Mahadi Hasan, Saadman Sakib, Kaushik Deb"
-Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Networks,"Shuhena Salam Aonty, Moumita Sen Sarma, Kaushik Deb"
-Masked Face Inpainting Using Generative Adversarial Network Based Architecture,"Maisha Maimuna, Syed Md Minhaz Hossain, Kaushik Deb"
-Trash Image Classification Using Transfer Learning Based Deep Neural Network,"Dhrubajyoti Das, Anik Sen, Syed Md Minhaz Hossain, Kaushik Deb"
-Detecting Spam SMS Using Self Attention Mechanism,"Syed Md Minhaz Hossain, Anik Sen, Kaushik Deb"
-Fine-Grained Soccer Actions Classification Using Deep Neural Network,"Anik Sen, Syed Md Minhaz Hossain, Mohammad Ashraf Russo, Kaushik Deb, Kang-Hyun Jo"
-Emotion Recognition from Speech Using Deep Learning,"MD Muhyminul Haque, Kaushik Deb"
-Emergency Vehicle Detection Using Deep Convolutional Neural Network,"Samiul Haque, Shayla Sharmin, Kaushik Deb"
-Categorization of actions in soccer videos using a combination of transfer learning and Gated Recurrent Unit,"Anik Sen, Kaushik Deb"
-Tomato leaf disease recognition using depthwise separable convolution,"Syed Md Minhaz Hossain, Khaleque Md Aashiq Kamal, Anik Sen, Kaushik Deb"
-Human Fall Classification from Indoor Videos Using Modified Transfer Learning Model,"Arifa Sultana, Kaushik Deb"
-A Framework for Pedestrian Attribute Recognition Using Deep Learning,"Saadman Sakib, Kaushik Deb, Pranab Kumar Dhar, Oh-Jin Kwon"
-Plant Leaf Disease Recognition Using Histogram Based Gradient Boosting Classifier,"Syed Mohammad Minhaz Hosain, Kaushik Deb"
-A Framework for Traffic Sign Detection Based on Fuzzy Image Processing and Hu Features,"Zainul Abedin, Kaushik Deb"
-Categorization of actions in soccer videos using a combination of transfer learning and Gated Recurrent Unit,"Anik Sen, Kaushik Deb, Pranab Kumar Dhar, and Takeshi Koshiba"
-Door Detection Based on Geometrical Features and Harris Corner,"Md. Akber Hossain, Sabiha Anan, and Kaushik Deb"
-CricShotClassify: An Approach to Classifying Batting Shots from Cricket Videos Using a Convolutional Neural Network and Gated Recurrent Unit,"Anik Sen, Kaushik Deb, Pranab Kumar Dhar, and Takeshi Koshiba"
-Plant Leaf Disease Recognition Using Depth-Wise Separable Convolution-Based Models,"Syed Mohammad Minhaz Hosain, Kaushik Deb, Pranab Kumar Dhar, and Takeshi Koshiba"
-Classification of Indoor Human Fall Events Using Deep Learning,"Arifa Sultana, Kaushik Deb, Pranab Kumar Dhar, and Takeshi Koshiba"
-Image Defogging Framework Using Segmentation and the Dark Channel Prior,"Sabiha Anan, Mohammad Ibrahim Khan, Mir Md. Saki Kowsar, Kaushik Deb, Pranab Kumar Dhar, and Takeshi Koshiba"
-A Deep Learning Approach to Predict Autism Spectrum Disorder Using Multisite Resting-State fMRI,"Faria Zarin Subah, and Kaushik Deb, Pranab Kumar Dhar, and Takeshi Koshiba"
-Traditional Bangladeshi Sports Video Classification Using Deep Learning Method,"Moumita Sen Sarma, and Kaushik Deb, Pranab Kumar Dhar, and Takeshi Koshiba"
-Traditional Bangladeshi Sports Video Classification using Transfer Learning Approach and Long Short Term Memory,"Moumita Sen Sarma, and Kaushik Deb"
-Blind Image Watermarking in Canonical and Cepstrum Domains Based on 4-Connected t-o’clock Scrambling,"Farhana Shirin Chowdhury, Pranab Kumar Dhar , Kaushik Deb, and Takeshi Koshiba"
-Door Detection Based on Haar Cascade Classifier and Visual Features Extraction,"Ahsan Sadee Tanim, Sharmistha Chanda Tista and Kaushik Deb"
-Human Detection Based on HOG-LBP for Monitoring Sterile Zone,"Farjana Bintay Kamal, Sangita Mitra, Tahmina Khanam, Uzzal K. Acharjee, Dipankar Das, Kaushik Deb"
-Illegally Parked Vehicle Detection Based on Haar-Cascade Classifier,"Aapan Mutsuddy, Kaushik Deb, Tahmina Khanam, and Kang-Hyun Jo"
-A comparative study on handwritten Bangla character recognition,"Md. Atiqul islam rizvi, Kaushik Deb, Md. Ibrahim Khan, Mir Md. Saki Kowsar, Tahmina Khanam"
-Human Detection Utilizing Adaptive Background Mixture Models and Improved Histogram of Oriented Gradients,"S. A. Chowdhury, M. M. S. Kowsar, and K. Deb"
-Stairways Detection Based on Approach Evaluation and Vertical Vanishing Point,Md. Khaliluzzaman and Kaushik Deb
-Baggage Recognition in Occluded Environment using Boosting Technique,Tahmina Khanam and Kaushik Deb
-Detection and Tracking of Humans Based on Improved Histogram of Oriented Gradients and Kalman Filter,"S. A. Chowdhury, K. Deb, P. K. Dhar and M. A. F. M. R. Hasan"
-MetaG: a graph-based metagenomic gene analysis for big DNA data,"Linkon Chowdhury, Mohammad Ibrahim Khan, Kaushik Deb, and Sarwar Kamal"
-An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings,"Md. Moshiul Hoque, Quazi Delwar Hossian, Kaushik Deb, Dipankar Das, Y. Kobayashi, and Y. Kuno"
-Cast Shadow Detection and Removal of Moving Objects from Video Based on HSV Color Space,"Kaushik Deb, Animash Kar and Ashraful Huq Suny"
-Detecting Anomalous Behavior of Credit Card Transaction using Statistical Approach,"Kaushik Deb, Kazi Zakia Sultana and Tahmina Khanam"
-Shadow Detection and Removal Based on YCbCr Color Space,Kaushik Deb and Ashraful Huq Suny
-A Motion Region Detection and Tracking Method,"Kaushik Deb, Sayem Mohammad Imtiaz, and Priyam Biswas"
-DCT and DWT Based Robust Audio Watermarking Scheme for Copyright Protection,"Kaushik Deb, Md. Ashikur Rahaman, Kazi Zakia Sultana, Md. Iqbal Hasan Sarker, and Ui-Pil Chong"
-Vehicle License Plate Detection and Tilt Correction Based on HSI Color Model and SUSAN Corner Detector,Muhammad Kamal Hossen and Kaushik Deb
-Design A Robotic Head to Attract Human Attention by Considering Viewing Situations,"Md. Moshiul Hoque, Y. Kobayashi, Y. Kuno, and Kaushik Deb"
-"Kaushik Deb, Md. Sajib Al-Seraj, and Ui-Pil Chong",A Low Frequency Band Watermarking with Weighted Correction in the Combined Cosine and Wavelet Transform Domain
-Neural Network-Based English Alphanumeric Character Recognition,Md. Fazlul Kader and Kaushik Deb
-A New Audio Watermarking Method Based on Discrete Cosine Transform with a Gray Image,"Muhammad Ibrahim Khan, Md. Iqbal Hasan Sarker, Kaushik Deb, and Md. Hasan Farhad"
-Automated Road Line Detection for Intelligent Vehicle,"Anik Saha, Dipanjan Das Roy, Tauhidul Alam and Kaushik Deb"
-Two-Handed Sign Language Recognition for Bangla Character Using Normalized Cross Correlation,"Kaushik Deb, Muhammad Ibrahim Khan, Helena Parvin Mony and Sujan Chowdhury"
-Lossless Image Compression Technique Based on Snack Ordering,"Kaushik Deb, Tauhidul Alam, Md. Mahammud Ali and Kang-Hyun Jo"
-"Md. Iqbal Hasan Sarker, Muhammad Ibrahim Khan, Kaushik Deb, and Md. Faisal Faruque",FFT based Audio Watermarking Method with a Gray Image for Copyright Protection
-Automatic Vehicle Identification by Plate Recognition for Intelligent Transportation Systems',"Kaushik Deb, My Ha Le, Byung-Seok Woo and Kang-Hyun Jo"
-Vehicle License Plate Detection Method Based on HDR Image Generation from Multiple Computers,Kaushik Deb and Kang-Hyun Jo
-Vehicle License Plate Tilt correction Based on the Straight Line Fitting Method and Minimizing Variance of Coordinates of Projection Points,"Kaushik Deb, Andrey Vavilin, Jung-Won Kim, and Kang-Hyun Jo"
-A Modified Spectral Modeling Synthesis Algorithm for Whale Sound,"Pranab Kumar Dhar, Mohammed Ibrahim Khan, Kaushik Deb, and Jong-Myon Kim"
-Fast HDR Image Generation Technique based on Exposure Blending,"Andrey Vavilin, Kaushik Deb, and Kang-Hyun Jo"
-A Vehicle License Plate Detection Method for Intelligent Transportation System Applications,Kaushik Deb and Kang-Hyun Jo
-Vehicle License Plate Detection Algorithm Based on Color Space and Geometrical Properties,Kaushik Deb and Kang-Hyun Jo
-Vehicle License Plate Detection Method Based on Sliding Concentric Windows and Histogram,"Kaushik Deb, Hyun-Uk Chae, and Kang-Hyun Jo"
-An Efficient Method of Vehicle License Plate Detection Based on HSI Color Model and Histogram,"Kaushik Deb, Hee-Chul Lim, Suk-Ju Kang, and Kang-Hyun Jo"
-Statistical Characteristics in HSI Color Model and Position Histogram based Vehicle License Plate Detection.,"Kaushik Deb, Suk-Ju Kang, and Kang-Hyun Jo"
-Geometrical Reorientation of Distorted Road Sign using Projection Transformation for Road Sign Recognition,"Hee-Chul Lim, Kaushik Deb, and Kang-Hyun Jo"
-Geometrical Property and Histogram Based Korean Vehicle License Plate Detection,Kaushik Deb and Kang-Hyun Jo
-Construction of a simple Robotic Arm and Control by Software,Kaushik Deb and Thomas Chowdhury
-Structural Operational Semantics of Inheritance and Object creation in JAVA,"M. S. Arefin, M. M. Hoque, M.T. Islam, and Kaushik Deb"
-Human Detection Based on HOG-LBP for Monitoring Sterile Zone,"Farjana Bintay Kamal, Sangita Mitra, Tahmina Khanam, Uzzal K. Acharjee, Dipankar Das and Kaushik Deb"
-Geometrical Feature Based Stairways Detection and Recognition using Depth Sensor,Md. Khaliluzzaman Kaushik Deb
-Bangladeshi Road Sign Recognition Based on DtBs Vector and Artificial Neural Network,"Soumen Chakraborty, Mohammed Nasir Uddin and Kaushik Deb"
-Baggage Detection and Classification using Human Body Parameter & Boosting Technique,"Tahmina Khanam, Kaushik Deb and Kang-Hyun Jo"
-Occlusion handling and human detection based on Histogram of Oriented Gradients for automatic video surveillance,"S. A. Chowdhury, M. N. Uddin, M. M. S. Kowsar and K. Deb"
-Digital Electric Meter Reading Recognition Based on Horizontal and Vertical Binary Pattern,Md. Khaliluzzaman and Kaushik Deb
-Zebra-crossing Detection Based on Geometric Feature and Vertical Vanishing Point,Md. Khaliluzzaman and Kaushik Deb
-Occlusion handling and human detection based on Histogram of Oriented Gradients for automatic video surveillance,"Shaiyan Ameen Chowdhury, M. N. Uddin, M.S. Kowsar and Kaushik Deb"
-Human and Carried Baggage Detection & Classification based on RSD-HOG in Video Frame,Tahmina Khanam and Kaushik Deb
-Analyzing Image Transmission Quality using Filter and C-QAM,"d. Khaliluzzaman, Deepak Kumar Chy., Kaushik Deb"
-Support Vector Machine for Overcoming the Problem of Vanishing Point during Stairways Detection,Md. Khaliluzzaman and Kaushik Deb
-Analyzing MRI Segmentation Based on Wavelet and BEMD using Fuzzy C-Means Clustering,Md. Khaliluzzaman and Kaushik Deb
-Stairways Detection and Distance Estimation Approach Based on Three Connected Point and Triangular Similarity,"Md. Khaliluzzaman, Kaushik Deb, and Kang-Hyun Jo"
-Stairways Detection and Distance Estimation Approach Based on Three Connected Point and Triangular Similarity,"Md. Khaliluzzaman, Kaushik Deb, and Kang-Hyun Jo"
-Moving cast shadow detection and removal from Video based on HSV color space,Animash Kar and Kaushik Deb
-Bangladeshi road sign detection based on YCbCr color model and DtBs vector,Soumen Chakraborty and Kaushik Deb
-Color Image Watermarking Based on LU Decomposition,"Kazi Anika Hossain Naima, Tahmina Khhanm and Kaushik Deb"
-An Efficient Framework for Detecting Face Region Based on Skin Color Modeling and SVM Classifier,"Arpita Chowdhury, Tahmina Khhanm and Kaushik Deb"
-Video Watermarking Scheme Using Second Level Discrete Wavelet Transformation (DWT) and Fast Fourier Transformation,"Md. Rahat Mahmud, Tahmina Khanam and Kaushik Deb"
-Detecting Books from Bookshelf of Multiple Cells,Prianka Banik and Kaushik Deb
-An Intelligent Human-Robot Interaction Framework to Control the Human Attention,"Md. Moshiul Hoque, Kaushik Deb, Dipankar Das, Y. Kobayashi, and Y. Kuno"
-Moment Invariants Based Object Recognition for Different Pose and Appearances in Real Scenes,"Swati Nigam, Kaushik Deb, and Ashish Khare"
-An Efficient Method of Vehicle License Plate Recognition Based on Sliding Concentric Windows and Artificial Neural Network,"Kaushik Deb, Md. Ibrahim Khan, Anik Saha, and Kang-Hyun Jo"
-Designing a Semantic Web Ontology of agricultural domain,"Sujan Chowdhury, Kayasar Md. Mahedi, and Kaushik Deb"
-A joint DWT-DCT Based Watermarking Technique for Avoiding Unauthorized Replication,"Kaushik Deb, Sajib Al-Seraj, Md. Saki Kowser, Iqbal Hasan Sarker"
-Bangladeshi Vehicle License Plate Detection Method Based on HSI Color Model and Geometrical Properties,"Kaushik Deb, Muhammad Kamal Hossen, Md. Ibrahim Khan, and Md. Rafiqul Alam"
-Robotic System for Making Eye Contact Pro-activity with Humans,Md. Moshiul Hoque and Kaushik Deb
-Combined DWT-DCT Based Digital Watermarking Technique for Copyright Protection,"Kaushik Deb, Md. Sajib Al-Seraj, Md. Moshiul Hoque and Md. Iqbal Hasan Sarker"
-Optical Recognition of Vehicle License Plates,"Kaushik Deb, Md. Ibrahim Khan, Md. Rafiqul Alam, and Kang-Hyun Jo"
-Bangla Character Recognition by using Artificial Neural Network,Anik Saha and Kaushik Deb
-'Developing a Bangla Spell Checker With Possible Suggestions by using Longest Common Sub Sequence and Soundex algorithm,Sujan Chowdhury and Kaushik Deb
-Road Sign Detection Method based on Fast HDR Image Generation Technique,"Andrey Vavilin, Kaushik Deb, Tae-Ho Kim, and Kang-Hyun Jo"
-Recognizing Outdoor Scene Objects Using Texture Features and Probabilistic Appearance Model,"My-Ha Le, Kaushik-Deb, and Kang-Hyun Jo"
-Vehicle License Plate Tilt Correction Based on the Straight Line Fitting Method,"Kaushik-Deb, Andrey Vavilin, Jung-Won Kim, and Kang-Hyun Jo"
-A Modified New Reno for performance Enhancement of TCP in Wireless Network,"Pranab Kumar Dhar, Kaushik-Deb, and P. M. Mahamudul Hassan"
-An Efficient Algorithm for finding the Control Point of 3rd order Bezier Curve,"Md. Ibrahim Khan, Sujon Chowdhury, Alok Kumar Chowdhury, and Kaushik-Deb"
-Projection and Least Square Fitting with Perpendicular Offsets based Vehicle License Plate Tilt Correction,"Kaushik-Deb, Andrey Vavilin, Jung-Won Kim, and Kang-Hyun Jo"
-An Efficient Method for Correcting Vehicle License Plate Tilt,"Kaushik-Deb, Andrey Vavilin, and Kang-Hyun Jo"
-License Plate Detection Method Based on HDR Image Generation from Multiple Cameras,"Andy Vavilin, Kaushik Deb and Kang-Hyun Jo"
-Korean Vehicle License Plate Detection Based on Statistical and Geometrical Properties in HSI Color Space,"Kaushik Deb, Suk-Ju Kang, and Kang-Hyun Jo"
-Vehicle License Plate Extraction Based on Color and Geometrical Features,"Kaushik-Deb, Hee-Chul Lim and Kang-Hyun Jo"
-A Hybrid Vehicle License Plate Detection Method Based on HSI Color Model and Histogram,"Kaushik Deb, Kang, Suk-Ju, Kang-Hyun Jo"
-Korean Vehicle License Plate Extraction Based on HSI Color Model and Histogram,"Kaushik Deb, Heechul Lim, Kang-Hyun Jo"
-HSI Color based Vehicle License Plate Detection,Kaushik Deb and Kang-Hyun Jo
-Parallelogram and Histogram based Vehicle License Plate Detection,"Kaushik Deb, Hyun-Uk Chae, and Kang-Hyun Jo"
-Korean Vehicle License Plate Detection Based on Geometrical and Colour Properties,Kaushik Deb and Kang-Hyun Jo
-A Localized Queuing Based Router-Centric Approach to Congestion Avoidance and Recovery for Connectionless datagram Service,M.A.H. Bhuiyan and Kaushik Deb
-Information System for Medical Firm,Kaushik Deb and V. L. Tokarev
-Verbs in Russian Terminology of Computer Facilities and Computer Science,Kaushik Deb
-Door Detection Based on Geometrical Features and Harris Corner,"Md. Akber Hossain, Sabiha Anan, and Kaushik Deb"
-Enhancing image caption generation through context-aware attention mechanism,"Ahatesham Bhuiyana, Eftekhar Hossain, Mohammed Moshiul Hoque, and M. Ali Akber Dewan"
-AraCovTexFinder: Leveraging the transformer-based language model for Arabic COVID-19 text identification,"M. R. Hossain, M. M. Hoque, N. Siddique, M. A. A. Dewan"
-"An Empirical Framework for Detecting Speaking Modes Using Ensemble Classifier"", in Multimedia Tools and Applications","[3] S. Afroze, R. Hossain, M. M. Hoque, and A. A. Dewan"
-"""TEmoX: Classification of Textual Emotion Using Ensemble of Transformers,"" in IEEE Access","A. Das, M. M. Hoque, O. Sharif, M. A. A. Dewan and N. Siddique"
-Leveraging the meta-embedding for text classification in a resource-constrained language,"M. R. Hossain, M. M. Hoque, N. Siddique"
-CovTiNet: Covid text identification network using attention-based positional embedding feature fusion,"M. R. Hossain, M. M. Hoque, N. N. Siddique and I. H. Sarker"
-LCDEiT: A Linear Complexity Data-Efficient Image Transformer for MRI Brain Tumor Classification,"G. J Ferdous, K. A Sathi, M. A Hossain, M. M. Hoque, M. A. A. Dewan"
-DeepFocus: A visual focus of attention detection framework using deep learning in multi-object scenarios,"S. Afroze, R. Hossain, and M. M. Hoque"
-Identification of Multilingual Offense and Troll from Social Media Memes Using Weighted Ensemble of Multimodal Features,"E. Hossain, O. Sharif, M. M. Hoque, M. A. A. Dewan, N. Siddique, M. A. Hossain"
-A Deep Attentive Multimodal Learning Approach for Disaster Identification from Social Media Posts,"E. Hossain, M. M. Hoque, E. Hoque and M. S. Islam"
-A source-driven probabilistic forwarding and caching strategy in NDN and SDN-based NDN,"S. M. A. Iqbal, Asaduzzaman, M. M. Hoque"
-A source-driven reinforcement learning-based Data reply strategy to reduce communication overhead in Named Data Networks (NDN),"Iqbal, S.M.A., Asaduzzaman & Hoque, M.M."
-BEmoC: A Corpus for Identifying Emotion in Bengali Texts,"Iqbal, M.A., Das, A., Sharif, O. M. M. Hoque and Iqbal. H. Sarker"
-Classification of Textual Sentiment Using Ensemble Technique.,"Mamun, M.M.R., Sharif, O. & Hoque, M.M."
-Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network,"Parvin, T., Sharif, O. & Hoque, M.M."
-Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers,O. Sharif and M. M. Hoque
-Bengali Text Document Categorization based on Very Deep Convolution Neural Network,"M. R Hossain, M. M Hoque, N. Siddique"
-Authorship Classification in a Resource Constraint Language using Convolutional Neural Networks in IEEE Access,"M, R. Hossain, M. M. Hoque, M. A. A. Dewan, N. Siddique, N. Islam and I. H. Sarker"
-BEmoC: A Corpus for Identifying Emotion in Bengali Texts,"A. Iqbal, A. Das, O. Sharif, MM Hoque, and I H Sarker"
-Classification of Textual Sentiment Using Ensemble Technique,"M. M. Rahaman, O. Sharif, M. Moshiul Hoque"
-Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network,"T. Parvin, O. Sharif, MM Hoque"
-A source-driven reinforcement learning-based Data reply strategy to reduce communication overhead in Named Data Networks (NDN),"S. M. Iqbal, Asaduzzaman, M. M. Hoque"
-Development of Duplex Eye Contact Framework for Human-Robot Inter Communication,"S. Sharmin, M. M. Hoque, S. M. R. Islam, M F. Kader and I H. Sarker,"
-Active Vision-based Attention Monitoring System for Drivers,"L. Alam, M M Hoque, N Siddique"
-A Data-Driven Heart Disease Prediction Model Through K-Means Clustering-Based Anomaly Detection,"R. C. Ripan, I. H. Sarker, S. M. M. Hossain, M. M. Anwar, R, Nowrozy, M. M. Hoque & M. H. Furhad"
-"Mobile Data Science and Intelligent Apps: Concepts, AI-based Modeling and Research Directions",I. H Sarker and MM Hoque
-Detecting Suspicious Texts Using Machine Learning Techniques,"O Sharif, MM Hoque, ASM Kayes, R Nowrozy, IH Sarker"
-"“A Text-Based Chat System Embodied with an Expressive Agent,” Advances in Human-Computer Interaction","L. Alam, and M M Hoque"
-Fundamental Frequency Extraction of Noisy Speech Signals,"M. A.F.M. R. Hasan, R. Yasmin, D. Das, M. M. Hoque, M. I. Pramanik, and M. S. Rahman"
-An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings,"M. M. Hoque, Q. D. Hossian, K. Deb, D. Das, Y. Kobayashi, and Y. Kuno"
-Outage Capacity Analysis of a Cooperative Relaying Scheme in Interference Limited Cognitive Radio Networks,"M. F. Kader, Assaduzzaman, M. M. Hoque"
-A Proactive Approach of Robotic Framework for Making Eye Contact with Humans,"M. M. Hoque, Y. Kobayashi, and Y. Kuno"
-Effect of Robot’s Gaze Behaviors for Attracting and Controlling Human Attention,"M. M. Hoque, T. Onuki, Y. Kobayashi, and Y. Kuno"
-Hybrid Spectrum Sharing with Cooprative Secondary User Selection in Cognitive Radio Networks,"M. F. Kader, Assaduzzaman, M. M. Hoque"
-A Robotic Framework for Controlling Human’s Attention,M. M. Hoque
-Design a Robotic Head to Attract Human Attention by considering viewing situations,"M. M. Hoque, Y. Kobayashi, Y. Kuno, and K. Deb"
-An Efficient Framework for Network Intrusion Detection,"M. M. Hoque, A. M. Mahbub"
-English to Bangla Statistical Machine Translation using A* Search Algorithm,M. M. Hoque and M. K. Hassan
-An Empirical Framework for Parsing of Bangla Natural Language Sentences,M. M. Hoque and M. K. Hassan
-An Empirical Framework for Translating of Phrasal Verbs of English Sentence into Bangla,"M. M. Hoque, M. M. Ahammed and M. M. U. Hasan"
-Context-free Grammars and Parsing for Simple Sentences of Bangla,"M. M. Hoque, M. S. Arefin and M. S. Kowser"
-Structural Operational Semantics of Inheritance and Object creation in JAVA,"M. S. Arefin, M. M. Hoque, M. T. Islam and K. Dev"
-Semantic Analysis and Transfer: An Experience with the Bangla Natural Language Sentences,"M. M. Hoque, M. S. Arefin and M. O. Rahman"
-"A New Model of Digital Signature Using LSB Hiding, RSA and Merkle-Hellman Cryptosystem","A. N. M. R. Karim, M. G. R. Alam and M. M. Hoque"
-An Empirical Framework for Statistical Parsing of Bangla Sentences,"M. M. Hoque, M. O. Faruk, M. M. U. Hasan, M. K. Hassan and M. M. U. Karim"
-Developing an Intelligent agent to support negotiation in an electronic market place,"M. S. Arefin, R. Paul, M. M. Hoque and M. A. Sarif"
-Impact Analysis of Facebook in Family Bonding,Md. Sarwar Kamal and Mohammad Shamsul Arefin
-Developing a Framework for Determining Students Excellence and Recommending Field of Study Under Review,"Md. Osman Goni, Mohammad Shamsul Arefin, and Mohammad Monirul Islam"
-Efficiency of NoSQL Databases under a Moderate Application Load,"Mohammad Shamsul Arefin, Khondoker Nazibul Hossain, and Yasuhiko Morimoto"
-A Statistical Framework for Detecting Diabetes Types,Linkon Chowdhury and Mohammad Shamsul Arefin
-Recommending Hotels by Social Conditions of Locations,"Mohammad Shamsul Arefin, Zhichao Chang, and Yasuhiko Morimoto"
-Agent-Based Privacy Aware Feedback System,"Mohammad Shamsul Arefin, Rahma Bintey Mufiz Mukta, and Yasuhiko Morimoto"
-A Spatial Skyline Query for a Group of Users,"Mohammad Shamsul Arefin, Geng Ma, and Yasuhiko Morimoto"
-Privacy Aware Parallel Computation of Skyline Sets Queries from Distributed Databases,"Mohammad Shamsul Arefin, and Yasuhiko Morimoto"
-Skyline Query for Selecting Spatial Objects by Utilizing Surrounding Objects,"Mohammad Shamsul Arefin, Xu Jinhao, Chen Zhiming, and Yasuhiko Morimoto"
-BAENPD: A Bilingual Plagiarism Detector,"Mohammad Shamsul Arefin, Yasuhiko Morimoto, and Mohammad Amir Sharif"
-Skyline Query for Selecting Spatial Objects by Utilizing Surrounding Objects,"Mohammad Shamsul Arefin, Xu Jinhao, Chen Zhiming, and Yasuhiko Morimoto"
-Skyline Sets Queries for Incomplete Data,"Mohammad Shamsul Arefin, and Yasuhiko Morimoto"
-Agent-based Anonymous Skyline Set Computation in Cloud Databases,"Y. Morimoto, M. S. Arefin and M. A. Siddique"
-Management of Multilingual Contents in Web Environment,M. S. Arefin and Y. Morimoto
-Dispersion Control Characteristics of the Dielectric Cylindrical Waveguide And a Novel Approach of Dispersion Compensation,"Nur Mohammad, Md. Asiful Islam, Abdul Khaleque and M. S. Arefin"
-Multilingual Data Management in Database Environment,Dr. Abu Sayed Md. Latiful Hoque and Mohammad Shamsul Arefin
-Development and Implementation of an Efficient Database Compression Algorithm,"M. S. Arefin, C. Sheel and M. M. Islam"
-Semantic Analysis and Transfer: An Experience with the Bangla Natural Language Sentences,"M .M. Hoque, M. S. Arefin and M. O. Rahman"
-Developing an Intelligent Agent to Support Negotiation in an Electronic Market Place,"M. S. Arefin, R. Paul, M. M. Hoque and M. A. Sarif"
-Structural Operational Semantics of Some Important Properties in Java,M. S. Arefin
-Context-free Grammars and Parsing for Simple Sentences of Bangla,"M. M. Hoque, M. S. Arefin and M. S. Kowser"
-Structural Operational Semantics of Inheritance and Object creation in JAVA,"M. S. Arefin, M. M. Hoque, M. T. Islam and K. Dev"
-Structural Operational Semantics of Calling Methods in Java,M. S. Arefin
-Designing a 34-Segment Display for Bengali and English Numerical Digits and Characters,M. S. Arefin
-A Framework to Recommend Appropriate Learning Materials from Stack Overflow Discussions,"A. Iqbal,M. S. Arefin,and M. A. A. Dewan"
-Wi-Fi Based Real Time Communication for Disaster and Emergencies,"Md. Ashiqur Rahman, Asaduzzaman, Md. Shafiul Alam Forhad"
-Adaptive forwarding strategies to reduce redundant Interests and Data in named data networks,Shahid Md. Asif Iqbal and Asaduzzaman
-Cooperative Relaying to Improve the Spectrum Utilization of Multi-channel CR Networks,Asaduzzaman and Hyung Yun Kong
-"Cognitive Radio MAC Protocols: A Survey, Some Research Issues and Challenges","Mahfuzulhoq Chowdhury, Asaduzzaman, and Md. Fazlul Kader"
-Outage Capacity Analysis of a Cooperative Relaying Scheme in Interference Limited Cognitive Radio Networks,"Md Fazlul Kader, Asaduzzaman, and Md. Moshiul Hoque"
-An Opportunistic Two-Transceiver Based MAC Proto- col for Cognitive Radio Networks,Mahfuzulhoq Chowdhury and Asaduzzaman
-Performance Analysis of Local and Cooperative Spectrum Sensing in Cognitive Radio Networks,"Mahfuzulhoq Chowdhury, Asaduzzaman, and Md. Fazlul Kader"
-Hybrid Spectrum Sharing with Cooperative Secondary User Selection in Cognitive Radio Networks,"Md Fazlul Kader, Asaduzzaman, and Md. Moshiul Hoque"
-De- sign of an Efficient MAC Protocol for Opportunistic Cognitive Radio Networks,"Mahfuzulhoq Chowdhury, Asaduzzaman, Md. Fazlul Kader, and Mohammad Obaidur Rahman"
-Ergodic and outage capacity of interference temperature-limited cognitive radio multi-input multi-output channel,Asaduzzaman and Hyung Yun Kong
-Multi-relay cooperative diversity protocol with improved spectral efficiency,Asaduzzaman and Hyung Yun Kong
-Opportunistic Relaying based Spectrum Leasing for Cognitive Radio Networks,Asaduzzaman and Hyung Yun Kong
-Code Combining Cooperative Diversity in Long-haul Trans- mission of Cluster based Wireless Sensor Networks,Asaduzzaman and Hyung Yun Kong
-On the outage behavior of interference temperature limited CR-MISO channel,"Hyung Yun Kong and Asaduzzaman,"
-Energy Efficient Cooperative LEACH Protocol for Wireless Sensor Networks,Asaduzzaman and Hyung Yun Kong
-A Cooperative Transmission Scheme for Cluster Based Wireless Sensor Networks,Asaduzzaman and Hyung Yun Kong
-Distributed Clustering Algorithm to Explore Cooperative Di- versity in Wireless Sensor Networks,Hyung Yun Kong and Asaduzzaman
-Distributed Cooperative Routing Algorithm forMulti-hopMulti- relay Wireless Networks,Asaduzzaman and Hyung Yun Kong
-Performance analysis of code combining based cooperative protocol with amplified-and-forward (AF) relaying,Asaduzzaman and Hyung Yun Kong
-Coded diversity for cooperative MISO based wireless sensor networks,Asaduzzaman and Hyung Yun Kong
-Code Combining Based Cooperative-LEACH Protocol for Wire- less Sensor Networks,Asaduzzaman and Hyung Yun Kong
-Automatic Request for Cooperation (ARC) and Relay Selection for Wireless Networks,Asaduzzaman and Hyung Yun Kong
-Composite Signaling Coded Cooperation for Fast and Slow Fading,Asaduzzaman and Hyung Yun Kong
-"Code Combining in Cooperative Communication,” IEICE Trans- actions on Communications",Asaduzzaman and Hyung Yun Kong
-Performance Analysis of Machine Learning Techniques to Predict Diabetes Mellitus,"M. F. Faruque, Asaduzzaman and I. H. Sarker"
-Handwritten Bangla Numeral and Basic Character Recogni- tion Using Deep Convolutional Neural Network,S. M. Azizul Hakim and Asaduzzaman
-Compression of Large-Scale Image Dataset using Principal Component Analysis and K-means Clustering,"R. Rayan, M. S. Hossain and Asaduzzaman"
-A Minimum Spanning Tree Based Routing Protocol For Multi-hop And Multi-channel Cognitive Radio,S. Sultana and Asaduzzaman
-Channel Assignment Augmentation Algorithm to Mitigate Interference for Heterogeneous ”TV White Space” Users,H. Ahmed and Asaduzzaman
-Authentication of Diffie-Hellman Pro- tocol Against Man-in-the-Middle Attack Using Cryptographically Secure CRC,"Nazmun Naher , Asaduzzaman and Md. Mokammel Haque"
-A distributed algorithm to select channel and relay in multichannel-multirelay CR- networks,Asaduzzaman
-Enhancing Wi-Fi security using a hybrid algorithm of blowfish and RC6,"Nusrat Jahan Oishi, Arafin Mahamud and Asaduzzaman"
-CPU power consumption reduction in android smartphone,"Masuma Akter Rumi, Asaduzzaman and D. M. Hasibul Hasan"
-Outage Capacity Analysis of a Secondary Network in Interference Limited Cognitive Radio Spectrum Sharing System,"Md Fazlul Kader, Asaduzzaman, Soo Young Shin"
-An Efficient MAC protocol for Cogni- tive Radio Networks,"Mahfuzulhoq Chowdhury, Asaduzzaman, Md. Fazlul Kader"
-Cooperative Secondary User Selection as a Relay for the Primary System in Underlay Cognitive Radio Networks,"Md Fazlul Kader, Asaduzzaman and M. Chowdhury"
-Cooperative Relaying in Interference Limited Cog- nitive Radio Networks,"Asaduzzaman, Hyung Yun Kong and Kim Ryum"
-A Cooperative Transmission Scheme for Cluster BasedWireless Sensor Networks,"Asaduzzaman, Hyung Yun Kong and Ha Nguyen Vu"
-"Tran Thanh Truc and Park Jihwan, “Optimal Switching AdaptiveM-QAMfor Opportunistic Amplify-and-Forward Networks","Vo Nguyen Bao, Hyung Yun Kong, Asaduzzaman"
-On The Capacity of Opportunistic Cooperative Networks under Adaptive Transmission,"V. N. Q. Bao, Hyung Yun Kong, Asaduzzaman, J.-H. Lee and J.-H. Park"
-A Cooperative Transmission Scheme for Cluster Based Wireless Sensor Networks,"Asaduzzaman, Hyung Yun Kong and Kim Ryum"
-Physical Layer Wireless Network Security Through Channel Coding,"Asaduzzaman, Hyung-Yun Kong, Gun-Seok Kim and Nae-Soo Kim"
-Design of A High Order Diversity Cooperative Transmission Scheme Over Rayleigh Fading Channels,"Ho Van Khuong, Hyung Yun Kong, Yun Kyeong Hwang, Asaduzzaman, Gun Seok Kim, Dea Kyu Choi"
-Adaptive Channel Coding for Flat Fading Channel,Asaduzzaman and Hyung Yun Kong
-Cooperative Communica- tions in A Novel HCOC-QAM OFDM Spread Spectrum System with MMSE Equalizer for High Speed Data Transmission,"Hyung Yun Kong, Ho Van Khuong, Asaduzzaman, S. J. Park, N. S. Kim"
-An efficient punctured code combining based cooperative trans- mission scheme for wireless networks,Asaduzzaman and Hyung Yun Kong
-Code-combining Cooperative Diversity Protocol,Asaduzzaman and Hyung-Yun Kong
-A Modified Key Sifting Scheme With Artificial Neural Network Based Key Reconciliation Analysis in Quantum Cryptography,"Chitra Biswas, Md. Mokammel Haque and Udayan Das Gupta"
-Driving maneuver classification from time series data: a rule based machine learning approach,"Md. Mokammel Haque, Supriya Sarker and M. Ali Akber Dewan"
-Utilizing Off-Chain Storage Protocol for Solving the Trillemma Issue of Blockchain,Saha Reno and Md. Mokammel Haque
-TOS: A Relative Metric Approach for Model Selection in Machine Learning Solutions,"Ricko Shaha, Dipon Talukder, Md. Asif Iqbal and Md. Mokammel Haque"
-A Machine Learning Approach to Clinically Diagnose Human Pyrexia Cases,Dipon Talukder and Md Mokammmel Haque
-Development of an Efficient ETL Technique for Data Warehouses,Md Badiuzzaman Biplob and Md. Mokammel Haque
-OkkhorNama: BdSL Image Dataset For Real Time Object Detection Algorithms,"Dipon Talukder, Fatima Jahara, Suvadra Barua and Md. Mokammel Haque"
-A Comparative Analysis of Semi-Supervised Learning in Detecting Burst Header Packet Flooding Attack in Optical Burst Switching Network,"Md. Kamrul Hossain , Md. Mokammel Haque and M. Ali Akber Dewan"
-Driving Maneuver Classification Using Domain Specific Knowledge and Transfer Learning,"Supriya Sarker , Md. Mokammel Haque and M. Ali Akber Dewan"
-Database Security as a Gateway to Privacy Preserving Data Mining,"Chinmoy Bhowmik, Mahibul Abdullah Ibne Momin, Fariha Jahan Shanta and Md. Mokammel Haque"
-An Approach Towards Domain Knowledge-Based Classification of Driving Maneuvers with LSTM Network,Supriya Sarker and Md. Mokammel Haque
-Semi-supervised learning approach using modified self-training algorithm to counter burst header packet flooding attack in optical burst switching network,Md. Kamrul Hossain and Md. Mokammel Haque
-A Data Change Rule Based Empirical Framework for Labeling Unlabeled Time Series Driving Data,Supriya Sarker and Md. Mokammel Haque
-A Semi-supervised Approach to Detect Malicious Nodes in OBS Network Dataset Using Gaussian Mixture Model,Md. Kamrul Hossain and Md. Mokammel Haque
-Analyzing Progressive-BKZ Lattice Reduction Algorithm,Md. Mokammel Haque and Mohammad Obaidur Rahman
-A semi-supervised machine learning approach using K-means algorithm to prevent burst header packet flooding attack in optical burst switching network,Md. Kamrul Hossain and Md. Mokammel Haque
-Elliptic curve and pseudo-inverse matrix based cryptosystem for wireless sensor networks,Shomen Deb and Md. Mokammel Haque
-An improved fitness function for automated cryptanalysis using genetic algorithm,"Md. Shafiul Alam Forhad, Md. Sabir Hossain, Mohammad Obaidur Rahman, Md. Mostafizur Rahaman, Md. Mokammel Haque and Md. Kamrul Hossain"
-Solving Multiple Depot Vehicle Routing Problem (MDVRP) using Genetic Algorithm,Nafiz Mahmud and Md. Mokammel Haque
-"An Efficient Algorithm for Confidentiality, Integrity and Authentication Using Hybrid Cryptography and Steganography","Chitra Biswas, Udayan Das Gupta and Md. Mokammel Haque"
-Preprocessing optimisation: Revisiting recursive-BKZ lattice reduction algorithm,Md. Mokammel Haque and Josef Pieprzyk
-Sensor Applications and Physiological Features in Drivers Drowsiness Detection: A Review,"Anuva Chowdhury, Rajan Shankaran, Manolya Kavakli and Md. Mokammel Haque"
-Authentication of Diffie-Hellman Protocol Against Man-in-the-Middle Attack Using Cryptographically Secure CRC,"Nazmun Naher, Asaduzzaman and Md. Mokammel Haque"
-An Improved Asymmetric Key Based Security Architecture for WSN,"Md. Abdul Quaum, Shajir Uddin Haider and Md. Mokammel Haque"
-Analysing recursive preprocessing of BKZ lattice reduction algorithm,Md. Mokammel Haque and Josef Pieprzyk
-Reducing network overhead of IoTDTLS protocol employing ChaCha20 and Poly1305,"Maliha Momtaz Islam, Sourav Paul and Md. Mokammel Haque"
-An improved steganographic technique based on diamond encoding method,"Md. Mokammel Haque, Jobayer Sheikh and Md. Jihan Al Rashid"
-A Hierarchical Key Derivative Symmetric Key Algorithm using Digital Logic,"Chitra Biswas, Udayan Das Gupta and Md. Mokammel Haque"
-An efficient security architecture for Wireless Sensor Networks using pseudo-inverse matrix,"Anuva Chowdhury, Farzana Alam Tanzila, Shanta Chowdhury and Md. Mokammel Haque"
-A secret key-based security architecture for wireless sensor networks,"Anuva Chowdhury, Farzana Alam Tanzila, Shanta Chowdhury and Md. Mokammel Haque"
-Evaluating the performance of the practical lattice reduction algorithms,Md Mokammel Haque and Josef Pieprzyk
-Predicting tours and probabilistic simulation for BKZ lattice reduction algorithm,"Md Mokammel Haque, Josef Pieprzyk and Asaduzzaman"
-An asymmetric key-based security architecture for wireless sensor networks,"Md. Mokammel Haque, Al-Sakib Khan Pathan, Choong Seon Hong and Eui-Nam Huh"
-Securing U-healthcare sensor networks using public key based scheme,"Md. Mokammel Haque, Al-Sakib Khan Pathan and Choong Seon Hong"
-An efficient PKC-based security architecture for wireless sensor networks,"Md. Mokammel Haque, Al-Sakib Khan Pathan, Byung Goo Choi and Choong Seon Hong"
-Security management in wireless sensor networks with a public key based scheme,"Al-Sakib Khan Pathan, Jae Hyun Ryu, Md. Mokammel Haque and Choong Seon Hong"
-Zebra Crossing Detection Based on HSV Colour Model and Projective Invariant for Driver Assistance System,"Muhammad Kamal Hossen, Mohammad Obaidur Rahman, Anika Sadia, Md. Shahnur Azad Chowdhury"
-An Impoved Fitness Function for Automated Cryptanalysis using Genetic Algorithm,"Md. Shafiul Alam Forhad, Md. Sabir Hossain, Mohammad Obaidur Rahman, Md. Mostafizur Rahaman, Md. Mokammel Haque, Muhammad Kamrul Hossain Patwary"
-An Approach for Enhancing Security of Cloud Data using Cryptography and Steganography with E-LSB Encoding Technique,"Mohammad Obaidur Rahman, Muhammad Kamal Hossen, Golam Morsad, Animesh Chandra Roy, and Shahnur Azad Chowdhury"
-Optimal Power Allocations of Different Modulations for Multi Channel Cognitive Radio Systems Using Stackelberg Game,Mohammad Obaidur Rahman and Asaduzzaman
-Design of an Efficient MAC Protocol for Opportunistic Cognitive Radio Networks,"Mahfuzulhoq Chowdhury, , Asaduzzaman, Md. Fazlul Kader and Mohammad Obaidur Rahman"
-Algorithm for Linear Number Partitioning into Maximum Number of Subsets,Hussain Md. Mehedul Islam and Mohammad Obaidur Rahman
-Semantic Analysis and Transfer: An Experience with the Bangla Natural Language Sentences,"Md. Moshiul Hoque, Mohammad Shamsul Arefin and Mohammad Obaidur Rahman"
-An Empirical Framework for Spatial Diseases Analysis and Patient Care Recommendation,"Mohammad Obaidur Rahman, Md. Shafiul Alam Forhad, Md. Sabir Hossain, Md. Habibur Rahman"
-Optimal Power Allocation for Multichannel Cognitive Radio Systems Using Stackelberg Game,Mohammad Obaidur Rahman and Asaduzzaman
-"A Machine Translation Framework for Translating Bangla Assertive, Interrogative and Imperative Sentences into English","Mohammed Safayet Arefin, Mohammed Moshiul Hoque, Md. Obaidur Rahman, Md. Shamsul Arefin"
-Design an efficient MAC Protocol for Cognitive Radio Systems using Game Theory,"Debbrata Kumar Saha, Asaduzzaman, Mohammad Obaidur Rahman"
-An Agent Based Parallel and Secure Framework to Collect Feedbacks,"Rahma Bintey Mufiz Mukta, and Mohammad Shamsul Arefin"
-Detection of Malaria Parasite in Giemsa Blood Sample Using Image Processing,"Kishor Roy, Shayla Sharmin, Rahma Bintey Mufiz Mukta, Anik Sen"
-Performance Analysis of Node-Disjoint Multipath in MANET: A Modified Approach,Rahma Bintey Mufiz Mukta
-Agent Command Manipulation System using Two Keys Encryption Model,Rahma Bintey Mufiz Mukta & Sarah Sohana
-Agent-Based Privacy Aware Feedback System,"Mohammad Shamsul Arefin,Rahma Bintey Mufiz Mukta,Yasuhiko Morimoto"
-A Novel Approach to find the Complete Node Disjoint Multipath in MANET,Mr. Thomas Chowdhury & Rahma Bintey Mufiz Mukta
-Shadow processing with color model adjustment and texture analysis,"Md. Azhar Uddin, Tahmina Khanam, Muhammad Ibrahim Khan, Kaushik Deb and Kang-Hyun Jo"
-"SVD-Based Image Watermarking Using the Fast Walsh-Hadamard Transform, Key Mapping, and Coefficient Ordering for Ownership Protection","Tahmina Khanam, Pranab Kumar Dhar, Saki Kowsar and Jong-Myon Kim"
-A Comparative Study on Handwritten Bangla Character Recognition,"Mohammad Atiqul Islam Rizvi, Kaushik Deb, Mohammad Ibrahim Khan, Mir Mohammad Saki Kowsar and Tahmina Khanam"
-Illegally Parked Vehicle Detection Based on Haar-Cascade Classifier,"Aapan Mutsuddy, Kaushik Deb, Tahmina Khanam, and Kang-Hyun Jo"
-Human Detection Based on HOG-LBP for Monitoring Sterile Zone,"Farjana Bintay Kamal, Sangita Mitra, Tahmina Khanam, Uzzal K. Acharjee, Dipankar Das and Kaushik Deb"
-Baggage Recognition in Occluded Environment using Boosting Technique,Tahmina Khanam and Kaushik Deb
-Baggage Detection and Classification using Human Body Parameter & Boosting Technique,Tahmina Khanam and Kaushik Deb
-A Tree-Based Arithmetic Coding by Estimating Exact Probability Distribution for Data Compression,"Tahmina Khanam, Pranab Kumar Dhar and Golam Moktader Daiyan"
-Human and Carried Baggage Detection & Classification based on RSD-HOG in Video Frame,Tahmina Khanam and Kaushik Deb
-An Efficient Framework for Detecting Face Region Based on Skin Color Modeling and SVM Classifier,"Arpita Chowdhury, Tahmina Khhanm and Kaushik Deb"
-Color Image Watermarking Based on LU Decomposition,"Kazi Anika Hossain Naima, Tahmina Khanam and Kaushik Deb"
-Detecting Anomalous Behavior of Credit Card Transaction using Statistical Approach,"Kaushik Deb, Kazi Zakia Sultana and Tahmina Khanam"
-Video Watermarking Scheme using Second Level Discrete Wavelet Transformation (DWT) and Fast Fourier Transformation,"Rahat Mahmud, Tahmina Khanam and Kaushik Deb"
-Vision-Based Driver’s Attention Monitoring System for Smart Vehicles,Lamia Alam and Mohammed Moshiul Hoque
-Automatic Detection of Suspicious Bangla Text Using Logistic Regression,Omar Sharif and Mohammed Moshiul Hoque
-Sentiment Analysis of Bengali Texts on Online Restaurant Reviews Using Multinomial Naive Bayes,"Omar Sharif, Mohammed Moshiul Hoque, Eftekhar Hossain"
-A comparative study on handwritten Bangla character recognition,"MD. ATIQUL ISLAM RIZVI, KAUSHIK DEB, MD. IBRAHIM KHAN, MIR MD. SAKI KOWSAR, TAHMINA KHANAM"
-A Secured Electronic Voting System Using Blockchain,"Md. Rashadur RahmanMd, Billal Hossain, Mohammad Shamsul Arefin, authorMohammad Ibrahim Khan"
-Towards a Framework for Acquisition and Analysis of Speeches to Identify Suspicious Contents through Machine Learning,"Md. Rashadur Rahman, Mohammad Shamsul Arefin , Md. Billal Hossain, Mohammad Ashfak Habib, and A. S. M. Kayes"
-Aspect Based Sentiment Classification and Contradiction Analysis of Product Reviews,"Md. Shahadat Hossain, Md. Rashadur Rahman, Mohammad Shamsul Arefin"
-A Transfer Learning Approach to Recognize Pedestrian Attributes,"Saadman Sakib, Anik Sen, Kaushik Deb"
-A Framework for Pedestrian Attribute Recognition Using Deep Learning.,"Saadman Sakib, Kaushik Deb, Pranab K. Dhar, and Oh-Jin Kwon"
-A Framework for Industrial Inspection System using Deep Learning,"Monowar Wadud Hridoy, Mohammad Mizanur Rahman, and Saadman Sakib"
-Attention-Based Human Age Estimation from Face Images to Enhance Public Security,"Md. Ashiqur Rahman ,Shuhena Salam Aonty, Kaushik Deb, Iqbal H. Sarker Iqbal H. Sarker"
-Human Pose Estimation Using Parallel Architecture,Shuhena Salam Aonty; Kaushik Deb; Dhrubajyoti Das; Kang-Hyun Jo
-Multi-Person Pose Estimation Using Group-Based Convolutional Neural Network Model,"Shuhena Salam Aonty, Kaushik Deb, Moumita Sen Sarma, Pranab Kumar Dhar,Tetsuya Shimamura"
-Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Network,"Shuhena Salam Aonty, Moumita Sen Sarma, Dr. Kaushik Deb"
-Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Network,"Shuhena Salam Aonty, Moumita Sen Sarma, Dr. Kaushik Deb"
-Recursive independent component analysis (ICA)-decomposition of ictal EEG to select the best ictal component for EEG source imaging,"Mohammad Ashfak Habib, Fatimah Ibrahim, Mas S Mohktar, Shahrul Bahyah Kamaruzzaman, Kheng Seang Lim"
-Ictal EEG source imaging for presurgical evaluation of refractory focal epilepsy,"Mohammad Ashfak Habib, Fatimah Ibrahim, Mas S Mohktar, Shahrul Bahyah Kamaruzzaman, Kartini Rahmat, Kheng Seang Lim"
-Recursive approach to the design of a parallel self-timed adder,"Mohammed Ziaur Rahman, Lindsay Kleeman, Mohammad Ashfak Habib"
-Smartphone-based solutions for fall detection and prevention: challenges and open issues,"Mohammad Ashfak Habib, Mas S Mohktar, Shahrul Bahyah Kamaruzzaman, Kheng Seang Lim, Tan Maw Pin, Fatimah Ibrahim"
+Authors,Title
+"Musfequa Rahman, Kaushik Deb, Pranab Kumar Dhar, Tetsuya Shimamura",ADBNet: An Attention-Guided Deep Broad Convolutional Neural Network for the Classification of Breast Cancer Histopathology Images
+"Md Al-Mamun Provath, Kaushik Deb, Kang Hyun Jo",XAI-Driven Lightweight Multiscale ConvLSTM Architecture for Video Violence Detection
+"GM Sakhawat Hossain, Kaushik Deb, Iqbal H Sarker",An Enhanced Feature-Based Hybrid Approach for Adversarial PDF Malware Detection
+"Ayesha Banu, Sabiha Anan, Kaushik Deb",Removing Rain from Single Image Using Atrous U-Net and GAN
+"S Hossain, K Deb, S Sakib, IH Sarker",A hybrid deep learning framework for daily living human activity recognition with cluster-based video summarization
+"GM Sakhawat Hossain, Kaushik Deb, Helge Janicke, Iqbal H Sarker",PDF Malware Detection: Towards Machine Learning Modeling with Explainability Analysis
+"Md Ashiqur Rahman, Shuhena Salam Aonty, Kaushik Deb",Estimation from Human Facial Expression Using Deep Neural Network
+"Md Al-Mamun Provath, Kaushik Deb, Pranab Kumar Dhar, Tetsuya Shimamura",Classification of Lung and Colon Cancer Histopathological Images Using Global Context Attention Based Convolutional Neural Network
+"Abdullah As Sami, Saadman Sakib, Kaushik Deb, Iqbal H Sarker",Improved YOLOv5-Based Real-Time Road Pavement Damage Detection in Road Infrastructure Management
+"Md Ashiqur Rahman, Shuhena Salam Aonty, Kaushik Deb, Iqbal H Sarker",Attention-Based Human Age Estimation from Face Images to Enhance Public Security
+"Dhrubajyoti Das, Kaushik Deb, Taufique Sayeed, Pranab Kumar Dhar, Tetsuya Shimamura",Outdoor Trash Detection in Natural Environment Using a Deep Learning Model
+"huhena Salam Aonty, Kaushik Deb, Dhrubajyoti Das, Kang-Hyun Jo",Human Pose Estimation Using Parallel Architecture
+"Md Shihab Hossain, Kaushik Deb, Syed Md Minhaz Hossain, Kang-Hyun Jo",Daily Living Human Activity Recognition Using Deep Neural Networks
+"Md Al-Mamun Provath, Kaushik Deb, Kang-Hyun Jo",Classification of Lung and Colon Cancer Using Deep Learning Method
+"Musfequa Rahman, Kaushik Deb, Kang-Hyun Jo",Classifying Breast Cancer Using Deep Convolutional Neural Network Method
+"Faria Zarin Subah, Kaushik Deb",A comprehensive study on atlas-based classification of autism spectrum disorder using functional connectivity features from resting-state functional magnetic resonance imaging
+"Md Khaliluzzaman, Ashraf Uddin, Kaushik Deb, Md Junayed Hasan",Person Recognition Based on Deep Gait: A Survey
+"Saadman Sakib, Anik Sen, Kaushik Deb",A Transfer Learning Approach to Recognize Pedestrian Attributes
+"Promiti Chakraborty, Sabiha Anan, Kaushik Deb",Flood Region Detection Based on K-Means Algorithm and Color Probability
+"Shuhena Salam Aonty, Kaushik Deb, Moumita Sen Sarma, Pranab Kumar Dhar, Tetsuya Shimamura",Multi-Person Pose Estimation using Group-Based Convolutional Neural Network Model
+"Md. Azhar Uddin, Tahmina Khanam, Muhammad Ibrahim Khan, Kaushik Deb and Kang-Hyun Jo",Shadow processing with color model adjustment and texture analysis
+"Md Mahadi Hasan, Saadman Sakib, Kaushik Deb",Road Damage Detection and Classification using Deep Neural Network
+"Shuhena Salam Aonty, Moumita Sen Sarma, Kaushik Deb",Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Networks
+"Maisha Maimuna, Syed Md Minhaz Hossain, Kaushik Deb",Masked Face Inpainting Using Generative Adversarial Network Based Architecture
+"Dhrubajyoti Das, Anik Sen, Syed Md Minhaz Hossain, Kaushik Deb",Trash Image Classification Using Transfer Learning Based Deep Neural Network
+"Syed Md Minhaz Hossain, Anik Sen, Kaushik Deb",Detecting Spam SMS Using Self Attention Mechanism
+"Anik Sen, Syed Md Minhaz Hossain, Mohammad Ashraf Russo, Kaushik Deb, Kang-Hyun Jo",Fine-Grained Soccer Actions Classification Using Deep Neural Network
+"MD Muhyminul Haque, Kaushik Deb",Emotion Recognition from Speech Using Deep Learning
+"Samiul Haque, Shayla Sharmin, Kaushik Deb",Emergency Vehicle Detection Using Deep Convolutional Neural Network
+"Anik Sen, Kaushik Deb",Categorization of actions in soccer videos using a combination of transfer learning and Gated Recurrent Unit
+"Syed Md Minhaz Hossain, Khaleque Md Aashiq Kamal, Anik Sen, Kaushik Deb",Tomato leaf disease recognition using depthwise separable convolution
+"Arifa Sultana, Kaushik Deb",Human Fall Classification from Indoor Videos Using Modified Transfer Learning Model
+"Saadman Sakib, Kaushik Deb, Pranab Kumar Dhar, Oh-Jin Kwon",A Framework for Pedestrian Attribute Recognition Using Deep Learning
+"Syed Mohammad Minhaz Hosain, Kaushik Deb",Plant Leaf Disease Recognition Using Histogram Based Gradient Boosting Classifier
+"Zainul Abedin, Kaushik Deb",A Framework for Traffic Sign Detection Based on Fuzzy Image Processing and Hu Features
+"Anik Sen, Kaushik Deb, Pranab Kumar Dhar, and Takeshi Koshiba",Categorization of actions in soccer videos using a combination of transfer learning and Gated Recurrent Unit
+"Md. Akber Hossain, Sabiha Anan, and Kaushik Deb",Door Detection Based on Geometrical Features and Harris Corner
+"Anik Sen, Kaushik Deb, Pranab Kumar Dhar, and Takeshi Koshiba",CricShotClassify: An Approach to Classifying Batting Shots from Cricket Videos Using a Convolutional Neural Network and Gated Recurrent Unit
+"Syed Mohammad Minhaz Hosain, Kaushik Deb, Pranab Kumar Dhar, and Takeshi Koshiba",Plant Leaf Disease Recognition Using Depth-Wise Separable Convolution-Based Models
+"Arifa Sultana, Kaushik Deb, Pranab Kumar Dhar, and Takeshi Koshiba",Classification of Indoor Human Fall Events Using Deep Learning
+"Sabiha Anan, Mohammad Ibrahim Khan, Mir Md. Saki Kowsar, Kaushik Deb, Pranab Kumar Dhar, and Takeshi Koshiba",Image Defogging Framework Using Segmentation and the Dark Channel Prior
+"Faria Zarin Subah, and Kaushik Deb, Pranab Kumar Dhar, and Takeshi Koshiba",A Deep Learning Approach to Predict Autism Spectrum Disorder Using Multisite Resting-State fMRI
+"Moumita Sen Sarma, and Kaushik Deb, Pranab Kumar Dhar, and Takeshi Koshiba",Traditional Bangladeshi Sports Video Classification Using Deep Learning Method
+"Moumita Sen Sarma, and Kaushik Deb",Traditional Bangladeshi Sports Video Classification using Transfer Learning Approach and Long Short Term Memory
+"Farhana Shirin Chowdhury, Pranab Kumar Dhar , Kaushik Deb, and Takeshi Koshiba",Blind Image Watermarking in Canonical and Cepstrum Domains Based on 4-Connected t-o’clock Scrambling
+"Ahsan Sadee Tanim, Sharmistha Chanda Tista and Kaushik Deb",Door Detection Based on Haar Cascade Classifier and Visual Features Extraction
+"Farjana Bintay Kamal, Sangita Mitra, Tahmina Khanam, Uzzal K. Acharjee, Dipankar Das, Kaushik Deb",Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+"Aapan Mutsuddy, Kaushik Deb, Tahmina Khanam, and Kang-Hyun Jo",Illegally Parked Vehicle Detection Based on Haar-Cascade Classifier
+"Md. Atiqul islam rizvi, Kaushik Deb, Md. Ibrahim Khan, Mir Md. Saki Kowsar, Tahmina Khanam",A comparative study on handwritten Bangla character recognition
+"S. A. Chowdhury, M. M. S. Kowsar, and K. Deb",Human Detection Utilizing Adaptive Background Mixture Models and Improved Histogram of Oriented Gradients
+Md. Khaliluzzaman and Kaushik Deb,Stairways Detection Based on Approach Evaluation and Vertical Vanishing Point
+Tahmina Khanam and Kaushik Deb,Baggage Recognition in Occluded Environment using Boosting Technique
+"S. A. Chowdhury, K. Deb, P. K. Dhar and M. A. F. M. R. Hasan",Detection and Tracking of Humans Based on Improved Histogram of Oriented Gradients and Kalman Filter
+"Linkon Chowdhury, Mohammad Ibrahim Khan, Kaushik Deb, and Sarwar Kamal",MetaG: a graph-based metagenomic gene analysis for big DNA data
+"Md. Moshiul Hoque, Quazi Delwar Hossian, Kaushik Deb, Dipankar Das, Y. Kobayashi, and Y. Kuno",An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings
+"Kaushik Deb, Animash Kar and Ashraful Huq Suny",Cast Shadow Detection and Removal of Moving Objects from Video Based on HSV Color Space
+"Kaushik Deb, Kazi Zakia Sultana and Tahmina Khanam",Detecting Anomalous Behavior of Credit Card Transaction using Statistical Approach
+Kaushik Deb and Ashraful Huq Suny,Shadow Detection and Removal Based on YCbCr Color Space
+"Kaushik Deb, Sayem Mohammad Imtiaz, and Priyam Biswas",A Motion Region Detection and Tracking Method
+"Kaushik Deb, Md. Ashikur Rahaman, Kazi Zakia Sultana, Md. Iqbal Hasan Sarker, and Ui-Pil Chong",DCT and DWT Based Robust Audio Watermarking Scheme for Copyright Protection
+Muhammad Kamal Hossen and Kaushik Deb,Vehicle License Plate Detection and Tilt Correction Based on HSI Color Model and SUSAN Corner Detector
+"Md. Moshiul Hoque, Y. Kobayashi, Y. Kuno, and Kaushik Deb",Design A Robotic Head to Attract Human Attention by Considering Viewing Situations
+A Low Frequency Band Watermarking with Weighted Correction in the Combined Cosine and Wavelet Transform Domain,"Kaushik Deb, Md. Sajib Al-Seraj, and Ui-Pil Chong"
+Md. Fazlul Kader and Kaushik Deb,Neural Network-Based English Alphanumeric Character Recognition
+"Muhammad Ibrahim Khan, Md. Iqbal Hasan Sarker, Kaushik Deb, and Md. Hasan Farhad",A New Audio Watermarking Method Based on Discrete Cosine Transform with a Gray Image
+"Anik Saha, Dipanjan Das Roy, Tauhidul Alam and Kaushik Deb",Automated Road Line Detection for Intelligent Vehicle
+"Kaushik Deb, Muhammad Ibrahim Khan, Helena Parvin Mony and Sujan Chowdhury",Two-Handed Sign Language Recognition for Bangla Character Using Normalized Cross Correlation
+"Kaushik Deb, Tauhidul Alam, Md. Mahammud Ali and Kang-Hyun Jo",Lossless Image Compression Technique Based on Snack Ordering
+FFT based Audio Watermarking Method with a Gray Image for Copyright Protection,"Md. Iqbal Hasan Sarker, Muhammad Ibrahim Khan, Kaushik Deb, and Md. Faisal Faruque"
+"Kaushik Deb, My Ha Le, Byung-Seok Woo and Kang-Hyun Jo",Automatic Vehicle Identification by Plate Recognition for Intelligent Transportation Systems'
+Kaushik Deb and Kang-Hyun Jo,Vehicle License Plate Detection Method Based on HDR Image Generation from Multiple Computers
+"Kaushik Deb, Andrey Vavilin, Jung-Won Kim, and Kang-Hyun Jo",Vehicle License Plate Tilt correction Based on the Straight Line Fitting Method and Minimizing Variance of Coordinates of Projection Points
+"Pranab Kumar Dhar, Mohammed Ibrahim Khan, Kaushik Deb, and Jong-Myon Kim",A Modified Spectral Modeling Synthesis Algorithm for Whale Sound
+"Andrey Vavilin, Kaushik Deb, and Kang-Hyun Jo",Fast HDR Image Generation Technique based on Exposure Blending
+Kaushik Deb and Kang-Hyun Jo,A Vehicle License Plate Detection Method for Intelligent Transportation System Applications
+Kaushik Deb and Kang-Hyun Jo,Vehicle License Plate Detection Algorithm Based on Color Space and Geometrical Properties
+"Kaushik Deb, Hyun-Uk Chae, and Kang-Hyun Jo",Vehicle License Plate Detection Method Based on Sliding Concentric Windows and Histogram
+"Kaushik Deb, Hee-Chul Lim, Suk-Ju Kang, and Kang-Hyun Jo",An Efficient Method of Vehicle License Plate Detection Based on HSI Color Model and Histogram
+"Kaushik Deb, Suk-Ju Kang, and Kang-Hyun Jo",Statistical Characteristics in HSI Color Model and Position Histogram based Vehicle License Plate Detection.
+"Hee-Chul Lim, Kaushik Deb, and Kang-Hyun Jo",Geometrical Reorientation of Distorted Road Sign using Projection Transformation for Road Sign Recognition
+Kaushik Deb and Kang-Hyun Jo,Geometrical Property and Histogram Based Korean Vehicle License Plate Detection
+Kaushik Deb and Thomas Chowdhury,Construction of a simple Robotic Arm and Control by Software
+"M. S. Arefin, M. M. Hoque, M.T. Islam, and Kaushik Deb",Structural Operational Semantics of Inheritance and Object creation in JAVA
+"Farjana Bintay Kamal, Sangita Mitra, Tahmina Khanam, Uzzal K. Acharjee, Dipankar Das and Kaushik Deb",Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+Md. Khaliluzzaman Kaushik Deb,Geometrical Feature Based Stairways Detection and Recognition using Depth Sensor
+"Soumen Chakraborty, Mohammed Nasir Uddin and Kaushik Deb",Bangladeshi Road Sign Recognition Based on DtBs Vector and Artificial Neural Network
+"Tahmina Khanam, Kaushik Deb and Kang-Hyun Jo",Baggage Detection and Classification using Human Body Parameter & Boosting Technique
+"S. A. Chowdhury, M. N. Uddin, M. M. S. Kowsar and K. Deb",Occlusion handling and human detection based on Histogram of Oriented Gradients for automatic video surveillance
+Md. Khaliluzzaman and Kaushik Deb,Digital Electric Meter Reading Recognition Based on Horizontal and Vertical Binary Pattern
+Md. Khaliluzzaman and Kaushik Deb,Zebra-crossing Detection Based on Geometric Feature and Vertical Vanishing Point
+"Shaiyan Ameen Chowdhury, M. N. Uddin, M.S. Kowsar and Kaushik Deb",Occlusion handling and human detection based on Histogram of Oriented Gradients for automatic video surveillance
+Tahmina Khanam and Kaushik Deb,Human and Carried Baggage Detection & Classification based on RSD-HOG in Video Frame
+"d. Khaliluzzaman, Deepak Kumar Chy., Kaushik Deb",Analyzing Image Transmission Quality using Filter and C-QAM
+Md. Khaliluzzaman and Kaushik Deb,Support Vector Machine for Overcoming the Problem of Vanishing Point during Stairways Detection
+Md. Khaliluzzaman and Kaushik Deb,Analyzing MRI Segmentation Based on Wavelet and BEMD using Fuzzy C-Means Clustering
+"Md. Khaliluzzaman, Kaushik Deb, and Kang-Hyun Jo",Stairways Detection and Distance Estimation Approach Based on Three Connected Point and Triangular Similarity
+"Md. Khaliluzzaman, Kaushik Deb, and Kang-Hyun Jo",Stairways Detection and Distance Estimation Approach Based on Three Connected Point and Triangular Similarity
+Animash Kar and Kaushik Deb,Moving cast shadow detection and removal from Video based on HSV color space
+Soumen Chakraborty and Kaushik Deb,Bangladeshi road sign detection based on YCbCr color model and DtBs vector
+"Kazi Anika Hossain Naima, Tahmina Khhanm and Kaushik Deb",Color Image Watermarking Based on LU Decomposition
+"Arpita Chowdhury, Tahmina Khhanm and Kaushik Deb",An Efficient Framework for Detecting Face Region Based on Skin Color Modeling and SVM Classifier
+"Md. Rahat Mahmud, Tahmina Khanam and Kaushik Deb",Video Watermarking Scheme Using Second Level Discrete Wavelet Transformation (DWT) and Fast Fourier Transformation
+Prianka Banik and Kaushik Deb,Detecting Books from Bookshelf of Multiple Cells
+"Md. Moshiul Hoque, Kaushik Deb, Dipankar Das, Y. Kobayashi, and Y. Kuno",An Intelligent Human-Robot Interaction Framework to Control the Human Attention
+"Swati Nigam, Kaushik Deb, and Ashish Khare",Moment Invariants Based Object Recognition for Different Pose and Appearances in Real Scenes
+"Kaushik Deb, Md. Ibrahim Khan, Anik Saha, and Kang-Hyun Jo",An Efficient Method of Vehicle License Plate Recognition Based on Sliding Concentric Windows and Artificial Neural Network
+"Sujan Chowdhury, Kayasar Md. Mahedi, and Kaushik Deb",Designing a Semantic Web Ontology of agricultural domain
+"Kaushik Deb, Sajib Al-Seraj, Md. Saki Kowser, Iqbal Hasan Sarker",A joint DWT-DCT Based Watermarking Technique for Avoiding Unauthorized Replication
+"Kaushik Deb, Muhammad Kamal Hossen, Md. Ibrahim Khan, and Md. Rafiqul Alam",Bangladeshi Vehicle License Plate Detection Method Based on HSI Color Model and Geometrical Properties
+Md. Moshiul Hoque and Kaushik Deb,Robotic System for Making Eye Contact Pro-activity with Humans
+"Kaushik Deb, Md. Sajib Al-Seraj, Md. Moshiul Hoque and Md. Iqbal Hasan Sarker",Combined DWT-DCT Based Digital Watermarking Technique for Copyright Protection
+"Kaushik Deb, Md. Ibrahim Khan, Md. Rafiqul Alam, and Kang-Hyun Jo",Optical Recognition of Vehicle License Plates
+Anik Saha and Kaushik Deb,Bangla Character Recognition by using Artificial Neural Network
+Sujan Chowdhury and Kaushik Deb,'Developing a Bangla Spell Checker With Possible Suggestions by using Longest Common Sub Sequence and Soundex algorithm
+"Andrey Vavilin, Kaushik Deb, Tae-Ho Kim, and Kang-Hyun Jo",Road Sign Detection Method based on Fast HDR Image Generation Technique
+"My-Ha Le, Kaushik-Deb, and Kang-Hyun Jo",Recognizing Outdoor Scene Objects Using Texture Features and Probabilistic Appearance Model
+"Kaushik-Deb, Andrey Vavilin, Jung-Won Kim, and Kang-Hyun Jo",Vehicle License Plate Tilt Correction Based on the Straight Line Fitting Method
+"Pranab Kumar Dhar, Kaushik-Deb, and P. M. Mahamudul Hassan",A Modified New Reno for performance Enhancement of TCP in Wireless Network
+"Md. Ibrahim Khan, Sujon Chowdhury, Alok Kumar Chowdhury, and Kaushik-Deb",An Efficient Algorithm for finding the Control Point of 3rd order Bezier Curve
+"Kaushik-Deb, Andrey Vavilin, Jung-Won Kim, and Kang-Hyun Jo",Projection and Least Square Fitting with Perpendicular Offsets based Vehicle License Plate Tilt Correction
+"Kaushik-Deb, Andrey Vavilin, and Kang-Hyun Jo",An Efficient Method for Correcting Vehicle License Plate Tilt
+"Andy Vavilin, Kaushik Deb and Kang-Hyun Jo",License Plate Detection Method Based on HDR Image Generation from Multiple Cameras
+"Kaushik Deb, Suk-Ju Kang, and Kang-Hyun Jo",Korean Vehicle License Plate Detection Based on Statistical and Geometrical Properties in HSI Color Space
+"Kaushik-Deb, Hee-Chul Lim and Kang-Hyun Jo",Vehicle License Plate Extraction Based on Color and Geometrical Features
+"Kaushik Deb, Kang, Suk-Ju, Kang-Hyun Jo",A Hybrid Vehicle License Plate Detection Method Based on HSI Color Model and Histogram
+"Kaushik Deb, Heechul Lim, Kang-Hyun Jo",Korean Vehicle License Plate Extraction Based on HSI Color Model and Histogram
+Kaushik Deb and Kang-Hyun Jo,HSI Color based Vehicle License Plate Detection
+"Kaushik Deb, Hyun-Uk Chae, and Kang-Hyun Jo",Parallelogram and Histogram based Vehicle License Plate Detection
+Kaushik Deb and Kang-Hyun Jo,Korean Vehicle License Plate Detection Based on Geometrical and Colour Properties
+M.A.H. Bhuiyan and Kaushik Deb,A Localized Queuing Based Router-Centric Approach to Congestion Avoidance and Recovery for Connectionless datagram Service
+Kaushik Deb and V. L. Tokarev,Information System for Medical Firm
+Kaushik Deb,Verbs in Russian Terminology of Computer Facilities and Computer Science
+"Md. Akber Hossain, Sabiha Anan, and Kaushik Deb",Door Detection Based on Geometrical Features and Harris Corner
+"Ahatesham Bhuiyana, Eftekhar Hossain, Mohammed Moshiul Hoque, and M. Ali Akber Dewan",Enhancing image caption generation through context-aware attention mechanism
+"M. R. Hossain, M. M. Hoque, N. Siddique, M. A. A. Dewan",AraCovTexFinder: Leveraging the transformer-based language model for Arabic COVID-19 text identification
+"[3] S. Afroze, R. Hossain, M. M. Hoque, and A. A. Dewan","An Empirical Framework for Detecting Speaking Modes Using Ensemble Classifier"", in Multimedia Tools and Applications"
+"A. Das, M. M. Hoque, O. Sharif, M. A. A. Dewan and N. Siddique","""TEmoX: Classification of Textual Emotion Using Ensemble of Transformers,"" in IEEE Access"
+"M. R. Hossain, M. M. Hoque, N. Siddique",Leveraging the meta-embedding for text classification in a resource-constrained language
+"M. R. Hossain, M. M. Hoque, N. N. Siddique and I. H. Sarker",CovTiNet: Covid text identification network using attention-based positional embedding feature fusion
+"G. J Ferdous, K. A Sathi, M. A Hossain, M. M. Hoque, M. A. A. Dewan",LCDEiT: A Linear Complexity Data-Efficient Image Transformer for MRI Brain Tumor Classification
+"S. Afroze, R. Hossain, and M. M. Hoque",DeepFocus: A visual focus of attention detection framework using deep learning in multi-object scenarios
+"E. Hossain, O. Sharif, M. M. Hoque, M. A. A. Dewan, N. Siddique, M. A. Hossain",Identification of Multilingual Offense and Troll from Social Media Memes Using Weighted Ensemble of Multimodal Features
+"E. Hossain, M. M. Hoque, E. Hoque and M. S. Islam",A Deep Attentive Multimodal Learning Approach for Disaster Identification from Social Media Posts
+"S. M. A. Iqbal, Asaduzzaman, M. M. Hoque",A source-driven probabilistic forwarding and caching strategy in NDN and SDN-based NDN
+"Iqbal, S.M.A., Asaduzzaman & Hoque, M.M.",A source-driven reinforcement learning-based Data reply strategy to reduce communication overhead in Named Data Networks (NDN)
+"Iqbal, M.A., Das, A., Sharif, O. M. M. Hoque and Iqbal. H. Sarker",BEmoC: A Corpus for Identifying Emotion in Bengali Texts
+"Mamun, M.M.R., Sharif, O. & Hoque, M.M.",Classification of Textual Sentiment Using Ensemble Technique.
+"Parvin, T., Sharif, O. & Hoque, M.M.",Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network
+O. Sharif and M. M. Hoque,Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers
+"M. R Hossain, M. M Hoque, N. Siddique",Bengali Text Document Categorization based on Very Deep Convolution Neural Network
+"M, R. Hossain, M. M. Hoque, M. A. A. Dewan, N. Siddique, N. Islam and I. H. Sarker",Authorship Classification in a Resource Constraint Language using Convolutional Neural Networks in IEEE Access
+"A. Iqbal, A. Das, O. Sharif, MM Hoque, and I H Sarker",BEmoC: A Corpus for Identifying Emotion in Bengali Texts
+"M. M. Rahaman, O. Sharif, M. Moshiul Hoque",Classification of Textual Sentiment Using Ensemble Technique
+"T. Parvin, O. Sharif, MM Hoque",Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network
+"S. M. Iqbal, Asaduzzaman, M. M. Hoque",A source-driven reinforcement learning-based Data reply strategy to reduce communication overhead in Named Data Networks (NDN)
+"S. Sharmin, M. M. Hoque, S. M. R. Islam, M F. Kader and I H. Sarker,",Development of Duplex Eye Contact Framework for Human-Robot Inter Communication
+"L. Alam, M M Hoque, N Siddique",Active Vision-based Attention Monitoring System for Drivers
+"R. C. Ripan, I. H. Sarker, S. M. M. Hossain, M. M. Anwar, R, Nowrozy, M. M. Hoque & M. H. Furhad",A Data-Driven Heart Disease Prediction Model Through K-Means Clustering-Based Anomaly Detection
+I. H Sarker and MM Hoque,"Mobile Data Science and Intelligent Apps: Concepts, AI-based Modeling and Research Directions"
+"O Sharif, MM Hoque, ASM Kayes, R Nowrozy, IH Sarker",Detecting Suspicious Texts Using Machine Learning Techniques
+"L. Alam, and M M Hoque","“A Text-Based Chat System Embodied with an Expressive Agent,” Advances in Human-Computer Interaction"
+"M. A.F.M. R. Hasan, R. Yasmin, D. Das, M. M. Hoque, M. I. Pramanik, and M. S. Rahman",Fundamental Frequency Extraction of Noisy Speech Signals
+"M. M. Hoque, Q. D. Hossian, K. Deb, D. Das, Y. Kobayashi, and Y. Kuno",An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings
+"M. F. Kader, Assaduzzaman, M. M. Hoque",Outage Capacity Analysis of a Cooperative Relaying Scheme in Interference Limited Cognitive Radio Networks
+"M. M. Hoque, Y. Kobayashi, and Y. Kuno",A Proactive Approach of Robotic Framework for Making Eye Contact with Humans
+"M. M. Hoque, T. Onuki, Y. Kobayashi, and Y. Kuno",Effect of Robot’s Gaze Behaviors for Attracting and Controlling Human Attention
+"M. F. Kader, Assaduzzaman, M. M. Hoque",Hybrid Spectrum Sharing with Cooprative Secondary User Selection in Cognitive Radio Networks
+M. M. Hoque,A Robotic Framework for Controlling Human’s Attention
+"M. M. Hoque, Y. Kobayashi, Y. Kuno, and K. Deb",Design a Robotic Head to Attract Human Attention by considering viewing situations
+"M. M. Hoque, A. M. Mahbub",An Efficient Framework for Network Intrusion Detection
+M. M. Hoque and M. K. Hassan,English to Bangla Statistical Machine Translation using A* Search Algorithm
+M. M. Hoque and M. K. Hassan,An Empirical Framework for Parsing of Bangla Natural Language Sentences
+"M. M. Hoque, M. M. Ahammed and M. M. U. Hasan",An Empirical Framework for Translating of Phrasal Verbs of English Sentence into Bangla
+"M. M. Hoque, M. S. Arefin and M. S. Kowser",Context-free Grammars and Parsing for Simple Sentences of Bangla
+"M. S. Arefin, M. M. Hoque, M. T. Islam and K. Dev",Structural Operational Semantics of Inheritance and Object creation in JAVA
+"M. M. Hoque, M. S. Arefin and M. O. Rahman",Semantic Analysis and Transfer: An Experience with the Bangla Natural Language Sentences
+"A. N. M. R. Karim, M. G. R. Alam and M. M. Hoque","A New Model of Digital Signature Using LSB Hiding, RSA and Merkle-Hellman Cryptosystem"
+"M. M. Hoque, M. O. Faruk, M. M. U. Hasan, M. K. Hassan and M. M. U. Karim",An Empirical Framework for Statistical Parsing of Bangla Sentences
+"M. S. Arefin, R. Paul, M. M. Hoque and M. A. Sarif",Developing an Intelligent agent to support negotiation in an electronic market place
+Md. Sarwar Kamal and Mohammad Shamsul Arefin,Impact Analysis of Facebook in Family Bonding
+"Md. Osman Goni, Mohammad Shamsul Arefin, and Mohammad Monirul Islam",Developing a Framework for Determining Students Excellence and Recommending Field of Study Under Review
+"Mohammad Shamsul Arefin, Khondoker Nazibul Hossain, and Yasuhiko Morimoto",Efficiency of NoSQL Databases under a Moderate Application Load
+Linkon Chowdhury and Mohammad Shamsul Arefin,A Statistical Framework for Detecting Diabetes Types
+"Mohammad Shamsul Arefin, Zhichao Chang, and Yasuhiko Morimoto",Recommending Hotels by Social Conditions of Locations
+"Mohammad Shamsul Arefin, Rahma Bintey Mufiz Mukta, and Yasuhiko Morimoto",Agent-Based Privacy Aware Feedback System
+"Mohammad Shamsul Arefin, Geng Ma, and Yasuhiko Morimoto",A Spatial Skyline Query for a Group of Users
+"Mohammad Shamsul Arefin, and Yasuhiko Morimoto",Privacy Aware Parallel Computation of Skyline Sets Queries from Distributed Databases
+"Mohammad Shamsul Arefin, Xu Jinhao, Chen Zhiming, and Yasuhiko Morimoto",Skyline Query for Selecting Spatial Objects by Utilizing Surrounding Objects
+"Mohammad Shamsul Arefin, Yasuhiko Morimoto, and Mohammad Amir Sharif",BAENPD: A Bilingual Plagiarism Detector
+"Mohammad Shamsul Arefin, Xu Jinhao, Chen Zhiming, and Yasuhiko Morimoto",Skyline Query for Selecting Spatial Objects by Utilizing Surrounding Objects
+"Mohammad Shamsul Arefin, and Yasuhiko Morimoto",Skyline Sets Queries for Incomplete Data
+"Y. Morimoto, M. S. Arefin and M. A. Siddique",Agent-based Anonymous Skyline Set Computation in Cloud Databases
+M. S. Arefin and Y. Morimoto,Management of Multilingual Contents in Web Environment
+"Nur Mohammad, Md. Asiful Islam, Abdul Khaleque and M. S. Arefin",Dispersion Control Characteristics of the Dielectric Cylindrical Waveguide And a Novel Approach of Dispersion Compensation
+Dr. Abu Sayed Md. Latiful Hoque and Mohammad Shamsul Arefin,Multilingual Data Management in Database Environment
+"M. S. Arefin, C. Sheel and M. M. Islam",Development and Implementation of an Efficient Database Compression Algorithm
+"M .M. Hoque, M. S. Arefin and M. O. Rahman",Semantic Analysis and Transfer: An Experience with the Bangla Natural Language Sentences
+"M. S. Arefin, R. Paul, M. M. Hoque and M. A. Sarif",Developing an Intelligent Agent to Support Negotiation in an Electronic Market Place
+M. S. Arefin,Structural Operational Semantics of Some Important Properties in Java
+"M. M. Hoque, M. S. Arefin and M. S. Kowser",Context-free Grammars and Parsing for Simple Sentences of Bangla
+"M. S. Arefin, M. M. Hoque, M. T. Islam and K. Dev",Structural Operational Semantics of Inheritance and Object creation in JAVA
+M. S. Arefin,Structural Operational Semantics of Calling Methods in Java
+M. S. Arefin,Designing a 34-Segment Display for Bengali and English Numerical Digits and Characters
+"A. Iqbal,M. S. Arefin,and M. A. A. Dewan",A Framework to Recommend Appropriate Learning Materials from Stack Overflow Discussions
+"Md. Ashiqur Rahman, Asaduzzaman, Md. Shafiul Alam Forhad",Wi-Fi Based Real Time Communication for Disaster and Emergencies
+Shahid Md. Asif Iqbal and Asaduzzaman,Adaptive forwarding strategies to reduce redundant Interests and Data in named data networks
+Asaduzzaman and Hyung Yun Kong,Cooperative Relaying to Improve the Spectrum Utilization of Multi-channel CR Networks
+"Mahfuzulhoq Chowdhury, Asaduzzaman, and Md. Fazlul Kader","Cognitive Radio MAC Protocols: A Survey, Some Research Issues and Challenges"
+"Md Fazlul Kader, Asaduzzaman, and Md. Moshiul Hoque",Outage Capacity Analysis of a Cooperative Relaying Scheme in Interference Limited Cognitive Radio Networks
+Mahfuzulhoq Chowdhury and Asaduzzaman,An Opportunistic Two-Transceiver Based MAC Proto- col for Cognitive Radio Networks
+"Mahfuzulhoq Chowdhury, Asaduzzaman, and Md. Fazlul Kader",Performance Analysis of Local and Cooperative Spectrum Sensing in Cognitive Radio Networks
+"Md Fazlul Kader, Asaduzzaman, and Md. Moshiul Hoque",Hybrid Spectrum Sharing with Cooperative Secondary User Selection in Cognitive Radio Networks
+"Mahfuzulhoq Chowdhury, Asaduzzaman, Md. Fazlul Kader, and Mohammad Obaidur Rahman",De- sign of an Efficient MAC Protocol for Opportunistic Cognitive Radio Networks
+Asaduzzaman and Hyung Yun Kong,Ergodic and outage capacity of interference temperature-limited cognitive radio multi-input multi-output channel
+Asaduzzaman and Hyung Yun Kong,Multi-relay cooperative diversity protocol with improved spectral efficiency
+Asaduzzaman and Hyung Yun Kong,Opportunistic Relaying based Spectrum Leasing for Cognitive Radio Networks
+Asaduzzaman and Hyung Yun Kong,Code Combining Cooperative Diversity in Long-haul Trans- mission of Cluster based Wireless Sensor Networks
+"Hyung Yun Kong and Asaduzzaman,",On the outage behavior of interference temperature limited CR-MISO channel
+Asaduzzaman and Hyung Yun Kong,Energy Efficient Cooperative LEACH Protocol for Wireless Sensor Networks
+Asaduzzaman and Hyung Yun Kong,A Cooperative Transmission Scheme for Cluster Based Wireless Sensor Networks
+Hyung Yun Kong and Asaduzzaman,Distributed Clustering Algorithm to Explore Cooperative Di- versity in Wireless Sensor Networks
+Asaduzzaman and Hyung Yun Kong,Distributed Cooperative Routing Algorithm forMulti-hopMulti- relay Wireless Networks
+Asaduzzaman and Hyung Yun Kong,Performance analysis of code combining based cooperative protocol with amplified-and-forward (AF) relaying
+Asaduzzaman and Hyung Yun Kong,Coded diversity for cooperative MISO based wireless sensor networks
+Asaduzzaman and Hyung Yun Kong,Code Combining Based Cooperative-LEACH Protocol for Wire- less Sensor Networks
+Asaduzzaman and Hyung Yun Kong,Automatic Request for Cooperation (ARC) and Relay Selection for Wireless Networks
+Asaduzzaman and Hyung Yun Kong,Composite Signaling Coded Cooperation for Fast and Slow Fading
+Asaduzzaman and Hyung Yun Kong,"Code Combining in Cooperative Communication,” IEICE Trans- actions on Communications"
+"M. F. Faruque, Asaduzzaman and I. H. Sarker",Performance Analysis of Machine Learning Techniques to Predict Diabetes Mellitus
+S. M. Azizul Hakim and Asaduzzaman,Handwritten Bangla Numeral and Basic Character Recogni- tion Using Deep Convolutional Neural Network
+"R. Rayan, M. S. Hossain and Asaduzzaman",Compression of Large-Scale Image Dataset using Principal Component Analysis and K-means Clustering
+S. Sultana and Asaduzzaman,A Minimum Spanning Tree Based Routing Protocol For Multi-hop And Multi-channel Cognitive Radio
+H. Ahmed and Asaduzzaman,Channel Assignment Augmentation Algorithm to Mitigate Interference for Heterogeneous ”TV White Space” Users
+"Nazmun Naher , Asaduzzaman and Md. Mokammel Haque",Authentication of Diffie-Hellman Pro- tocol Against Man-in-the-Middle Attack Using Cryptographically Secure CRC
+Asaduzzaman,A distributed algorithm to select channel and relay in multichannel-multirelay CR- networks
+"Nusrat Jahan Oishi, Arafin Mahamud and Asaduzzaman",Enhancing Wi-Fi security using a hybrid algorithm of blowfish and RC6
+"Masuma Akter Rumi, Asaduzzaman and D. M. Hasibul Hasan",CPU power consumption reduction in android smartphone
+"Md Fazlul Kader, Asaduzzaman, Soo Young Shin",Outage Capacity Analysis of a Secondary Network in Interference Limited Cognitive Radio Spectrum Sharing System
+"Mahfuzulhoq Chowdhury, Asaduzzaman, Md. Fazlul Kader",An Efficient MAC protocol for Cogni- tive Radio Networks
+"Md Fazlul Kader, Asaduzzaman and M. Chowdhury",Cooperative Secondary User Selection as a Relay for the Primary System in Underlay Cognitive Radio Networks
+"Asaduzzaman, Hyung Yun Kong and Kim Ryum",Cooperative Relaying in Interference Limited Cog- nitive Radio Networks
+"Asaduzzaman, Hyung Yun Kong and Ha Nguyen Vu",A Cooperative Transmission Scheme for Cluster BasedWireless Sensor Networks
+"Vo Nguyen Bao, Hyung Yun Kong, Asaduzzaman","Tran Thanh Truc and Park Jihwan, “Optimal Switching AdaptiveM-QAMfor Opportunistic Amplify-and-Forward Networks"
+"V. N. Q. Bao, Hyung Yun Kong, Asaduzzaman, J.-H. Lee and J.-H. Park",On The Capacity of Opportunistic Cooperative Networks under Adaptive Transmission
+"Asaduzzaman, Hyung Yun Kong and Kim Ryum",A Cooperative Transmission Scheme for Cluster Based Wireless Sensor Networks
+"Asaduzzaman, Hyung-Yun Kong, Gun-Seok Kim and Nae-Soo Kim",Physical Layer Wireless Network Security Through Channel Coding
+"Ho Van Khuong, Hyung Yun Kong, Yun Kyeong Hwang, Asaduzzaman, Gun Seok Kim, Dea Kyu Choi",Design of A High Order Diversity Cooperative Transmission Scheme Over Rayleigh Fading Channels
+Asaduzzaman and Hyung Yun Kong,Adaptive Channel Coding for Flat Fading Channel
+"Hyung Yun Kong, Ho Van Khuong, Asaduzzaman, S. J. Park, N. S. Kim",Cooperative Communica- tions in A Novel HCOC-QAM OFDM Spread Spectrum System with MMSE Equalizer for High Speed Data Transmission
+Asaduzzaman and Hyung Yun Kong,An efficient punctured code combining based cooperative trans- mission scheme for wireless networks
+Asaduzzaman and Hyung-Yun Kong,Code-combining Cooperative Diversity Protocol
+"Chitra Biswas, Md. Mokammel Haque and Udayan Das Gupta",A Modified Key Sifting Scheme With Artificial Neural Network Based Key Reconciliation Analysis in Quantum Cryptography
+"Md. Mokammel Haque, Supriya Sarker and M. Ali Akber Dewan",Driving maneuver classification from time series data: a rule based machine learning approach
+Saha Reno and Md. Mokammel Haque,Utilizing Off-Chain Storage Protocol for Solving the Trillemma Issue of Blockchain
+"Ricko Shaha, Dipon Talukder, Md. Asif Iqbal and Md. Mokammel Haque",TOS: A Relative Metric Approach for Model Selection in Machine Learning Solutions
+Dipon Talukder and Md Mokammmel Haque,A Machine Learning Approach to Clinically Diagnose Human Pyrexia Cases
+Md Badiuzzaman Biplob and Md. Mokammel Haque,Development of an Efficient ETL Technique for Data Warehouses
+"Dipon Talukder, Fatima Jahara, Suvadra Barua and Md. Mokammel Haque",OkkhorNama: BdSL Image Dataset For Real Time Object Detection Algorithms
+"Md. Kamrul Hossain , Md. Mokammel Haque and M. Ali Akber Dewan",A Comparative Analysis of Semi-Supervised Learning in Detecting Burst Header Packet Flooding Attack in Optical Burst Switching Network
+"Supriya Sarker , Md. Mokammel Haque and M. Ali Akber Dewan",Driving Maneuver Classification Using Domain Specific Knowledge and Transfer Learning
+"Chinmoy Bhowmik, Mahibul Abdullah Ibne Momin, Fariha Jahan Shanta and Md. Mokammel Haque",Database Security as a Gateway to Privacy Preserving Data Mining
+Supriya Sarker and Md. Mokammel Haque,An Approach Towards Domain Knowledge-Based Classification of Driving Maneuvers with LSTM Network
+Md. Kamrul Hossain and Md. Mokammel Haque,Semi-supervised learning approach using modified self-training algorithm to counter burst header packet flooding attack in optical burst switching network
+Supriya Sarker and Md. Mokammel Haque,A Data Change Rule Based Empirical Framework for Labeling Unlabeled Time Series Driving Data
+Md. Kamrul Hossain and Md. Mokammel Haque,A Semi-supervised Approach to Detect Malicious Nodes in OBS Network Dataset Using Gaussian Mixture Model
+Md. Mokammel Haque and Mohammad Obaidur Rahman,Analyzing Progressive-BKZ Lattice Reduction Algorithm
+Md. Kamrul Hossain and Md. Mokammel Haque,A semi-supervised machine learning approach using K-means algorithm to prevent burst header packet flooding attack in optical burst switching network
+Shomen Deb and Md. Mokammel Haque,Elliptic curve and pseudo-inverse matrix based cryptosystem for wireless sensor networks
+"Md. Shafiul Alam Forhad, Md. Sabir Hossain, Mohammad Obaidur Rahman, Md. Mostafizur Rahaman, Md. Mokammel Haque and Md. Kamrul Hossain",An improved fitness function for automated cryptanalysis using genetic algorithm
+Nafiz Mahmud and Md. Mokammel Haque,Solving Multiple Depot Vehicle Routing Problem (MDVRP) using Genetic Algorithm
+"Chitra Biswas, Udayan Das Gupta and Md. Mokammel Haque","An Efficient Algorithm for Confidentiality, Integrity and Authentication Using Hybrid Cryptography and Steganography"
+Md. Mokammel Haque and Josef Pieprzyk,Preprocessing optimisation: Revisiting recursive-BKZ lattice reduction algorithm
+"Anuva Chowdhury, Rajan Shankaran, Manolya Kavakli and Md. Mokammel Haque",Sensor Applications and Physiological Features in Drivers Drowsiness Detection: A Review
+"Nazmun Naher, Asaduzzaman and Md. Mokammel Haque",Authentication of Diffie-Hellman Protocol Against Man-in-the-Middle Attack Using Cryptographically Secure CRC
+"Md. Abdul Quaum, Shajir Uddin Haider and Md. Mokammel Haque",An Improved Asymmetric Key Based Security Architecture for WSN
+Md. Mokammel Haque and Josef Pieprzyk,Analysing recursive preprocessing of BKZ lattice reduction algorithm
+"Maliha Momtaz Islam, Sourav Paul and Md. Mokammel Haque",Reducing network overhead of IoTDTLS protocol employing ChaCha20 and Poly1305
+"Md. Mokammel Haque, Jobayer Sheikh and Md. Jihan Al Rashid",An improved steganographic technique based on diamond encoding method
+"Chitra Biswas, Udayan Das Gupta and Md. Mokammel Haque",A Hierarchical Key Derivative Symmetric Key Algorithm using Digital Logic
+"Anuva Chowdhury, Farzana Alam Tanzila, Shanta Chowdhury and Md. Mokammel Haque",An efficient security architecture for Wireless Sensor Networks using pseudo-inverse matrix
+"Anuva Chowdhury, Farzana Alam Tanzila, Shanta Chowdhury and Md. Mokammel Haque",A secret key-based security architecture for wireless sensor networks
+Md Mokammel Haque and Josef Pieprzyk,Evaluating the performance of the practical lattice reduction algorithms
+"Md Mokammel Haque, Josef Pieprzyk and Asaduzzaman",Predicting tours and probabilistic simulation for BKZ lattice reduction algorithm
+"Md. Mokammel Haque, Al-Sakib Khan Pathan, Choong Seon Hong and Eui-Nam Huh",An asymmetric key-based security architecture for wireless sensor networks
+"Md. Mokammel Haque, Al-Sakib Khan Pathan and Choong Seon Hong",Securing U-healthcare sensor networks using public key based scheme
+"Md. Mokammel Haque, Al-Sakib Khan Pathan, Byung Goo Choi and Choong Seon Hong",An efficient PKC-based security architecture for wireless sensor networks
+"Al-Sakib Khan Pathan, Jae Hyun Ryu, Md. Mokammel Haque and Choong Seon Hong",Security management in wireless sensor networks with a public key based scheme
+"Muhammad Kamal Hossen, Mohammad Obaidur Rahman, Anika Sadia, Md. Shahnur Azad Chowdhury",Zebra Crossing Detection Based on HSV Colour Model and Projective Invariant for Driver Assistance System
+"Md. Shafiul Alam Forhad, Md. Sabir Hossain, Mohammad Obaidur Rahman, Md. Mostafizur Rahaman, Md. Mokammel Haque, Muhammad Kamrul Hossain Patwary",An Impoved Fitness Function for Automated Cryptanalysis using Genetic Algorithm
+"Mohammad Obaidur Rahman, Muhammad Kamal Hossen, Golam Morsad, Animesh Chandra Roy, and Shahnur Azad Chowdhury",An Approach for Enhancing Security of Cloud Data using Cryptography and Steganography with E-LSB Encoding Technique
+Mohammad Obaidur Rahman and Asaduzzaman,Optimal Power Allocations of Different Modulations for Multi Channel Cognitive Radio Systems Using Stackelberg Game
+"Mahfuzulhoq Chowdhury, , Asaduzzaman, Md. Fazlul Kader and Mohammad Obaidur Rahman",Design of an Efficient MAC Protocol for Opportunistic Cognitive Radio Networks
+Hussain Md. Mehedul Islam and Mohammad Obaidur Rahman,Algorithm for Linear Number Partitioning into Maximum Number of Subsets
+"Md. Moshiul Hoque, Mohammad Shamsul Arefin and Mohammad Obaidur Rahman",Semantic Analysis and Transfer: An Experience with the Bangla Natural Language Sentences
+"Mohammad Obaidur Rahman, Md. Shafiul Alam Forhad, Md. Sabir Hossain, Md. Habibur Rahman",An Empirical Framework for Spatial Diseases Analysis and Patient Care Recommendation
+Mohammad Obaidur Rahman and Asaduzzaman,Optimal Power Allocation for Multichannel Cognitive Radio Systems Using Stackelberg Game
+"Mohammed Safayet Arefin, Mohammed Moshiul Hoque, Md. Obaidur Rahman, Md. Shamsul Arefin","A Machine Translation Framework for Translating Bangla Assertive, Interrogative and Imperative Sentences into English"
+"Debbrata Kumar Saha, Asaduzzaman, Mohammad Obaidur Rahman",Design an efficient MAC Protocol for Cognitive Radio Systems using Game Theory
+"Rahma Bintey Mufiz Mukta, and Mohammad Shamsul Arefin",An Agent Based Parallel and Secure Framework to Collect Feedbacks
+"Kishor Roy, Shayla Sharmin, Rahma Bintey Mufiz Mukta, Anik Sen",Detection of Malaria Parasite in Giemsa Blood Sample Using Image Processing
+Rahma Bintey Mufiz Mukta,Performance Analysis of Node-Disjoint Multipath in MANET: A Modified Approach
+Rahma Bintey Mufiz Mukta & Sarah Sohana,Agent Command Manipulation System using Two Keys Encryption Model
+"Mohammad Shamsul Arefin,Rahma Bintey Mufiz Mukta,Yasuhiko Morimoto",Agent-Based Privacy Aware Feedback System
+Mr. Thomas Chowdhury & Rahma Bintey Mufiz Mukta,A Novel Approach to find the Complete Node Disjoint Multipath in MANET
+"Md. Azhar Uddin, Tahmina Khanam, Muhammad Ibrahim Khan, Kaushik Deb and Kang-Hyun Jo",Shadow processing with color model adjustment and texture analysis
+"Tahmina Khanam, Pranab Kumar Dhar, Saki Kowsar and Jong-Myon Kim","SVD-Based Image Watermarking Using the Fast Walsh-Hadamard Transform, Key Mapping, and Coefficient Ordering for Ownership Protection"
+"Mohammad Atiqul Islam Rizvi, Kaushik Deb, Mohammad Ibrahim Khan, Mir Mohammad Saki Kowsar and Tahmina Khanam",A Comparative Study on Handwritten Bangla Character Recognition
+"Aapan Mutsuddy, Kaushik Deb, Tahmina Khanam, and Kang-Hyun Jo",Illegally Parked Vehicle Detection Based on Haar-Cascade Classifier
+"Farjana Bintay Kamal, Sangita Mitra, Tahmina Khanam, Uzzal K. Acharjee, Dipankar Das and Kaushik Deb",Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+Tahmina Khanam and Kaushik Deb,Baggage Recognition in Occluded Environment using Boosting Technique
+Tahmina Khanam and Kaushik Deb,Baggage Detection and Classification using Human Body Parameter & Boosting Technique
+"Tahmina Khanam, Pranab Kumar Dhar and Golam Moktader Daiyan",A Tree-Based Arithmetic Coding by Estimating Exact Probability Distribution for Data Compression
+Tahmina Khanam and Kaushik Deb,Human and Carried Baggage Detection & Classification based on RSD-HOG in Video Frame
+"Arpita Chowdhury, Tahmina Khhanm and Kaushik Deb",An Efficient Framework for Detecting Face Region Based on Skin Color Modeling and SVM Classifier
+"Kazi Anika Hossain Naima, Tahmina Khanam and Kaushik Deb",Color Image Watermarking Based on LU Decomposition
+"Kaushik Deb, Kazi Zakia Sultana and Tahmina Khanam",Detecting Anomalous Behavior of Credit Card Transaction using Statistical Approach
+"Rahat Mahmud, Tahmina Khanam and Kaushik Deb",Video Watermarking Scheme using Second Level Discrete Wavelet Transformation (DWT) and Fast Fourier Transformation
+Lamia Alam and Mohammed Moshiul Hoque,Vision-Based Driver’s Attention Monitoring System for Smart Vehicles
+Omar Sharif and Mohammed Moshiul Hoque,Automatic Detection of Suspicious Bangla Text Using Logistic Regression
+"Omar Sharif, Mohammed Moshiul Hoque, Eftekhar Hossain",Sentiment Analysis of Bengali Texts on Online Restaurant Reviews Using Multinomial Naive Bayes
+"MD. ATIQUL ISLAM RIZVI, KAUSHIK DEB, MD. IBRAHIM KHAN, MIR MD. SAKI KOWSAR, TAHMINA KHANAM",A comparative study on handwritten Bangla character recognition
+"Md. Rashadur RahmanMd, Billal Hossain, Mohammad Shamsul Arefin, authorMohammad Ibrahim Khan",A Secured Electronic Voting System Using Blockchain
+"Md. Rashadur Rahman, Mohammad Shamsul Arefin , Md. Billal Hossain, Mohammad Ashfak Habib, and A. S. M. Kayes",Towards a Framework for Acquisition and Analysis of Speeches to Identify Suspicious Contents through Machine Learning
+"Md. Shahadat Hossain, Md. Rashadur Rahman, Mohammad Shamsul Arefin",Aspect Based Sentiment Classification and Contradiction Analysis of Product Reviews
+"Saadman Sakib, Anik Sen, Kaushik Deb",A Transfer Learning Approach to Recognize Pedestrian Attributes
+"Saadman Sakib, Kaushik Deb, Pranab K. Dhar, and Oh-Jin Kwon",A Framework for Pedestrian Attribute Recognition Using Deep Learning.
+"Monowar Wadud Hridoy, Mohammad Mizanur Rahman, and Saadman Sakib",A Framework for Industrial Inspection System using Deep Learning
+"Md. Ashiqur Rahman ,Shuhena Salam Aonty, Kaushik Deb, Iqbal H. Sarker Iqbal H. Sarker",Attention-Based Human Age Estimation from Face Images to Enhance Public Security
+Shuhena Salam Aonty; Kaushik Deb; Dhrubajyoti Das; Kang-Hyun Jo,Human Pose Estimation Using Parallel Architecture
+"Shuhena Salam Aonty, Kaushik Deb, Moumita Sen Sarma, Pranab Kumar Dhar,Tetsuya Shimamura",Multi-Person Pose Estimation Using Group-Based Convolutional Neural Network Model
+"Shuhena Salam Aonty, Moumita Sen Sarma, Dr. Kaushik Deb",Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Network
+"Shuhena Salam Aonty, Moumita Sen Sarma, Dr. Kaushik Deb",Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Network
+"Mohammad Ashfak Habib, Fatimah Ibrahim, Mas S Mohktar, Shahrul Bahyah Kamaruzzaman, Kheng Seang Lim",Recursive independent component analysis (ICA)-decomposition of ictal EEG to select the best ictal component for EEG source imaging
+"Mohammad Ashfak Habib, Fatimah Ibrahim, Mas S Mohktar, Shahrul Bahyah Kamaruzzaman, Kartini Rahmat, Kheng Seang Lim",Ictal EEG source imaging for presurgical evaluation of refractory focal epilepsy
+"Mohammed Ziaur Rahman, Lindsay Kleeman, Mohammad Ashfak Habib",Recursive approach to the design of a parallel self-timed adder
+"Mohammad Ashfak Habib, Mas S Mohktar, Shahrul Bahyah Kamaruzzaman, Kheng Seang Lim, Tan Maw Pin, Fatimah Ibrahim",Smartphone-based solutions for fall detection and prevention: challenges and open issues

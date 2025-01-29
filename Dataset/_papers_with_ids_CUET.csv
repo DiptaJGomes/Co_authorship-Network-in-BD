@@ -1,0 +1,911 @@
+Author ID,Paper ID,Title
+cuet_author_0,cuet_paper_0,ADBNet: An Attention-Guided Deep Broad Convolutional Neural Network for the Classification of Breast Cancer Histopathology Images
+cuet_author_1,cuet_paper_0,ADBNet: An Attention-Guided Deep Broad Convolutional Neural Network for the Classification of Breast Cancer Histopathology Images
+cuet_author_2,cuet_paper_0,ADBNet: An Attention-Guided Deep Broad Convolutional Neural Network for the Classification of Breast Cancer Histopathology Images
+cuet_author_3,cuet_paper_0,ADBNet: An Attention-Guided Deep Broad Convolutional Neural Network for the Classification of Breast Cancer Histopathology Images
+cuet_author_4,cuet_paper_1,XAI-Driven Lightweight Multiscale ConvLSTM Architecture for Video Violence Detection
+cuet_author_1,cuet_paper_1,XAI-Driven Lightweight Multiscale ConvLSTM Architecture for Video Violence Detection
+cuet_author_5,cuet_paper_1,XAI-Driven Lightweight Multiscale ConvLSTM Architecture for Video Violence Detection
+cuet_author_6,cuet_paper_2,An Enhanced Feature-Based Hybrid Approach for Adversarial PDF Malware Detection
+cuet_author_1,cuet_paper_2,An Enhanced Feature-Based Hybrid Approach for Adversarial PDF Malware Detection
+cuet_author_7,cuet_paper_2,An Enhanced Feature-Based Hybrid Approach for Adversarial PDF Malware Detection
+cuet_author_8,cuet_paper_3,Removing Rain from Single Image Using Atrous U-Net and GAN
+cuet_author_9,cuet_paper_3,Removing Rain from Single Image Using Atrous U-Net and GAN
+cuet_author_1,cuet_paper_3,Removing Rain from Single Image Using Atrous U-Net and GAN
+cuet_author_10,cuet_paper_4,A hybrid deep learning framework for daily living human activity recognition with cluster-based video summarization
+cuet_author_11,cuet_paper_4,A hybrid deep learning framework for daily living human activity recognition with cluster-based video summarization
+cuet_author_12,cuet_paper_4,A hybrid deep learning framework for daily living human activity recognition with cluster-based video summarization
+cuet_author_13,cuet_paper_4,A hybrid deep learning framework for daily living human activity recognition with cluster-based video summarization
+cuet_author_6,cuet_paper_5,PDF Malware Detection: Towards Machine Learning Modeling with Explainability Analysis
+cuet_author_1,cuet_paper_5,PDF Malware Detection: Towards Machine Learning Modeling with Explainability Analysis
+cuet_author_14,cuet_paper_5,PDF Malware Detection: Towards Machine Learning Modeling with Explainability Analysis
+cuet_author_7,cuet_paper_5,PDF Malware Detection: Towards Machine Learning Modeling with Explainability Analysis
+cuet_author_15,cuet_paper_6,Estimation from Human Facial Expression Using Deep Neural Network
+cuet_author_16,cuet_paper_6,Estimation from Human Facial Expression Using Deep Neural Network
+cuet_author_1,cuet_paper_6,Estimation from Human Facial Expression Using Deep Neural Network
+cuet_author_4,cuet_paper_7,Classification of Lung and Colon Cancer Histopathological Images Using Global Context Attention Based Convolutional Neural Network
+cuet_author_1,cuet_paper_7,Classification of Lung and Colon Cancer Histopathological Images Using Global Context Attention Based Convolutional Neural Network
+cuet_author_2,cuet_paper_7,Classification of Lung and Colon Cancer Histopathological Images Using Global Context Attention Based Convolutional Neural Network
+cuet_author_3,cuet_paper_7,Classification of Lung and Colon Cancer Histopathological Images Using Global Context Attention Based Convolutional Neural Network
+cuet_author_17,cuet_paper_8,Improved YOLOv5-Based Real-Time Road Pavement Damage Detection in Road Infrastructure Management
+cuet_author_18,cuet_paper_8,Improved YOLOv5-Based Real-Time Road Pavement Damage Detection in Road Infrastructure Management
+cuet_author_1,cuet_paper_8,Improved YOLOv5-Based Real-Time Road Pavement Damage Detection in Road Infrastructure Management
+cuet_author_7,cuet_paper_8,Improved YOLOv5-Based Real-Time Road Pavement Damage Detection in Road Infrastructure Management
+cuet_author_15,cuet_paper_9,Attention-Based Human Age Estimation from Face Images to Enhance Public Security
+cuet_author_16,cuet_paper_9,Attention-Based Human Age Estimation from Face Images to Enhance Public Security
+cuet_author_1,cuet_paper_9,Attention-Based Human Age Estimation from Face Images to Enhance Public Security
+cuet_author_7,cuet_paper_9,Attention-Based Human Age Estimation from Face Images to Enhance Public Security
+cuet_author_19,cuet_paper_10,Outdoor Trash Detection in Natural Environment Using a Deep Learning Model
+cuet_author_1,cuet_paper_10,Outdoor Trash Detection in Natural Environment Using a Deep Learning Model
+cuet_author_20,cuet_paper_10,Outdoor Trash Detection in Natural Environment Using a Deep Learning Model
+cuet_author_2,cuet_paper_10,Outdoor Trash Detection in Natural Environment Using a Deep Learning Model
+cuet_author_3,cuet_paper_10,Outdoor Trash Detection in Natural Environment Using a Deep Learning Model
+cuet_author_21,cuet_paper_11,Human Pose Estimation Using Parallel Architecture
+cuet_author_1,cuet_paper_11,Human Pose Estimation Using Parallel Architecture
+cuet_author_19,cuet_paper_11,Human Pose Estimation Using Parallel Architecture
+cuet_author_22,cuet_paper_11,Human Pose Estimation Using Parallel Architecture
+cuet_author_23,cuet_paper_12,Daily Living Human Activity Recognition Using Deep Neural Networks
+cuet_author_1,cuet_paper_12,Daily Living Human Activity Recognition Using Deep Neural Networks
+cuet_author_24,cuet_paper_12,Daily Living Human Activity Recognition Using Deep Neural Networks
+cuet_author_22,cuet_paper_12,Daily Living Human Activity Recognition Using Deep Neural Networks
+cuet_author_4,cuet_paper_13,Classification of Lung and Colon Cancer Using Deep Learning Method
+cuet_author_1,cuet_paper_13,Classification of Lung and Colon Cancer Using Deep Learning Method
+cuet_author_22,cuet_paper_13,Classification of Lung and Colon Cancer Using Deep Learning Method
+cuet_author_0,cuet_paper_14,Classifying Breast Cancer Using Deep Convolutional Neural Network Method
+cuet_author_1,cuet_paper_14,Classifying Breast Cancer Using Deep Convolutional Neural Network Method
+cuet_author_22,cuet_paper_14,Classifying Breast Cancer Using Deep Convolutional Neural Network Method
+cuet_author_25,cuet_paper_15,A comprehensive study on atlas-based classification of autism spectrum disorder using functional connectivity features from resting-state functional magnetic resonance imaging
+cuet_author_1,cuet_paper_15,A comprehensive study on atlas-based classification of autism spectrum disorder using functional connectivity features from resting-state functional magnetic resonance imaging
+cuet_author_26,cuet_paper_16,Person Recognition Based on Deep Gait: A Survey
+cuet_author_27,cuet_paper_16,Person Recognition Based on Deep Gait: A Survey
+cuet_author_1,cuet_paper_16,Person Recognition Based on Deep Gait: A Survey
+cuet_author_28,cuet_paper_16,Person Recognition Based on Deep Gait: A Survey
+cuet_author_18,cuet_paper_17,A Transfer Learning Approach to Recognize Pedestrian Attributes
+cuet_author_29,cuet_paper_17,A Transfer Learning Approach to Recognize Pedestrian Attributes
+cuet_author_1,cuet_paper_17,A Transfer Learning Approach to Recognize Pedestrian Attributes
+cuet_author_30,cuet_paper_18,Flood Region Detection Based on K-Means Algorithm and Color Probability
+cuet_author_9,cuet_paper_18,Flood Region Detection Based on K-Means Algorithm and Color Probability
+cuet_author_1,cuet_paper_18,Flood Region Detection Based on K-Means Algorithm and Color Probability
+cuet_author_16,cuet_paper_19,Multi-Person Pose Estimation using Group-Based Convolutional Neural Network Model
+cuet_author_1,cuet_paper_19,Multi-Person Pose Estimation using Group-Based Convolutional Neural Network Model
+cuet_author_31,cuet_paper_19,Multi-Person Pose Estimation using Group-Based Convolutional Neural Network Model
+cuet_author_2,cuet_paper_19,Multi-Person Pose Estimation using Group-Based Convolutional Neural Network Model
+cuet_author_3,cuet_paper_19,Multi-Person Pose Estimation using Group-Based Convolutional Neural Network Model
+cuet_author_32,cuet_paper_20,Shadow processing with color model adjustment and texture analysis
+cuet_author_33,cuet_paper_20,Shadow processing with color model adjustment and texture analysis
+cuet_author_34,cuet_paper_20,Shadow processing with color model adjustment and texture analysis
+cuet_author_35,cuet_paper_20,Shadow processing with color model adjustment and texture analysis
+cuet_author_36,cuet_paper_21,Road Damage Detection and Classification using Deep Neural Network
+cuet_author_18,cuet_paper_21,Road Damage Detection and Classification using Deep Neural Network
+cuet_author_1,cuet_paper_21,Road Damage Detection and Classification using Deep Neural Network
+cuet_author_16,cuet_paper_22,Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Networks
+cuet_author_31,cuet_paper_22,Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Networks
+cuet_author_1,cuet_paper_22,Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Networks
+cuet_author_37,cuet_paper_23,Masked Face Inpainting Using Generative Adversarial Network Based Architecture
+cuet_author_24,cuet_paper_23,Masked Face Inpainting Using Generative Adversarial Network Based Architecture
+cuet_author_1,cuet_paper_23,Masked Face Inpainting Using Generative Adversarial Network Based Architecture
+cuet_author_19,cuet_paper_24,Trash Image Classification Using Transfer Learning Based Deep Neural Network
+cuet_author_29,cuet_paper_24,Trash Image Classification Using Transfer Learning Based Deep Neural Network
+cuet_author_24,cuet_paper_24,Trash Image Classification Using Transfer Learning Based Deep Neural Network
+cuet_author_1,cuet_paper_24,Trash Image Classification Using Transfer Learning Based Deep Neural Network
+cuet_author_24,cuet_paper_25,Detecting Spam SMS Using Self Attention Mechanism
+cuet_author_29,cuet_paper_25,Detecting Spam SMS Using Self Attention Mechanism
+cuet_author_1,cuet_paper_25,Detecting Spam SMS Using Self Attention Mechanism
+cuet_author_29,cuet_paper_26,Fine-Grained Soccer Actions Classification Using Deep Neural Network
+cuet_author_24,cuet_paper_26,Fine-Grained Soccer Actions Classification Using Deep Neural Network
+cuet_author_38,cuet_paper_26,Fine-Grained Soccer Actions Classification Using Deep Neural Network
+cuet_author_1,cuet_paper_26,Fine-Grained Soccer Actions Classification Using Deep Neural Network
+cuet_author_22,cuet_paper_26,Fine-Grained Soccer Actions Classification Using Deep Neural Network
+cuet_author_39,cuet_paper_27,Emotion Recognition from Speech Using Deep Learning
+cuet_author_1,cuet_paper_27,Emotion Recognition from Speech Using Deep Learning
+cuet_author_40,cuet_paper_28,Emergency Vehicle Detection Using Deep Convolutional Neural Network
+cuet_author_41,cuet_paper_28,Emergency Vehicle Detection Using Deep Convolutional Neural Network
+cuet_author_1,cuet_paper_28,Emergency Vehicle Detection Using Deep Convolutional Neural Network
+cuet_author_29,cuet_paper_29,Categorization of actions in soccer videos using a combination of transfer learning and Gated Recurrent Unit
+cuet_author_1,cuet_paper_29,Categorization of actions in soccer videos using a combination of transfer learning and Gated Recurrent Unit
+cuet_author_24,cuet_paper_30,Tomato leaf disease recognition using depthwise separable convolution
+cuet_author_42,cuet_paper_30,Tomato leaf disease recognition using depthwise separable convolution
+cuet_author_29,cuet_paper_30,Tomato leaf disease recognition using depthwise separable convolution
+cuet_author_1,cuet_paper_30,Tomato leaf disease recognition using depthwise separable convolution
+cuet_author_43,cuet_paper_31,Human Fall Classification from Indoor Videos Using Modified Transfer Learning Model
+cuet_author_1,cuet_paper_31,Human Fall Classification from Indoor Videos Using Modified Transfer Learning Model
+cuet_author_18,cuet_paper_32,A Framework for Pedestrian Attribute Recognition Using Deep Learning
+cuet_author_1,cuet_paper_32,A Framework for Pedestrian Attribute Recognition Using Deep Learning
+cuet_author_2,cuet_paper_32,A Framework for Pedestrian Attribute Recognition Using Deep Learning
+cuet_author_44,cuet_paper_32,A Framework for Pedestrian Attribute Recognition Using Deep Learning
+cuet_author_45,cuet_paper_33,Plant Leaf Disease Recognition Using Histogram Based Gradient Boosting Classifier
+cuet_author_1,cuet_paper_33,Plant Leaf Disease Recognition Using Histogram Based Gradient Boosting Classifier
+cuet_author_46,cuet_paper_34,A Framework for Traffic Sign Detection Based on Fuzzy Image Processing and Hu Features
+cuet_author_1,cuet_paper_34,A Framework for Traffic Sign Detection Based on Fuzzy Image Processing and Hu Features
+cuet_author_29,cuet_paper_35,Categorization of actions in soccer videos using a combination of transfer learning and Gated Recurrent Unit
+cuet_author_1,cuet_paper_35,Categorization of actions in soccer videos using a combination of transfer learning and Gated Recurrent Unit
+cuet_author_2,cuet_paper_35,Categorization of actions in soccer videos using a combination of transfer learning and Gated Recurrent Unit
+cuet_author_47,cuet_paper_35,Categorization of actions in soccer videos using a combination of transfer learning and Gated Recurrent Unit
+cuet_author_48,cuet_paper_36,Door Detection Based on Geometrical Features and Harris Corner
+cuet_author_9,cuet_paper_36,Door Detection Based on Geometrical Features and Harris Corner
+cuet_author_49,cuet_paper_36,Door Detection Based on Geometrical Features and Harris Corner
+cuet_author_29,cuet_paper_37,CricShotClassify: An Approach to Classifying Batting Shots from Cricket Videos Using a Convolutional Neural Network and Gated Recurrent Unit
+cuet_author_1,cuet_paper_37,CricShotClassify: An Approach to Classifying Batting Shots from Cricket Videos Using a Convolutional Neural Network and Gated Recurrent Unit
+cuet_author_2,cuet_paper_37,CricShotClassify: An Approach to Classifying Batting Shots from Cricket Videos Using a Convolutional Neural Network and Gated Recurrent Unit
+cuet_author_47,cuet_paper_37,CricShotClassify: An Approach to Classifying Batting Shots from Cricket Videos Using a Convolutional Neural Network and Gated Recurrent Unit
+cuet_author_45,cuet_paper_38,Plant Leaf Disease Recognition Using Depth-Wise Separable Convolution-Based Models
+cuet_author_1,cuet_paper_38,Plant Leaf Disease Recognition Using Depth-Wise Separable Convolution-Based Models
+cuet_author_2,cuet_paper_38,Plant Leaf Disease Recognition Using Depth-Wise Separable Convolution-Based Models
+cuet_author_47,cuet_paper_38,Plant Leaf Disease Recognition Using Depth-Wise Separable Convolution-Based Models
+cuet_author_43,cuet_paper_39,Classification of Indoor Human Fall Events Using Deep Learning
+cuet_author_1,cuet_paper_39,Classification of Indoor Human Fall Events Using Deep Learning
+cuet_author_2,cuet_paper_39,Classification of Indoor Human Fall Events Using Deep Learning
+cuet_author_47,cuet_paper_39,Classification of Indoor Human Fall Events Using Deep Learning
+cuet_author_9,cuet_paper_40,Image Defogging Framework Using Segmentation and the Dark Channel Prior
+cuet_author_50,cuet_paper_40,Image Defogging Framework Using Segmentation and the Dark Channel Prior
+cuet_author_51,cuet_paper_40,Image Defogging Framework Using Segmentation and the Dark Channel Prior
+cuet_author_1,cuet_paper_40,Image Defogging Framework Using Segmentation and the Dark Channel Prior
+cuet_author_2,cuet_paper_40,Image Defogging Framework Using Segmentation and the Dark Channel Prior
+cuet_author_47,cuet_paper_40,Image Defogging Framework Using Segmentation and the Dark Channel Prior
+cuet_author_25,cuet_paper_41,A Deep Learning Approach to Predict Autism Spectrum Disorder Using Multisite Resting-State fMRI
+cuet_author_49,cuet_paper_41,A Deep Learning Approach to Predict Autism Spectrum Disorder Using Multisite Resting-State fMRI
+cuet_author_2,cuet_paper_41,A Deep Learning Approach to Predict Autism Spectrum Disorder Using Multisite Resting-State fMRI
+cuet_author_47,cuet_paper_41,A Deep Learning Approach to Predict Autism Spectrum Disorder Using Multisite Resting-State fMRI
+cuet_author_31,cuet_paper_42,Traditional Bangladeshi Sports Video Classification Using Deep Learning Method
+cuet_author_49,cuet_paper_42,Traditional Bangladeshi Sports Video Classification Using Deep Learning Method
+cuet_author_2,cuet_paper_42,Traditional Bangladeshi Sports Video Classification Using Deep Learning Method
+cuet_author_47,cuet_paper_42,Traditional Bangladeshi Sports Video Classification Using Deep Learning Method
+cuet_author_31,cuet_paper_43,Traditional Bangladeshi Sports Video Classification using Transfer Learning Approach and Long Short Term Memory
+cuet_author_49,cuet_paper_43,Traditional Bangladeshi Sports Video Classification using Transfer Learning Approach and Long Short Term Memory
+cuet_author_52,cuet_paper_44,Blind Image Watermarking in Canonical and Cepstrum Domains Based on 4-Connected t-o’clock Scrambling
+cuet_author_2,cuet_paper_44,Blind Image Watermarking in Canonical and Cepstrum Domains Based on 4-Connected t-o’clock Scrambling
+cuet_author_1,cuet_paper_44,Blind Image Watermarking in Canonical and Cepstrum Domains Based on 4-Connected t-o’clock Scrambling
+cuet_author_47,cuet_paper_44,Blind Image Watermarking in Canonical and Cepstrum Domains Based on 4-Connected t-o’clock Scrambling
+cuet_author_53,cuet_paper_45,Door Detection Based on Haar Cascade Classifier and Visual Features Extraction
+cuet_author_54,cuet_paper_45,Door Detection Based on Haar Cascade Classifier and Visual Features Extraction
+cuet_author_55,cuet_paper_46,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_56,cuet_paper_46,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_33,cuet_paper_46,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_57,cuet_paper_46,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_58,cuet_paper_46,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_1,cuet_paper_46,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_59,cuet_paper_47,Illegally Parked Vehicle Detection Based on Haar-Cascade Classifier
+cuet_author_1,cuet_paper_47,Illegally Parked Vehicle Detection Based on Haar-Cascade Classifier
+cuet_author_33,cuet_paper_47,Illegally Parked Vehicle Detection Based on Haar-Cascade Classifier
+cuet_author_60,cuet_paper_47,Illegally Parked Vehicle Detection Based on Haar-Cascade Classifier
+cuet_author_61,cuet_paper_48,A comparative study on handwritten Bangla character recognition
+cuet_author_1,cuet_paper_48,A comparative study on handwritten Bangla character recognition
+cuet_author_62,cuet_paper_48,A comparative study on handwritten Bangla character recognition
+cuet_author_51,cuet_paper_48,A comparative study on handwritten Bangla character recognition
+cuet_author_33,cuet_paper_48,A comparative study on handwritten Bangla character recognition
+cuet_author_63,cuet_paper_49,Human Detection Utilizing Adaptive Background Mixture Models and Improved Histogram of Oriented Gradients
+cuet_author_64,cuet_paper_49,Human Detection Utilizing Adaptive Background Mixture Models and Improved Histogram of Oriented Gradients
+cuet_author_65,cuet_paper_49,Human Detection Utilizing Adaptive Background Mixture Models and Improved Histogram of Oriented Gradients
+cuet_author_66,cuet_paper_50,Stairways Detection Based on Approach Evaluation and Vertical Vanishing Point
+cuet_author_67,cuet_paper_51,Baggage Recognition in Occluded Environment using Boosting Technique
+cuet_author_63,cuet_paper_52,Detection and Tracking of Humans Based on Improved Histogram of Oriented Gradients and Kalman Filter
+cuet_author_68,cuet_paper_52,Detection and Tracking of Humans Based on Improved Histogram of Oriented Gradients and Kalman Filter
+cuet_author_69,cuet_paper_52,Detection and Tracking of Humans Based on Improved Histogram of Oriented Gradients and Kalman Filter
+cuet_author_70,cuet_paper_53,MetaG: a graph-based metagenomic gene analysis for big DNA data
+cuet_author_50,cuet_paper_53,MetaG: a graph-based metagenomic gene analysis for big DNA data
+cuet_author_1,cuet_paper_53,MetaG: a graph-based metagenomic gene analysis for big DNA data
+cuet_author_71,cuet_paper_53,MetaG: a graph-based metagenomic gene analysis for big DNA data
+cuet_author_72,cuet_paper_54,An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings
+cuet_author_73,cuet_paper_54,An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings
+cuet_author_1,cuet_paper_54,An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings
+cuet_author_58,cuet_paper_54,An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings
+cuet_author_74,cuet_paper_54,An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings
+cuet_author_75,cuet_paper_54,An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings
+cuet_author_1,cuet_paper_55,Cast Shadow Detection and Removal of Moving Objects from Video Based on HSV Color Space
+cuet_author_76,cuet_paper_55,Cast Shadow Detection and Removal of Moving Objects from Video Based on HSV Color Space
+cuet_author_1,cuet_paper_56,Detecting Anomalous Behavior of Credit Card Transaction using Statistical Approach
+cuet_author_77,cuet_paper_56,Detecting Anomalous Behavior of Credit Card Transaction using Statistical Approach
+cuet_author_78,cuet_paper_57,Shadow Detection and Removal Based on YCbCr Color Space
+cuet_author_1,cuet_paper_58,A Motion Region Detection and Tracking Method
+cuet_author_79,cuet_paper_58,A Motion Region Detection and Tracking Method
+cuet_author_80,cuet_paper_58,A Motion Region Detection and Tracking Method
+cuet_author_1,cuet_paper_59,DCT and DWT Based Robust Audio Watermarking Scheme for Copyright Protection
+cuet_author_81,cuet_paper_59,DCT and DWT Based Robust Audio Watermarking Scheme for Copyright Protection
+cuet_author_82,cuet_paper_59,DCT and DWT Based Robust Audio Watermarking Scheme for Copyright Protection
+cuet_author_83,cuet_paper_59,DCT and DWT Based Robust Audio Watermarking Scheme for Copyright Protection
+cuet_author_84,cuet_paper_59,DCT and DWT Based Robust Audio Watermarking Scheme for Copyright Protection
+cuet_author_85,cuet_paper_60,Vehicle License Plate Detection and Tilt Correction Based on HSI Color Model and SUSAN Corner Detector
+cuet_author_72,cuet_paper_61,Design A Robotic Head to Attract Human Attention by Considering Viewing Situations
+cuet_author_74,cuet_paper_61,Design A Robotic Head to Attract Human Attention by Considering Viewing Situations
+cuet_author_86,cuet_paper_61,Design A Robotic Head to Attract Human Attention by Considering Viewing Situations
+cuet_author_49,cuet_paper_61,Design A Robotic Head to Attract Human Attention by Considering Viewing Situations
+cuet_author_87,cuet_paper_62,"Kaushik Deb, Md. Sajib Al-Seraj, and Ui-Pil Chong"
+cuet_author_88,cuet_paper_63,Neural Network-Based English Alphanumeric Character Recognition
+cuet_author_34,cuet_paper_64,A New Audio Watermarking Method Based on Discrete Cosine Transform with a Gray Image
+cuet_author_83,cuet_paper_64,A New Audio Watermarking Method Based on Discrete Cosine Transform with a Gray Image
+cuet_author_1,cuet_paper_64,A New Audio Watermarking Method Based on Discrete Cosine Transform with a Gray Image
+cuet_author_89,cuet_paper_64,A New Audio Watermarking Method Based on Discrete Cosine Transform with a Gray Image
+cuet_author_90,cuet_paper_65,Automated Road Line Detection for Intelligent Vehicle
+cuet_author_91,cuet_paper_65,Automated Road Line Detection for Intelligent Vehicle
+cuet_author_92,cuet_paper_65,Automated Road Line Detection for Intelligent Vehicle
+cuet_author_1,cuet_paper_66,Two-Handed Sign Language Recognition for Bangla Character Using Normalized Cross Correlation
+cuet_author_34,cuet_paper_66,Two-Handed Sign Language Recognition for Bangla Character Using Normalized Cross Correlation
+cuet_author_93,cuet_paper_66,Two-Handed Sign Language Recognition for Bangla Character Using Normalized Cross Correlation
+cuet_author_1,cuet_paper_67,Lossless Image Compression Technique Based on Snack Ordering
+cuet_author_94,cuet_paper_67,Lossless Image Compression Technique Based on Snack Ordering
+cuet_author_95,cuet_paper_67,Lossless Image Compression Technique Based on Snack Ordering
+cuet_author_96,cuet_paper_68,"Md. Iqbal Hasan Sarker, Muhammad Ibrahim Khan, Kaushik Deb, and Md. Faisal Faruque"
+cuet_author_1,cuet_paper_69,Automatic Vehicle Identification by Plate Recognition for Intelligent Transportation Systems'
+cuet_author_97,cuet_paper_69,Automatic Vehicle Identification by Plate Recognition for Intelligent Transportation Systems'
+cuet_author_98,cuet_paper_69,Automatic Vehicle Identification by Plate Recognition for Intelligent Transportation Systems'
+cuet_author_35,cuet_paper_70,Vehicle License Plate Detection Method Based on HDR Image Generation from Multiple Computers
+cuet_author_1,cuet_paper_71,Vehicle License Plate Tilt correction Based on the Straight Line Fitting Method and Minimizing Variance of Coordinates of Projection Points
+cuet_author_99,cuet_paper_71,Vehicle License Plate Tilt correction Based on the Straight Line Fitting Method and Minimizing Variance of Coordinates of Projection Points
+cuet_author_100,cuet_paper_71,Vehicle License Plate Tilt correction Based on the Straight Line Fitting Method and Minimizing Variance of Coordinates of Projection Points
+cuet_author_60,cuet_paper_71,Vehicle License Plate Tilt correction Based on the Straight Line Fitting Method and Minimizing Variance of Coordinates of Projection Points
+cuet_author_2,cuet_paper_72,A Modified Spectral Modeling Synthesis Algorithm for Whale Sound
+cuet_author_101,cuet_paper_72,A Modified Spectral Modeling Synthesis Algorithm for Whale Sound
+cuet_author_1,cuet_paper_72,A Modified Spectral Modeling Synthesis Algorithm for Whale Sound
+cuet_author_102,cuet_paper_72,A Modified Spectral Modeling Synthesis Algorithm for Whale Sound
+cuet_author_99,cuet_paper_73,Fast HDR Image Generation Technique based on Exposure Blending
+cuet_author_1,cuet_paper_73,Fast HDR Image Generation Technique based on Exposure Blending
+cuet_author_60,cuet_paper_73,Fast HDR Image Generation Technique based on Exposure Blending
+cuet_author_35,cuet_paper_74,A Vehicle License Plate Detection Method for Intelligent Transportation System Applications
+cuet_author_35,cuet_paper_75,Vehicle License Plate Detection Algorithm Based on Color Space and Geometrical Properties
+cuet_author_1,cuet_paper_76,Vehicle License Plate Detection Method Based on Sliding Concentric Windows and Histogram
+cuet_author_103,cuet_paper_76,Vehicle License Plate Detection Method Based on Sliding Concentric Windows and Histogram
+cuet_author_60,cuet_paper_76,Vehicle License Plate Detection Method Based on Sliding Concentric Windows and Histogram
+cuet_author_1,cuet_paper_77,An Efficient Method of Vehicle License Plate Detection Based on HSI Color Model and Histogram
+cuet_author_104,cuet_paper_77,An Efficient Method of Vehicle License Plate Detection Based on HSI Color Model and Histogram
+cuet_author_105,cuet_paper_77,An Efficient Method of Vehicle License Plate Detection Based on HSI Color Model and Histogram
+cuet_author_60,cuet_paper_77,An Efficient Method of Vehicle License Plate Detection Based on HSI Color Model and Histogram
+cuet_author_1,cuet_paper_78,Statistical Characteristics in HSI Color Model and Position Histogram based Vehicle License Plate Detection.
+cuet_author_105,cuet_paper_78,Statistical Characteristics in HSI Color Model and Position Histogram based Vehicle License Plate Detection.
+cuet_author_60,cuet_paper_78,Statistical Characteristics in HSI Color Model and Position Histogram based Vehicle License Plate Detection.
+cuet_author_104,cuet_paper_79,Geometrical Reorientation of Distorted Road Sign using Projection Transformation for Road Sign Recognition
+cuet_author_1,cuet_paper_79,Geometrical Reorientation of Distorted Road Sign using Projection Transformation for Road Sign Recognition
+cuet_author_60,cuet_paper_79,Geometrical Reorientation of Distorted Road Sign using Projection Transformation for Road Sign Recognition
+cuet_author_35,cuet_paper_80,Geometrical Property and Histogram Based Korean Vehicle License Plate Detection
+cuet_author_106,cuet_paper_81,Construction of a simple Robotic Arm and Control by Software
+cuet_author_107,cuet_paper_82,Structural Operational Semantics of Inheritance and Object creation in JAVA
+cuet_author_108,cuet_paper_82,Structural Operational Semantics of Inheritance and Object creation in JAVA
+cuet_author_109,cuet_paper_82,Structural Operational Semantics of Inheritance and Object creation in JAVA
+cuet_author_49,cuet_paper_82,Structural Operational Semantics of Inheritance and Object creation in JAVA
+cuet_author_55,cuet_paper_83,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_56,cuet_paper_83,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_33,cuet_paper_83,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_57,cuet_paper_83,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_110,cuet_paper_83,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_111,cuet_paper_84,Geometrical Feature Based Stairways Detection and Recognition using Depth Sensor
+cuet_author_112,cuet_paper_85,Bangladeshi Road Sign Recognition Based on DtBs Vector and Artificial Neural Network
+cuet_author_113,cuet_paper_85,Bangladeshi Road Sign Recognition Based on DtBs Vector and Artificial Neural Network
+cuet_author_33,cuet_paper_86,Baggage Detection and Classification using Human Body Parameter & Boosting Technique
+cuet_author_35,cuet_paper_86,Baggage Detection and Classification using Human Body Parameter & Boosting Technique
+cuet_author_63,cuet_paper_87,Occlusion handling and human detection based on Histogram of Oriented Gradients for automatic video surveillance
+cuet_author_114,cuet_paper_87,Occlusion handling and human detection based on Histogram of Oriented Gradients for automatic video surveillance
+cuet_author_115,cuet_paper_87,Occlusion handling and human detection based on Histogram of Oriented Gradients for automatic video surveillance
+cuet_author_66,cuet_paper_88,Digital Electric Meter Reading Recognition Based on Horizontal and Vertical Binary Pattern
+cuet_author_66,cuet_paper_89,Zebra-crossing Detection Based on Geometric Feature and Vertical Vanishing Point
+cuet_author_116,cuet_paper_90,Occlusion handling and human detection based on Histogram of Oriented Gradients for automatic video surveillance
+cuet_author_114,cuet_paper_90,Occlusion handling and human detection based on Histogram of Oriented Gradients for automatic video surveillance
+cuet_author_117,cuet_paper_90,Occlusion handling and human detection based on Histogram of Oriented Gradients for automatic video surveillance
+cuet_author_67,cuet_paper_91,Human and Carried Baggage Detection & Classification based on RSD-HOG in Video Frame
+cuet_author_118,cuet_paper_92,Analyzing Image Transmission Quality using Filter and C-QAM
+cuet_author_119,cuet_paper_92,Analyzing Image Transmission Quality using Filter and C-QAM
+cuet_author_1,cuet_paper_92,Analyzing Image Transmission Quality using Filter and C-QAM
+cuet_author_66,cuet_paper_93,Support Vector Machine for Overcoming the Problem of Vanishing Point during Stairways Detection
+cuet_author_66,cuet_paper_94,Analyzing MRI Segmentation Based on Wavelet and BEMD using Fuzzy C-Means Clustering
+cuet_author_120,cuet_paper_95,Stairways Detection and Distance Estimation Approach Based on Three Connected Point and Triangular Similarity
+cuet_author_1,cuet_paper_95,Stairways Detection and Distance Estimation Approach Based on Three Connected Point and Triangular Similarity
+cuet_author_60,cuet_paper_95,Stairways Detection and Distance Estimation Approach Based on Three Connected Point and Triangular Similarity
+cuet_author_120,cuet_paper_96,Stairways Detection and Distance Estimation Approach Based on Three Connected Point and Triangular Similarity
+cuet_author_1,cuet_paper_96,Stairways Detection and Distance Estimation Approach Based on Three Connected Point and Triangular Similarity
+cuet_author_60,cuet_paper_96,Stairways Detection and Distance Estimation Approach Based on Three Connected Point and Triangular Similarity
+cuet_author_121,cuet_paper_97,Moving cast shadow detection and removal from Video based on HSV color space
+cuet_author_122,cuet_paper_98,Bangladeshi road sign detection based on YCbCr color model and DtBs vector
+cuet_author_123,cuet_paper_99,Color Image Watermarking Based on LU Decomposition
+cuet_author_124,cuet_paper_99,Color Image Watermarking Based on LU Decomposition
+cuet_author_125,cuet_paper_100,An Efficient Framework for Detecting Face Region Based on Skin Color Modeling and SVM Classifier
+cuet_author_124,cuet_paper_100,An Efficient Framework for Detecting Face Region Based on Skin Color Modeling and SVM Classifier
+cuet_author_126,cuet_paper_101,Video Watermarking Scheme Using Second Level Discrete Wavelet Transformation (DWT) and Fast Fourier Transformation
+cuet_author_67,cuet_paper_101,Video Watermarking Scheme Using Second Level Discrete Wavelet Transformation (DWT) and Fast Fourier Transformation
+cuet_author_127,cuet_paper_102,Detecting Books from Bookshelf of Multiple Cells
+cuet_author_72,cuet_paper_103,An Intelligent Human-Robot Interaction Framework to Control the Human Attention
+cuet_author_1,cuet_paper_103,An Intelligent Human-Robot Interaction Framework to Control the Human Attention
+cuet_author_58,cuet_paper_103,An Intelligent Human-Robot Interaction Framework to Control the Human Attention
+cuet_author_74,cuet_paper_103,An Intelligent Human-Robot Interaction Framework to Control the Human Attention
+cuet_author_75,cuet_paper_103,An Intelligent Human-Robot Interaction Framework to Control the Human Attention
+cuet_author_128,cuet_paper_104,Moment Invariants Based Object Recognition for Different Pose and Appearances in Real Scenes
+cuet_author_1,cuet_paper_104,Moment Invariants Based Object Recognition for Different Pose and Appearances in Real Scenes
+cuet_author_129,cuet_paper_104,Moment Invariants Based Object Recognition for Different Pose and Appearances in Real Scenes
+cuet_author_1,cuet_paper_105,An Efficient Method of Vehicle License Plate Recognition Based on Sliding Concentric Windows and Artificial Neural Network
+cuet_author_62,cuet_paper_105,An Efficient Method of Vehicle License Plate Recognition Based on Sliding Concentric Windows and Artificial Neural Network
+cuet_author_90,cuet_paper_105,An Efficient Method of Vehicle License Plate Recognition Based on Sliding Concentric Windows and Artificial Neural Network
+cuet_author_60,cuet_paper_105,An Efficient Method of Vehicle License Plate Recognition Based on Sliding Concentric Windows and Artificial Neural Network
+cuet_author_130,cuet_paper_106,Designing a Semantic Web Ontology of agricultural domain
+cuet_author_131,cuet_paper_106,Designing a Semantic Web Ontology of agricultural domain
+cuet_author_49,cuet_paper_106,Designing a Semantic Web Ontology of agricultural domain
+cuet_author_1,cuet_paper_107,A joint DWT-DCT Based Watermarking Technique for Avoiding Unauthorized Replication
+cuet_author_132,cuet_paper_107,A joint DWT-DCT Based Watermarking Technique for Avoiding Unauthorized Replication
+cuet_author_133,cuet_paper_107,A joint DWT-DCT Based Watermarking Technique for Avoiding Unauthorized Replication
+cuet_author_134,cuet_paper_107,A joint DWT-DCT Based Watermarking Technique for Avoiding Unauthorized Replication
+cuet_author_1,cuet_paper_108,Bangladeshi Vehicle License Plate Detection Method Based on HSI Color Model and Geometrical Properties
+cuet_author_135,cuet_paper_108,Bangladeshi Vehicle License Plate Detection Method Based on HSI Color Model and Geometrical Properties
+cuet_author_62,cuet_paper_108,Bangladeshi Vehicle License Plate Detection Method Based on HSI Color Model and Geometrical Properties
+cuet_author_136,cuet_paper_108,Bangladeshi Vehicle License Plate Detection Method Based on HSI Color Model and Geometrical Properties
+cuet_author_137,cuet_paper_109,Robotic System for Making Eye Contact Pro-activity with Humans
+cuet_author_1,cuet_paper_110,Combined DWT-DCT Based Digital Watermarking Technique for Copyright Protection
+cuet_author_138,cuet_paper_110,Combined DWT-DCT Based Digital Watermarking Technique for Copyright Protection
+cuet_author_139,cuet_paper_110,Combined DWT-DCT Based Digital Watermarking Technique for Copyright Protection
+cuet_author_1,cuet_paper_111,Optical Recognition of Vehicle License Plates
+cuet_author_62,cuet_paper_111,Optical Recognition of Vehicle License Plates
+cuet_author_140,cuet_paper_111,Optical Recognition of Vehicle License Plates
+cuet_author_60,cuet_paper_111,Optical Recognition of Vehicle License Plates
+cuet_author_141,cuet_paper_112,Bangla Character Recognition by using Artificial Neural Network
+cuet_author_142,cuet_paper_113,'Developing a Bangla Spell Checker With Possible Suggestions by using Longest Common Sub Sequence and Soundex algorithm
+cuet_author_99,cuet_paper_114,Road Sign Detection Method based on Fast HDR Image Generation Technique
+cuet_author_1,cuet_paper_114,Road Sign Detection Method based on Fast HDR Image Generation Technique
+cuet_author_143,cuet_paper_114,Road Sign Detection Method based on Fast HDR Image Generation Technique
+cuet_author_60,cuet_paper_114,Road Sign Detection Method based on Fast HDR Image Generation Technique
+cuet_author_144,cuet_paper_115,Recognizing Outdoor Scene Objects Using Texture Features and Probabilistic Appearance Model
+cuet_author_145,cuet_paper_115,Recognizing Outdoor Scene Objects Using Texture Features and Probabilistic Appearance Model
+cuet_author_60,cuet_paper_115,Recognizing Outdoor Scene Objects Using Texture Features and Probabilistic Appearance Model
+cuet_author_145,cuet_paper_116,Vehicle License Plate Tilt Correction Based on the Straight Line Fitting Method
+cuet_author_99,cuet_paper_116,Vehicle License Plate Tilt Correction Based on the Straight Line Fitting Method
+cuet_author_100,cuet_paper_116,Vehicle License Plate Tilt Correction Based on the Straight Line Fitting Method
+cuet_author_60,cuet_paper_116,Vehicle License Plate Tilt Correction Based on the Straight Line Fitting Method
+cuet_author_2,cuet_paper_117,A Modified New Reno for performance Enhancement of TCP in Wireless Network
+cuet_author_145,cuet_paper_117,A Modified New Reno for performance Enhancement of TCP in Wireless Network
+cuet_author_146,cuet_paper_117,A Modified New Reno for performance Enhancement of TCP in Wireless Network
+cuet_author_62,cuet_paper_118,An Efficient Algorithm for finding the Control Point of 3rd order Bezier Curve
+cuet_author_147,cuet_paper_118,An Efficient Algorithm for finding the Control Point of 3rd order Bezier Curve
+cuet_author_148,cuet_paper_118,An Efficient Algorithm for finding the Control Point of 3rd order Bezier Curve
+cuet_author_149,cuet_paper_118,An Efficient Algorithm for finding the Control Point of 3rd order Bezier Curve
+cuet_author_145,cuet_paper_119,Projection and Least Square Fitting with Perpendicular Offsets based Vehicle License Plate Tilt Correction
+cuet_author_99,cuet_paper_119,Projection and Least Square Fitting with Perpendicular Offsets based Vehicle License Plate Tilt Correction
+cuet_author_100,cuet_paper_119,Projection and Least Square Fitting with Perpendicular Offsets based Vehicle License Plate Tilt Correction
+cuet_author_60,cuet_paper_119,Projection and Least Square Fitting with Perpendicular Offsets based Vehicle License Plate Tilt Correction
+cuet_author_145,cuet_paper_120,An Efficient Method for Correcting Vehicle License Plate Tilt
+cuet_author_99,cuet_paper_120,An Efficient Method for Correcting Vehicle License Plate Tilt
+cuet_author_60,cuet_paper_120,An Efficient Method for Correcting Vehicle License Plate Tilt
+cuet_author_150,cuet_paper_121,License Plate Detection Method Based on HDR Image Generation from Multiple Cameras
+cuet_author_35,cuet_paper_121,License Plate Detection Method Based on HDR Image Generation from Multiple Cameras
+cuet_author_1,cuet_paper_122,Korean Vehicle License Plate Detection Based on Statistical and Geometrical Properties in HSI Color Space
+cuet_author_105,cuet_paper_122,Korean Vehicle License Plate Detection Based on Statistical and Geometrical Properties in HSI Color Space
+cuet_author_60,cuet_paper_122,Korean Vehicle License Plate Detection Based on Statistical and Geometrical Properties in HSI Color Space
+cuet_author_145,cuet_paper_123,Vehicle License Plate Extraction Based on Color and Geometrical Features
+cuet_author_151,cuet_paper_123,Vehicle License Plate Extraction Based on Color and Geometrical Features
+cuet_author_1,cuet_paper_124,A Hybrid Vehicle License Plate Detection Method Based on HSI Color Model and Histogram
+cuet_author_152,cuet_paper_124,A Hybrid Vehicle License Plate Detection Method Based on HSI Color Model and Histogram
+cuet_author_153,cuet_paper_124,A Hybrid Vehicle License Plate Detection Method Based on HSI Color Model and Histogram
+cuet_author_22,cuet_paper_124,A Hybrid Vehicle License Plate Detection Method Based on HSI Color Model and Histogram
+cuet_author_1,cuet_paper_125,Korean Vehicle License Plate Extraction Based on HSI Color Model and Histogram
+cuet_author_154,cuet_paper_125,Korean Vehicle License Plate Extraction Based on HSI Color Model and Histogram
+cuet_author_22,cuet_paper_125,Korean Vehicle License Plate Extraction Based on HSI Color Model and Histogram
+cuet_author_35,cuet_paper_126,HSI Color based Vehicle License Plate Detection
+cuet_author_1,cuet_paper_127,Parallelogram and Histogram based Vehicle License Plate Detection
+cuet_author_103,cuet_paper_127,Parallelogram and Histogram based Vehicle License Plate Detection
+cuet_author_60,cuet_paper_127,Parallelogram and Histogram based Vehicle License Plate Detection
+cuet_author_35,cuet_paper_128,Korean Vehicle License Plate Detection Based on Geometrical and Colour Properties
+cuet_author_155,cuet_paper_129,A Localized Queuing Based Router-Centric Approach to Congestion Avoidance and Recovery for Connectionless datagram Service
+cuet_author_156,cuet_paper_130,Information System for Medical Firm
+cuet_author_1,cuet_paper_131,Verbs in Russian Terminology of Computer Facilities and Computer Science
+cuet_author_48,cuet_paper_132,Door Detection Based on Geometrical Features and Harris Corner
+cuet_author_9,cuet_paper_132,Door Detection Based on Geometrical Features and Harris Corner
+cuet_author_49,cuet_paper_132,Door Detection Based on Geometrical Features and Harris Corner
+cuet_author_157,cuet_paper_133,Enhancing image caption generation through context-aware attention mechanism
+cuet_author_158,cuet_paper_133,Enhancing image caption generation through context-aware attention mechanism
+cuet_author_159,cuet_paper_133,Enhancing image caption generation through context-aware attention mechanism
+cuet_author_160,cuet_paper_133,Enhancing image caption generation through context-aware attention mechanism
+cuet_author_161,cuet_paper_134,AraCovTexFinder: Leveraging the transformer-based language model for Arabic COVID-19 text identification
+cuet_author_108,cuet_paper_134,AraCovTexFinder: Leveraging the transformer-based language model for Arabic COVID-19 text identification
+cuet_author_162,cuet_paper_134,AraCovTexFinder: Leveraging the transformer-based language model for Arabic COVID-19 text identification
+cuet_author_163,cuet_paper_134,AraCovTexFinder: Leveraging the transformer-based language model for Arabic COVID-19 text identification
+cuet_author_164,cuet_paper_135,"An Empirical Framework for Detecting Speaking Modes Using Ensemble Classifier"", in Multimedia Tools and Applications"
+cuet_author_165,cuet_paper_135,"An Empirical Framework for Detecting Speaking Modes Using Ensemble Classifier"", in Multimedia Tools and Applications"
+cuet_author_108,cuet_paper_135,"An Empirical Framework for Detecting Speaking Modes Using Ensemble Classifier"", in Multimedia Tools and Applications"
+cuet_author_166,cuet_paper_135,"An Empirical Framework for Detecting Speaking Modes Using Ensemble Classifier"", in Multimedia Tools and Applications"
+cuet_author_167,cuet_paper_136,"""TEmoX: Classification of Textual Emotion Using Ensemble of Transformers,"" in IEEE Access"
+cuet_author_108,cuet_paper_136,"""TEmoX: Classification of Textual Emotion Using Ensemble of Transformers,"" in IEEE Access"
+cuet_author_168,cuet_paper_136,"""TEmoX: Classification of Textual Emotion Using Ensemble of Transformers,"" in IEEE Access"
+cuet_author_169,cuet_paper_136,"""TEmoX: Classification of Textual Emotion Using Ensemble of Transformers,"" in IEEE Access"
+cuet_author_161,cuet_paper_137,Leveraging the meta-embedding for text classification in a resource-constrained language
+cuet_author_108,cuet_paper_137,Leveraging the meta-embedding for text classification in a resource-constrained language
+cuet_author_162,cuet_paper_137,Leveraging the meta-embedding for text classification in a resource-constrained language
+cuet_author_161,cuet_paper_138,CovTiNet: Covid text identification network using attention-based positional embedding feature fusion
+cuet_author_108,cuet_paper_138,CovTiNet: Covid text identification network using attention-based positional embedding feature fusion
+cuet_author_170,cuet_paper_138,CovTiNet: Covid text identification network using attention-based positional embedding feature fusion
+cuet_author_171,cuet_paper_139,LCDEiT: A Linear Complexity Data-Efficient Image Transformer for MRI Brain Tumor Classification
+cuet_author_172,cuet_paper_139,LCDEiT: A Linear Complexity Data-Efficient Image Transformer for MRI Brain Tumor Classification
+cuet_author_173,cuet_paper_139,LCDEiT: A Linear Complexity Data-Efficient Image Transformer for MRI Brain Tumor Classification
+cuet_author_108,cuet_paper_139,LCDEiT: A Linear Complexity Data-Efficient Image Transformer for MRI Brain Tumor Classification
+cuet_author_163,cuet_paper_139,LCDEiT: A Linear Complexity Data-Efficient Image Transformer for MRI Brain Tumor Classification
+cuet_author_174,cuet_paper_140,DeepFocus: A visual focus of attention detection framework using deep learning in multi-object scenarios
+cuet_author_165,cuet_paper_140,DeepFocus: A visual focus of attention detection framework using deep learning in multi-object scenarios
+cuet_author_175,cuet_paper_140,DeepFocus: A visual focus of attention detection framework using deep learning in multi-object scenarios
+cuet_author_176,cuet_paper_141,Identification of Multilingual Offense and Troll from Social Media Memes Using Weighted Ensemble of Multimodal Features
+cuet_author_168,cuet_paper_141,Identification of Multilingual Offense and Troll from Social Media Memes Using Weighted Ensemble of Multimodal Features
+cuet_author_108,cuet_paper_141,Identification of Multilingual Offense and Troll from Social Media Memes Using Weighted Ensemble of Multimodal Features
+cuet_author_163,cuet_paper_141,Identification of Multilingual Offense and Troll from Social Media Memes Using Weighted Ensemble of Multimodal Features
+cuet_author_162,cuet_paper_141,Identification of Multilingual Offense and Troll from Social Media Memes Using Weighted Ensemble of Multimodal Features
+cuet_author_177,cuet_paper_141,Identification of Multilingual Offense and Troll from Social Media Memes Using Weighted Ensemble of Multimodal Features
+cuet_author_176,cuet_paper_142,A Deep Attentive Multimodal Learning Approach for Disaster Identification from Social Media Posts
+cuet_author_108,cuet_paper_142,A Deep Attentive Multimodal Learning Approach for Disaster Identification from Social Media Posts
+cuet_author_178,cuet_paper_142,A Deep Attentive Multimodal Learning Approach for Disaster Identification from Social Media Posts
+cuet_author_179,cuet_paper_143,A source-driven probabilistic forwarding and caching strategy in NDN and SDN-based NDN
+cuet_author_180,cuet_paper_143,A source-driven probabilistic forwarding and caching strategy in NDN and SDN-based NDN
+cuet_author_108,cuet_paper_143,A source-driven probabilistic forwarding and caching strategy in NDN and SDN-based NDN
+cuet_author_181,cuet_paper_144,A source-driven reinforcement learning-based Data reply strategy to reduce communication overhead in Named Data Networks (NDN)
+cuet_author_182,cuet_paper_144,A source-driven reinforcement learning-based Data reply strategy to reduce communication overhead in Named Data Networks (NDN)
+cuet_author_183,cuet_paper_144,A source-driven reinforcement learning-based Data reply strategy to reduce communication overhead in Named Data Networks (NDN)
+cuet_author_184,cuet_paper_144,A source-driven reinforcement learning-based Data reply strategy to reduce communication overhead in Named Data Networks (NDN)
+cuet_author_181,cuet_paper_145,BEmoC: A Corpus for Identifying Emotion in Bengali Texts
+cuet_author_185,cuet_paper_145,BEmoC: A Corpus for Identifying Emotion in Bengali Texts
+cuet_author_186,cuet_paper_145,BEmoC: A Corpus for Identifying Emotion in Bengali Texts
+cuet_author_187,cuet_paper_145,BEmoC: A Corpus for Identifying Emotion in Bengali Texts
+cuet_author_188,cuet_paper_145,BEmoC: A Corpus for Identifying Emotion in Bengali Texts
+cuet_author_189,cuet_paper_145,BEmoC: A Corpus for Identifying Emotion in Bengali Texts
+cuet_author_190,cuet_paper_146,Classification of Textual Sentiment Using Ensemble Technique.
+cuet_author_191,cuet_paper_146,Classification of Textual Sentiment Using Ensemble Technique.
+cuet_author_188,cuet_paper_146,Classification of Textual Sentiment Using Ensemble Technique.
+cuet_author_192,cuet_paper_146,Classification of Textual Sentiment Using Ensemble Technique.
+cuet_author_184,cuet_paper_146,Classification of Textual Sentiment Using Ensemble Technique.
+cuet_author_193,cuet_paper_147,Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network
+cuet_author_194,cuet_paper_147,Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network
+cuet_author_188,cuet_paper_147,Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network
+cuet_author_192,cuet_paper_147,Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network
+cuet_author_184,cuet_paper_147,Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network
+cuet_author_195,cuet_paper_148,Tackling Cyber-Aggression: Identification and Fine-Grained Categorization of Aggressive Texts on Social Media using Weighted Ensemble of Transformers
+cuet_author_196,cuet_paper_149,Bengali Text Document Categorization based on Very Deep Convolution Neural Network
+cuet_author_197,cuet_paper_149,Bengali Text Document Categorization based on Very Deep Convolution Neural Network
+cuet_author_162,cuet_paper_149,Bengali Text Document Categorization based on Very Deep Convolution Neural Network
+cuet_author_198,cuet_paper_150,Authorship Classification in a Resource Constraint Language using Convolutional Neural Networks in IEEE Access
+cuet_author_165,cuet_paper_150,Authorship Classification in a Resource Constraint Language using Convolutional Neural Networks in IEEE Access
+cuet_author_108,cuet_paper_150,Authorship Classification in a Resource Constraint Language using Convolutional Neural Networks in IEEE Access
+cuet_author_163,cuet_paper_150,Authorship Classification in a Resource Constraint Language using Convolutional Neural Networks in IEEE Access
+cuet_author_162,cuet_paper_150,Authorship Classification in a Resource Constraint Language using Convolutional Neural Networks in IEEE Access
+cuet_author_199,cuet_paper_150,Authorship Classification in a Resource Constraint Language using Convolutional Neural Networks in IEEE Access
+cuet_author_200,cuet_paper_151,BEmoC: A Corpus for Identifying Emotion in Bengali Texts
+cuet_author_167,cuet_paper_151,BEmoC: A Corpus for Identifying Emotion in Bengali Texts
+cuet_author_168,cuet_paper_151,BEmoC: A Corpus for Identifying Emotion in Bengali Texts
+cuet_author_201,cuet_paper_151,BEmoC: A Corpus for Identifying Emotion in Bengali Texts
+cuet_author_202,cuet_paper_151,BEmoC: A Corpus for Identifying Emotion in Bengali Texts
+cuet_author_203,cuet_paper_152,Classification of Textual Sentiment Using Ensemble Technique
+cuet_author_168,cuet_paper_152,Classification of Textual Sentiment Using Ensemble Technique
+cuet_author_204,cuet_paper_152,Classification of Textual Sentiment Using Ensemble Technique
+cuet_author_205,cuet_paper_153,Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network
+cuet_author_168,cuet_paper_153,Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network
+cuet_author_201,cuet_paper_153,Multi-class Textual Emotion Categorization using Ensemble of Convolutional and Recurrent Neural Network
+cuet_author_206,cuet_paper_154,A source-driven reinforcement learning-based Data reply strategy to reduce communication overhead in Named Data Networks (NDN)
+cuet_author_180,cuet_paper_154,A source-driven reinforcement learning-based Data reply strategy to reduce communication overhead in Named Data Networks (NDN)
+cuet_author_108,cuet_paper_154,A source-driven reinforcement learning-based Data reply strategy to reduce communication overhead in Named Data Networks (NDN)
+cuet_author_207,cuet_paper_155,Development of Duplex Eye Contact Framework for Human-Robot Inter Communication
+cuet_author_108,cuet_paper_155,Development of Duplex Eye Contact Framework for Human-Robot Inter Communication
+cuet_author_208,cuet_paper_155,Development of Duplex Eye Contact Framework for Human-Robot Inter Communication
+cuet_author_209,cuet_paper_155,Development of Duplex Eye Contact Framework for Human-Robot Inter Communication
+cuet_author_210,cuet_paper_155,Development of Duplex Eye Contact Framework for Human-Robot Inter Communication
+cuet_author_211,cuet_paper_156,Active Vision-based Attention Monitoring System for Drivers
+cuet_author_212,cuet_paper_156,Active Vision-based Attention Monitoring System for Drivers
+cuet_author_213,cuet_paper_156,Active Vision-based Attention Monitoring System for Drivers
+cuet_author_214,cuet_paper_157,A Data-Driven Heart Disease Prediction Model Through K-Means Clustering-Based Anomaly Detection
+cuet_author_215,cuet_paper_157,A Data-Driven Heart Disease Prediction Model Through K-Means Clustering-Based Anomaly Detection
+cuet_author_216,cuet_paper_157,A Data-Driven Heart Disease Prediction Model Through K-Means Clustering-Based Anomaly Detection
+cuet_author_217,cuet_paper_157,A Data-Driven Heart Disease Prediction Model Through K-Means Clustering-Based Anomaly Detection
+cuet_author_218,cuet_paper_157,A Data-Driven Heart Disease Prediction Model Through K-Means Clustering-Based Anomaly Detection
+cuet_author_219,cuet_paper_157,A Data-Driven Heart Disease Prediction Model Through K-Means Clustering-Based Anomaly Detection
+cuet_author_220,cuet_paper_157,A Data-Driven Heart Disease Prediction Model Through K-Means Clustering-Based Anomaly Detection
+cuet_author_221,cuet_paper_158,"Mobile Data Science and Intelligent Apps: Concepts, AI-based Modeling and Research Directions"
+cuet_author_222,cuet_paper_159,Detecting Suspicious Texts Using Machine Learning Techniques
+cuet_author_201,cuet_paper_159,Detecting Suspicious Texts Using Machine Learning Techniques
+cuet_author_223,cuet_paper_159,Detecting Suspicious Texts Using Machine Learning Techniques
+cuet_author_224,cuet_paper_159,Detecting Suspicious Texts Using Machine Learning Techniques
+cuet_author_13,cuet_paper_159,Detecting Suspicious Texts Using Machine Learning Techniques
+cuet_author_211,cuet_paper_160,"“A Text-Based Chat System Embodied with an Expressive Agent,” Advances in Human-Computer Interaction"
+cuet_author_225,cuet_paper_160,"“A Text-Based Chat System Embodied with an Expressive Agent,” Advances in Human-Computer Interaction"
+cuet_author_226,cuet_paper_161,Fundamental Frequency Extraction of Noisy Speech Signals
+cuet_author_227,cuet_paper_161,Fundamental Frequency Extraction of Noisy Speech Signals
+cuet_author_228,cuet_paper_161,Fundamental Frequency Extraction of Noisy Speech Signals
+cuet_author_108,cuet_paper_161,Fundamental Frequency Extraction of Noisy Speech Signals
+cuet_author_229,cuet_paper_161,Fundamental Frequency Extraction of Noisy Speech Signals
+cuet_author_230,cuet_paper_161,Fundamental Frequency Extraction of Noisy Speech Signals
+cuet_author_108,cuet_paper_162,An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings
+cuet_author_231,cuet_paper_162,An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings
+cuet_author_68,cuet_paper_162,An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings
+cuet_author_228,cuet_paper_162,An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings
+cuet_author_74,cuet_paper_162,An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings
+cuet_author_75,cuet_paper_162,An Empirical Robotic Framework for Initiating Interaction with the Target Human in Multiparty Settings
+cuet_author_232,cuet_paper_163,Outage Capacity Analysis of a Cooperative Relaying Scheme in Interference Limited Cognitive Radio Networks
+cuet_author_233,cuet_paper_163,Outage Capacity Analysis of a Cooperative Relaying Scheme in Interference Limited Cognitive Radio Networks
+cuet_author_108,cuet_paper_163,Outage Capacity Analysis of a Cooperative Relaying Scheme in Interference Limited Cognitive Radio Networks
+cuet_author_108,cuet_paper_164,A Proactive Approach of Robotic Framework for Making Eye Contact with Humans
+cuet_author_74,cuet_paper_164,A Proactive Approach of Robotic Framework for Making Eye Contact with Humans
+cuet_author_75,cuet_paper_164,A Proactive Approach of Robotic Framework for Making Eye Contact with Humans
+cuet_author_108,cuet_paper_165,Effect of Robot’s Gaze Behaviors for Attracting and Controlling Human Attention
+cuet_author_234,cuet_paper_165,Effect of Robot’s Gaze Behaviors for Attracting and Controlling Human Attention
+cuet_author_74,cuet_paper_165,Effect of Robot’s Gaze Behaviors for Attracting and Controlling Human Attention
+cuet_author_75,cuet_paper_165,Effect of Robot’s Gaze Behaviors for Attracting and Controlling Human Attention
+cuet_author_232,cuet_paper_166,Hybrid Spectrum Sharing with Cooprative Secondary User Selection in Cognitive Radio Networks
+cuet_author_233,cuet_paper_166,Hybrid Spectrum Sharing with Cooprative Secondary User Selection in Cognitive Radio Networks
+cuet_author_108,cuet_paper_166,Hybrid Spectrum Sharing with Cooprative Secondary User Selection in Cognitive Radio Networks
+cuet_author_108,cuet_paper_167,A Robotic Framework for Controlling Human’s Attention
+cuet_author_108,cuet_paper_168,Design a Robotic Head to Attract Human Attention by considering viewing situations
+cuet_author_74,cuet_paper_168,Design a Robotic Head to Attract Human Attention by considering viewing situations
+cuet_author_86,cuet_paper_168,Design a Robotic Head to Attract Human Attention by considering viewing situations
+cuet_author_65,cuet_paper_168,Design a Robotic Head to Attract Human Attention by considering viewing situations
+cuet_author_108,cuet_paper_169,An Efficient Framework for Network Intrusion Detection
+cuet_author_235,cuet_paper_169,An Efficient Framework for Network Intrusion Detection
+cuet_author_236,cuet_paper_170,English to Bangla Statistical Machine Translation using A* Search Algorithm
+cuet_author_236,cuet_paper_171,An Empirical Framework for Parsing of Bangla Natural Language Sentences
+cuet_author_108,cuet_paper_172,An Empirical Framework for Translating of Phrasal Verbs of English Sentence into Bangla
+cuet_author_237,cuet_paper_172,An Empirical Framework for Translating of Phrasal Verbs of English Sentence into Bangla
+cuet_author_108,cuet_paper_173,Context-free Grammars and Parsing for Simple Sentences of Bangla
+cuet_author_238,cuet_paper_173,Context-free Grammars and Parsing for Simple Sentences of Bangla
+cuet_author_107,cuet_paper_174,Structural Operational Semantics of Inheritance and Object creation in JAVA
+cuet_author_108,cuet_paper_174,Structural Operational Semantics of Inheritance and Object creation in JAVA
+cuet_author_239,cuet_paper_174,Structural Operational Semantics of Inheritance and Object creation in JAVA
+cuet_author_108,cuet_paper_175,Semantic Analysis and Transfer: An Experience with the Bangla Natural Language Sentences
+cuet_author_240,cuet_paper_175,Semantic Analysis and Transfer: An Experience with the Bangla Natural Language Sentences
+cuet_author_241,cuet_paper_176,"A New Model of Digital Signature Using LSB Hiding, RSA and Merkle-Hellman Cryptosystem"
+cuet_author_242,cuet_paper_176,"A New Model of Digital Signature Using LSB Hiding, RSA and Merkle-Hellman Cryptosystem"
+cuet_author_108,cuet_paper_177,An Empirical Framework for Statistical Parsing of Bangla Sentences
+cuet_author_243,cuet_paper_177,An Empirical Framework for Statistical Parsing of Bangla Sentences
+cuet_author_244,cuet_paper_177,An Empirical Framework for Statistical Parsing of Bangla Sentences
+cuet_author_245,cuet_paper_177,An Empirical Framework for Statistical Parsing of Bangla Sentences
+cuet_author_107,cuet_paper_178,Developing an Intelligent agent to support negotiation in an electronic market place
+cuet_author_246,cuet_paper_178,Developing an Intelligent agent to support negotiation in an electronic market place
+cuet_author_247,cuet_paper_178,Developing an Intelligent agent to support negotiation in an electronic market place
+cuet_author_248,cuet_paper_179,Impact Analysis of Facebook in Family Bonding
+cuet_author_249,cuet_paper_180,Developing a Framework for Determining Students Excellence and Recommending Field of Study Under Review
+cuet_author_250,cuet_paper_180,Developing a Framework for Determining Students Excellence and Recommending Field of Study Under Review
+cuet_author_251,cuet_paper_180,Developing a Framework for Determining Students Excellence and Recommending Field of Study Under Review
+cuet_author_250,cuet_paper_181,Efficiency of NoSQL Databases under a Moderate Application Load
+cuet_author_252,cuet_paper_181,Efficiency of NoSQL Databases under a Moderate Application Load
+cuet_author_253,cuet_paper_181,Efficiency of NoSQL Databases under a Moderate Application Load
+cuet_author_254,cuet_paper_182,A Statistical Framework for Detecting Diabetes Types
+cuet_author_250,cuet_paper_183,Recommending Hotels by Social Conditions of Locations
+cuet_author_255,cuet_paper_183,Recommending Hotels by Social Conditions of Locations
+cuet_author_253,cuet_paper_183,Recommending Hotels by Social Conditions of Locations
+cuet_author_250,cuet_paper_184,Agent-Based Privacy Aware Feedback System
+cuet_author_256,cuet_paper_184,Agent-Based Privacy Aware Feedback System
+cuet_author_253,cuet_paper_184,Agent-Based Privacy Aware Feedback System
+cuet_author_250,cuet_paper_185,A Spatial Skyline Query for a Group of Users
+cuet_author_257,cuet_paper_185,A Spatial Skyline Query for a Group of Users
+cuet_author_253,cuet_paper_185,A Spatial Skyline Query for a Group of Users
+cuet_author_250,cuet_paper_186,Privacy Aware Parallel Computation of Skyline Sets Queries from Distributed Databases
+cuet_author_253,cuet_paper_186,Privacy Aware Parallel Computation of Skyline Sets Queries from Distributed Databases
+cuet_author_250,cuet_paper_187,Skyline Query for Selecting Spatial Objects by Utilizing Surrounding Objects
+cuet_author_258,cuet_paper_187,Skyline Query for Selecting Spatial Objects by Utilizing Surrounding Objects
+cuet_author_259,cuet_paper_187,Skyline Query for Selecting Spatial Objects by Utilizing Surrounding Objects
+cuet_author_253,cuet_paper_187,Skyline Query for Selecting Spatial Objects by Utilizing Surrounding Objects
+cuet_author_250,cuet_paper_188,BAENPD: A Bilingual Plagiarism Detector
+cuet_author_260,cuet_paper_188,BAENPD: A Bilingual Plagiarism Detector
+cuet_author_261,cuet_paper_188,BAENPD: A Bilingual Plagiarism Detector
+cuet_author_250,cuet_paper_189,Skyline Query for Selecting Spatial Objects by Utilizing Surrounding Objects
+cuet_author_258,cuet_paper_189,Skyline Query for Selecting Spatial Objects by Utilizing Surrounding Objects
+cuet_author_259,cuet_paper_189,Skyline Query for Selecting Spatial Objects by Utilizing Surrounding Objects
+cuet_author_253,cuet_paper_189,Skyline Query for Selecting Spatial Objects by Utilizing Surrounding Objects
+cuet_author_250,cuet_paper_190,Skyline Sets Queries for Incomplete Data
+cuet_author_253,cuet_paper_190,Skyline Sets Queries for Incomplete Data
+cuet_author_262,cuet_paper_191,Agent-based Anonymous Skyline Set Computation in Cloud Databases
+cuet_author_263,cuet_paper_191,Agent-based Anonymous Skyline Set Computation in Cloud Databases
+cuet_author_264,cuet_paper_192,Management of Multilingual Contents in Web Environment
+cuet_author_265,cuet_paper_193,Dispersion Control Characteristics of the Dielectric Cylindrical Waveguide And a Novel Approach of Dispersion Compensation
+cuet_author_266,cuet_paper_193,Dispersion Control Characteristics of the Dielectric Cylindrical Waveguide And a Novel Approach of Dispersion Compensation
+cuet_author_267,cuet_paper_193,Dispersion Control Characteristics of the Dielectric Cylindrical Waveguide And a Novel Approach of Dispersion Compensation
+cuet_author_268,cuet_paper_194,Multilingual Data Management in Database Environment
+cuet_author_107,cuet_paper_195,Development and Implementation of an Efficient Database Compression Algorithm
+cuet_author_269,cuet_paper_195,Development and Implementation of an Efficient Database Compression Algorithm
+cuet_author_270,cuet_paper_196,Semantic Analysis and Transfer: An Experience with the Bangla Natural Language Sentences
+cuet_author_240,cuet_paper_196,Semantic Analysis and Transfer: An Experience with the Bangla Natural Language Sentences
+cuet_author_107,cuet_paper_197,Developing an Intelligent Agent to Support Negotiation in an Electronic Market Place
+cuet_author_246,cuet_paper_197,Developing an Intelligent Agent to Support Negotiation in an Electronic Market Place
+cuet_author_247,cuet_paper_197,Developing an Intelligent Agent to Support Negotiation in an Electronic Market Place
+cuet_author_107,cuet_paper_198,Structural Operational Semantics of Some Important Properties in Java
+cuet_author_108,cuet_paper_199,Context-free Grammars and Parsing for Simple Sentences of Bangla
+cuet_author_238,cuet_paper_199,Context-free Grammars and Parsing for Simple Sentences of Bangla
+cuet_author_107,cuet_paper_200,Structural Operational Semantics of Inheritance and Object creation in JAVA
+cuet_author_108,cuet_paper_200,Structural Operational Semantics of Inheritance and Object creation in JAVA
+cuet_author_239,cuet_paper_200,Structural Operational Semantics of Inheritance and Object creation in JAVA
+cuet_author_107,cuet_paper_201,Structural Operational Semantics of Calling Methods in Java
+cuet_author_107,cuet_paper_202,Designing a 34-Segment Display for Bengali and English Numerical Digits and Characters
+cuet_author_200,cuet_paper_203,A Framework to Recommend Appropriate Learning Materials from Stack Overflow Discussions
+cuet_author_107,cuet_paper_203,A Framework to Recommend Appropriate Learning Materials from Stack Overflow Discussions
+cuet_author_271,cuet_paper_203,A Framework to Recommend Appropriate Learning Materials from Stack Overflow Discussions
+cuet_author_272,cuet_paper_204,Wi-Fi Based Real Time Communication for Disaster and Emergencies
+cuet_author_180,cuet_paper_204,Wi-Fi Based Real Time Communication for Disaster and Emergencies
+cuet_author_273,cuet_paper_204,Wi-Fi Based Real Time Communication for Disaster and Emergencies
+cuet_author_274,cuet_paper_205,Adaptive forwarding strategies to reduce redundant Interests and Data in named data networks
+cuet_author_275,cuet_paper_206,Cooperative Relaying to Improve the Spectrum Utilization of Multi-channel CR Networks
+cuet_author_276,cuet_paper_207,"Cognitive Radio MAC Protocols: A Survey, Some Research Issues and Challenges"
+cuet_author_180,cuet_paper_207,"Cognitive Radio MAC Protocols: A Survey, Some Research Issues and Challenges"
+cuet_author_277,cuet_paper_207,"Cognitive Radio MAC Protocols: A Survey, Some Research Issues and Challenges"
+cuet_author_278,cuet_paper_208,Outage Capacity Analysis of a Cooperative Relaying Scheme in Interference Limited Cognitive Radio Networks
+cuet_author_180,cuet_paper_208,Outage Capacity Analysis of a Cooperative Relaying Scheme in Interference Limited Cognitive Radio Networks
+cuet_author_279,cuet_paper_208,Outage Capacity Analysis of a Cooperative Relaying Scheme in Interference Limited Cognitive Radio Networks
+cuet_author_280,cuet_paper_209,An Opportunistic Two-Transceiver Based MAC Proto- col for Cognitive Radio Networks
+cuet_author_276,cuet_paper_210,Performance Analysis of Local and Cooperative Spectrum Sensing in Cognitive Radio Networks
+cuet_author_180,cuet_paper_210,Performance Analysis of Local and Cooperative Spectrum Sensing in Cognitive Radio Networks
+cuet_author_277,cuet_paper_210,Performance Analysis of Local and Cooperative Spectrum Sensing in Cognitive Radio Networks
+cuet_author_278,cuet_paper_211,Hybrid Spectrum Sharing with Cooperative Secondary User Selection in Cognitive Radio Networks
+cuet_author_180,cuet_paper_211,Hybrid Spectrum Sharing with Cooperative Secondary User Selection in Cognitive Radio Networks
+cuet_author_279,cuet_paper_211,Hybrid Spectrum Sharing with Cooperative Secondary User Selection in Cognitive Radio Networks
+cuet_author_276,cuet_paper_212,De- sign of an Efficient MAC Protocol for Opportunistic Cognitive Radio Networks
+cuet_author_180,cuet_paper_212,De- sign of an Efficient MAC Protocol for Opportunistic Cognitive Radio Networks
+cuet_author_281,cuet_paper_212,De- sign of an Efficient MAC Protocol for Opportunistic Cognitive Radio Networks
+cuet_author_282,cuet_paper_212,De- sign of an Efficient MAC Protocol for Opportunistic Cognitive Radio Networks
+cuet_author_275,cuet_paper_213,Ergodic and outage capacity of interference temperature-limited cognitive radio multi-input multi-output channel
+cuet_author_275,cuet_paper_214,Multi-relay cooperative diversity protocol with improved spectral efficiency
+cuet_author_275,cuet_paper_215,Opportunistic Relaying based Spectrum Leasing for Cognitive Radio Networks
+cuet_author_275,cuet_paper_216,Code Combining Cooperative Diversity in Long-haul Trans- mission of Cluster based Wireless Sensor Networks
+cuet_author_283,cuet_paper_217,On the outage behavior of interference temperature limited CR-MISO channel
+cuet_author_210,cuet_paper_217,On the outage behavior of interference temperature limited CR-MISO channel
+cuet_author_275,cuet_paper_218,Energy Efficient Cooperative LEACH Protocol for Wireless Sensor Networks
+cuet_author_275,cuet_paper_219,A Cooperative Transmission Scheme for Cluster Based Wireless Sensor Networks
+cuet_author_283,cuet_paper_220,Distributed Clustering Algorithm to Explore Cooperative Di- versity in Wireless Sensor Networks
+cuet_author_275,cuet_paper_221,Distributed Cooperative Routing Algorithm forMulti-hopMulti- relay Wireless Networks
+cuet_author_275,cuet_paper_222,Performance analysis of code combining based cooperative protocol with amplified-and-forward (AF) relaying
+cuet_author_275,cuet_paper_223,Coded diversity for cooperative MISO based wireless sensor networks
+cuet_author_275,cuet_paper_224,Code Combining Based Cooperative-LEACH Protocol for Wire- less Sensor Networks
+cuet_author_275,cuet_paper_225,Automatic Request for Cooperation (ARC) and Relay Selection for Wireless Networks
+cuet_author_275,cuet_paper_226,Composite Signaling Coded Cooperation for Fast and Slow Fading
+cuet_author_275,cuet_paper_227,"Code Combining in Cooperative Communication,” IEICE Trans- actions on Communications"
+cuet_author_284,cuet_paper_228,Performance Analysis of Machine Learning Techniques to Predict Diabetes Mellitus
+cuet_author_285,cuet_paper_228,Performance Analysis of Machine Learning Techniques to Predict Diabetes Mellitus
+cuet_author_286,cuet_paper_229,Handwritten Bangla Numeral and Basic Character Recogni- tion Using Deep Convolutional Neural Network
+cuet_author_287,cuet_paper_230,Compression of Large-Scale Image Dataset using Principal Component Analysis and K-means Clustering
+cuet_author_288,cuet_paper_230,Compression of Large-Scale Image Dataset using Principal Component Analysis and K-means Clustering
+cuet_author_289,cuet_paper_231,A Minimum Spanning Tree Based Routing Protocol For Multi-hop And Multi-channel Cognitive Radio
+cuet_author_290,cuet_paper_232,Channel Assignment Augmentation Algorithm to Mitigate Interference for Heterogeneous ”TV White Space” Users
+cuet_author_291,cuet_paper_233,Authentication of Diffie-Hellman Pro- tocol Against Man-in-the-Middle Attack Using Cryptographically Secure CRC
+cuet_author_292,cuet_paper_233,Authentication of Diffie-Hellman Pro- tocol Against Man-in-the-Middle Attack Using Cryptographically Secure CRC
+cuet_author_180,cuet_paper_234,A distributed algorithm to select channel and relay in multichannel-multirelay CR- networks
+cuet_author_293,cuet_paper_235,Enhancing Wi-Fi security using a hybrid algorithm of blowfish and RC6
+cuet_author_294,cuet_paper_235,Enhancing Wi-Fi security using a hybrid algorithm of blowfish and RC6
+cuet_author_295,cuet_paper_236,CPU power consumption reduction in android smartphone
+cuet_author_296,cuet_paper_236,CPU power consumption reduction in android smartphone
+cuet_author_278,cuet_paper_237,Outage Capacity Analysis of a Secondary Network in Interference Limited Cognitive Radio Spectrum Sharing System
+cuet_author_180,cuet_paper_237,Outage Capacity Analysis of a Secondary Network in Interference Limited Cognitive Radio Spectrum Sharing System
+cuet_author_297,cuet_paper_237,Outage Capacity Analysis of a Secondary Network in Interference Limited Cognitive Radio Spectrum Sharing System
+cuet_author_276,cuet_paper_238,An Efficient MAC protocol for Cogni- tive Radio Networks
+cuet_author_180,cuet_paper_238,An Efficient MAC protocol for Cogni- tive Radio Networks
+cuet_author_281,cuet_paper_238,An Efficient MAC protocol for Cogni- tive Radio Networks
+cuet_author_278,cuet_paper_239,Cooperative Secondary User Selection as a Relay for the Primary System in Underlay Cognitive Radio Networks
+cuet_author_298,cuet_paper_239,Cooperative Secondary User Selection as a Relay for the Primary System in Underlay Cognitive Radio Networks
+cuet_author_180,cuet_paper_240,Cooperative Relaying in Interference Limited Cog- nitive Radio Networks
+cuet_author_299,cuet_paper_240,Cooperative Relaying in Interference Limited Cog- nitive Radio Networks
+cuet_author_180,cuet_paper_241,A Cooperative Transmission Scheme for Cluster BasedWireless Sensor Networks
+cuet_author_300,cuet_paper_241,A Cooperative Transmission Scheme for Cluster BasedWireless Sensor Networks
+cuet_author_301,cuet_paper_242,"Tran Thanh Truc and Park Jihwan, “Optimal Switching AdaptiveM-QAMfor Opportunistic Amplify-and-Forward Networks"
+cuet_author_302,cuet_paper_242,"Tran Thanh Truc and Park Jihwan, “Optimal Switching AdaptiveM-QAMfor Opportunistic Amplify-and-Forward Networks"
+cuet_author_180,cuet_paper_242,"Tran Thanh Truc and Park Jihwan, “Optimal Switching AdaptiveM-QAMfor Opportunistic Amplify-and-Forward Networks"
+cuet_author_303,cuet_paper_243,On The Capacity of Opportunistic Cooperative Networks under Adaptive Transmission
+cuet_author_302,cuet_paper_243,On The Capacity of Opportunistic Cooperative Networks under Adaptive Transmission
+cuet_author_180,cuet_paper_243,On The Capacity of Opportunistic Cooperative Networks under Adaptive Transmission
+cuet_author_304,cuet_paper_243,On The Capacity of Opportunistic Cooperative Networks under Adaptive Transmission
+cuet_author_180,cuet_paper_244,A Cooperative Transmission Scheme for Cluster Based Wireless Sensor Networks
+cuet_author_299,cuet_paper_244,A Cooperative Transmission Scheme for Cluster Based Wireless Sensor Networks
+cuet_author_180,cuet_paper_245,Physical Layer Wireless Network Security Through Channel Coding
+cuet_author_305,cuet_paper_245,Physical Layer Wireless Network Security Through Channel Coding
+cuet_author_306,cuet_paper_245,Physical Layer Wireless Network Security Through Channel Coding
+cuet_author_307,cuet_paper_246,Design of A High Order Diversity Cooperative Transmission Scheme Over Rayleigh Fading Channels
+cuet_author_302,cuet_paper_246,Design of A High Order Diversity Cooperative Transmission Scheme Over Rayleigh Fading Channels
+cuet_author_308,cuet_paper_246,Design of A High Order Diversity Cooperative Transmission Scheme Over Rayleigh Fading Channels
+cuet_author_180,cuet_paper_246,Design of A High Order Diversity Cooperative Transmission Scheme Over Rayleigh Fading Channels
+cuet_author_309,cuet_paper_246,Design of A High Order Diversity Cooperative Transmission Scheme Over Rayleigh Fading Channels
+cuet_author_310,cuet_paper_246,Design of A High Order Diversity Cooperative Transmission Scheme Over Rayleigh Fading Channels
+cuet_author_275,cuet_paper_247,Adaptive Channel Coding for Flat Fading Channel
+cuet_author_302,cuet_paper_248,Cooperative Communica- tions in A Novel HCOC-QAM OFDM Spread Spectrum System with MMSE Equalizer for High Speed Data Transmission
+cuet_author_307,cuet_paper_248,Cooperative Communica- tions in A Novel HCOC-QAM OFDM Spread Spectrum System with MMSE Equalizer for High Speed Data Transmission
+cuet_author_180,cuet_paper_248,Cooperative Communica- tions in A Novel HCOC-QAM OFDM Spread Spectrum System with MMSE Equalizer for High Speed Data Transmission
+cuet_author_311,cuet_paper_248,Cooperative Communica- tions in A Novel HCOC-QAM OFDM Spread Spectrum System with MMSE Equalizer for High Speed Data Transmission
+cuet_author_312,cuet_paper_248,Cooperative Communica- tions in A Novel HCOC-QAM OFDM Spread Spectrum System with MMSE Equalizer for High Speed Data Transmission
+cuet_author_275,cuet_paper_249,An efficient punctured code combining based cooperative trans- mission scheme for wireless networks
+cuet_author_313,cuet_paper_250,Code-combining Cooperative Diversity Protocol
+cuet_author_314,cuet_paper_251,A Modified Key Sifting Scheme With Artificial Neural Network Based Key Reconciliation Analysis in Quantum Cryptography
+cuet_author_315,cuet_paper_251,A Modified Key Sifting Scheme With Artificial Neural Network Based Key Reconciliation Analysis in Quantum Cryptography
+cuet_author_316,cuet_paper_252,Driving maneuver classification from time series data: a rule based machine learning approach
+cuet_author_317,cuet_paper_252,Driving maneuver classification from time series data: a rule based machine learning approach
+cuet_author_318,cuet_paper_253,Utilizing Off-Chain Storage Protocol for Solving the Trillemma Issue of Blockchain
+cuet_author_319,cuet_paper_254,TOS: A Relative Metric Approach for Model Selection in Machine Learning Solutions
+cuet_author_320,cuet_paper_254,TOS: A Relative Metric Approach for Model Selection in Machine Learning Solutions
+cuet_author_321,cuet_paper_254,TOS: A Relative Metric Approach for Model Selection in Machine Learning Solutions
+cuet_author_322,cuet_paper_255,A Machine Learning Approach to Clinically Diagnose Human Pyrexia Cases
+cuet_author_323,cuet_paper_256,Development of an Efficient ETL Technique for Data Warehouses
+cuet_author_320,cuet_paper_257,OkkhorNama: BdSL Image Dataset For Real Time Object Detection Algorithms
+cuet_author_324,cuet_paper_257,OkkhorNama: BdSL Image Dataset For Real Time Object Detection Algorithms
+cuet_author_325,cuet_paper_257,OkkhorNama: BdSL Image Dataset For Real Time Object Detection Algorithms
+cuet_author_326,cuet_paper_258,A Comparative Analysis of Semi-Supervised Learning in Detecting Burst Header Packet Flooding Attack in Optical Burst Switching Network
+cuet_author_327,cuet_paper_258,A Comparative Analysis of Semi-Supervised Learning in Detecting Burst Header Packet Flooding Attack in Optical Burst Switching Network
+cuet_author_328,cuet_paper_259,Driving Maneuver Classification Using Domain Specific Knowledge and Transfer Learning
+cuet_author_327,cuet_paper_259,Driving Maneuver Classification Using Domain Specific Knowledge and Transfer Learning
+cuet_author_329,cuet_paper_260,Database Security as a Gateway to Privacy Preserving Data Mining
+cuet_author_330,cuet_paper_260,Database Security as a Gateway to Privacy Preserving Data Mining
+cuet_author_331,cuet_paper_260,Database Security as a Gateway to Privacy Preserving Data Mining
+cuet_author_332,cuet_paper_261,An Approach Towards Domain Knowledge-Based Classification of Driving Maneuvers with LSTM Network
+cuet_author_333,cuet_paper_262,Semi-supervised learning approach using modified self-training algorithm to counter burst header packet flooding attack in optical burst switching network
+cuet_author_332,cuet_paper_263,A Data Change Rule Based Empirical Framework for Labeling Unlabeled Time Series Driving Data
+cuet_author_333,cuet_paper_264,A Semi-supervised Approach to Detect Malicious Nodes in OBS Network Dataset Using Gaussian Mixture Model
+cuet_author_334,cuet_paper_265,Analyzing Progressive-BKZ Lattice Reduction Algorithm
+cuet_author_333,cuet_paper_266,A semi-supervised machine learning approach using K-means algorithm to prevent burst header packet flooding attack in optical burst switching network
+cuet_author_335,cuet_paper_267,Elliptic curve and pseudo-inverse matrix based cryptosystem for wireless sensor networks
+cuet_author_273,cuet_paper_268,An improved fitness function for automated cryptanalysis using genetic algorithm
+cuet_author_336,cuet_paper_268,An improved fitness function for automated cryptanalysis using genetic algorithm
+cuet_author_337,cuet_paper_268,An improved fitness function for automated cryptanalysis using genetic algorithm
+cuet_author_338,cuet_paper_268,An improved fitness function for automated cryptanalysis using genetic algorithm
+cuet_author_339,cuet_paper_268,An improved fitness function for automated cryptanalysis using genetic algorithm
+cuet_author_340,cuet_paper_269,Solving Multiple Depot Vehicle Routing Problem (MDVRP) using Genetic Algorithm
+cuet_author_314,cuet_paper_270,"An Efficient Algorithm for Confidentiality, Integrity and Authentication Using Hybrid Cryptography and Steganography"
+cuet_author_341,cuet_paper_270,"An Efficient Algorithm for Confidentiality, Integrity and Authentication Using Hybrid Cryptography and Steganography"
+cuet_author_342,cuet_paper_271,Preprocessing optimisation: Revisiting recursive-BKZ lattice reduction algorithm
+cuet_author_343,cuet_paper_272,Sensor Applications and Physiological Features in Drivers Drowsiness Detection: A Review
+cuet_author_344,cuet_paper_272,Sensor Applications and Physiological Features in Drivers Drowsiness Detection: A Review
+cuet_author_345,cuet_paper_272,Sensor Applications and Physiological Features in Drivers Drowsiness Detection: A Review
+cuet_author_291,cuet_paper_273,Authentication of Diffie-Hellman Protocol Against Man-in-the-Middle Attack Using Cryptographically Secure CRC
+cuet_author_292,cuet_paper_273,Authentication of Diffie-Hellman Protocol Against Man-in-the-Middle Attack Using Cryptographically Secure CRC
+cuet_author_346,cuet_paper_274,An Improved Asymmetric Key Based Security Architecture for WSN
+cuet_author_347,cuet_paper_274,An Improved Asymmetric Key Based Security Architecture for WSN
+cuet_author_342,cuet_paper_275,Analysing recursive preprocessing of BKZ lattice reduction algorithm
+cuet_author_348,cuet_paper_276,Reducing network overhead of IoTDTLS protocol employing ChaCha20 and Poly1305
+cuet_author_349,cuet_paper_276,Reducing network overhead of IoTDTLS protocol employing ChaCha20 and Poly1305
+cuet_author_316,cuet_paper_277,An improved steganographic technique based on diamond encoding method
+cuet_author_350,cuet_paper_277,An improved steganographic technique based on diamond encoding method
+cuet_author_314,cuet_paper_278,A Hierarchical Key Derivative Symmetric Key Algorithm using Digital Logic
+cuet_author_341,cuet_paper_278,A Hierarchical Key Derivative Symmetric Key Algorithm using Digital Logic
+cuet_author_343,cuet_paper_279,An efficient security architecture for Wireless Sensor Networks using pseudo-inverse matrix
+cuet_author_351,cuet_paper_279,An efficient security architecture for Wireless Sensor Networks using pseudo-inverse matrix
+cuet_author_352,cuet_paper_279,An efficient security architecture for Wireless Sensor Networks using pseudo-inverse matrix
+cuet_author_343,cuet_paper_280,A secret key-based security architecture for wireless sensor networks
+cuet_author_351,cuet_paper_280,A secret key-based security architecture for wireless sensor networks
+cuet_author_352,cuet_paper_280,A secret key-based security architecture for wireless sensor networks
+cuet_author_353,cuet_paper_281,Evaluating the performance of the practical lattice reduction algorithms
+cuet_author_354,cuet_paper_282,Predicting tours and probabilistic simulation for BKZ lattice reduction algorithm
+cuet_author_355,cuet_paper_282,Predicting tours and probabilistic simulation for BKZ lattice reduction algorithm
+cuet_author_316,cuet_paper_283,An asymmetric key-based security architecture for wireless sensor networks
+cuet_author_356,cuet_paper_283,An asymmetric key-based security architecture for wireless sensor networks
+cuet_author_357,cuet_paper_283,An asymmetric key-based security architecture for wireless sensor networks
+cuet_author_316,cuet_paper_284,Securing U-healthcare sensor networks using public key based scheme
+cuet_author_358,cuet_paper_284,Securing U-healthcare sensor networks using public key based scheme
+cuet_author_316,cuet_paper_285,An efficient PKC-based security architecture for wireless sensor networks
+cuet_author_356,cuet_paper_285,An efficient PKC-based security architecture for wireless sensor networks
+cuet_author_359,cuet_paper_285,An efficient PKC-based security architecture for wireless sensor networks
+cuet_author_356,cuet_paper_286,Security management in wireless sensor networks with a public key based scheme
+cuet_author_360,cuet_paper_286,Security management in wireless sensor networks with a public key based scheme
+cuet_author_361,cuet_paper_286,Security management in wireless sensor networks with a public key based scheme
+cuet_author_135,cuet_paper_287,Zebra Crossing Detection Based on HSV Colour Model and Projective Invariant for Driver Assistance System
+cuet_author_337,cuet_paper_287,Zebra Crossing Detection Based on HSV Colour Model and Projective Invariant for Driver Assistance System
+cuet_author_362,cuet_paper_287,Zebra Crossing Detection Based on HSV Colour Model and Projective Invariant for Driver Assistance System
+cuet_author_363,cuet_paper_287,Zebra Crossing Detection Based on HSV Colour Model and Projective Invariant for Driver Assistance System
+cuet_author_273,cuet_paper_288,An Impoved Fitness Function for Automated Cryptanalysis using Genetic Algorithm
+cuet_author_336,cuet_paper_288,An Impoved Fitness Function for Automated Cryptanalysis using Genetic Algorithm
+cuet_author_337,cuet_paper_288,An Impoved Fitness Function for Automated Cryptanalysis using Genetic Algorithm
+cuet_author_338,cuet_paper_288,An Impoved Fitness Function for Automated Cryptanalysis using Genetic Algorithm
+cuet_author_316,cuet_paper_288,An Impoved Fitness Function for Automated Cryptanalysis using Genetic Algorithm
+cuet_author_364,cuet_paper_288,An Impoved Fitness Function for Automated Cryptanalysis using Genetic Algorithm
+cuet_author_337,cuet_paper_289,An Approach for Enhancing Security of Cloud Data using Cryptography and Steganography with E-LSB Encoding Technique
+cuet_author_135,cuet_paper_289,An Approach for Enhancing Security of Cloud Data using Cryptography and Steganography with E-LSB Encoding Technique
+cuet_author_365,cuet_paper_289,An Approach for Enhancing Security of Cloud Data using Cryptography and Steganography with E-LSB Encoding Technique
+cuet_author_366,cuet_paper_289,An Approach for Enhancing Security of Cloud Data using Cryptography and Steganography with E-LSB Encoding Technique
+cuet_author_367,cuet_paper_289,An Approach for Enhancing Security of Cloud Data using Cryptography and Steganography with E-LSB Encoding Technique
+cuet_author_368,cuet_paper_290,Optimal Power Allocations of Different Modulations for Multi Channel Cognitive Radio Systems Using Stackelberg Game
+cuet_author_276,cuet_paper_291,Design of an Efficient MAC Protocol for Opportunistic Cognitive Radio Networks
+cuet_author_210,cuet_paper_291,Design of an Efficient MAC Protocol for Opportunistic Cognitive Radio Networks
+cuet_author_180,cuet_paper_291,Design of an Efficient MAC Protocol for Opportunistic Cognitive Radio Networks
+cuet_author_369,cuet_paper_291,Design of an Efficient MAC Protocol for Opportunistic Cognitive Radio Networks
+cuet_author_370,cuet_paper_292,Algorithm for Linear Number Partitioning into Maximum Number of Subsets
+cuet_author_72,cuet_paper_293,Semantic Analysis and Transfer: An Experience with the Bangla Natural Language Sentences
+cuet_author_371,cuet_paper_293,Semantic Analysis and Transfer: An Experience with the Bangla Natural Language Sentences
+cuet_author_337,cuet_paper_294,An Empirical Framework for Spatial Diseases Analysis and Patient Care Recommendation
+cuet_author_273,cuet_paper_294,An Empirical Framework for Spatial Diseases Analysis and Patient Care Recommendation
+cuet_author_336,cuet_paper_294,An Empirical Framework for Spatial Diseases Analysis and Patient Care Recommendation
+cuet_author_372,cuet_paper_294,An Empirical Framework for Spatial Diseases Analysis and Patient Care Recommendation
+cuet_author_368,cuet_paper_295,Optimal Power Allocation for Multichannel Cognitive Radio Systems Using Stackelberg Game
+cuet_author_373,cuet_paper_296,"A Machine Translation Framework for Translating Bangla Assertive, Interrogative and Imperative Sentences into English"
+cuet_author_159,cuet_paper_296,"A Machine Translation Framework for Translating Bangla Assertive, Interrogative and Imperative Sentences into English"
+cuet_author_374,cuet_paper_296,"A Machine Translation Framework for Translating Bangla Assertive, Interrogative and Imperative Sentences into English"
+cuet_author_375,cuet_paper_296,"A Machine Translation Framework for Translating Bangla Assertive, Interrogative and Imperative Sentences into English"
+cuet_author_376,cuet_paper_297,Design an efficient MAC Protocol for Cognitive Radio Systems using Game Theory
+cuet_author_180,cuet_paper_297,Design an efficient MAC Protocol for Cognitive Radio Systems using Game Theory
+cuet_author_337,cuet_paper_297,Design an efficient MAC Protocol for Cognitive Radio Systems using Game Theory
+cuet_author_256,cuet_paper_298,An Agent Based Parallel and Secure Framework to Collect Feedbacks
+cuet_author_377,cuet_paper_298,An Agent Based Parallel and Secure Framework to Collect Feedbacks
+cuet_author_378,cuet_paper_299,Detection of Malaria Parasite in Giemsa Blood Sample Using Image Processing
+cuet_author_41,cuet_paper_299,Detection of Malaria Parasite in Giemsa Blood Sample Using Image Processing
+cuet_author_256,cuet_paper_299,Detection of Malaria Parasite in Giemsa Blood Sample Using Image Processing
+cuet_author_29,cuet_paper_299,Detection of Malaria Parasite in Giemsa Blood Sample Using Image Processing
+cuet_author_256,cuet_paper_300,Performance Analysis of Node-Disjoint Multipath in MANET: A Modified Approach
+cuet_author_379,cuet_paper_301,Agent Command Manipulation System using Two Keys Encryption Model
+cuet_author_250,cuet_paper_302,Agent-Based Privacy Aware Feedback System
+cuet_author_256,cuet_paper_302,Agent-Based Privacy Aware Feedback System
+cuet_author_260,cuet_paper_302,Agent-Based Privacy Aware Feedback System
+cuet_author_380,cuet_paper_303,A Novel Approach to find the Complete Node Disjoint Multipath in MANET
+cuet_author_32,cuet_paper_304,Shadow processing with color model adjustment and texture analysis
+cuet_author_33,cuet_paper_304,Shadow processing with color model adjustment and texture analysis
+cuet_author_34,cuet_paper_304,Shadow processing with color model adjustment and texture analysis
+cuet_author_35,cuet_paper_304,Shadow processing with color model adjustment and texture analysis
+cuet_author_33,cuet_paper_305,"SVD-Based Image Watermarking Using the Fast Walsh-Hadamard Transform, Key Mapping, and Coefficient Ordering for Ownership Protection"
+cuet_author_2,cuet_paper_305,"SVD-Based Image Watermarking Using the Fast Walsh-Hadamard Transform, Key Mapping, and Coefficient Ordering for Ownership Protection"
+cuet_author_381,cuet_paper_305,"SVD-Based Image Watermarking Using the Fast Walsh-Hadamard Transform, Key Mapping, and Coefficient Ordering for Ownership Protection"
+cuet_author_382,cuet_paper_306,A Comparative Study on Handwritten Bangla Character Recognition
+cuet_author_1,cuet_paper_306,A Comparative Study on Handwritten Bangla Character Recognition
+cuet_author_50,cuet_paper_306,A Comparative Study on Handwritten Bangla Character Recognition
+cuet_author_383,cuet_paper_306,A Comparative Study on Handwritten Bangla Character Recognition
+cuet_author_59,cuet_paper_307,Illegally Parked Vehicle Detection Based on Haar-Cascade Classifier
+cuet_author_1,cuet_paper_307,Illegally Parked Vehicle Detection Based on Haar-Cascade Classifier
+cuet_author_33,cuet_paper_307,Illegally Parked Vehicle Detection Based on Haar-Cascade Classifier
+cuet_author_60,cuet_paper_307,Illegally Parked Vehicle Detection Based on Haar-Cascade Classifier
+cuet_author_55,cuet_paper_308,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_56,cuet_paper_308,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_33,cuet_paper_308,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_57,cuet_paper_308,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_110,cuet_paper_308,Human Detection Based on HOG-LBP for Monitoring Sterile Zone
+cuet_author_67,cuet_paper_309,Baggage Recognition in Occluded Environment using Boosting Technique
+cuet_author_67,cuet_paper_310,Baggage Detection and Classification using Human Body Parameter & Boosting Technique
+cuet_author_33,cuet_paper_311,A Tree-Based Arithmetic Coding by Estimating Exact Probability Distribution for Data Compression
+cuet_author_384,cuet_paper_311,A Tree-Based Arithmetic Coding by Estimating Exact Probability Distribution for Data Compression
+cuet_author_67,cuet_paper_312,Human and Carried Baggage Detection & Classification based on RSD-HOG in Video Frame
+cuet_author_125,cuet_paper_313,An Efficient Framework for Detecting Face Region Based on Skin Color Modeling and SVM Classifier
+cuet_author_124,cuet_paper_313,An Efficient Framework for Detecting Face Region Based on Skin Color Modeling and SVM Classifier
+cuet_author_123,cuet_paper_314,Color Image Watermarking Based on LU Decomposition
+cuet_author_67,cuet_paper_314,Color Image Watermarking Based on LU Decomposition
+cuet_author_1,cuet_paper_315,Detecting Anomalous Behavior of Credit Card Transaction using Statistical Approach
+cuet_author_77,cuet_paper_315,Detecting Anomalous Behavior of Credit Card Transaction using Statistical Approach
+cuet_author_385,cuet_paper_316,Video Watermarking Scheme using Second Level Discrete Wavelet Transformation (DWT) and Fast Fourier Transformation
+cuet_author_67,cuet_paper_316,Video Watermarking Scheme using Second Level Discrete Wavelet Transformation (DWT) and Fast Fourier Transformation
+cuet_author_386,cuet_paper_317,Vision-Based Driver’s Attention Monitoring System for Smart Vehicles
+cuet_author_387,cuet_paper_318,Automatic Detection of Suspicious Bangla Text Using Logistic Regression
+cuet_author_388,cuet_paper_319,Sentiment Analysis of Bengali Texts on Online Restaurant Reviews Using Multinomial Naive Bayes
+cuet_author_159,cuet_paper_319,Sentiment Analysis of Bengali Texts on Online Restaurant Reviews Using Multinomial Naive Bayes
+cuet_author_158,cuet_paper_319,Sentiment Analysis of Bengali Texts on Online Restaurant Reviews Using Multinomial Naive Bayes
+cuet_author_389,cuet_paper_320,A comparative study on handwritten Bangla character recognition
+cuet_author_390,cuet_paper_320,A comparative study on handwritten Bangla character recognition
+cuet_author_391,cuet_paper_320,A comparative study on handwritten Bangla character recognition
+cuet_author_392,cuet_paper_320,A comparative study on handwritten Bangla character recognition
+cuet_author_393,cuet_paper_320,A comparative study on handwritten Bangla character recognition
+cuet_author_394,cuet_paper_321,A Secured Electronic Voting System Using Blockchain
+cuet_author_395,cuet_paper_321,A Secured Electronic Voting System Using Blockchain
+cuet_author_250,cuet_paper_321,A Secured Electronic Voting System Using Blockchain
+cuet_author_396,cuet_paper_321,A Secured Electronic Voting System Using Blockchain
+cuet_author_397,cuet_paper_322,Towards a Framework for Acquisition and Analysis of Speeches to Identify Suspicious Contents through Machine Learning
+cuet_author_250,cuet_paper_322,Towards a Framework for Acquisition and Analysis of Speeches to Identify Suspicious Contents through Machine Learning
+cuet_author_398,cuet_paper_322,Towards a Framework for Acquisition and Analysis of Speeches to Identify Suspicious Contents through Machine Learning
+cuet_author_399,cuet_paper_322,Towards a Framework for Acquisition and Analysis of Speeches to Identify Suspicious Contents through Machine Learning
+cuet_author_400,cuet_paper_322,Towards a Framework for Acquisition and Analysis of Speeches to Identify Suspicious Contents through Machine Learning
+cuet_author_401,cuet_paper_323,Aspect Based Sentiment Classification and Contradiction Analysis of Product Reviews
+cuet_author_397,cuet_paper_323,Aspect Based Sentiment Classification and Contradiction Analysis of Product Reviews
+cuet_author_250,cuet_paper_323,Aspect Based Sentiment Classification and Contradiction Analysis of Product Reviews
+cuet_author_18,cuet_paper_324,A Transfer Learning Approach to Recognize Pedestrian Attributes
+cuet_author_29,cuet_paper_324,A Transfer Learning Approach to Recognize Pedestrian Attributes
+cuet_author_1,cuet_paper_324,A Transfer Learning Approach to Recognize Pedestrian Attributes
+cuet_author_18,cuet_paper_325,A Framework for Pedestrian Attribute Recognition Using Deep Learning.
+cuet_author_1,cuet_paper_325,A Framework for Pedestrian Attribute Recognition Using Deep Learning.
+cuet_author_402,cuet_paper_325,A Framework for Pedestrian Attribute Recognition Using Deep Learning.
+cuet_author_403,cuet_paper_325,A Framework for Pedestrian Attribute Recognition Using Deep Learning.
+cuet_author_404,cuet_paper_326,A Framework for Industrial Inspection System using Deep Learning
+cuet_author_405,cuet_paper_326,A Framework for Industrial Inspection System using Deep Learning
+cuet_author_406,cuet_paper_326,A Framework for Industrial Inspection System using Deep Learning
+cuet_author_272,cuet_paper_327,Attention-Based Human Age Estimation from Face Images to Enhance Public Security
+cuet_author_16,cuet_paper_327,Attention-Based Human Age Estimation from Face Images to Enhance Public Security
+cuet_author_1,cuet_paper_327,Attention-Based Human Age Estimation from Face Images to Enhance Public Security
+cuet_author_407,cuet_paper_327,Attention-Based Human Age Estimation from Face Images to Enhance Public Security
+cuet_author_408,cuet_paper_328,Human Pose Estimation Using Parallel Architecture
+cuet_author_16,cuet_paper_329,Multi-Person Pose Estimation Using Group-Based Convolutional Neural Network Model
+cuet_author_1,cuet_paper_329,Multi-Person Pose Estimation Using Group-Based Convolutional Neural Network Model
+cuet_author_31,cuet_paper_329,Multi-Person Pose Estimation Using Group-Based Convolutional Neural Network Model
+cuet_author_2,cuet_paper_329,Multi-Person Pose Estimation Using Group-Based Convolutional Neural Network Model
+cuet_author_3,cuet_paper_329,Multi-Person Pose Estimation Using Group-Based Convolutional Neural Network Model
+cuet_author_16,cuet_paper_330,Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Network
+cuet_author_31,cuet_paper_330,Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Network
+cuet_author_409,cuet_paper_330,Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Network
+cuet_author_16,cuet_paper_331,Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Network
+cuet_author_31,cuet_paper_331,Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Network
+cuet_author_409,cuet_paper_331,Jointly Learning Structure for Human Pose Estimation using Convolutional Neural Network
+cuet_author_399,cuet_paper_332,Recursive independent component analysis (ICA)-decomposition of ictal EEG to select the best ictal component for EEG source imaging
+cuet_author_410,cuet_paper_332,Recursive independent component analysis (ICA)-decomposition of ictal EEG to select the best ictal component for EEG source imaging
+cuet_author_411,cuet_paper_332,Recursive independent component analysis (ICA)-decomposition of ictal EEG to select the best ictal component for EEG source imaging
+cuet_author_412,cuet_paper_332,Recursive independent component analysis (ICA)-decomposition of ictal EEG to select the best ictal component for EEG source imaging
+cuet_author_413,cuet_paper_332,Recursive independent component analysis (ICA)-decomposition of ictal EEG to select the best ictal component for EEG source imaging
+cuet_author_399,cuet_paper_333,Ictal EEG source imaging for presurgical evaluation of refractory focal epilepsy
+cuet_author_410,cuet_paper_333,Ictal EEG source imaging for presurgical evaluation of refractory focal epilepsy
+cuet_author_411,cuet_paper_333,Ictal EEG source imaging for presurgical evaluation of refractory focal epilepsy
+cuet_author_412,cuet_paper_333,Ictal EEG source imaging for presurgical evaluation of refractory focal epilepsy
+cuet_author_414,cuet_paper_333,Ictal EEG source imaging for presurgical evaluation of refractory focal epilepsy
+cuet_author_413,cuet_paper_333,Ictal EEG source imaging for presurgical evaluation of refractory focal epilepsy
+cuet_author_415,cuet_paper_334,Recursive approach to the design of a parallel self-timed adder
+cuet_author_416,cuet_paper_334,Recursive approach to the design of a parallel self-timed adder
+cuet_author_399,cuet_paper_334,Recursive approach to the design of a parallel self-timed adder
+cuet_author_399,cuet_paper_335,Smartphone-based solutions for fall detection and prevention: challenges and open issues
+cuet_author_411,cuet_paper_335,Smartphone-based solutions for fall detection and prevention: challenges and open issues
+cuet_author_412,cuet_paper_335,Smartphone-based solutions for fall detection and prevention: challenges and open issues
+cuet_author_413,cuet_paper_335,Smartphone-based solutions for fall detection and prevention: challenges and open issues
+cuet_author_417,cuet_paper_335,Smartphone-based solutions for fall detection and prevention: challenges and open issues
+cuet_author_410,cuet_paper_335,Smartphone-based solutions for fall detection and prevention: challenges and open issues

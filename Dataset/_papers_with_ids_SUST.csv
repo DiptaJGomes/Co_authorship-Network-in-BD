@@ -1,0 +1,818 @@
+Author ID,Paper ID,Title
+sust_author_0,sust_paper_0, SUMono: A Representative Modern Bengali Corpus
+sust_author_1,sust_paper_0, SUMono: A Representative Modern Bengali Corpus
+sust_author_2,sust_paper_0, SUMono: A Representative Modern Bengali Corpus
+sust_author_0,sust_paper_1, SUPara: A Balanced English-Bengali Parallel Corpus
+sust_author_1,sust_paper_1, SUPara: A Balanced English-Bengali Parallel Corpus
+sust_author_3,sust_paper_1, SUPara: A Balanced English-Bengali Parallel Corpus
+sust_author_0,sust_paper_2, An Implementation of Machine Translation between Bangla and English
+sust_author_4,sust_paper_2, An Implementation of Machine Translation between Bangla and English
+sust_author_5,sust_paper_2, An Implementation of Machine Translation between Bangla and English
+sust_author_6,sust_paper_2, An Implementation of Machine Translation between Bangla and English
+sust_author_0,sust_paper_3, An Implementation of Machine Translation between Bangla and English
+sust_author_4,sust_paper_3, An Implementation of Machine Translation between Bangla and English
+sust_author_5,sust_paper_3, An Implementation of Machine Translation between Bangla and English
+sust_author_6,sust_paper_3, An Implementation of Machine Translation between Bangla and English
+sust_author_7,sust_paper_4, A Fine-Grained Tagset for Bengali Language
+sust_author_7,sust_paper_5, Proposed Tagging Techniques for Bengali
+sust_author_8,sust_paper_6, Developing an Automated Bangla Parts of Speech Tagged Dictionary
+sust_author_9,sust_paper_6, Developing an Automated Bangla Parts of Speech Tagged Dictionary
+sust_author_10,sust_paper_7,A Context Free Spell Correction Method using Supervised Machine Learning Algorithms
+sust_author_11,sust_paper_7,A Context Free Spell Correction Method using Supervised Machine Learning Algorithms
+sust_author_12,sust_paper_8,A Multi Layer Perceptron Along with Memory Efficient Feature Extraction Approach for Bengali Document Categorization
+sust_author_13,sust_paper_8,A Multi Layer Perceptron Along with Memory Efficient Feature Extraction Approach for Bengali Document Categorization
+sust_author_11,sust_paper_8,A Multi Layer Perceptron Along with Memory Efficient Feature Extraction Approach for Bengali Document Categorization
+sust_author_10,sust_paper_9,Design and Development of an E-Commerce System in a Rapid Organized Way
+sust_author_11,sust_paper_9,Design and Development of an E-Commerce System in a Rapid Organized Way
+sust_author_14,sust_paper_10,Optimal Bangla Keypad Layout for Mobile Phone based on Ergonomics
+sust_author_15,sust_paper_10,Optimal Bangla Keypad Layout for Mobile Phone based on Ergonomics
+sust_author_14,sust_paper_11,Sensor-Based Automated River Monitoring System – Perspective to Bangladesh
+sust_author_16,sust_paper_11,Sensor-Based Automated River Monitoring System – Perspective to Bangladesh
+sust_author_17,sust_paper_11,Sensor-Based Automated River Monitoring System – Perspective to Bangladesh
+sust_author_14,sust_paper_12,Secured-DSR : Modification of Conventional DSR Protocol for Hierarchical Multitier Ad Hoc Town
+sust_author_18,sust_paper_12,Secured-DSR : Modification of Conventional DSR Protocol for Hierarchical Multitier Ad Hoc Town
+sust_author_19,sust_paper_13,Design and Implementation of Microprocessor Based Electronic Voting System
+sust_author_14,sust_paper_13,Design and Implementation of Microprocessor Based Electronic Voting System
+sust_author_20,sust_paper_13,Design and Implementation of Microprocessor Based Electronic Voting System
+sust_author_11,sust_paper_14,Mobile Location Service (MLS): An enormous market opportunity for mobile operators in Bangladesh
+sust_author_21,sust_paper_14,Mobile Location Service (MLS): An enormous market opportunity for mobile operators in Bangladesh
+sust_author_22,sust_paper_14,Mobile Location Service (MLS): An enormous market opportunity for mobile operators in Bangladesh
+sust_author_23,sust_paper_14,Mobile Location Service (MLS): An enormous market opportunity for mobile operators in Bangladesh
+sust_author_24,sust_paper_15,Comparative Study on Cluster on Programming Tools
+sust_author_25,sust_paper_15,Comparative Study on Cluster on Programming Tools
+sust_author_26,sust_paper_15,Comparative Study on Cluster on Programming Tools
+sust_author_14,sust_paper_16,A Dynamic Wavelength Assignment algorithm for the changing internodal traffic in all-optical ring network
+sust_author_27,sust_paper_16,A Dynamic Wavelength Assignment algorithm for the changing internodal traffic in all-optical ring network
+sust_author_28,sust_paper_17,BanSpeech: A Multi-domain Bangla Speech Recognition Benchmark Towards Robust Performance in Challenging Conditions
+sust_author_29,sust_paper_17,BanSpeech: A Multi-domain Bangla Speech Recognition Benchmark Towards Robust Performance in Challenging Conditions
+sust_author_30,sust_paper_17,BanSpeech: A Multi-domain Bangla Speech Recognition Benchmark Towards Robust Performance in Challenging Conditions
+sust_author_31,sust_paper_17,BanSpeech: A Multi-domain Bangla Speech Recognition Benchmark Towards Robust Performance in Challenging Conditions
+sust_author_32,sust_paper_17,BanSpeech: A Multi-domain Bangla Speech Recognition Benchmark Towards Robust Performance in Challenging Conditions
+sust_author_33,sust_paper_17,BanSpeech: A Multi-domain Bangla Speech Recognition Benchmark Towards Robust Performance in Challenging Conditions
+sust_author_34,sust_paper_17,BanSpeech: A Multi-domain Bangla Speech Recognition Benchmark Towards Robust Performance in Challenging Conditions
+sust_author_35,sust_paper_17,BanSpeech: A Multi-domain Bangla Speech Recognition Benchmark Towards Robust Performance in Challenging Conditions
+sust_author_36,sust_paper_17,BanSpeech: A Multi-domain Bangla Speech Recognition Benchmark Towards Robust Performance in Challenging Conditions
+sust_author_37,sust_paper_17,BanSpeech: A Multi-domain Bangla Speech Recognition Benchmark Towards Robust Performance in Challenging Conditions
+sust_author_38,sust_paper_17,BanSpeech: A Multi-domain Bangla Speech Recognition Benchmark Towards Robust Performance in Challenging Conditions
+sust_author_39,sust_paper_17,BanSpeech: A Multi-domain Bangla Speech Recognition Benchmark Towards Robust Performance in Challenging Conditions
+sust_author_40,sust_paper_17,BanSpeech: A Multi-domain Bangla Speech Recognition Benchmark Towards Robust Performance in Challenging Conditions
+sust_author_41,sust_paper_17,BanSpeech: A Multi-domain Bangla Speech Recognition Benchmark Towards Robust Performance in Challenging Conditions
+sust_author_42,sust_paper_18,Bangla Text Normalization for Text-to-speech Synthesizer Using Machine Learning Algorithms
+sust_author_43,sust_paper_18,Bangla Text Normalization for Text-to-speech Synthesizer Using Machine Learning Algorithms
+sust_author_44,sust_paper_18,Bangla Text Normalization for Text-to-speech Synthesizer Using Machine Learning Algorithms
+sust_author_45,sust_paper_18,Bangla Text Normalization for Text-to-speech Synthesizer Using Machine Learning Algorithms
+sust_author_46,sust_paper_18,Bangla Text Normalization for Text-to-speech Synthesizer Using Machine Learning Algorithms
+sust_author_41,sust_paper_18,Bangla Text Normalization for Text-to-speech Synthesizer Using Machine Learning Algorithms
+sust_author_47,sust_paper_19,EmoBone: A Multinational Audio Dataset of Emotional Bone Conducted Speech
+sust_author_41,sust_paper_19,EmoBone: A Multinational Audio Dataset of Emotional Bone Conducted Speech
+sust_author_48,sust_paper_19,EmoBone: A Multinational Audio Dataset of Emotional Bone Conducted Speech
+sust_author_49,sust_paper_19,EmoBone: A Multinational Audio Dataset of Emotional Bone Conducted Speech
+sust_author_50,sust_paper_19,EmoBone: A Multinational Audio Dataset of Emotional Bone Conducted Speech
+sust_author_41,sust_paper_19,EmoBone: A Multinational Audio Dataset of Emotional Bone Conducted Speech
+sust_author_51,sust_paper_19,EmoBone: A Multinational Audio Dataset of Emotional Bone Conducted Speech
+sust_author_52,sust_paper_19,EmoBone: A Multinational Audio Dataset of Emotional Bone Conducted Speech
+sust_author_42,sust_paper_20,Mathematical analysis and prediction of future outbreak of dengue on time-varying contact rate using machine learning approach
+sust_author_41,sust_paper_20,Mathematical analysis and prediction of future outbreak of dengue on time-varying contact rate using machine learning approach
+sust_author_53,sust_paper_20,Mathematical analysis and prediction of future outbreak of dengue on time-varying contact rate using machine learning approach
+sust_author_39,sust_paper_20,Mathematical analysis and prediction of future outbreak of dengue on time-varying contact rate using machine learning approach
+sust_author_54,sust_paper_20,Mathematical analysis and prediction of future outbreak of dengue on time-varying contact rate using machine learning approach
+sust_author_55,sust_paper_20,Mathematical analysis and prediction of future outbreak of dengue on time-varying contact rate using machine learning approach
+sust_author_56,sust_paper_20,Mathematical analysis and prediction of future outbreak of dengue on time-varying contact rate using machine learning approach
+sust_author_37,sust_paper_20,Mathematical analysis and prediction of future outbreak of dengue on time-varying contact rate using machine learning approach
+sust_author_46,sust_paper_20,Mathematical analysis and prediction of future outbreak of dengue on time-varying contact rate using machine learning approach
+sust_author_41,sust_paper_20,Mathematical analysis and prediction of future outbreak of dengue on time-varying contact rate using machine learning approach
+sust_author_57,sust_paper_21,Acoustic feature analysis and optimization for Bangla speech emotion recognition
+sust_author_58,sust_paper_21,Acoustic feature analysis and optimization for Bangla speech emotion recognition
+sust_author_46,sust_paper_21,Acoustic feature analysis and optimization for Bangla speech emotion recognition
+sust_author_41,sust_paper_21,Acoustic feature analysis and optimization for Bangla speech emotion recognition
+sust_author_57,sust_paper_22,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_58,sust_paper_22,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_59,sust_paper_22,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_60,sust_paper_22,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_61,sust_paper_22,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_43,sust_paper_22,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_62,sust_paper_22,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_63,sust_paper_22,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_46,sust_paper_22,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_41,sust_paper_22,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_64,sust_paper_23,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_58,sust_paper_23,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_28,sust_paper_23,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_29,sust_paper_23,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_30,sust_paper_23,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_31,sust_paper_23,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_50,sust_paper_23,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_41,sust_paper_23,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_61,sust_paper_23,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_43,sust_paper_23,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_65,sust_paper_23,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_60,sust_paper_23,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_66,sust_paper_24,Effect of pole/zero manipulation in estimating the group delay spectrum
+sust_author_67,sust_paper_24,Effect of pole/zero manipulation in estimating the group delay spectrum
+sust_author_46,sust_paper_24,Effect of pole/zero manipulation in estimating the group delay spectrum
+sust_author_41,sust_paper_24,Effect of pole/zero manipulation in estimating the group delay spectrum
+sust_author_66,sust_paper_25,Formant estimation of high-pitched noisy speech using homomorphic deconvolution of higher-order group delay spectrum
+sust_author_68,sust_paper_25,Formant estimation of high-pitched noisy speech using homomorphic deconvolution of higher-order group delay spectrum
+sust_author_41,sust_paper_25,Formant estimation of high-pitched noisy speech using homomorphic deconvolution of higher-order group delay spectrum
+sust_author_64,sust_paper_26,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_58,sust_paper_26,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_50,sust_paper_26,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_41,sust_paper_26,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_61,sust_paper_26,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_43,sust_paper_26,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_65,sust_paper_26,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_60,sust_paper_26,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_69,sust_paper_27,Formant estimation from speech signal using the magnitude spectrum modified with group delay spectrum
+sust_author_57,sust_paper_28,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_58,sust_paper_28,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_50,sust_paper_28,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_41,sust_paper_28,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_61,sust_paper_28,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_43,sust_paper_28,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_65,sust_paper_28,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_60,sust_paper_28,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_28,sust_paper_29,Deep learning based large vocabulary continuous speech recognition of an under-resourced language Bangladeshi Bangla
+sust_author_29,sust_paper_29,Deep learning based large vocabulary continuous speech recognition of an under-resourced language Bangladeshi Bangla
+sust_author_30,sust_paper_29,Deep learning based large vocabulary continuous speech recognition of an under-resourced language Bangladeshi Bangla
+sust_author_31,sust_paper_29,Deep learning based large vocabulary continuous speech recognition of an under-resourced language Bangladeshi Bangla
+sust_author_64,sust_paper_29,Deep learning based large vocabulary continuous speech recognition of an under-resourced language Bangladeshi Bangla
+sust_author_58,sust_paper_29,Deep learning based large vocabulary continuous speech recognition of an under-resourced language Bangladeshi Bangla
+sust_author_46,sust_paper_29,Deep learning based large vocabulary continuous speech recognition of an under-resourced language Bangladeshi Bangla
+sust_author_41,sust_paper_29,Deep learning based large vocabulary continuous speech recognition of an under-resourced language Bangladeshi Bangla
+sust_author_70,sust_paper_30,Towards Developing Uniform Lexicon Based Sorting Algorithm for Three Prominent Indo-Aryan Languages
+sust_author_43,sust_paper_30,Towards Developing Uniform Lexicon Based Sorting Algorithm for Three Prominent Indo-Aryan Languages
+sust_author_71,sust_paper_30,Towards Developing Uniform Lexicon Based Sorting Algorithm for Three Prominent Indo-Aryan Languages
+sust_author_72,sust_paper_30,Towards Developing Uniform Lexicon Based Sorting Algorithm for Three Prominent Indo-Aryan Languages
+sust_author_73,sust_paper_30,Towards Developing Uniform Lexicon Based Sorting Algorithm for Three Prominent Indo-Aryan Languages
+sust_author_29,sust_paper_30,Towards Developing Uniform Lexicon Based Sorting Algorithm for Three Prominent Indo-Aryan Languages
+sust_author_46,sust_paper_30,Towards Developing Uniform Lexicon Based Sorting Algorithm for Three Prominent Indo-Aryan Languages
+sust_author_41,sust_paper_30,Towards Developing Uniform Lexicon Based Sorting Algorithm for Three Prominent Indo-Aryan Languages
+sust_author_44,sust_paper_31,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_45,sust_paper_31,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_61,sust_paper_31,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_74,sust_paper_31,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_59,sust_paper_31,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_75,sust_paper_31,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_46,sust_paper_31,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_76,sust_paper_31,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_57,sust_paper_32,Recent advancement in speech recognition for bangla: A survey
+sust_author_58,sust_paper_32,Recent advancement in speech recognition for bangla: A survey
+sust_author_50,sust_paper_32,Recent advancement in speech recognition for bangla: A survey
+sust_author_41,sust_paper_32,Recent advancement in speech recognition for bangla: A survey
+sust_author_65,sust_paper_32,Recent advancement in speech recognition for bangla: A survey
+sust_author_60,sust_paper_32,Recent advancement in speech recognition for bangla: A survey
+sust_author_77,sust_paper_33,Amplitude Variation of Bone Conducted Speech Compared to Air Conducted Speech
+sust_author_77,sust_paper_34,Multisensory Speech Enhancement Using Lower Frequency Components From Bone Conducted speech
+sust_author_69,sust_paper_35,Speech Signal Analysis in Phase Domain
+sust_author_78,sust_paper_36,SuVashantor: English to Bangla Machine Translation Systems
+sust_author_79,sust_paper_36,SuVashantor: English to Bangla Machine Translation Systems
+sust_author_80,sust_paper_36,SuVashantor: English to Bangla Machine Translation Systems
+sust_author_81,sust_paper_37,A dictionary-based text compression technique using quaternary code
+sust_author_82,sust_paper_37,A dictionary-based text compression technique using quaternary code
+sust_author_83,sust_paper_38,An Encoder- Decoder Based Grapheme-to-Phoneme Converter for Bangla Speech Synthesis
+sust_author_84,sust_paper_38,An Encoder- Decoder Based Grapheme-to-Phoneme Converter for Bangla Speech Synthesis
+sust_author_85,sust_paper_38,An Encoder- Decoder Based Grapheme-to-Phoneme Converter for Bangla Speech Synthesis
+sust_author_81,sust_paper_39,Huffman Based Code Generation Algorithms: Data Compression Perspectives
+sust_author_82,sust_paper_39,Huffman Based Code Generation Algorithms: Data Compression Perspectives
+sust_author_86,sust_paper_40,Balancing decoding speed and memory usage for Huffman codes using quaternary tree
+sust_author_77,sust_paper_41,Pitch Determination from Bone Conducted Speech
+sust_author_87,sust_paper_42,A Comparative Study between Brightness Preserving Bi-histogram and Tri-histogram Equalization for Image Contrast Enhancement
+sust_author_88,sust_paper_42,A Comparative Study between Brightness Preserving Bi-histogram and Tri-histogram Equalization for Image Contrast Enhancement
+sust_author_41,sust_paper_42,A Comparative Study between Brightness Preserving Bi-histogram and Tri-histogram Equalization for Image Contrast Enhancement
+sust_author_36,sust_paper_43,Fundamental Frequency Extraction of Noisy Speech Signals
+sust_author_89,sust_paper_43,Fundamental Frequency Extraction of Noisy Speech Signals
+sust_author_90,sust_paper_43,Fundamental Frequency Extraction of Noisy Speech Signals
+sust_author_91,sust_paper_43,Fundamental Frequency Extraction of Noisy Speech Signals
+sust_author_92,sust_paper_43,Fundamental Frequency Extraction of Noisy Speech Signals
+sust_author_93,sust_paper_43,Fundamental Frequency Extraction of Noisy Speech Signals
+sust_author_94,sust_paper_43,Fundamental Frequency Extraction of Noisy Speech Signals
+sust_author_63,sust_paper_43,Fundamental Frequency Extraction of Noisy Speech Signals
+sust_author_95,sust_paper_43,Fundamental Frequency Extraction of Noisy Speech Signals
+sust_author_96,sust_paper_43,Fundamental Frequency Extraction of Noisy Speech Signals
+sust_author_97,sust_paper_43,Fundamental Frequency Extraction of Noisy Speech Signals
+sust_author_41,sust_paper_43,Fundamental Frequency Extraction of Noisy Speech Signals
+sust_author_98,sust_paper_44,High Performance Query Operations on Compressed Database
+sust_author_99,sust_paper_44,High Performance Query Operations on Compressed Database
+sust_author_100,sust_paper_44,High Performance Query Operations on Compressed Database
+sust_author_101,sust_paper_45,Windowless Autocorrelation Based Cepstrum Method for Pitch Extraction of Noisy Speech
+sust_author_77,sust_paper_45,Windowless Autocorrelation Based Cepstrum Method for Pitch Extraction of Noisy Speech
+sust_author_102,sust_paper_46,Text Normalization and Diphone Preparation for Bangla Speech Synthesis
+sust_author_103,sust_paper_46,Text Normalization and Diphone Preparation for Bangla Speech Synthesis
+sust_author_100,sust_paper_46,Text Normalization and Diphone Preparation for Bangla Speech Synthesis
+sust_author_104,sust_paper_47,Improved Optical Recognition of Bangla Characters
+sust_author_105,sust_paper_47,Improved Optical Recognition of Bangla Characters
+sust_author_106,sust_paper_47,Improved Optical Recognition of Bangla Characters
+sust_author_107,sust_paper_48,A Review and Prospects of Quantum Teleportation
+sust_author_108,sust_paper_48,A Review and Prospects of Quantum Teleportation
+sust_author_109,sust_paper_48,A Review and Prospects of Quantum Teleportation
+sust_author_100,sust_paper_48,A Review and Prospects of Quantum Teleportation
+sust_author_110,sust_paper_48,A Review and Prospects of Quantum Teleportation
+sust_author_79,sust_paper_49,A Bangla Spell Checking System
+sust_author_111,sust_paper_49,A Bangla Spell Checking System
+sust_author_112,sust_paper_49,A Bangla Spell Checking System
+sust_author_113,sust_paper_49,A Bangla Spell Checking System
+sust_author_114,sust_paper_50,Bangla Sorting Algorithm: A Linguistic Approach
+sust_author_115,sust_paper_51,A Comprehensive Sentiment Analysis on Beauty Product Usage Among Bangladeshi Consumers
+sust_author_116,sust_paper_51,A Comprehensive Sentiment Analysis on Beauty Product Usage Among Bangladeshi Consumers
+sust_author_117,sust_paper_51,A Comprehensive Sentiment Analysis on Beauty Product Usage Among Bangladeshi Consumers
+sust_author_58,sust_paper_51,A Comprehensive Sentiment Analysis on Beauty Product Usage Among Bangladeshi Consumers
+sust_author_118,sust_paper_51,A Comprehensive Sentiment Analysis on Beauty Product Usage Among Bangladeshi Consumers
+sust_author_37,sust_paper_51,A Comprehensive Sentiment Analysis on Beauty Product Usage Among Bangladeshi Consumers
+sust_author_42,sust_paper_52,Bangladeshi Paper Currency Recognition with Improved Dataset Using Vision Transformer
+sust_author_35,sust_paper_52,Bangladeshi Paper Currency Recognition with Improved Dataset Using Vision Transformer
+sust_author_36,sust_paper_52,Bangladeshi Paper Currency Recognition with Improved Dataset Using Vision Transformer
+sust_author_119,sust_paper_52,Bangladeshi Paper Currency Recognition with Improved Dataset Using Vision Transformer
+sust_author_46,sust_paper_52,Bangladeshi Paper Currency Recognition with Improved Dataset Using Vision Transformer
+sust_author_41,sust_paper_52,Bangladeshi Paper Currency Recognition with Improved Dataset Using Vision Transformer
+sust_author_120,sust_paper_53,Drowsiness and Lethargy Detection Using Machine Learning Techniques
+sust_author_121,sust_paper_53,Drowsiness and Lethargy Detection Using Machine Learning Techniques
+sust_author_41,sust_paper_53,Drowsiness and Lethargy Detection Using Machine Learning Techniques
+sust_author_122,sust_paper_54,A SAR-Based Approach to Recognize Text in Syloti Nagri
+sust_author_123,sust_paper_54,A SAR-Based Approach to Recognize Text in Syloti Nagri
+sust_author_124,sust_paper_54,A SAR-Based Approach to Recognize Text in Syloti Nagri
+sust_author_125,sust_paper_54,A SAR-Based Approach to Recognize Text in Syloti Nagri
+sust_author_46,sust_paper_54,A SAR-Based Approach to Recognize Text in Syloti Nagri
+sust_author_41,sust_paper_54,A SAR-Based Approach to Recognize Text in Syloti Nagri
+sust_author_126,sust_paper_55,Automatic Nostalgia Detection from Bengali Text
+sust_author_127,sust_paper_55,Automatic Nostalgia Detection from Bengali Text
+sust_author_128,sust_paper_56,Harnessing the Power of Pretrained Models for Scientific Paper Title Generation
+sust_author_129,sust_paper_56,Harnessing the Power of Pretrained Models for Scientific Paper Title Generation
+sust_author_130,sust_paper_57,Bangla Protest News Categorization Using Deep Learning
+sust_author_131,sust_paper_57,Bangla Protest News Categorization Using Deep Learning
+sust_author_132,sust_paper_57,Bangla Protest News Categorization Using Deep Learning
+sust_author_133,sust_paper_58,PakhiderChobi: A Comprehensive Dataset for Real-time Detection of Bangladeshi Birds
+sust_author_134,sust_paper_58,PakhiderChobi: A Comprehensive Dataset for Real-time Detection of Bangladeshi Birds
+sust_author_135,sust_paper_59,BanglaBeats: A Comprehensive Dataset of Bengali Songs for Music Genre Classification Tasks
+sust_author_136,sust_paper_59,BanglaBeats: A Comprehensive Dataset of Bengali Songs for Music Genre Classification Tasks
+sust_author_137,sust_paper_60,Road Object Detection for Visually Impaired People in Bangladesh
+sust_author_138,sust_paper_60,Road Object Detection for Visually Impaired People in Bangladesh
+sust_author_139,sust_paper_60,Road Object Detection for Visually Impaired People in Bangladesh
+sust_author_45,sust_paper_60,Road Object Detection for Visually Impaired People in Bangladesh
+sust_author_46,sust_paper_60,Road Object Detection for Visually Impaired People in Bangladesh
+sust_author_41,sust_paper_60,Road Object Detection for Visually Impaired People in Bangladesh
+sust_author_140,sust_paper_61,Dynamic Management of Identity Federations using Blockchain
+sust_author_116,sust_paper_61,Dynamic Management of Identity Federations using Blockchain
+sust_author_141,sust_paper_61,Dynamic Management of Identity Federations using Blockchain
+sust_author_142,sust_paper_61,Dynamic Management of Identity Federations using Blockchain
+sust_author_143,sust_paper_61,Dynamic Management of Identity Federations using Blockchain
+sust_author_144,sust_paper_61,Dynamic Management of Identity Federations using Blockchain
+sust_author_145,sust_paper_61,Dynamic Management of Identity Federations using Blockchain
+sust_author_41,sust_paper_61,Dynamic Management of Identity Federations using Blockchain
+sust_author_146,sust_paper_61,Dynamic Management of Identity Federations using Blockchain
+sust_author_147,sust_paper_61,Dynamic Management of Identity Federations using Blockchain
+sust_author_66,sust_paper_61,Dynamic Management of Identity Federations using Blockchain
+sust_author_148,sust_paper_61,Dynamic Management of Identity Federations using Blockchain
+sust_author_46,sust_paper_61,Dynamic Management of Identity Federations using Blockchain
+sust_author_41,sust_paper_61,Dynamic Management of Identity Federations using Blockchain
+sust_author_149,sust_paper_62,End-to-end Bangla speech synthesis
+sust_author_39,sust_paper_62,End-to-end Bangla speech synthesis
+sust_author_150,sust_paper_62,End-to-end Bangla speech synthesis
+sust_author_151,sust_paper_62,End-to-end Bangla speech synthesis
+sust_author_44,sust_paper_62,End-to-end Bangla speech synthesis
+sust_author_45,sust_paper_62,End-to-end Bangla speech synthesis
+sust_author_46,sust_paper_62,End-to-end Bangla speech synthesis
+sust_author_41,sust_paper_62,End-to-end Bangla speech synthesis
+sust_author_152,sust_paper_63,Comparative Study on some water quality parameters by characterizing underground and surface water samples collected from in and around Sylhet city
+sust_author_153,sust_paper_63,Comparative Study on some water quality parameters by characterizing underground and surface water samples collected from in and around Sylhet city
+sust_author_154,sust_paper_63,Comparative Study on some water quality parameters by characterizing underground and surface water samples collected from in and around Sylhet city
+sust_author_64,sust_paper_64,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_58,sust_paper_64,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_28,sust_paper_64,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_29,sust_paper_64,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_30,sust_paper_64,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_31,sust_paper_64,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_50,sust_paper_64,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_41,sust_paper_64,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_61,sust_paper_64,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_43,sust_paper_64,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_65,sust_paper_64,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_60,sust_paper_64,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_57,sust_paper_65,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_58,sust_paper_65,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_50,sust_paper_65,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_41,sust_paper_65,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_61,sust_paper_65,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_43,sust_paper_65,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_65,sust_paper_65,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_60,sust_paper_65,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_44,sust_paper_66,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_45,sust_paper_66,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_61,sust_paper_66,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_74,sust_paper_66,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_59,sust_paper_66,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_75,sust_paper_66,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_46,sust_paper_66,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_76,sust_paper_66,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_57,sust_paper_67,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_58,sust_paper_67,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_59,sust_paper_67,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_60,sust_paper_67,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_61,sust_paper_67,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_43,sust_paper_67,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_62,sust_paper_67,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_63,sust_paper_67,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_46,sust_paper_67,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_41,sust_paper_67,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_78,sust_paper_68,SuVashantor: English to Bangla Machine Translation Systems
+sust_author_79,sust_paper_68,SuVashantor: English to Bangla Machine Translation Systems
+sust_author_80,sust_paper_68,SuVashantor: English to Bangla Machine Translation Systems
+sust_author_64,sust_paper_69,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_58,sust_paper_69,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_50,sust_paper_69,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_41,sust_paper_69,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_61,sust_paper_69,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_43,sust_paper_69,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_65,sust_paper_69,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_60,sust_paper_69,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_83,sust_paper_70,An Encoder- Decoder Based Grapheme-to-Phoneme Converter for Bangla Speech Synthesis
+sust_author_84,sust_paper_70,An Encoder- Decoder Based Grapheme-to-Phoneme Converter for Bangla Speech Synthesis
+sust_author_85,sust_paper_70,An Encoder- Decoder Based Grapheme-to-Phoneme Converter for Bangla Speech Synthesis
+sust_author_0,sust_paper_71,English to Bangla Statistical Machine Translation using Neural Probabilistic Language Model
+sust_author_155,sust_paper_71,English to Bangla Statistical Machine Translation using Neural Probabilistic Language Model
+sust_author_156,sust_paper_71,English to Bangla Statistical Machine Translation using Neural Probabilistic Language Model
+sust_author_157,sust_paper_72,Carrying on the legacy of imperative languages in the future parallel computing era
+sust_author_158,sust_paper_72,Carrying on the legacy of imperative languages in the future parallel computing era
+sust_author_0,sust_paper_73,SUMono: A Representative Modern Bengali Corpus
+sust_author_1,sust_paper_73,SUMono: A Representative Modern Bengali Corpus
+sust_author_6,sust_paper_73,SUMono: A Representative Modern Bengali Corpus
+sust_author_157,sust_paper_74,Extended Bangla Keyboard
+sust_author_159,sust_paper_75,Overcoming the Language Divide between English and Bengali through EBTran System
+sust_author_157,sust_paper_75,Overcoming the Language Divide between English and Bengali through EBTran System
+sust_author_160,sust_paper_75,Overcoming the Language Divide between English and Bengali through EBTran System
+sust_author_0,sust_paper_76,SUPara: A Balanced English-Bengali Parallel Corpus
+sust_author_1,sust_paper_76,SUPara: A Balanced English-Bengali Parallel Corpus
+sust_author_6,sust_paper_76,SUPara: A Balanced English-Bengali Parallel Corpus
+sust_author_157,sust_paper_77,Mapping Bangla Unicode Text to Keyboard Layout Specific Keystrokes
+sust_author_161,sust_paper_77,Mapping Bangla Unicode Text to Keyboard Layout Specific Keystrokes
+sust_author_6,sust_paper_78,Transformational Generative Grammar for Various Types of Bengali Sentences
+sust_author_157,sust_paper_79,A Low Cost and Resilient Message Queuing Middleware
+sust_author_162,sust_paper_79,A Low Cost and Resilient Message Queuing Middleware
+sust_author_163,sust_paper_79,A Low Cost and Resilient Message Queuing Middleware
+sust_author_157,sust_paper_80,Improving Efficiency of Bijoy Keyboard Layout by Repositioning Characters
+sust_author_164,sust_paper_80,Improving Efficiency of Bijoy Keyboard Layout by Repositioning Characters
+sust_author_165,sust_paper_81,Aligning Sentences in English-Bengali Corpora
+sust_author_166,sust_paper_81,Aligning Sentences in English-Bengali Corpora
+sust_author_167,sust_paper_82,Connected Component Analysis Based Two Zone Approach for Bangla Character Segmentation
+sust_author_168,sust_paper_82,Connected Component Analysis Based Two Zone Approach for Bangla Character Segmentation
+sust_author_169,sust_paper_82,Connected Component Analysis Based Two Zone Approach for Bangla Character Segmentation
+sust_author_170,sust_paper_83,A Review of Statistical and Neural Network Based Hybrid Machine Translators
+sust_author_171,sust_paper_83,A Review of Statistical and Neural Network Based Hybrid Machine Translators
+sust_author_172,sust_paper_83,A Review of Statistical and Neural Network Based Hybrid Machine Translators
+sust_author_173,sust_paper_84,A Sequence-to-Sequence Pronunciation Model for Bangla Speech Synthesis
+sust_author_174,sust_paper_84,A Sequence-to-Sequence Pronunciation Model for Bangla Speech Synthesis
+sust_author_175,sust_paper_84,A Sequence-to-Sequence Pronunciation Model for Bangla Speech Synthesis
+sust_author_176,sust_paper_84,A Sequence-to-Sequence Pronunciation Model for Bangla Speech Synthesis
+sust_author_177,sust_paper_85,Acoustic Analysis of Accent-Specific Pronunciation Effect on Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_171,sust_paper_85,Acoustic Analysis of Accent-Specific Pronunciation Effect on Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_178,sust_paper_85,Acoustic Analysis of Accent-Specific Pronunciation Effect on Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_179,sust_paper_86,An Improvement of REM: A Replication Oriented Event-Based Middleware
+sust_author_157,sust_paper_86,An Improvement of REM: A Replication Oriented Event-Based Middleware
+sust_author_162,sust_paper_86,An Improvement of REM: A Replication Oriented Event-Based Middleware
+sust_author_180,sust_paper_86,An Improvement of REM: A Replication Oriented Event-Based Middleware
+sust_author_157,sust_paper_87,Ensuring Reliability and Availability of Soft System Bus
+sust_author_162,sust_paper_87,Ensuring Reliability and Availability of Soft System Bus
+sust_author_163,sust_paper_87,Ensuring Reliability and Availability of Soft System Bus
+sust_author_157,sust_paper_88,A Replication Oriented Approach to Event Based Middleware Over Structured Peer to Peer Networks
+sust_author_162,sust_paper_88,A Replication Oriented Approach to Event Based Middleware Over Structured Peer to Peer Networks
+sust_author_163,sust_paper_88,A Replication Oriented Approach to Event Based Middleware Over Structured Peer to Peer Networks
+sust_author_157,sust_paper_89,Distributed Hash Table Based Design of Soft System Buses
+sust_author_181,sust_paper_89,Distributed Hash Table Based Design of Soft System Buses
+sust_author_162,sust_paper_89,Distributed Hash Table Based Design of Soft System Buses
+sust_author_163,sust_paper_89,Distributed Hash Table Based Design of Soft System Buses
+sust_author_182,sust_paper_90,POP method: an approach to enhance the security and privacy of RFID systems used in product lifecycle with an anonymous ownership transferring mechanism
+sust_author_183,sust_paper_90,POP method: an approach to enhance the security and privacy of RFID systems used in product lifecycle with an anonymous ownership transferring mechanism
+sust_author_184,sust_paper_90,POP method: an approach to enhance the security and privacy of RFID systems used in product lifecycle with an anonymous ownership transferring mechanism
+sust_author_185,sust_paper_90,POP method: an approach to enhance the security and privacy of RFID systems used in product lifecycle with an anonymous ownership transferring mechanism
+sust_author_186,sust_paper_90,POP method: an approach to enhance the security and privacy of RFID systems used in product lifecycle with an anonymous ownership transferring mechanism
+sust_author_187,sust_paper_91,A Comparison between Soft System Bus and Enterprise Service Bus from the Viewpoint of Dynamic Reconfiguration
+sust_author_157,sust_paper_91,A Comparison between Soft System Bus and Enterprise Service Bus from the Viewpoint of Dynamic Reconfiguration
+sust_author_162,sust_paper_91,A Comparison between Soft System Bus and Enterprise Service Bus from the Viewpoint of Dynamic Reconfiguration
+sust_author_163,sust_paper_91,A Comparison between Soft System Bus and Enterprise Service Bus from the Viewpoint of Dynamic Reconfiguration
+sust_author_6,sust_paper_92,Extracting Semantic Information of Bengali Natural Language Sentences from Syntax Tree
+sust_author_188,sust_paper_93,An Implementation of Machine Translation between Bangla and English
+sust_author_4,sust_paper_93,An Implementation of Machine Translation between Bangla and English
+sust_author_5,sust_paper_93,An Implementation of Machine Translation between Bangla and English
+sust_author_6,sust_paper_93,An Implementation of Machine Translation between Bangla and English
+sust_author_6,sust_paper_94,Syntax Analysis of Phrases and Different Types of Sentences in Bangla
+sust_author_64,sust_paper_95,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_58,sust_paper_95,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_28,sust_paper_95,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_29,sust_paper_95,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_30,sust_paper_95,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_31,sust_paper_95,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_50,sust_paper_95,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_41,sust_paper_95,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_61,sust_paper_95,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_43,sust_paper_95,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_65,sust_paper_95,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_60,sust_paper_95,Bangladeshi Bangla Speech Corpus for Automatic Speech Recognition Research
+sust_author_57,sust_paper_96,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_58,sust_paper_96,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_50,sust_paper_96,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_41,sust_paper_96,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_61,sust_paper_96,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_43,sust_paper_96,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_65,sust_paper_96,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_60,sust_paper_96,SUST Bangla Emotional Speech Corpus (SUBESCO): An audio-only emotional speech corpus for Bangla
+sust_author_44,sust_paper_97,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_45,sust_paper_97,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_61,sust_paper_97,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_74,sust_paper_97,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_59,sust_paper_97,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_75,sust_paper_97,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_46,sust_paper_97,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_76,sust_paper_97,SUST TTS Corpus: A phonetically-balanced corpus for Bangla text-to-speech synthesis
+sust_author_57,sust_paper_98,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_58,sust_paper_98,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_59,sust_paper_98,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_60,sust_paper_98,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_61,sust_paper_98,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_43,sust_paper_98,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_62,sust_paper_98,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_63,sust_paper_98,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_46,sust_paper_98,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_41,sust_paper_98,Bangla Speech Emotion Recognition and Cross-Lingual Study Using Deep CNN and BLSTM Networks
+sust_author_78,sust_paper_99,SuVashantor: English to Bangla Machine Translation Systems
+sust_author_79,sust_paper_99,SuVashantor: English to Bangla Machine Translation Systems
+sust_author_80,sust_paper_99,SuVashantor: English to Bangla Machine Translation Systems
+sust_author_64,sust_paper_100,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_58,sust_paper_100,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_50,sust_paper_100,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_41,sust_paper_100,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_61,sust_paper_100,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_43,sust_paper_100,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_65,sust_paper_100,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_60,sust_paper_100,Acoustic Analysis of the Speakers’ Variability for Regional Accent-Affected Pronunciation in Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_83,sust_paper_101,An Encoder- Decoder Based Grapheme-to-Phoneme Converter for Bangla Speech Synthesis
+sust_author_84,sust_paper_101,An Encoder- Decoder Based Grapheme-to-Phoneme Converter for Bangla Speech Synthesis
+sust_author_85,sust_paper_101,An Encoder- Decoder Based Grapheme-to-Phoneme Converter for Bangla Speech Synthesis
+sust_author_0,sust_paper_102,English to Bangla Statistical Machine Translation using Neural Probabilistic Language Model
+sust_author_155,sust_paper_102,English to Bangla Statistical Machine Translation using Neural Probabilistic Language Model
+sust_author_156,sust_paper_102,English to Bangla Statistical Machine Translation using Neural Probabilistic Language Model
+sust_author_157,sust_paper_103,Carrying on the legacy of imperative languages in the future parallel computing era
+sust_author_158,sust_paper_103,Carrying on the legacy of imperative languages in the future parallel computing era
+sust_author_0,sust_paper_104,SUMono: A Representative Modern Bengali Corpus
+sust_author_1,sust_paper_104,SUMono: A Representative Modern Bengali Corpus
+sust_author_6,sust_paper_104,SUMono: A Representative Modern Bengali Corpus
+sust_author_157,sust_paper_105,Extended Bangla Keyboard
+sust_author_159,sust_paper_106,Overcoming the Language Divide between English and Bengali through EBTran System
+sust_author_157,sust_paper_106,Overcoming the Language Divide between English and Bengali through EBTran System
+sust_author_160,sust_paper_106,Overcoming the Language Divide between English and Bengali through EBTran System
+sust_author_0,sust_paper_107,SUPara: A Balanced English-Bengali Parallel Corpus
+sust_author_1,sust_paper_107,SUPara: A Balanced English-Bengali Parallel Corpus
+sust_author_6,sust_paper_107,SUPara: A Balanced English-Bengali Parallel Corpus
+sust_author_157,sust_paper_108,Mapping Bangla Unicode Text to Keyboard Layout Specific Keystrokes
+sust_author_161,sust_paper_108,Mapping Bangla Unicode Text to Keyboard Layout Specific Keystrokes
+sust_author_6,sust_paper_109,Transformational Generative Grammar for Various Types of Bengali Sentences
+sust_author_157,sust_paper_110,A Low Cost and Resilient Message Queuing Middleware
+sust_author_162,sust_paper_110,A Low Cost and Resilient Message Queuing Middleware
+sust_author_163,sust_paper_110,A Low Cost and Resilient Message Queuing Middleware
+sust_author_157,sust_paper_111,Improving Efficiency of Bijoy Keyboard Layout by Repositioning Characters
+sust_author_164,sust_paper_111,Improving Efficiency of Bijoy Keyboard Layout by Repositioning Characters
+sust_author_165,sust_paper_112,Aligning Sentences in English-Bengali Corpora
+sust_author_166,sust_paper_112,Aligning Sentences in English-Bengali Corpora
+sust_author_167,sust_paper_113,Connected Component Analysis Based Two Zone Approach for Bangla Character Segmentation
+sust_author_168,sust_paper_113,Connected Component Analysis Based Two Zone Approach for Bangla Character Segmentation
+sust_author_169,sust_paper_113,Connected Component Analysis Based Two Zone Approach for Bangla Character Segmentation
+sust_author_170,sust_paper_114,A Review of Statistical and Neural Network Based Hybrid Machine Translators
+sust_author_171,sust_paper_114,A Review of Statistical and Neural Network Based Hybrid Machine Translators
+sust_author_172,sust_paper_114,A Review of Statistical and Neural Network Based Hybrid Machine Translators
+sust_author_173,sust_paper_115,A Sequence-to-Sequence Pronunciation Model for Bangla Speech Synthesis
+sust_author_174,sust_paper_115,A Sequence-to-Sequence Pronunciation Model for Bangla Speech Synthesis
+sust_author_175,sust_paper_115,A Sequence-to-Sequence Pronunciation Model for Bangla Speech Synthesis
+sust_author_176,sust_paper_115,A Sequence-to-Sequence Pronunciation Model for Bangla Speech Synthesis
+sust_author_177,sust_paper_116,Acoustic Analysis of Accent-Specific Pronunciation Effect on Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_171,sust_paper_116,Acoustic Analysis of Accent-Specific Pronunciation Effect on Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_178,sust_paper_116,Acoustic Analysis of Accent-Specific Pronunciation Effect on Bangladeshi Bangla: A Study on Sylheti Accent
+sust_author_179,sust_paper_117,An Improvement of REM: A Replication Oriented Event-Based Middleware
+sust_author_157,sust_paper_117,An Improvement of REM: A Replication Oriented Event-Based Middleware
+sust_author_162,sust_paper_117,An Improvement of REM: A Replication Oriented Event-Based Middleware
+sust_author_180,sust_paper_117,An Improvement of REM: A Replication Oriented Event-Based Middleware
+sust_author_157,sust_paper_118,Ensuring Reliability and Availability of Soft System Bus
+sust_author_162,sust_paper_118,Ensuring Reliability and Availability of Soft System Bus
+sust_author_163,sust_paper_118,Ensuring Reliability and Availability of Soft System Bus
+sust_author_157,sust_paper_119,A Replication Oriented Approach to Event Based Middleware Over Structured Peer to Peer Networks
+sust_author_162,sust_paper_119,A Replication Oriented Approach to Event Based Middleware Over Structured Peer to Peer Networks
+sust_author_163,sust_paper_119,A Replication Oriented Approach to Event Based Middleware Over Structured Peer to Peer Networks
+sust_author_157,sust_paper_120,Distributed Hash Table Based Design of Soft System Buses
+sust_author_181,sust_paper_120,Distributed Hash Table Based Design of Soft System Buses
+sust_author_162,sust_paper_120,Distributed Hash Table Based Design of Soft System Buses
+sust_author_163,sust_paper_120,Distributed Hash Table Based Design of Soft System Buses
+sust_author_182,sust_paper_121,POP method: an approach to enhance the security and privacy of RFID systems used in product lifecycle with an anonymous ownership transferring mechanism
+sust_author_183,sust_paper_121,POP method: an approach to enhance the security and privacy of RFID systems used in product lifecycle with an anonymous ownership transferring mechanism
+sust_author_184,sust_paper_121,POP method: an approach to enhance the security and privacy of RFID systems used in product lifecycle with an anonymous ownership transferring mechanism
+sust_author_185,sust_paper_121,POP method: an approach to enhance the security and privacy of RFID systems used in product lifecycle with an anonymous ownership transferring mechanism
+sust_author_186,sust_paper_121,POP method: an approach to enhance the security and privacy of RFID systems used in product lifecycle with an anonymous ownership transferring mechanism
+sust_author_187,sust_paper_122,A Comparison between Soft System Bus and Enterprise Service Bus from the Viewpoint of Dynamic Reconfiguration
+sust_author_157,sust_paper_122,A Comparison between Soft System Bus and Enterprise Service Bus from the Viewpoint of Dynamic Reconfiguration
+sust_author_162,sust_paper_122,A Comparison between Soft System Bus and Enterprise Service Bus from the Viewpoint of Dynamic Reconfiguration
+sust_author_163,sust_paper_122,A Comparison between Soft System Bus and Enterprise Service Bus from the Viewpoint of Dynamic Reconfiguration
+sust_author_6,sust_paper_123,Extracting Semantic Information of Bengali Natural Language Sentences from Syntax Tree
+sust_author_189,sust_paper_124,A Systematic Literature Review on English and Bangla Topic Modeling
+sust_author_0,sust_paper_124,A Systematic Literature Review on English and Bangla Topic Modeling
+sust_author_190,sust_paper_124,A Systematic Literature Review on English and Bangla Topic Modeling
+sust_author_0,sust_paper_125,Neural-based Question Answering System on Bangla Wikipedia Dataset
+sust_author_191,sust_paper_125,Neural-based Question Answering System on Bangla Wikipedia Dataset
+sust_author_192,sust_paper_125,Neural-based Question Answering System on Bangla Wikipedia Dataset
+sust_author_0,sust_paper_126,English to Bangla Statistical Machine Translation using Factored Translation Model
+sust_author_193,sust_paper_126,English to Bangla Statistical Machine Translation using Factored Translation Model
+sust_author_194,sust_paper_126,English to Bangla Statistical Machine Translation using Factored Translation Model
+sust_author_195,sust_paper_126,English to Bangla Statistical Machine Translation using Factored Translation Model
+sust_author_0,sust_paper_127,shu-torjoma: EnglishBangla Statistical Machine Translation System
+sust_author_196,sust_paper_127,shu-torjoma: EnglishBangla Statistical Machine Translation System
+sust_author_197,sust_paper_127,shu-torjoma: EnglishBangla Statistical Machine Translation System
+sust_author_198,sust_paper_127,shu-torjoma: EnglishBangla Statistical Machine Translation System
+sust_author_0,sust_paper_128,Neural Machine Translation for Low-resource English-Bangla
+sust_author_196,sust_paper_128,Neural Machine Translation for Low-resource English-Bangla
+sust_author_197,sust_paper_128,Neural Machine Translation for Low-resource English-Bangla
+sust_author_198,sust_paper_128,Neural Machine Translation for Low-resource English-Bangla
+sust_author_199,sust_paper_129,Keyword Extraction in Bangla Scientific Documents: A Hybrid Approach
+sust_author_0,sust_paper_129,Keyword Extraction in Bangla Scientific Documents: A Hybrid Approach
+sust_author_200,sust_paper_129,Keyword Extraction in Bangla Scientific Documents: A Hybrid Approach
+sust_author_0,sust_paper_130,English to Bangla Statistical Machine Translation using Neural Probabilistic Language Model
+sust_author_155,sust_paper_130,English to Bangla Statistical Machine Translation using Neural Probabilistic Language Model
+sust_author_201,sust_paper_130,English to Bangla Statistical Machine Translation using Neural Probabilistic Language Model
+sust_author_195,sust_paper_130,English to Bangla Statistical Machine Translation using Neural Probabilistic Language Model
+sust_author_202,sust_paper_131,Improving Efficiency of Bijoy Keyboard Layout by Repositioning Characters
+sust_author_8,sust_paper_131,Improving Efficiency of Bijoy Keyboard Layout by Repositioning Characters
+sust_author_203,sust_paper_131,Improving Efficiency of Bijoy Keyboard Layout by Repositioning Characters
+sust_author_0,sust_paper_132,SUMono: A Representative Modern Bengali Corpus
+sust_author_1,sust_paper_132,SUMono: A Representative Modern Bengali Corpus
+sust_author_202,sust_paper_132,SUMono: A Representative Modern Bengali Corpus
+sust_author_204,sust_paper_132,SUMono: A Representative Modern Bengali Corpus
+sust_author_7,sust_paper_133,A Fine-Grained Tagset for Bengali Language
+sust_author_0,sust_paper_134,SUPara: A Balanced English-Bengali Parallel Corpus
+sust_author_1,sust_paper_134,SUPara: A Balanced English-Bengali Parallel Corpus
+sust_author_202,sust_paper_134,SUPara: A Balanced English-Bengali Parallel Corpus
+sust_author_204,sust_paper_134,SUPara: A Balanced English-Bengali Parallel Corpus
+sust_author_205,sust_paper_135,A cognitive behaviour data analysis on the use of social media in global south context focusing on Bangladesh.
+sust_author_206,sust_paper_135,A cognitive behaviour data analysis on the use of social media in global south context focusing on Bangladesh.
+sust_author_207,sust_paper_135,A cognitive behaviour data analysis on the use of social media in global south context focusing on Bangladesh.
+sust_author_208,sust_paper_135,A cognitive behaviour data analysis on the use of social media in global south context focusing on Bangladesh.
+sust_author_209,sust_paper_136,"Digitally Mediated Parenting in Bangladesh: Reality, Dangers and Answers"
+sust_author_210,sust_paper_136,"Digitally Mediated Parenting in Bangladesh: Reality, Dangers and Answers"
+sust_author_211,sust_paper_136,"Digitally Mediated Parenting in Bangladesh: Reality, Dangers and Answers"
+sust_author_212,sust_paper_136,"Digitally Mediated Parenting in Bangladesh: Reality, Dangers and Answers"
+sust_author_213,sust_paper_136,"Digitally Mediated Parenting in Bangladesh: Reality, Dangers and Answers"
+sust_author_214,sust_paper_136,"Digitally Mediated Parenting in Bangladesh: Reality, Dangers and Answers"
+sust_author_215,sust_paper_137,CAPABILITY ENHANCEMENT OF AGRICULTURAL EXTENSION PERSONNEL THROUGH ICT INTERVENTIONS AND ITS IMPACT: A CASE STUDY IN BANGLADESH
+sust_author_216,sust_paper_137,CAPABILITY ENHANCEMENT OF AGRICULTURAL EXTENSION PERSONNEL THROUGH ICT INTERVENTIONS AND ITS IMPACT: A CASE STUDY IN BANGLADESH
+sust_author_171,sust_paper_137,CAPABILITY ENHANCEMENT OF AGRICULTURAL EXTENSION PERSONNEL THROUGH ICT INTERVENTIONS AND ITS IMPACT: A CASE STUDY IN BANGLADESH
+sust_author_217,sust_paper_138,Vulnerabilities to Internet of Things and Current State of the Art of Security Architecture
+sust_author_218,sust_paper_138,Vulnerabilities to Internet of Things and Current State of the Art of Security Architecture
+sust_author_219,sust_paper_138,Vulnerabilities to Internet of Things and Current State of the Art of Security Architecture
+sust_author_215,sust_paper_139,Estimating The Mode Of Delivery Through Cause Analysis: A Systematic Literature Review On The Context Of Reducing Cesarean
+sust_author_220,sust_paper_139,Estimating The Mode Of Delivery Through Cause Analysis: A Systematic Literature Review On The Context Of Reducing Cesarean
+sust_author_221,sust_paper_140,Online Food Delivery (OFD) System: An Empirical Study of the Polarization of Potential Consumers and Investigating the Association Between the Determinants Molding the Polarization During COVID-19 Pandemic
+sust_author_119,sust_paper_140,Online Food Delivery (OFD) System: An Empirical Study of the Polarization of Potential Consumers and Investigating the Association Between the Determinants Molding the Polarization During COVID-19 Pandemic
+sust_author_222,sust_paper_140,Online Food Delivery (OFD) System: An Empirical Study of the Polarization of Potential Consumers and Investigating the Association Between the Determinants Molding the Polarization During COVID-19 Pandemic
+sust_author_52,sust_paper_140,Online Food Delivery (OFD) System: An Empirical Study of the Polarization of Potential Consumers and Investigating the Association Between the Determinants Molding the Polarization During COVID-19 Pandemic
+sust_author_54,sust_paper_140,Online Food Delivery (OFD) System: An Empirical Study of the Polarization of Potential Consumers and Investigating the Association Between the Determinants Molding the Polarization During COVID-19 Pandemic
+sust_author_58,sust_paper_140,Online Food Delivery (OFD) System: An Empirical Study of the Polarization of Potential Consumers and Investigating the Association Between the Determinants Molding the Polarization During COVID-19 Pandemic
+sust_author_211,sust_paper_140,Online Food Delivery (OFD) System: An Empirical Study of the Polarization of Potential Consumers and Investigating the Association Between the Determinants Molding the Polarization During COVID-19 Pandemic
+sust_author_223,sust_paper_140,Online Food Delivery (OFD) System: An Empirical Study of the Polarization of Potential Consumers and Investigating the Association Between the Determinants Molding the Polarization During COVID-19 Pandemic
+sust_author_209,sust_paper_141,Child Engagement with Digital Devices During the COVID-19 Epidemic in the Global South: Are our Parents and Children Equipped to Make the Best use of these?
+sust_author_224,sust_paper_141,Child Engagement with Digital Devices During the COVID-19 Epidemic in the Global South: Are our Parents and Children Equipped to Make the Best use of these?
+sust_author_211,sust_paper_141,Child Engagement with Digital Devices During the COVID-19 Epidemic in the Global South: Are our Parents and Children Equipped to Make the Best use of these?
+sust_author_225,sust_paper_141,Child Engagement with Digital Devices During the COVID-19 Epidemic in the Global South: Are our Parents and Children Equipped to Make the Best use of these?
+sust_author_119,sust_paper_141,Child Engagement with Digital Devices During the COVID-19 Epidemic in the Global South: Are our Parents and Children Equipped to Make the Best use of these?
+sust_author_226,sust_paper_142,Remote Patient Monitoring Via Blockchain: A Systematic Review
+sust_author_227,sust_paper_142,Remote Patient Monitoring Via Blockchain: A Systematic Review
+sust_author_228,sust_paper_142,Remote Patient Monitoring Via Blockchain: A Systematic Review
+sust_author_35,sust_paper_142,Remote Patient Monitoring Via Blockchain: A Systematic Review
+sust_author_229,sust_paper_143,Improving Joint Attention in Children with Autism: A VR-AR Enabled Game Approach
+sust_author_58,sust_paper_143,Improving Joint Attention in Children with Autism: A VR-AR Enabled Game Approach
+sust_author_230,sust_paper_143,Improving Joint Attention in Children with Autism: A VR-AR Enabled Game Approach
+sust_author_231,sust_paper_143,Improving Joint Attention in Children with Autism: A VR-AR Enabled Game Approach
+sust_author_232,sust_paper_143,Improving Joint Attention in Children with Autism: A VR-AR Enabled Game Approach
+sust_author_233,sust_paper_143,Improving Joint Attention in Children with Autism: A VR-AR Enabled Game Approach
+sust_author_211,sust_paper_143,Improving Joint Attention in Children with Autism: A VR-AR Enabled Game Approach
+sust_author_35,sust_paper_143,Improving Joint Attention in Children with Autism: A VR-AR Enabled Game Approach
+sust_author_234,sust_paper_143,Improving Joint Attention in Children with Autism: A VR-AR Enabled Game Approach
+sust_author_37,sust_paper_143,Improving Joint Attention in Children with Autism: A VR-AR Enabled Game Approach
+sust_author_235,sust_paper_143,Improving Joint Attention in Children with Autism: A VR-AR Enabled Game Approach
+sust_author_236,sust_paper_143,Improving Joint Attention in Children with Autism: A VR-AR Enabled Game Approach
+sust_author_237,sust_paper_144,Design and Development of an ICT Intervention for Early Childhood Development in Minority Ethnic Communities in Bangladesh
+sust_author_238,sust_paper_144,Design and Development of an ICT Intervention for Early Childhood Development in Minority Ethnic Communities in Bangladesh
+sust_author_222,sust_paper_144,Design and Development of an ICT Intervention for Early Childhood Development in Minority Ethnic Communities in Bangladesh
+sust_author_239,sust_paper_144,Design and Development of an ICT Intervention for Early Childhood Development in Minority Ethnic Communities in Bangladesh
+sust_author_223,sust_paper_144,Design and Development of an ICT Intervention for Early Childhood Development in Minority Ethnic Communities in Bangladesh
+sust_author_216,sust_paper_145,"Agriculture Extension, Women Participation And Food Security Option: A study on Socio-Economic Implication of Information Flow in Rural Livelihood Challenges"
+sust_author_240,sust_paper_145,"Agriculture Extension, Women Participation And Food Security Option: A study on Socio-Economic Implication of Information Flow in Rural Livelihood Challenges"
+sust_author_215,sust_paper_145,"Agriculture Extension, Women Participation And Food Security Option: A study on Socio-Economic Implication of Information Flow in Rural Livelihood Challenges"
+sust_author_241,sust_paper_146,Explore the Impacts of Digital Technology on the Home Confined Children During COVID-19 Isolation: Is it Blessing or Curse?
+sust_author_242,sust_paper_146,Explore the Impacts of Digital Technology on the Home Confined Children During COVID-19 Isolation: Is it Blessing or Curse?
+sust_author_243,sust_paper_146,Explore the Impacts of Digital Technology on the Home Confined Children During COVID-19 Isolation: Is it Blessing or Curse?
+sust_author_217,sust_paper_147,Vulnerabilities to Internet of Things and Current State of the Art of Security Architecture
+sust_author_218,sust_paper_147,Vulnerabilities to Internet of Things and Current State of the Art of Security Architecture
+sust_author_219,sust_paper_147,Vulnerabilities to Internet of Things and Current State of the Art of Security Architecture
+sust_author_244,sust_paper_148,A comparison study of temporal signature mining over traditional data mining techniques to detect network intrusion
+sust_author_245,sust_paper_148,A comparison study of temporal signature mining over traditional data mining techniques to detect network intrusion
+sust_author_215,sust_paper_148,A comparison study of temporal signature mining over traditional data mining techniques to detect network intrusion
+sust_author_246,sust_paper_149,WFR-TM: Wait-Free Readers without Sacrificing Speculation of Writers
+sust_author_247,sust_paper_149,WFR-TM: Wait-Free Readers without Sacrificing Speculation of Writers
+sust_author_248,sust_paper_149,WFR-TM: Wait-Free Readers without Sacrificing Speculation of Writers
+sust_author_215,sust_paper_149,WFR-TM: Wait-Free Readers without Sacrificing Speculation of Writers
+sust_author_217,sust_paper_150,A Review of Software Risk Management for Selection of Best Tools and Techniques
+sust_author_249,sust_paper_150,A Review of Software Risk Management for Selection of Best Tools and Techniques
+sust_author_250,sust_paper_151,3-Tier Architecture of Data Server on Grid: Implemented Using Globus Toolkit
+sust_author_251,sust_paper_151,3-Tier Architecture of Data Server on Grid: Implemented Using Globus Toolkit
+sust_author_252,sust_paper_151,3-Tier Architecture of Data Server on Grid: Implemented Using Globus Toolkit
+sust_author_253,sust_paper_152,B-NER: A Novel Bangla Named Entity Recognition Dataset with Largest Entities and Its Baseline Evaluation
+sust_author_60,sust_paper_152,B-NER: A Novel Bangla Named Entity Recognition Dataset with Largest Entities and Its Baseline Evaluation
+sust_author_254,sust_paper_152,B-NER: A Novel Bangla Named Entity Recognition Dataset with Largest Entities and Its Baseline Evaluation
+sust_author_58,sust_paper_152,B-NER: A Novel Bangla Named Entity Recognition Dataset with Largest Entities and Its Baseline Evaluation
+sust_author_255,sust_paper_152,B-NER: A Novel Bangla Named Entity Recognition Dataset with Largest Entities and Its Baseline Evaluation
+sust_author_256,sust_paper_152,B-NER: A Novel Bangla Named Entity Recognition Dataset with Largest Entities and Its Baseline Evaluation
+sust_author_253,sust_paper_152,B-NER: A Novel Bangla Named Entity Recognition Dataset with Largest Entities and Its Baseline Evaluation
+sust_author_58,sust_paper_152,B-NER: A Novel Bangla Named Entity Recognition Dataset with Largest Entities and Its Baseline Evaluation
+sust_author_42,sust_paper_152,B-NER: A Novel Bangla Named Entity Recognition Dataset with Largest Entities and Its Baseline Evaluation
+sust_author_257,sust_paper_152,B-NER: A Novel Bangla Named Entity Recognition Dataset with Largest Entities and Its Baseline Evaluation
+sust_author_258,sust_paper_152,B-NER: A Novel Bangla Named Entity Recognition Dataset with Largest Entities and Its Baseline Evaluation
+sust_author_43,sust_paper_152,B-NER: A Novel Bangla Named Entity Recognition Dataset with Largest Entities and Its Baseline Evaluation
+sust_author_259,sust_paper_153,Authorship Attribution in Bangla Literature (AABL) via Transfer Learning using ULMFiT
+sust_author_260,sust_paper_153,Authorship Attribution in Bangla Literature (AABL) via Transfer Learning using ULMFiT
+sust_author_261,sust_paper_153,Authorship Attribution in Bangla Literature (AABL) via Transfer Learning using ULMFiT
+sust_author_262,sust_paper_153,Authorship Attribution in Bangla Literature (AABL) via Transfer Learning using ULMFiT
+sust_author_263,sust_paper_153,Authorship Attribution in Bangla Literature (AABL) via Transfer Learning using ULMFiT
+sust_author_264,sust_paper_153,Authorship Attribution in Bangla Literature (AABL) via Transfer Learning using ULMFiT
+sust_author_265,sust_paper_154,End-to-End Bengali Speech Recognition using DeepSpeech
+sust_author_266,sust_paper_155,Rating prediction for recommendation: Constructing user profiles and item characteristics using backpropagation
+sust_author_267,sust_paper_155,Rating prediction for recommendation: Constructing user profiles and item characteristics using backpropagation
+sust_author_268,sust_paper_155,Rating prediction for recommendation: Constructing user profiles and item characteristics using backpropagation
+sust_author_52,sust_paper_155,Rating prediction for recommendation: Constructing user profiles and item characteristics using backpropagation
+sust_author_213,sust_paper_155,Rating prediction for recommendation: Constructing user profiles and item characteristics using backpropagation
+sust_author_41,sust_paper_155,Rating prediction for recommendation: Constructing user profiles and item characteristics using backpropagation
+sust_author_269,sust_paper_156,BanFakeNews: A Dataset for Detecting Fake News in Bangla
+sust_author_270,sust_paper_156,BanFakeNews: A Dataset for Detecting Fake News in Bangla
+sust_author_271,sust_paper_156,BanFakeNews: A Dataset for Detecting Fake News in Bangla
+sust_author_262,sust_paper_156,BanFakeNews: A Dataset for Detecting Fake News in Bangla
+sust_author_272,sust_paper_156,BanFakeNews: A Dataset for Detecting Fake News in Bangla
+sust_author_259,sust_paper_157,Authorship Attribution in Bangla literature using Character-level CNN
+sust_author_260,sust_paper_157,Authorship Attribution in Bangla literature using Character-level CNN
+sust_author_261,sust_paper_157,Authorship Attribution in Bangla literature using Character-level CNN
+sust_author_273,sust_paper_157,Authorship Attribution in Bangla literature using Character-level CNN
+sust_author_66,sust_paper_158,A Continuous Space Neural Language Model for Bengali Language
+sust_author_274,sust_paper_158,A Continuous Space Neural Language Model for Bengali Language
+sust_author_275,sust_paper_158,A Continuous Space Neural Language Model for Bengali Language
+sust_author_261,sust_paper_158,A Continuous Space Neural Language Model for Bengali Language
+sust_author_276,sust_paper_158,A Continuous Space Neural Language Model for Bengali Language
+sust_author_273,sust_paper_158,A Continuous Space Neural Language Model for Bengali Language
+sust_author_277,sust_paper_159,Automatic detection of satire in bangla documents: A cnn approach based on hybrid feature extraction model
+sust_author_278,sust_paper_159,Automatic detection of satire in bangla documents: A cnn approach based on hybrid feature extraction model
+sust_author_279,sust_paper_159,Automatic detection of satire in bangla documents: A cnn approach based on hybrid feature extraction model
+sust_author_280,sust_paper_159,Automatic detection of satire in bangla documents: A cnn approach based on hybrid feature extraction model
+sust_author_213,sust_paper_159,Automatic detection of satire in bangla documents: A cnn approach based on hybrid feature extraction model
+sust_author_41,sust_paper_159,Automatic detection of satire in bangla documents: A cnn approach based on hybrid feature extraction model
+sust_author_259,sust_paper_160,A Subword Level Language Model for Bangla Language
+sust_author_45,sust_paper_160,A Subword Level Language Model for Bangla Language
+sust_author_50,sust_paper_160,A Subword Level Language Model for Bangla Language
+sust_author_45,sust_paper_160,A Subword Level Language Model for Bangla Language
+sust_author_213,sust_paper_160,A Subword Level Language Model for Bangla Language
+sust_author_41,sust_paper_160,A Subword Level Language Model for Bangla Language
+sust_author_66,sust_paper_161,Authorship Attribution in Bengali Literature using Convolutional Neural Networks with fastText’s word embedding model
+sust_author_274,sust_paper_161,Authorship Attribution in Bengali Literature using Convolutional Neural Networks with fastText’s word embedding model
+sust_author_275,sust_paper_161,Authorship Attribution in Bengali Literature using Convolutional Neural Networks with fastText’s word embedding model
+sust_author_281,sust_paper_161,Authorship Attribution in Bengali Literature using Convolutional Neural Networks with fastText’s word embedding model
+sust_author_273,sust_paper_161,Authorship Attribution in Bengali Literature using Convolutional Neural Networks with fastText’s word embedding model
+sust_author_66,sust_paper_162,A continuous space neural language model for bengali language
+sust_author_67,sust_paper_162,A continuous space neural language model for bengali language
+sust_author_282,sust_paper_162,A continuous space neural language model for bengali language
+sust_author_283,sust_paper_162,A continuous space neural language model for bengali language
+sust_author_50,sust_paper_162,A continuous space neural language model for bengali language
+sust_author_45,sust_paper_162,A continuous space neural language model for bengali language
+sust_author_259,sust_paper_162,A continuous space neural language model for bengali language
+sust_author_45,sust_paper_162,A continuous space neural language model for bengali language
+sust_author_213,sust_paper_162,A continuous space neural language model for bengali language
+sust_author_41,sust_paper_162,A continuous space neural language model for bengali language
+sust_author_216,sust_paper_163,"Agriculture Extension, Women Participation And Food Security Option: A study on Socio-Economic Implication of Information Flow in Rural Livelihood Challenges"
+sust_author_240,sust_paper_163,"Agriculture Extension, Women Participation And Food Security Option: A study on Socio-Economic Implication of Information Flow in Rural Livelihood Challenges"
+sust_author_215,sust_paper_163,"Agriculture Extension, Women Participation And Food Security Option: A study on Socio-Economic Implication of Information Flow in Rural Livelihood Challenges"
+sust_author_284,sust_paper_164,Comprehending Real Numbers: Development of Bengali Real Number Speech Corpus
+sust_author_285,sust_paper_164,Comprehending Real Numbers: Development of Bengali Real Number Speech Corpus
+sust_author_286,sust_paper_164,Comprehending Real Numbers: Development of Bengali Real Number Speech Corpus
+sust_author_287,sust_paper_164,Comprehending Real Numbers: Development of Bengali Real Number Speech Corpus
+sust_author_273,sust_paper_164,Comprehending Real Numbers: Development of Bengali Real Number Speech Corpus
+sust_author_266,sust_paper_165,Layered representation of bengali texts in reduced dimension using deep feedforward neural network for categorization
+sust_author_288,sust_paper_165,Layered representation of bengali texts in reduced dimension using deep feedforward neural network for categorization
+sust_author_289,sust_paper_165,Layered representation of bengali texts in reduced dimension using deep feedforward neural network for categorization
+sust_author_273,sust_paper_165,Layered representation of bengali texts in reduced dimension using deep feedforward neural network for categorization
+sust_author_66,sust_paper_166,A comparative analysis of word embedding representations in authorship attribution of bengali literature
+sust_author_274,sust_paper_166,A comparative analysis of word embedding representations in authorship attribution of bengali literature
+sust_author_275,sust_paper_166,A comparative analysis of word embedding representations in authorship attribution of bengali literature
+sust_author_273,sust_paper_166,A comparative analysis of word embedding representations in authorship attribution of bengali literature
+sust_author_42,sust_paper_167,Design and Implementation of 12 Channel Electrocardiogram Device
+sust_author_290,sust_paper_167,Design and Implementation of 12 Channel Electrocardiogram Device
+sust_author_291,sust_paper_167,Design and Implementation of 12 Channel Electrocardiogram Device
+sust_author_273,sust_paper_167,Design and Implementation of 12 Channel Electrocardiogram Device
+sust_author_292,sust_paper_168,A deep recurrent neural network with bilstm model for sentiment classification
+sust_author_293,sust_paper_168,A deep recurrent neural network with bilstm model for sentiment classification
+sust_author_294,sust_paper_168,A deep recurrent neural network with bilstm model for sentiment classification
+sust_author_273,sust_paper_168,A deep recurrent neural network with bilstm model for sentiment classification
+sust_author_277,sust_paper_169,A Deep CNN Model for Student Learning Pedagogy Detection Data Collection Using OCR
+sust_author_295,sust_paper_169,A Deep CNN Model for Student Learning Pedagogy Detection Data Collection Using OCR
+sust_author_296,sust_paper_169,A Deep CNN Model for Student Learning Pedagogy Detection Data Collection Using OCR
+sust_author_297,sust_paper_169,A Deep CNN Model for Student Learning Pedagogy Detection Data Collection Using OCR
+sust_author_273,sust_paper_169,A Deep CNN Model for Student Learning Pedagogy Detection Data Collection Using OCR
+sust_author_298,sust_paper_170,A Neural Network Approach for Bangla POS Tagger
+sust_author_299,sust_paper_170,A Neural Network Approach for Bangla POS Tagger
+sust_author_262,sust_paper_170,A Neural Network Approach for Bangla POS Tagger
+sust_author_300,sust_paper_170,A Neural Network Approach for Bangla POS Tagger
+sust_author_301,sust_paper_170,A Neural Network Approach for Bangla POS Tagger
+sust_author_269,sust_paper_171,Development of robotic voice conversion for RIBO using text-to-speech synthesis
+sust_author_302,sust_paper_171,Development of robotic voice conversion for RIBO using text-to-speech synthesis
+sust_author_303,sust_paper_171,Development of robotic voice conversion for RIBO using text-to-speech synthesis
+sust_author_273,sust_paper_171,Development of robotic voice conversion for RIBO using text-to-speech synthesis
+sust_author_269,sust_paper_172,Bangladesh Cricket Squad Prediction Using Statistical Data and Genetic Algorithm
+sust_author_302,sust_paper_172,Bangladesh Cricket Squad Prediction Using Statistical Data and Genetic Algorithm
+sust_author_304,sust_paper_172,Bangladesh Cricket Squad Prediction Using Statistical Data and Genetic Algorithm
+sust_author_262,sust_paper_172,Bangladesh Cricket Squad Prediction Using Statistical Data and Genetic Algorithm
+sust_author_305,sust_paper_172,Bangladesh Cricket Squad Prediction Using Statistical Data and Genetic Algorithm
+sust_author_42,sust_paper_173,Authorship Attribution on Bengali Literature using Stylometric Features and Neural Network
+sust_author_306,sust_paper_173,Authorship Attribution on Bengali Literature using Stylometric Features and Neural Network
+sust_author_307,sust_paper_173,Authorship Attribution on Bengali Literature using Stylometric Features and Neural Network
+sust_author_262,sust_paper_173,Authorship Attribution on Bengali Literature using Stylometric Features and Neural Network
+sust_author_264,sust_paper_173,Authorship Attribution on Bengali Literature using Stylometric Features and Neural Network
+sust_author_66,sust_paper_174,Authorship Attribution in Bengali Literature Using fastText's Hierarchical Classifier
+sust_author_274,sust_paper_174,Authorship Attribution in Bengali Literature Using fastText's Hierarchical Classifier
+sust_author_275,sust_paper_174,Authorship Attribution in Bengali Literature Using fastText's Hierarchical Classifier
+sust_author_273,sust_paper_174,Authorship Attribution in Bengali Literature Using fastText's Hierarchical Classifier
+sust_author_42,sust_paper_175,A support vector machine mixed with TF-IDF algorithm to categorize Bengali document
+sust_author_308,sust_paper_175,A support vector machine mixed with TF-IDF algorithm to categorize Bengali document
+sust_author_309,sust_paper_175,A support vector machine mixed with TF-IDF algorithm to categorize Bengali document
+sust_author_310,sust_paper_175,A support vector machine mixed with TF-IDF algorithm to categorize Bengali document
+sust_author_311,sust_paper_176,
+sust_author_312,sust_paper_177,Sentiment analysis of Bengali comments with Word2Vec and sentiment information of words
+sust_author_313,sust_paper_177,Sentiment analysis of Bengali comments with Word2Vec and sentiment information of words
+sust_author_262,sust_paper_177,Sentiment analysis of Bengali comments with Word2Vec and sentiment information of words
+sust_author_314,sust_paper_177,Sentiment analysis of Bengali comments with Word2Vec and sentiment information of words
+sust_author_312,sust_paper_178,A comprehensive study on sentiment of Bengali text
+sust_author_313,sust_paper_178,A comprehensive study on sentiment of Bengali text
+sust_author_262,sust_paper_178,A comprehensive study on sentiment of Bengali text
+sust_author_314,sust_paper_178,A comprehensive study on sentiment of Bengali text
+sust_author_315,sust_paper_179,"International Conference on Engineering, Research, Innovation and Education (ICERIE, 2017)"
+sust_author_316,sust_paper_180,"International Conference on Engineering, Research, Innovation and Education (ICERIE, 2017)"
+sust_author_317,sust_paper_181,"International Conference on Engineering, Research, Innovation and Education (ICERIE, 2017)"
+sust_author_318,sust_paper_182,"International Conference on Engineering, Research, Innovation and Education (ICERIE, 2017)"
+sust_author_319,sust_paper_182,"International Conference on Engineering, Research, Innovation and Education (ICERIE, 2017)"
+sust_author_320,sust_paper_183,"International Conference on Engineering, Research, Innovation and Education (ICERIE, 2017)"
+sust_author_321,sust_paper_184,"International Conference on Engineering, Research, Innovation and Education (ICERIE, 2017)"
+sust_author_322,sust_paper_185,"International Conference on Engineering, Research, Innovation and Education (ICERIE, 2017)"
+sust_author_323,sust_paper_186,"International Conference on Engineering, Research, Innovation and Education (ICERIE, 2017)"
+sust_author_324,sust_paper_187,"International Conference on Engineering, Research, Innovation and Education (ICERIE, 2017)"
+sust_author_325,sust_paper_188,"International Conference on Engineering, Research, Innovation and Education (ICERIE, 2017)"
+sust_author_326,sust_paper_189,SUST-BHND: A database of Bangla handwritten numerals
+sust_author_327,sust_paper_189,SUST-BHND: A database of Bangla handwritten numerals
+sust_author_328,sust_paper_189,SUST-BHND: A database of Bangla handwritten numerals
+sust_author_8,sust_paper_189,SUST-BHND: A database of Bangla handwritten numerals
+sust_author_273,sust_paper_189,SUST-BHND: A database of Bangla handwritten numerals
+sust_author_269,sust_paper_190,A stylometric analysis on Bengali literature for authorship attribution
+sust_author_329,sust_paper_190,A stylometric analysis on Bengali literature for authorship attribution
+sust_author_330,sust_paper_190,A stylometric analysis on Bengali literature for authorship attribution
+sust_author_8,sust_paper_190,A stylometric analysis on Bengali literature for authorship attribution
+sust_author_273,sust_paper_190,A stylometric analysis on Bengali literature for authorship attribution
+sust_author_331,sust_paper_191,Question classification using support vector machine with hybrid feature extraction method
+sust_author_332,sust_paper_191,Question classification using support vector machine with hybrid feature extraction method
+sust_author_333,sust_paper_191,Question classification using support vector machine with hybrid feature extraction method
+sust_author_273,sust_paper_191,Question classification using support vector machine with hybrid feature extraction method
+sust_author_334,sust_paper_192,Convolutional neural network approach for vision based student recognition system
+sust_author_335,sust_paper_192,Convolutional neural network approach for vision based student recognition system
+sust_author_336,sust_paper_192,Convolutional neural network approach for vision based student recognition system
+sust_author_273,sust_paper_192,Convolutional neural network approach for vision based student recognition system
+sust_author_337,sust_paper_193,A support vector machine mixed with statistical reasoning approach to predict movie success by analyzing public sentiments
+sust_author_338,sust_paper_193,A support vector machine mixed with statistical reasoning approach to predict movie success by analyzing public sentiments
+sust_author_339,sust_paper_193,A support vector machine mixed with statistical reasoning approach to predict movie success by analyzing public sentiments
+sust_author_273,sust_paper_193,A support vector machine mixed with statistical reasoning approach to predict movie success by analyzing public sentiments
+sust_author_284,sust_paper_194,Bengali speech recognition: A double layered LSTM-RNN approach
+sust_author_285,sust_paper_194,Bengali speech recognition: A double layered LSTM-RNN approach
+sust_author_287,sust_paper_194,Bengali speech recognition: A double layered LSTM-RNN approach
+sust_author_273,sust_paper_194,Bengali speech recognition: A double layered LSTM-RNN approach
+sust_author_266,sust_paper_195,Bengali handwritten character recognition using deep convolutional neural network
+sust_author_288,sust_paper_195,Bengali handwritten character recognition using deep convolutional neural network
+sust_author_289,sust_paper_195,Bengali handwritten character recognition using deep convolutional neural network
+sust_author_273,sust_paper_195,Bengali handwritten character recognition using deep convolutional neural network
+sust_author_266,sust_paper_196,Product recommendation: A deep learning factorization method using separate learners
+sust_author_288,sust_paper_196,Product recommendation: A deep learning factorization method using separate learners
+sust_author_289,sust_paper_196,Product recommendation: A deep learning factorization method using separate learners
+sust_author_273,sust_paper_196,Product recommendation: A deep learning factorization method using separate learners
+sust_author_340,sust_paper_197,Semi supervised keyword based bengali document categorization
+sust_author_341,sust_paper_197,Semi supervised keyword based bengali document categorization
+sust_author_342,sust_paper_197,Semi supervised keyword based bengali document categorization
+sust_author_343,sust_paper_197,Semi supervised keyword based bengali document categorization
+sust_author_273,sust_paper_197,Semi supervised keyword based bengali document categorization
+sust_author_344,sust_paper_198,A noble approach for recognizing Bangla real number automatically using CMU Sphinx4
+sust_author_345,sust_paper_198,A noble approach for recognizing Bangla real number automatically using CMU Sphinx4
+sust_author_346,sust_paper_198,A noble approach for recognizing Bangla real number automatically using CMU Sphinx4
+sust_author_347,sust_paper_199,An efficient way for segmentation of Bangla characters in printed document using curved scanning
+sust_author_348,sust_paper_199,An efficient way for segmentation of Bangla characters in printed document using curved scanning
+sust_author_8,sust_paper_199,An efficient way for segmentation of Bangla characters in printed document using curved scanning
+sust_author_346,sust_paper_199,An efficient way for segmentation of Bangla characters in printed document using curved scanning
+sust_author_42,sust_paper_200,Word embedding with hellinger PCA to detect the sentiment of bengali text
+sust_author_308,sust_paper_200,Word embedding with hellinger PCA to detect the sentiment of bengali text
+sust_author_349,sust_paper_200,Word embedding with hellinger PCA to detect the sentiment of bengali text
+sust_author_314,sust_paper_200,Word embedding with hellinger PCA to detect the sentiment of bengali text
+sust_author_350,sust_paper_201,Supervised approach of sentimentality extraction from bengali facebook status
+sust_author_351,sust_paper_201,Supervised approach of sentimentality extraction from bengali facebook status
+sust_author_352,sust_paper_202,A support vector machine approach for real time vision based human robot interaction
+sust_author_353,sust_paper_202,A support vector machine approach for real time vision based human robot interaction
+sust_author_273,sust_paper_202,A support vector machine approach for real time vision based human robot interaction

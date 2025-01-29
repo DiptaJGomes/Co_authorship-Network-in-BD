@@ -13,13 +13,13 @@ paper_ids = {}
 
 # Read the input CSV and process data
 with open(input_csv, "r", encoding="utf-8") as file:
-    reader = csv.DictReader(file)
+    reader = csv.DictReader(file)  
     authors_output = []
     papers_output = []
 
     for row in reader:
         # Assign a unique paper ID
-        paper_id = f"brac_paper_{paper_counter}"
+        paper_id = f"buet_paper_{paper_counter}"
         paper_counter += 1
 
         # Split authors and process each
@@ -27,7 +27,7 @@ with open(input_csv, "r", encoding="utf-8") as file:
         for author in authors:
             if author not in author_ids:
                 # Assign a unique author ID
-                author_id = f"brac_author_{author_counter}"
+                author_id = f"buet_author_{author_counter}"
                 author_counter += 1
                 author_ids[author] = author_id
                 # Add author to the authors_output list
