@@ -9,9 +9,10 @@ output_csv = "enhanced_unique_authors.csv"  # Output CSV
 def get_largest_substring(name):
     # Remove any leading non-alphabet characters
     name = re.sub(r'^[^A-Za-z]+', '', name)
+    name = name.replace('and','')
     # Split by spaces and select the longest component
-    parts = name.split()
-    return max(parts, key=len) if parts else ""
+    #parts = name.split()
+    return name
 
 # Process and write the refined author names to a new CSV
 with open(input_csv, "r", encoding="utf-8") as infile, open(output_csv, "w", newline="", encoding="utf-8") as outfile:
